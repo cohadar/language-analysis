@@ -1,0 +1,3157 @@
+The Project Gutenberg EBook of Die Mitschuldigen, by Johann Wolfgang Goethe
+(#35 in our series by Johann Wolfgang Goethe)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Die Mitschuldigen
+
+Author: Johann Wolfgang Goethe
+
+Release Date: May, 2004  [EBook #5653]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on August 4, 2002]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, DIE MITSCHULDIGEN ***
+
+
+
+
+This text was originally produced in HTML for Projekt-Gutenberg-DE by
+belmekhira@hotmail.com.  Reformatting was by Gunther Olesch.
+
+"Die Mitschuldigen" (The fellow-culprits) by Johann Wolfgang Goethe
+[in German]
+
+7-bit ASCII:
+Opening and closing quotation marks have both been replaced by:  "
+The accents on both e's in the French word "debauche" have been
+dropped.
+The German sz-ligature has been replaced by:  ss
+The German umlauts have been replaced by:  Ae Ue ae oe ue
+(The text happened to contain no capital Oe-umlaut.)
+This resulted in longer lines.  Therefore, the word wrapping of 4
+paragraphs with stage directions has been changed.  Wherever a verse
+is continued by a different speaker or is interrupted by a stage
+direction and the replacements had increased the size of the first
+part of the verse, the remaining part of the verse has been indented
+further.
+
+
+Johann Wolfgang Goethe
+
+Die Mitschuldigen
+
+Ein Lustspiel in drei Aufzuegen
+
+
+
+Personen
+
+Der Wirt
+Sophie, seine Tochter
+Soeller, ihr Mann
+Alcest
+Ein Kellner
+
+Der Schauplatz ist im Wirtshause.
+
+
+
+Erster Aufzug
+
+Erster Auftritt
+
+Die Wirtsstube.
+
+[Soeller sitzt im Domino an einem Tischchen, worauf ein Licht, eine
+Bouteille Wein und ein Glas steht. Sophie gegenueber sitzt und naeht
+eine Feder und eine Schleife auf einen Hut. Der Wirt kommt herein. In
+der Tiefe des Theaters steht ein Tisch, darauf ein Licht, Buecher und
+Tintenfass, dabei ein Lehnsessel.]
+
+Wirt [zu Soellern].
+Schon wieder auf den Ball! Im Ernst, Herr Schwiegersohn,
+Ich bin Sein Rasen satt und daecht, Er blieb davon.
+Mein Maedchen hab ich Ihm wahrhaftig nicht gegeben,
+Um so in' Tag hinein von meinem Geld zu leben.
+Ich bin ein alter Mann, ich sehnte mich nach Ruh,
+Ein Helfer fehlte mir, nahm ich Ihn nicht dazu?
+Ein schoener Helfer! Ja, mein bisschen durchzubringen!
+
+[Soeller summt ein Liedchen vor sich.]
+
+Wirt.
+O sing Er, sing Er nur, ich will ihm auch eins singen!
+Er ist ein dummer Kerl, der doch zu gar nichts taugt,
+Als dass er sich besaeuft und etwas Tabak raucht.
+Die ganze Nacht geschwaermt, den halben Tag im Bette!
+Kein Herzog ist im Reich, der besser leben haette.
+Da sitzt das Ebenteur mit weiten Aermeln da,
+Der Koenig Hasenfuss!
+
+Soeller [trinkt].
+                      Ihr Wohlergehn, Papa!
+
+Wirt.
+Ein saubres Wohlergehn! Das Fieber moecht ich kriegen.
+
+Sophie.
+Mein Vater, sein Sie gut.
+
+Soeller [trinkt].
+                          Mein Fiekchen, dein Vergnuegen!
+
+Sophie.
+Das Groesste waere mir, euch nicht entzweit zu sehn.
+
+Wirt.
+Wenn er nicht anders wird, so kann das nie geschehn.
+Ich bin wahrhaftig lang des ewgen Zankens muede,
+Doch wie er's taeglich treibt, da halt der Henker Friede!
+Er ist ein schlechter Mensch, so kalt, so undankbar!
+Er sieht nicht, was er ist, er denkt nicht, was er war,
+Nicht an den povern Stand, aus dem ich ihn gerissen,
+An seine Schulden nicht; davon will er nichts wissen.
+Man sieht, es bessert doch nicht Elend, Reu noch Zeit; -
+Einmal ein Lumpenhund, der bleibt's in Ewigkeit.
+
+Sophie.
+Er aendert sich gewiss.
+
+Wirt.
+                        Muss er's so lang verschieben?
+
+Sophie.
+Das tut die Jugend meist.
+
+Soeller.
+                          Ja, Fiekchen, was wir lieben!
+[Er trinkt.]
+
+Wirt [aufgebracht].
+Dem einen Ohr hinein, dem andern grad heraus!
+Er hoert mich nicht einmal. Was bin ich denn im Haus?
+Ich hab schon zwanzig Jahr mit Ehren mich gehalten.
+Meint Er, was ich erwarb, das wollt Er nun verwalten,
+Und wollt's so nach und nach verteilen? Nein, mein Freund,
+Das lass Er sich vergehn! So boes ist's nicht gemeint!
+Mein Ruf hat lang gewaehrt, und soll noch laenger waehren;
+Es kennt die ganze Welt den Wirt zum schwarzen Baeren.
+Es ist kein dummer Baer, und konserviert sein Fell;
+Jetzt wird mein Haus gemalt, und dann heiss ich's Hotel.
+Da regnet's Kavaliers, da kommt das Geld mit Haufen.
+Doch da gilt's fleissig sein, und nicht sich dumm zu saufen!
+Des Abends spaet zu Bett, und morgens auf bei Zeit,
+So heisst es!
+
+Soeller.
+              Bis dahin ist es noch ziemlich weit.
+Bleibt es nur, wie es ist, und wird nicht etwa schlimmer.
+Wer wohnt denn viel bei uns? Da droben stehn die Zimmer.
+
+Wirt.
+Ach wer verreist auch jetzt? Das ist nun so einmal,
+Und hat nicht Herr Alcest die Zimmer an dem Saal?
+
+Soeller.
+Nun ja, das ist wohl was, der ist ein guter Kunde;
+Allein, Minuten sind erst sechzig eine Stunde.
+Und dann weiss Herr Alcest, warum er hier ist.
+
+Wirt [pikiert].
+                                               Wie?
+
+Soeller [greift nach dem Glas].
+Ach, apropos, Papa. Es lebe Paoli.
+
+Wirt [freundlich].
+Proficiat, Herr Sohn! Der brave Mann soll leben.
+Solch eine Tapferkeit hat es nicht leicht gegeben;
+Auch in dem Unglueck selbst verlaesst der Mut ihn nie.
+Gewiss, ich nenn mein Haus Hotel de Paoli.
+
+Soeller.
+O ja, das gibt ein Schild recht nach der Zeitungsmode.
+Wenn's nicht zustande kommt, ich graeme mich zu Tode. -
+Wie kommt es, haben Sie die Zeitung nicht gesehn
+Von heut?
+
+Wirt.
+          Sie ist nicht da. Der Jung muss nach ihr gehn.
+Wenn er noch Koenig wird, so sollt ihrs all geniessen.
+Das Herz huepft mir im Leib, als hoert ich wirklich schiessen.
+[Ab.]
+
+
+
+Zweiter Auftritt
+
+[Soeller. Sophie.]
+
+Soeller.
+Ha, es ist nichts so schlimm, die Zeitung macht es gut.
+
+Sophie.
+Ja, gib ihm immer nach!
+
+Soeller.
+                        Ich hab kein schnelles Blut,
+Das ist sein Glueck; denn sonst mich immer so zu schelten,
+Als waer ich -
+
+Sophie.
+               Lieber Mann!
+
+Soeller.
+                            Beim Kuckuck! Beim St. Velten!
+Ich weiss das alles wohl, dass ich vor einem Jahr
+Ein lockrer Passagier und voller Schulden war.
+
+Sophie.
+Mein Guter, sei nicht boes!
+
+Soeller.
+                            Und wenn ich sonst nichts taugte,
+So war ich doch ein Mann wie ihn mein Fiekchen brauchte.
+
+Sophie.
+Dein ewger Vorwurf laesst mir keine Stunde froh.
+
+Soeller.
+Ich werfe dir nichts vor, ich meine ja nur so.
+Denn eine schoene Frau ergoetzet uns unendlich,
+Wenn man sie auch nicht liebt, so ist man doch erkenntlich.
+Sophie wie schoen bist du, und ich bin nicht von Stein,
+[Er kuesst sie.]
+Ich kenne nur zu wohl das Glueck, dein Mann zu sein;
+Ich liebe dich -
+
+Sophie.
+                 Und doch kannst du mich immer plagen?
+
+Soeller.
+Eh geh, was liegt denn dran? Das darf ich ja wohl sagen;
+Dass dich Alcest geliebt, dass du fuer ihn gebrannt,
+Und ihn auch wohl vielleicht - dass du ihn lang gekannt.
+
+Sophie.
+Oh!
+
+Soeller.
+    Nein, ich wuesste nicht, was ich da Boeses saehe!
+Ein Baeumchen, das man pflanzt, das schiesst zu seiner Hoehe;
+Und wenn es Fruechte bringt, eh! da geniesset sie,
+Wer da ist; uebers Jahr gibt's wieder. Ja, Sophie,
+Ich weiss das gar zu wohl, um etwas draus zu machen.
+Mir ist's nur laecherlich.
+
+Sophie.
+                           Ich finde nichts zu lachen.
+Dass mich Alcest geliebt, dass er fuer mich gebrannt,
+Und ich ihn auch geliebt, und ich ihn lang gekannt,
+Was ist's denn weiter?
+
+Soeller.
+                       Nichts! das will ich auch nicht sagen,
+Dass es was weiter ist. Denn in den ersten Tagen,
+Wenn so das Maedchen keimt, da liebt sie eins zum Spass,
+Es krabbelt ihr ums Herz, doch sie versteht nicht, was.
+Mit sanfter Freundlichkeit schleicht Amor, der Betrueger;
+Wer keinen Tiger kennt, der laeuft vor keinem Tiger.
+Und sie versteht es nicht, warum die Mutter schmaelt.
+Voll Tugend, wenn sie liebt, ist's Unschuld, wenn sie fehlt.
+Und kommt Erfahrenheit zu ihren andern Gaben,
+So sei ihr Mann vergnuegt, ein kluges Weib zu haben!
+
+Sophie.
+Du kennst mich nicht genug.
+
+Soeller.
+                            O lass das immer sein!
+Den Maedchen ist ein Kuss, was uns ein Glas voll Wein,
+Eins, und dann wieder eins, und noch eins, bis wir sinken.
+Wenn man nicht taumeln will, so muss man gar nicht trinken!
+Genug, du bist nun mein! - Ist es nicht vierthalb Jahr,
+Dass Herr Alcest dein Freund und hier im Hause war?
+Wie lange war er weg? Zwei Jahre, denk ich.
+
+Sophie.
+                                            Drueber.
+
+Soeller.
+Nun ist er wieder da, schon vierzehn Tage -
+
+Sophie.
+                                            Lieber,
+Zu was dient der Diskurs?
+
+Soeller.
+                          Eh nun, dass man was spricht.
+Denn zwischen Mann und Frau red't sich so gar viel nicht.
+Warum ist er wohl hier?
+
+Sophie.
+                        Ei, um sich zu vergnuegen.
+
+Soeller.
+Ich glaube wohl, du magst ihm sehr am Herzen liegen.
+Wenn er dich liebte, he! gaebst du ihm wohl Gehoer?
+
+Sophie.
+Die Liebe kann wohl viel, allein die Pflicht noch mehr.
+Du glaubst!
+
+Soeller.
+            Ich glaube nichts, und kann das wohl begreifen;
+Ein Mann ist immer mehr als Herrchen, die nur pfeifen.
+Der allersuesste Ton, den auch der Schaefer hat,
+Es ist doch nur ein Ton, und der wird endlich matt.
+
+Sophie [ungeduldig].
+Ja, ja, das weiss ich wohl; doch ist der deine besser?
+Die Unzufriedenheit in dir wird taeglich groesser.
+Nicht einen Augenblick bist du mit Necken still.
+Man sei erst liebenswert, wenn man geliebt sein will.
+Warst du denn wohl der Mann, ein Maedchen zu begluecken?
+Erwarbst du dir ein Recht, mir ewig vorzuruecken,
+Was doch im Grund nichts ist? Es wankt das ganze Haus;
+Du nimmst allein nichts ein, und gibst allein fast aus.
+Du lebst in Tag hinein; fehlt dir's, so machst du Schulden,
+Und wenn die Frau was braucht, so hat sie keinen Gulden,
+Und du fragst nicht darnach, wie sie ihn kriegen kann.
+Willst du ein braves Weib, so sei ein rechter Mann.
+Ach, es versucht uns nichts so maechtig als der Mangel;
+Die kluegsten Fische treibt der Hunger an die Angel.
+Mein Vater gibt mir nichts, und hat der Mann nicht recht?
+Wir brauchen so genug, und alles geht so schlecht.
+Doch heute musst ich ihn notwendig etwas bitten.
+Ha, sagt er, du kein Geld, und Soeller faehrt im Schlitten?
+Er gab mir nichts und laermt mir noch die Ohren voll.
+Nun sag mir denn einmal, woher ich's nehmen soll?
+Denn du bist nicht der Mann, fuer eine Frau zu sorgen.
+
+Soeller.
+O warte, liebes Kind, vielleicht empfang ich morgen
+Von einem guten Freund -
+
+Sophie.
+                         Wenn er ein Narr ist, ja!
+Zu holen sind gar oft die guten Freunde da;
+Doch einen, der was bringt, den hab ich noch zu sehen!
+Nein, Soeller, kuenftighin kann es nicht mehr so gehen.
+
+Soeller.
+Du hast ja, was man braucht.
+
+Sophie.
+                             Schon gut, das ist wohl was.
+Doch wer nie duerftig war, der will noch mehr als das.
+Von Jugend auf verwoehnt durch's Glueck und seine Gaben,
+Hat man, soviel man braucht, und glaubt noch nichts zu haben.
+Die Lust, die jede Frau, die jedes Maedchen hat,
+Ich bin nicht hungrig drauf, doch bin ich auch nicht satt.
+Der Putz, der Ball - Genug, ich bin ein Frauenzimmer.
+
+Soeller.
+Eh nun, so geh dann mit: ich sage dir's ja immer.
+
+Sophie.
+Dass wie das Karneval auch unsre Wirtschaft sei,
+Die kurze Zeit geschwaermt, dann auf einmal vorbei!
+Viel lieber sitz ich hier allein zu ganzen Jahren!
+Wenn er nicht sparen will, so muss die Frau wohl sparen.
+Mein Vater ist genug schon ueber mir erbost:
+Ich stille seinen Zorn und bin sein ganzer Trost.
+Nein, Herr! Ich helf Ihm nie mein eigen Geld verschwenden:
+Spar Er es erst an sich, um es an mich zu wenden!
+
+Soeller.
+Mein Kind, fuer diesmal nur lass mich noch lustig sein,
+Und wenn die Messe kommt, so richten wir uns ein.
+
+
+
+Dritter Auftritt
+
+[Die Vorigen, ein Kellner.]
+
+Kellner.
+Herr Soeller!
+
+Soeller.
+              Nun, was soll's?
+
+Kellner.
+                               Der Herr von Tirinette!
+
+Sophie.
+Der Spieler!
+
+Soeller.
+             Schick ihn fort! Dass ihn der Teufel haette!
+
+Kellner.
+Er sagt, er muss Sie sehn.
+
+Sophie.
+                           Was will er dann bei dir?
+
+Soeller [verwirrt zu Sophie].
+Ach, er verreist -
+[Zum Kellner.]
+                   Ich komm!
+[Zu Sophie.]
+                             und er empfiehlt sich mir.
+[Ab.]
+
+
+
+Vierter Auftritt
+
+Sophie.
+Der mahnt ihn ganz gewiss! Er macht beim Spiele Schulden.
+Er bringt noch alles durch, und ich, ich muss es dulden.
+Dies ist nun alle Lust und mein getraeumtes Glueck!
+So eines Menschen Frau! Wie weit kamst du zurueck!
+Wo ist sie hin, die Zeit, da sie zu ganzen Scharen,
+Die suessten jungen Herrn, zu deinen Fuessen waren?
+Da jeder sein Geschick in deinen Blicken sah?
+Ich stand im Ueberfluss wie eine Goettin da,
+Aufmerksam um mich her die Diener meiner Grillen!
+Es war nur allzuviel, dies Herz mit Stolz zu fuellen.
+Und ach! ein Maedchen ist wahrhaftig uebel dran!
+Ist man ein bisschen huebsch, so steht man jedem an;
+Da summt uns unser Kopf den ganzen Tag von Lobe!
+Und welches Maedchen haelt wohl diese Feuerprobe?
+Ihr koennt so ehrlich tun, man glaubt euch wohl aufs Wort,
+Ihr Maenner! Auf einmal fuehrt euch der Henker fort.
+Wenn's was zu naschen gibt, so sind wir all beim Schmause,
+Doch macht ein Maedchen Ernst, da ist kein Mensch zu Hause.
+So ist's mit unsern Herrn in dieser schlimmen Zeit;
+Es gehen zwanzig drauf, bis dass ein halber freit.
+Ich sah mich manchesmal betrogen und verlassen:
+Wer vierundzwanzig zaehlt, hat nichts mehr zu verpassen.
+Der Soeller kam mir vor, und ich, ich nahm ihn an;
+Es ist ein schlechter Mensch, allein er ist ein Mann.
+Da sitz ich nun und bin nicht besser als begraben.
+Anbeter koennt' ich zwar noch in der Menge haben;
+Allein wenn eine Frau ein bisschen Tugend hat,
+So ist's der junge Herr in wenig Stunden satt.
+Bei Maedchen ist er gern mit Taendelei zufrieden,
+Er redet Sentiments, und ist nicht zu ermueden;
+Doch wenn nur eine Frau ein wenig sproede tut,
+So wundert er sich sehr und greift nach seinem Hut.
+Alcest ist wieder hier. Er ist's zu meiner Plage.
+Ach ehmals war er da, da waren's andre Tage.
+Wie liebt ich ihn! - Und noch! - Ich weiss nicht, was ich will!
+Ich flieh ihn, wo ich kann. Er ist nachdenkend, still,
+Ich fuerchte mich vor ihm; die Furcht ist wohl gegruendet.
+Ach wuesst er, was mein Herz noch jetzt fuer ihn empfindet!
+Er kommt! Ich zittre schon, mein Herz ist gar zu voll,
+Ich weiss nicht, was ich will, noch wen'ger, was ich soll.
+
+
+
+Fuenfter Auftritt
+
+[Sophie. Alcest.]
+
+Alcest.
+Sind Sie einmal allein, und darf ein Freund es wagen?
+
+Sophie.
+Mein Herr.
+
+Alcest.
+           Mein Herr! So klang's nicht in vergangnen Tagen.
+
+Sophie.
+Ja wohl, die Zeit verfliegt, und alles aendert sich.
+
+Alcest.
+Erstreckt sich denn die Macht der Zeit auch ueber dich,
+O Liebe! Bin ich's selbst, der mit Sophien redet?
+Bist du Sophie?
+
+Sophie [bittend].
+                Alcest!
+
+Alcest.
+                        Bist du's?
+
+Sophie.
+                                   Ihr Vorwurf toetet
+Mein armes Herz. Alcest! Mein Freund, ich bitte Sie!
+Ich muss, ich muss hinweg!
+
+Alcest.
+                           Unzaertliche Sophie!
+Verlassen Sie mich, nur! - In diesem Augenblicke,
+Dacht ich, ist sie allein. Ich segnete mein Gluecke.
+Nun, hofft ich, redet sie ein zaertlich Wort mit dir.
+O gehn Sie! Gehn Sie nur! - In diesem Zimmer hier
+Entdeckte mir Sophie zuerst die schoensten Flammen,
+Hier schloss sich unsre Brust zum erstenmal zusammen;
+An eben diesem Platz - erinnerst du dich noch? -
+Schwurst du mir ewge Treu!
+
+Sophie.
+                           O schonen Sie mich doch!
+
+Alcest.
+Ein schoener Abend war's - ich werd ihn nie vergessen!
+Dein Auge redete, und ich, ich ward vermessen.
+Mit Zittern botst du mir die heissen Lippen dar.
+Mein Herze fuehlt es noch, wie sehr ich gluecklich war.
+Da hattest du nicht Zeit, was sonst als mich zu denken,
+Und jetzo willst du mir nicht eine Stunde schenken?
+Du siehst, ich suche dich, du siehst, ich bin betruebt -
+Geh nur, du falsches Herz, du hast mich nie geliebt!
+
+Sophie.
+Ich bin geplagt genug, willst du mich auch noch plagen?
+Sophie dich nicht geliebt! Alcest, das darfst du sagen?
+Du warst mein ganzer Wunsch, du warst mein hoechstes Gut;
+Fuer dich schlug dieses Herz, dir wallte dieses Blut.
+Und dieses Herz, mein Freund, das du einst ganz besessen,
+Kann nicht unzaertlich sein, es kann dich nicht vergessen.
+Die Liebe widersteht der Zeit, die alles raubt,
+Man hat nie recht geliebt, wenn man sie endlich glaubt.
+Allein - Es kommt jemand.
+
+Alcest.
+                          Nein!
+
+Sophie.
+                                Es ist hier gefaehrlich.
+
+Alcest.
+Auch nicht ein einzig Wort. O es ist zu beschwerlich.
+So geht's den ganzen Tag! Wie ist man nicht geplagt!
+Schon vierzehn Tage hier, und dir kein Wort gesagt!
+Ich weiss, du liebst mich noch, allein das wird mich toeten.
+Niemals sind wir allein, was unter uns zu reden;
+Nicht einen Augenblick ist hier im Zimmer Ruh,
+Bald ist der Vater da, dann kommt der Mann dazu.
+Lang bleib ich dir nicht hier, das ist mir unertraeglich.
+Allein, Sophie, wer will, ist dem nicht alles moeglich?
+Sonst war dir nichts zu schwer, du halfest dir geschwind;
+Ein Drach war eingewiegt, und hundert Augen blind.
+O, wenn du wolltest -
+
+Sophie.
+                      Was?
+
+Alcest.
+                           Wenn du nur denken wolltest,
+Dass du Alcesten nicht verzweifeln machen solltest!
+Geliebte, suche dir doch nur Gelegenheit
+Zur Unterredung auf, die dieser Ort verbeut.
+O hoere, heute nacht! dein Mann geht aus dem Hause,
+Man glaubt, ich gehe selbst zu einem Fastnachtsschmause;
+Allein, das Hintertor ist meiner Treppe nah -
+Es merkt's kein Mensch im Haus und ich bin wieder da.
+Den Schluessel hab ich hier, und willst du mir erlauben -
+
+Sophie.
+Alcest, ich wundre mich -
+
+Alcest.
+                          Und ich, ich soll es glauben,
+Dass du kein hartes Herz, kein falsches Maedchen bist?
+Du schlaegst das Mittel aus, das uns noch uebrig ist.
+Wir kennen uns ja schon; was brauchst du dich zu schaemen?
+Waer etwas anders da, ich wollte das nicht nehmen.
+Allein genug: heut nacht, Sophie, besuch ich dich.
+Doch kommt dir's sichrer vor, so komm, besuche mich!
+
+Sophie.
+Alcest, das ist zu viel!
+
+Alcest.
+                         Zu viel! O, schoen gesprochen!
+Verflucht! zu viel! zu viel! Verderb ich meine Wochen
+Hier so umsonst? - Verdammt! was haelt mich dieser Ort,
+Wenn mich Sophie nicht haelt? Ich gehe morgen fort.
+
+Sophie.
+Geliebter! Bester!
+
+Alcest.
+                   Nein, du siehst, du kennst mein Leiden,
+Und du erbarmst dich nicht. Ich will dich ewig meiden!
+
+
+
+Sechster Auftritt
+
+[Vorige. Der Wirt.]
+
+[Alcest geht in der Stube auf und nieder. Sophie steht unentschlossen
+da. Der Wirt kommt mit einem Briefe.]
+
+Wirt.
+Da ist ein Brief; er muss von jemand Hohes sein;
+Das Siegel ist sehr gross, und das Papier ist fein.
+
+[Alcest nimmt den Brief und reisst ihn auf.]
+
+Wirt.
+In Stuecken das Couvert, nur um geschwind zu wissen.
+
+Alcest [der den Brief kaum angesehen hat].
+Ich werde morgen frueh von hier verreisen muessen.
+Die Rechnung!
+
+Wirt.
+              So geschwind! In dieser schlimmen Zeit
+Verreisen? Dieser Brief ist wohl von Wichtigkeit?
+Duerft ich mich unterstehn und Ihro Gnaden fragen?
+
+Alcest.
+Nein!
+
+Wirt [heimlich zu Sophien].
+      Frag ihn doch einmal, gewiss, dir wird er's sagen.
+[Er geht an den Tisch im Fond, schlaegt in seinen Buechern nach, und
+schreibt die Rechnung.]
+
+Sophie [zaertlich].
+Alcest, ist es gewiss?
+
+Alcest [weggewendet].
+                       Das schmeichelnde Gesicht!
+
+Sophie.
+Alcest, ich bitte dich, verlass Sophien nicht!
+
+Alcest.
+Nun gut, entschliesse dich, mich heute nacht zu sehen.
+
+Sophie [vor sich].
+Was soll, was kann ich tun? Er darf, er darf nicht gehen;
+Er ist mein einzger Trost, ich tue, was ich kann.
+
+Alcest.
+Nun, Liebste?
+
+Sophie.
+              Doch mein Mann -
+
+Alcest.
+                               Der Henker hol den Mann!
+Nun, willst du?
+
+Sophie.
+                Ob ich will?
+
+Alcest.
+                             Nun?
+
+Sophie.
+                                  Ich will zu dir kommen.
+
+Alcest.
+Herr Wirt, ich reise nicht!
+
+Wirt [hervortretend].
+                            So!
+[Zu Sophien.]
+                                Hast du was vernommen?
+
+Sophie.
+Er will nichts sagen.
+
+Wirt.
+                      Nichts?
+
+
+
+Siebenter Auftritt
+
+[Die Vorigen. Soeller.]
+
+Soeller.
+                              Mein Hut!
+
+Sophie.
+                                        Da ist er. Hier!
+
+Alcest.
+Adieu, ich muss zum Schmaus.
+
+Soeller.
+                             Ich wuensche viel Plaisir.
+
+Alcest [fasst Sophien bei der Hand].
+Adieu, scharmante Frau!
+
+Soeller [vor sich].
+                        Der Kerl wird taeglich kuehner.
+
+Alcest [zum Wirt].
+Ein Licht! Ich muss hinauf.
+
+Sophie.
+                            Adieu, Alcest!
+
+Wirt [begleitet ihn].
+                                           Ihr Diener.
+
+Alcest.
+Sie bleiben!
+
+Wirt.
+             Gnaedger Herr -
+
+Alcest.
+                             Herr Wirt, nicht einen Schritt!
+[Er geht ab.]
+
+Sophie.
+Nun, Soeller, gehst du denn! Wie waer's, du naehmst mich mit?
+
+Soeller.
+Warum sagst du's nicht eh.
+
+Sophie.
+                           O geh! es war im Scherze.
+
+Soeller.
+Nein, nein, ich weiss es schon, es wird dir warm ums Herze.
+Wenn man so jemand sieht, der sich zum Balle schickt,
+Und man soll schlafen gehn, da ist hier was, das drueckt.
+Es ist ein andermal.
+
+Sophie.
+                     O ja, ich kann wohl warten.
+Noch etwas: sei gescheit und huet dich vor den Karten.
+Geruhge Nacht, Papa, ich will zu Bette gehn.
+Es ist schon spaet.
+
+Wirt.
+                    Schlaf wohl!
+
+Soeller [sieht ihr nach].
+                                 Nein, sie ist wahrlich schoen!
+[Er laeuft ihr nach und kuesst sie.]
+Schlaf wohl, mein Schaefchen!
+[Sophie geht ab.]
+[Zum Wirt.]
+                              Nun, geht Er nicht auch zu Bette?
+
+Wirt.
+Das ist ein Teufelsbrief; wenn ich den Brief nur haette!
+[Zu Soeller.]
+Nun, Fastnacht! gute Nacht!
+
+Soeller.
+                            Dank's! angenehme Ruh!
+
+Wirt.
+Herr Soeller, wenn Er geht, mach Er das Tor recht zu!
+
+Soeller.
+Ja, sorgen Sie fuer nichts!
+
+
+
+Achter Auftritt
+
+Soeller [allein].
+                            Was ist nun anzufangen?
+O, das verfluchte Spiel! Ich wollt, er waer gehangen,
+Der Karo-Koenig - Ja - Nun gilt es witzig sein.
+Der Spieler borgt nicht mehr. Ich weiss nicht aus noch ein.
+Wie waer's? Alcest hat Geld, und hier: da hab ich Schluessel
+Zu mehr als einem Schloss. Er greift nach meiner Schuessel
+Ja auch; und meine Frau ist ihm nicht sehr verhasst -
+Eh nun! da lad ich mich einmal bei ihm zu Gast.
+Allein, kommt es heraus, so geben's schlimme Sachen.
+Ja, ich bin in der Not, was kann ich anders machen?
+Der Spieler will sein Geld, sonst pruegelt er mich aus.
+Courage, Soeller! Fort! Es schlaeft das ganze Haus.
+Und wird es auch entdeckt, so bist du wohl gebettet,
+Denn eine schoene Frau hat manchen Dieb gerettet.
+
+
+
+Zweiter Aufzug
+
+Erster Auftritt
+
+[Das Theater ist geteilt, der Hauptteil stellt das Zimmer Alcests, der
+kleinere einen Alkoven vor.]
+
+Soeller, [im Domino, den Hut auf, die Maske vorm Gesicht, ohne Schuhe,
+kommt ganz leise zur Nebentuere herein, leuchtet vorsichtig mit einer
+Blendlaterne umher; da er alles still findet, kommt er mit leisen
+Schritten hervor an den Rand des Theaters, nimmt die Maske und den Hut
+ab und wischt sich das Gesicht].
+Zum Leben braucht's nicht just, dass man so tapfer ist.
+Man kommt auch durch die Welt mit Schleichen und mit List.
+Der eine geht euch hin, bewaffnet mit Pistolen,
+Sich einen Sack mit Geld, vielleicht den Tod zu holen,
+Und ruft: Den Beutel her! Her! Ohn euch viel zu sperrn!
+Mit so gelassnem Blut, als spraech er: Prost, ihr Herrn!
+Ein andrer zieht herum, mit zauberischen Haenden
+Und Volten wie der Blitz die Uhren zu entwenden.
+Und wenn ihr's haben wollt, er sagt euch ins Gesicht:
+Ich stehle, gebt wohl acht! Er stiehlt, ihr seht es nicht.
+Mich machte die Natur nun freilich viel geringer;
+Mein Herz ist allzuleicht, zu plump sind meine Finger;
+Und doch kein Schelm zu sein, wird heutzutage schwer,
+Das Geld nimmt taeglich ab, und taeglich braucht man mehr.
+Doch ist's ein schlechtes Ding um halbe Boesewichter.
+Ich seh's, man wird zum Dieb geboren wie zum Dichter;
+Und pfuscht nur einer drein, so fuehlt er wie der Blitz
+Die Peitsche der Kritik, die Rute der Justiz.
+
+Du bist nun einmal drin; nun hilf dich aus der Falle!
+Ach! alles meint zu Haus, ich sei schon lang beim Balle.
+Mein Herr Alcest, der schwaermt, mein Weibchen schlaeft allein;
+Die Konstellation wie kann sie schoener sein?
+[Er nimmt die Schatulle vom Tisch.]
+O komm, du Heiligtum! Du Gott in der Schatulle!
+Ein Koenig ohne dich waer eine grosse Nulle.
+[Er zieht die Diebesschluessel aus der Tasche und sagt unter dem
+Aufbrechen.]
+Habt Dank, ihr Dietriche! ihr seid der Trost der Welt!
+Durch euch erlang ich ihn, den grossen Dietrich, Geld!
+Ich war einst Sekretaer bei einem Buergermeister.
+Ein Sekretaer! Das ist kein Werk fuer kleine Geister,
+Es ist ein kuenstlich Amt und will getrieben sein.
+Ja, wie ich das noch war, da bild't ich mir was ein,
+Da ging ich wie ein Prinz. Ein Dieb wurd eingefangen,
+Die Schluessel fanden sich, und er, er ward gehangen.
+Nun weiss man, die Justiz behaelt stets was fuer sich;
+Ich war nur Subaltern, das Eisen kam an mich;
+Ich hob es auf. Ein Ding mag noch so wenig taugen,
+Es kommt ein Augenblick, und man kann alles brauchen.
+Und jetzt -
+[Das Schloss geht auf.]
+            O schoen gemuenzt! Ja, das ist wahre Lust!
+Die Tasche schwillt von Geld, von Freuden meine Brust -
+Wenn es nicht Angst ist.
+[Er horcht.]
+                         Horch! Verflucht! ihr feigen Glieder!
+Was zittert ihr?
+[Er faehrt zusammen.]
+                 Horch! - Nichts!
+[Er macht die Schatulle zu.]
+                                  Genug! Nun gut!
+[Er will gehen, erschrickt, und steht still.]
+                                                  Schon wieder!
+Es geht was auf dem Gang! Es geht doch sonst nicht um.
+Der Teufel hat vielleicht sein Spiel. Das Spiel waer dumm!
+Ist's eine Katze? Nein! Das geht nicht wie ein Kater.
+Geschwind! Es dreht am Schloss.
+[Er springt in den Alkoven und sieht durch die Vorhaenge.]
+                                Behuet! mein Schwiegervater.
+
+
+
+Zweiter Auftritt
+
+[Der Wirt kommt im Schlafrocke, der Nachtmuetze und Pantoffeln mit
+einem Wachsstock furchtsam zur Nebentuere herein. Soeller im Alkoven
+horchend.]
+
+Wirt.
+Es ist ein naerrisch Ding um ein empfindlich Blut,
+Es pocht, wenn man auch nur halbweg was Boeses tut.
+Daecht ich nicht aus dem Brief was Wichtiges zu holen,
+Ich waer gewiss nicht da! Ich glaub, er kam aus Polen.
+Die Zeitung heutzutag ist unertraeglich kalt,
+Das Neuste, was man hoert, ist immer monatsalt.
+Der Zeitungsschreiber selbst ist wirklich zu beklagen,
+Gar oefter weiss er nichts, und oft darf er nichts sagen.
+Waer ich nur gnaedger Herr, ich muesst Minister sein,
+Und jeglicher Kurier ging bei mir aus und ein.
+[Er sucht ueberall.]
+Er ging noch erst herauf, und holte Hut und Degen;
+Ich hoff doch auch, es war, den Brief bei Seit zu legen.
+[Er sucht.]
+
+Soeller [im Alkoven].
+Du guter alter Narr! ich seh wohl, es hat dich
+Der Diebs- und Zeitungsgott nicht halb so lieb als mich.
+
+Wirt.
+Ich find ihn nicht!
+[Er erschrickt.]
+                    O weh! Hoer ich auch recht? Daneben
+Im Zimmer?
+[Er horcht.]
+
+Soeller [erschrocken].
+           Riecht er mich vielleicht?
+
+Wirt.
+                                      Es knistert eben,
+Als waer's ein Weiberschuh.
+
+Soeller [getrost].
+                            Schuh! Nein! das bin ich nicht.
+
+Wirt [blaest den Wachsstock aus].
+Ft! Bleibe, wer da will! Geh auf!
+[Er kann das Schloss in der Eile nicht aufmachen, und laesst darueber
+den Wachsstock fallen; endlich stoesst er die Tuer auf und laeuft
+davon.]
+
+
+
+Dritter Auftritt
+
+[Sophie mit einem Licht kommt zur Haupttuere herein; Soeller im
+Alkoven.]
+
+Soeller [erstaunt].
+                                  Ein Weibsgesicht!
+Fast so wie meine Frau! Ich hoffe nicht!
+
+Sophie [setzt das Licht auf den Tisch und kommt hervor].
+                                         Ich bebe
+Bei dem verwegnen Schritt.
+
+Soeller [mit Karikatur].
+                           Sie ist's! So wahr ich lebe!
+Adieu du armer Kopf! - Allein, gesetzten Falls,
+Ich zeigte mich! - Und dann - Ja, dann adieu mein Hals!
+
+Sophie.
+Sophie, du kommst zu ihm, was hast du unternommen?
+Doch kann es anders sein? Er darf zu dir nicht kommen,
+An meinem Zimmer ist mein Vater allzunah,
+Und hier ist alles leer.
+
+Soeller.
+                         Leer, und der Mann ist da!
+
+Sophie.
+Ja, folgt der Liebe nur! Mit freundlichen Gebaerden
+Lockt sie euch anfangs nach -
+
+Soeller.
+                              Ich moechte rasend werden!
+Und darf nicht -
+
+Sophie.
+                 - Doch wenn ihr einmal den Weg verliert,
+Dann fuehrt kein Irrlicht euch so schlimm, als sie euch fuehrt.
+
+Soeller.
+Jawohl, dir waer ein Sumpf gesuender als das Zimmer.
+
+Sophie.
+Bisher ging's ziemlich schlimm, doch es wird taeglich schlimmer.
+Mein Mann macht's bald zu toll. Bisher gab's wohl Verdruss;
+Doch jetzt treibt er's, dass ich ihn gar verachten muss.
+
+Soeller.
+O Hexe!
+
+Sophie.
+        Meine Hand hat er, Alcest inzwischen
+Besitzt, wie sonst, mein Herz.
+
+Soeller.
+                               Zu zaubern, Gift zu mischen,
+Ist nicht so schlimm!
+
+Sophie.
+                      Dies Herz, das er zuerst entflammt,
+Das erst durch ihn gefuehlt, was Liebe sei -
+
+Soeller.
+                                             Verdammt -
+
+Sophie.
+Kalt, sproede war dies Herz, eh es Alcest erweichte.
+
+Soeller.
+Ihr Maenner! stuendet ihr all nur einmal so Beichte!
+
+Sophie.
+Wie gluecklich war ich sonst!
+
+Soeller.
+                              Sonst! Nun, das ist vorbei!
+
+Sophie.
+Wie liebte mich Alcest!
+
+Soeller.
+                        Pah! das war Kinderei!
+
+Sophie.
+Das Schicksal trennt uns bald, und ach! fuer meine Suenden
+Musst ich mich - welch ein Muss - mit einem Vieh verbinden.
+
+Soeller.
+Ich, Vieh? - Jawohl ein Vieh, von dem gehoernten Vieh!
+
+Sophie.
+Was seh ich?
+
+Soeller.
+             Was, Madam?
+
+Sophie.
+                         Des Vaters Wachsstock! Wie
+Kam er hieher? Vielleicht - Da werd ich fliehen muessen;
+Vielleicht belauscht er uns! -
+
+Soeller.
+                               O setz ihr zu, Gewissen!
+
+Sophie.
+Nur das begreif ich nicht, wie er ihn hier verlor.
+
+Soeller.
+Sie scheut den Vater nicht, mal ihr den Teufel vor!
+
+Sophie.
+Ach nein, das ganze Haus liegt schon in tiefem Schlafe.
+
+Soeller.
+Die Lust ist maechtiger als alle Furcht der Strafe.
+
+Sophie.
+Mein Vater kann nicht wohl - Wer weiss, wie es geschah?
+Es mag drum sein!
+
+Soeller.
+                  O weh!
+
+Sophie.
+                         Alcest ist noch nicht da!
+
+Soeller.
+O duerft ich sie -!
+
+Sophie.
+                    Mein Herz schwimmt noch in seltnem Zweifel:
+Ich hoff und fuercht ihn doch.
+
+Soeller.
+                               Ich fuercht ihn wie den Teufel!
+Und mehr noch. Kaem er nur, der Prinz der Unterwelt,
+Ich baet ihn: hol mir sie! da hast du all das Geld!
+
+Sophie.
+Du bist zu zaertlich, Herz! Was ist denn dein Verbrechen?
+Versprachst du, treu zu sein? und konntest du versprechen,
+Dem Menschen treu zu sein, an dem kein gutes Haar,
+Der unverstaendig, grob, falsch? -
+
+Soeller.
+                                   Das bin ich!
+
+Sophie.
+                                                Fuerwahr,
+Wenn so ein Scheusal nicht den Abscheu gnug entschuldigt,
+So lob ich mir das Land, wo man dem Teufel huldigt.
+Er ist ein Teufel!
+
+Soeller [ergrimmt].
+                   Was! ein Teufel? Scheusal? Ich?
+Ich halt's nicht laenger aus!
+[Er will herausbrechen. Doch da er Alcest erblickt, faehrt er
+zurueck.]
+
+
+
+Vierter Auftritt
+
+[Sophie, Soeller im Alkoven, Alcest.]
+
+Alcest.
+                              Du wartest schon auf mich?
+
+Sophie [laechelnd].
+Sophie kam dir zuvor.
+
+Alcest.
+                      Du zitterst?
+
+Sophie.
+                                   Die Gefahren
+Von hier und dort -
+[Sie deutet auf Alcesten und auf die Tuere.]
+
+Soeller.
+                    Du! dir! das sind Praeliminaren.
+
+Sophie.
+Du weisst es, was mein Herz um deinetwillen litt,
+Du kennst dies ganze Herz, verzeih ihm diesen Schritt.
+
+Alcest [mit Nachdruck].
+Sophie!
+
+Sophie.
+        Verzeihst du ihn, so fuehl ich keine Reue.
+
+Soeller.
+Ja, frage mich einmal, ob ich dir ihn verzeihe!
+
+Sophie.
+Warum kam ich hierher? Gewiss, ich weiss es kaum.
+
+Soeller.
+Ich weiss es nur zu wohl!
+
+Sophie.
+                          Es ist mir wie ein Traum.
+
+Soeller.
+Ich wollt, ich traeumte!
+
+Sophie.
+                         Sieh, ein ganzes Herz voll Plagen
+Bring ich zu dir.
+
+Alcest.
+                  Der Schmerz vermindert sich im Klagen.
+
+Sophie.
+Ein sympathetisch Herz wie deines fand ich nie.
+
+Soeller.
+Wenn ihr zusammen gaehnt, das nennt ihr Sympathie!
+Vortrefflich!
+
+Sophie.
+              Musst ich nur dich so vollkommen finden,
+Um mit dem Gegensatz von dir mich zu verbinden?
+Ich hab ein Herz, das nicht tot fuer die Tugend ist.
+
+Alcest.
+Ich kenn's!
+
+Soeller.
+            Ja, ja, ich auch!
+
+Sophie.
+                              So liebenswert du bist,
+Alcest, ich wuerde nie aus meinen Schranken weichen,
+Waer Soeller nicht ein Mann, um mich herauszuscheuchen.
+
+Soeller.
+Sie luegt! Ein Mann von Stroh waer ich! Da seht ihr mich,
+Ihr Herren! Hat er denn so Waden stehn wie ich?
+
+Sophie.
+Ich dachte, da die Not mich zwang, dich zu verlassen,
+Ihn zu ertragen -
+
+Soeller.
+                  Schoen!
+
+Sophie.
+                          Allein ich muss ihn hassen.
+
+Soeller.
+Noch schoener!
+
+Alcest.
+               Du verdienst kein so ungluecklich Band.
+
+Sophie.
+Dumm ohn ein gutes Herz, und boshaft ohn Verstand.
+Zum Schelmen viel zu feig, zu schlimm, um gut zu denken,
+Beschaeftigt sich sein Kopf mit ungeschliffnen Raenken,
+Verleumdet, luegt, betruegt.
+
+Soeller.
+                             Ich seh, sie sammelt schon
+Die Personalien zu meinem Leichsermon.
+
+Sophie.
+Mit ihm zu leben! denk, wie sehr mich das betruebte,
+Hofft ich nicht -
+
+Soeller.
+                  Nur heraus!
+
+Sophie.
+                              Dass mich Alcest noch liebte.
+
+Alcest.
+Er liebt, er klagt wie du.
+
+Sophie.
+                           Das lindert meine Pein,
+Von Einem wenigstens, von dir beklagt zu sein.
+[Sie fasst ihn bei der Hand.]
+Alcest, bei dieser Hand, der teuern Hand, beschwoere
+Ich dich, behalte mir dein Herz gewogen!
+
+Soeller.
+                                         Hoere,
+Wie schoen sie tut!
+
+Sophie.
+                    Dies Herz, das nur fuer dich gebrannt,
+Weiss keinen andern Trost, als den von deiner Hand.
+
+Alcest.
+Ich kenne fuer dein Herz kein Mittel.
+
+Soeller.
+                                      Desto schlimmer!
+Schlaegt's nicht am Herzen an, so sieht das Frauenzimmer
+Gern, dass man sonst kuriert.
+
+Sophie, [die sich auf Alcestens Arm lehnt].
+                              Mein Freund!
+
+Soeller [beaengstigt].
+                                           Bald geht's zu weit!
+[Zum Parterre.]
+Es ist mein grosses Glueck, dass ihr da unten seid;
+Da schaemen sie sich noch.
+[Alcest umarmt Sophien.]
+                           Nein! Er wird zu verwegen!
+Ich fuehr ihm gern an Kopf, haett er nur keinen Degen.
+
+Sophie [aengstlich].
+Grausamer, lass mich gehn!
+
+Soeller [ausser sich].
+                           Verflucht! Wie sie sich ziert!
+Grausamer! Lass mich gehn! Das ist kapituliert.
+Pfui, schaemen Sie sich doch! Die abgedroschne Leier,
+Wenn's schon bergunter geht! Wer gibt mir einen Dreier
+Fuer ihre Tugend?
+
+Sophie.
+                  Freund, noch diesen letzten Kuss,
+Und dann leb wohl!
+
+Alcest.
+                   Du gehst?
+
+Sophie.
+                             Ich gehe, denn ich muss.
+
+Alcest.
+Du liebst mich, und du gehst?
+
+Sophie.
+                              Ich geh, weil ich dich liebe.
+Ich wuerde einen Freund verlieren, wenn ich bliebe.
+Es stroemt der Klagen Lauf am liebsten in der Nacht,
+An einem sichern Ort, wo nichts uns zittern macht.
+Man wird vertraulicher, je ruhiger man klaget;
+Allein fuer mein Geschlecht ist's stets zu viel gewaget.
+Die Liebe nennet sich zuerst Vertraulichkeit.
+Ein schmerzerweichtes Herz in dieser sichern Zeit
+Versagt dem Freunde nicht den Mund zu Freundschaftskuessen.
+Ein Freund ist auch ein Mensch.
+
+Soeller.
+                                Sie scheint es gut zu wissen.
+
+Sophie.
+Leb wohl!
+
+Alcest.
+          Vergiss es nie, dass ich der Deine sei.
+
+Soeller [erholt].
+Das Ungewitter zieht mir nah am Kopf vorbei.
+[Sophie geht ab. Alcest begleitet sie zur Haupttuere hinaus.]
+
+
+
+Fuenfter Auftritt
+
+Soeller [im Alkoven].
+O Tod! Er geht mit ihr! Weh mir, ich bin verloren!
+Heraus aus deinem Nest!
+[Er wagt sich halb aus dem Alkoven und horcht.]
+                        Ich bin auf beiden Ohren
+Entweder wirklich taub - Sie ist doch noch nicht fort!
+Und dennoch ruehrt sich nichts, ich hoere nicht ein Wort.
+Wie waer es, wenn ich mich ein bisschen naeher machte?
+[Er wagt sich langsam an die grosse Tuere.]
+Sie reden noch! Ganz leis! - Zum Henker!
+[Er meint, es kaeme jemand, und faehrt wie ein Blitz in den Alkoven.]
+                                         Sachte! Sachte!
+Es koemmt kein Mensch.
+[Er will wieder heraus.]
+                       Versuch's!
+[Er traut nicht.]
+                                  Das ist zu viel gewagt.
+[In der aeussersten Karikatur von Verlegenheit.]
+Was fang ich an! Ich bin ein Hahnrei!
+[Er rennt mit dem Kopf wider die Wand.]
+                                      Ah! es ragt
+An meiner Stirne schon das Zeichen meiner Wuerde
+Hervor. Was ist zu tun?
+[Er schlaegt auf die Tasche.]
+                        Komm, meine teure Buerde!
+Komm, rette dich mit mir, und leite mich zum Wein,
+Solang man trinken kann, laesst sich's noch gluecklich sein.
+Der wohlgekroente Stand ist keiner von den boesten;
+Als Hahnrei kann man sich eh als am Galgen troesten.
+[Eilig durch die Nebentuere fort.]
+
+
+
+Sechster Auftritt
+
+Alcest.
+Ihr grossen Geister sagt, dass keine Tugend sei
+Und Liebe Sinnlichkeit und Freundschaft Heuchelei,
+Dass man kein einzig Herz mit festen Mauern finde,
+Dass nur Gelegenheit die Staerksten ueberwinde,
+Dass es, wenn man in uns das Laster je vermisst,
+Beim Juengling Bloedigkeit und Furcht beim Maedchen ist.
+Es zittert, spottet ihr, die unerfahrne Jugend.
+Doch ist dies Zittern nicht selbst ein Gefuehl von Tugend?
+Ist diese Sympathie, dies schwimmende Gefuehl,
+Dem man sich schwer entreisst, nichts als ein Fibernspiel?
+Wie suess vertraeumt ich nicht die jugendlichen Stunden
+Einst in Sophiens Arm. Ich hatte nichts empfunden,
+Bis mir der Druck der Hand, ihr Blick, ihr Kuss entdeckt,
+Wie's einem Neuling ist, wenn er die Wollust schmeckt.
+Uns fuehrte keine Wahl mit klugem Rat zusammen,
+Wir sahn einander an, und standen schon in Flammen.
+Bist du der Liebe wert, ward da nicht lang gefragt;
+Es war erst halb gefuehlt, und war schon ganz gesagt.
+Wir lebten lange so die suessen Augenblicke;
+Zuletzt verschlug es sich. Ich fluchte dem Geschicke,
+Und schwur, dass Freundschaft, Lieb und Zaertlichkeit und Treu
+Der Maskeradenputz verkappter Laster sei.
+Und sucht in dem Gewuehl der koerperlichen Triebe
+Den Tod des Vorurteils, von Tugend und von Liebe.
+Zuletzt verhaerteten mich Wollust, Stolz und Zeit;
+Ich glaubte mich geschuetzt vor aller Zaertlichkeit.
+Stolz kehrt ich zu Sophien. Wie schoen war sie geworden!
+Ich stutzte. "Ha, ihr Mann ist doch vom grossen Orden
+Schon lange Ritter! Doch sie hat der Freunde mehr.
+Es sei drum! Wenn du kommst, so macht sie dir's nicht schwer.
+Ihr Sperren ruehrt mich nur, dass ich die Nase ruempfe:
+Gnung! Das gewohnte Spiel vom Faun und von der Nymphe."
+So dacht ich, sah sie oft, allein da fuehlt ich was,
+Ihr liederlichen Herrn, erklaert mir, was ist das?
+Das hier mich immer schilt, hier immer fuer sie redet,
+Mir alle Kuehnheit raubt, und jeden Anschlag toetet.
+Sie nennt mich ihren Freund, eroeffnet mir ihr Herz;
+Ich schwur die Freundschaft ab, doch teil ich ihren Schmerz.
+Sie sagt, sie habe mich als alle Menschen lieber;
+Ha! denk ich, Lieb ist Tand, und freu mich doch darueber.
+Sie liebt mich und verlaesst doch ihre Tugend nie;
+Die Tugend glaub ich nicht, und doch verehr ich sie.
+Heut hofft ich ziemlich viel und wagte nichts zu nehmen.
+So boes und doch so feig! Ich muss mich wahrlich schaemen.
+Entweder nennet mich Weib! Tueckisch ohne Kraft!
+Wo nicht, so bin ich noch nicht voellig lasterhaft.
+Was ist's? was treibt dich an, ihr Leben zu versuessen?
+Ist's Lieb? Ist's Eigennutz? Gedenkst du zu geniessen,
+Und willst es kaufen? Nein! Ich weiss, es fehlt ihr Geld,
+Und sie vertraut mir's nicht, das ist's, was mir gefaellt.
+Ich sinne jetzo nur auf ein versteckt Geschenke;
+Ich habe just noch Geld. Gut, dass ich gleich dran denke.
+Ich muss es zaehlen.
+[Er oeffnet die Schatulle.]
+                     Was! Was seh ich! Teufel! Leer!
+Von hundert Spezies kaum fuenfundzwanzig mehr!
+Seit heute nachmittag! Wer konnte sie entwenden?
+Die Schluessel kamen nicht die Zeit aus meinen Haenden.
+Wer war im Zimmer? Ha! Sophie! Gedanke fort!
+Mein Diener? O, der liegt an einem sichern Ort.
+Er schlaeft, gleich will ich hin, mit Laerm ihn aufzuwecken;
+Wenn er der Taeter ist, verraet er sich im Schrecken.
+
+
+
+Dritter Aufzug
+
+Erster Auftritt
+
+Die Wirtsstube.
+
+Der Wirt [im Schlafrocke, in dem Sessel hinter dem Tisch, worauf ein
+bald abgebrannt Licht, Kaffeezeug, Pfeifen und die Zeitungen. Nach den
+ersten Versen steht er auf und zieht sich in diesem Auftritt und dem
+Anfang des folgenden an.]
+Es steht mit Polen jetzt nicht eben allzugut!
+Allein ich passe drauf, was noch der Russe tut.
+Greift er's nur weislich an, so kann er nicht verlieren,
+Und er ist Kerls genug, den Tuerken abzufuehren,
+Kommt er nur recht in Schuss, da tobt er wie ein Baer.
+Ich wuesste, was ich taet, wenn ich der Russe waer;
+Ich zoeg vor das Serail, und ohne viel zu fragen,
+Schickt ich den Grosssultan ein wenig Zobeljagen.
+Krieg ich ihn nicht, den Brief, so komm ich nicht zur Ruh.
+Es ging wahrhaftig nicht mit rechten Dingen zu!
+Unmoeglich scheint es mir, das Raetsel aufzuloesen:
+Wenn man was Boeses tut, fuercht man sich vor dem Boesen.
+Es war nicht mein Beruf, drum kam die Furcht mich an;
+Und doch fuer einen Wirt ist es nicht wohlgetan,
+Zu zittern, wenn's im Haus rumort und geht und knistert;
+Denn mit Gespenstern sind die Diebe nah verschwistert.
+Es war kein Mensch zu Haus, nicht Soeller, nicht Alcest;
+Der Kellner konnt's nicht sein, die Maegde schliefen fest.
+Doch halt! - In aller Frueh, so zwischen drei und viere,
+Hoert ich ein leis Geraeusch, es ging Sophiens Tuere.
+Sie war vielleicht wohl selbst der Geist, vor dem ich floh.
+Es war ein Weibertritt, Sophie geht eben so.
+Was tat sie denn wohl da? - Man weiss, wie's Weiber machen;
+Sie visitieren gern und sehn der Fremden Sachen
+Und ihre Waesche gern. Haett ich nur dran gedacht,
+Ich haette sie erschreckt und dann sie ausgelacht.
+Sie haette mit gesucht, der Brief waer nun gefunden;
+Jetzt ist die schoene Zeit so ungebraucht verschwunden.
+Verflucht! Zur rechten Zeit faellt einem nie was ein,
+Und was man Gutes denkt, kommt meist erst hinterdrein.
+
+
+
+Zweiter Auftritt
+
+[Der Wirt. Sophie.]
+
+Sophie.
+Mein Vater, denken Sie! -
+
+Wirt.
+                          Nicht einmal guten Morgen?
+
+Sophie.
+Verzeihen Sie; mein Kopf schwillt von ganz andern Sorgen.
+
+Wirt.
+Warum?
+
+Sophie.
+       Alcestens Geld, das er erst kurz empfing,
+Ist miteinander fort.
+
+Wirt.
+                      Fort! das verfluchte Ding
+Um's Koenigs Pharao!
+
+Sophie.
+                     Nicht doch, es ist gestohlen!
+
+Wirt.
+Wie?
+
+Sophie.
+     Ei, vom Zimmer weg!
+
+Wirt.
+                         Den soll der Henker holen,
+Den Dieb! Wer ist's? Geschwind!
+
+Sophie.
+                                Wer's wuesste!
+
+Wirt.
+                                               Hier im Haus?
+
+Sophie.
+Ja, von Alcestens Tisch, aus der Schatull heraus.
+
+Wirt.
+Und wann?
+
+Sophie.
+          Heut nacht!
+
+Wirt [vor sich].
+                      Das ist fuer meiner Neugier Suenden!
+Die Schuld kommt noch auf mich, man wird den Wachsstock finden.
+
+Sophie [vor sich].
+Er ist bestuerzt und murrt, hat er's wohl selbst getan?
+Im Zimmer war er nun, der Wachsstock klagt ihn an.
+
+Wirt [vor sich].
+Hat es Sophie wohl selbst? Verflucht! das waer noch schlimmer!
+Sie wollte gestern Geld, und war heut nacht im Zimmer.
+[Laut.]
+Das ist ein dummer Streich! Gib acht! der tut uns weh;
+Wohlfeil und sicher sein ist unsre Renommee.
+
+Sophie.
+Wie's ihm ein Schaden ist, so ist's auch uns ein Schaden;
+Es wird am Ende doch dem Gastwirt aufgeladen.
+
+Wirt.
+Ja, und es ist ein Ding, fuer das er gar nichts kann;
+Ist Diebsgesind im Haus, wer ist's? Weiss er es dann?
+Es ist ein arger Streich!
+
+Sophie.
+                          Es schlaegt mich gaenzlich nieder.
+
+Wirt [vor sich].
+Aha, es wird ihr bang.
+[Laut, etwas verdriesslich.]
+                       Ich wollt', er haett es wieder!
+Ich waer recht froh.
+
+Sophie [vor sich].
+                     Schon gut, die Reue kommt ihm ein.
+[Laut.]
+Und wenn er's wieder hat, so mag der Taeter sein,
+Wer will; man sagt's ihm nicht, und ihn bekuemmert's weiter
+Auch nicht.
+
+Wirt [vor sich].
+            Wenn sie's nicht hat, bin ich ein Baerenhaeuter!
+[Laut.]
+Du bist ein gutes Kind, und mein Vertraun zu dir -
+Wart nur!
+[Er geht, nach der Tuere zu sehen.]
+
+Sophie [vor sich].
+          Gebt acht, er kommt und offenbart sich mir!
+
+Wirt.
+Ich kenne dich, Sophie; du pflegtest nie zu luegen.
+
+Sophie.
+Eh hab ich aller Welt als Ihnen was verschwiegen.
+Drum hoff' ich diesesmal auch zu verdienen -
+
+Wirt.
+                                             Schoen!
+Du bist mein Kind; und was geschehn ist, ist geschehn.
+
+Sophie.
+Papa, ich nehm's gewiss nicht strenger, als Sie's nehmen.
+
+Wirt.
+Es ist was Menschliches; nichts um sich viel zu schaemen.
+Dass du im Zimmer warst, das weiss kein Mensch als ich.
+
+Sophie [erschrocken].
+Sie wissen?
+
+Wirt [laechelnd].
+            Ich war drin, du kamst, ich hoerte dich;
+Ich wusst nicht, wer es war, und lief, als kaem der Teufel.
+
+Sophie [vor sich].
+Ja, ja, er hat das Geld! Nun ist es ausser Zweifel.
+
+Wirt.
+Erst jetzo fiel mir ein, ich hoert dich heute frueh.
+
+Sophie.
+Und was vortrefflich ist, es denkt kein Mensch an Sie.
+Ich fand den Wachsstock -
+
+Wirt.
+                          Du?
+
+Sophie.
+                              Ich!
+
+Wirt.
+                                   Schoen, bei meinem Leben!
+Nun sag, wie machen wir's, dass wir's ihm wiedergeben?
+
+Sophie.
+Sie sagen: "Herr Alcest! verschonen Sie mein Haus;
+Das Geld ist wieder da, ich hab den Dieb heraus.
+Sie wissen selbst, wie leicht Gelegenheit verfuehret;
+Doch kaum war es entwandt, so war er schon geruehret,
+Bekannt und gab es mir. Da haben Sie's! Verzeihn
+Sie ihm!" - Gewiss, Alcest wird gern zufrieden sein.
+
+Wirt.
+So was zu faedeln, hast du eine seltne Gabe.
+
+Sophie.
+Ja, bringen Sie's ihm so!
+
+Wirt.
+                          Gleich! wenn ich's nur erst habe.
+
+Sophie.
+Sie haben's nicht?
+
+Wirt.
+                   Eh nein! Wo haett' ich es denn her?
+
+Sophie.
+Woher?
+
+Wirt.
+       Nun ja! Woher? Gabst du mir's denn?
+
+Sophie.
+                                           Und wer
+Hat's denn?
+
+Wirt.
+            Wer's hat!
+
+Sophie.
+                       Jawohl! wenn Sie's nicht haben?
+
+Wirt.
+                                                       Possen!
+
+Sophie.
+Wo taten Sie's denn hin?
+
+Wirt.
+                         Ich glaub, du bist geschossen!
+Hast du's denn nicht?
+
+Sophie.
+                      Ich!
+
+Wirt.
+                           Ja!
+
+Sophie.
+                               Wie kaem ich denn dazu?
+
+Wirt [macht ihr pantomimisch das Stehlen vor].
+Eh!
+
+Sophie.
+    Ich versteh Sie nicht!
+
+Wirt.
+                           Wie unverschaemt bist du!
+Jetzt, da du's geben sollst, gedenkst du auszuweichen.
+Du hast's ja erst bekannt.
+[Zum Parterre.]
+                           Ihr Herrn seid meine Zeugen.
+
+Sophie.
+Nein, das ist mir zu hoch! Jetzt klagen Sie mich an;
+Und sagten nur erst jetzt, Sie haetten's selbst getan!
+
+Wirt.
+Du Kroete! Ich's getan! Ist das die schuld'ge Liebe,
+Die Ehrfurcht gegen mich? Du machst mich gar zum Diebe,
+Da du die Diebin bist!
+
+Sophie.
+                       Mein Vater!
+
+Wirt.
+                                   Warst du nicht
+Heut frueh im Zimmer?
+
+Sophie.
+                      Ja!
+
+Wirt.
+                          Und sagst mir ins Gesicht,
+Du haettest nicht das Geld?
+
+Sophie.
+                            Beweist das gleich?
+
+Wirt.
+                                                Ja!
+
+Sophie.
+                                                    Waren
+Sie denn nicht auch heut frueh -
+
+Wirt.
+                                 Ich fass dich bei den Haaren,
+Wenn du nicht schweigst und gehst!
+[Sie geht weinend ab.]
+                                   Du treibst den Spass zu weit,
+Nichtswuerdge! - Sie ist fort! Es war ihr hohe Zeit!
+Vielleicht bild't sie sich ein, mit Leugnen durchzukommen!
+Das Geld ist einmal fort, und gnug, sie hat's genommen!
+
+
+
+Dritter Auftritt
+
+[Alcest in Gedanken. Der Wirt.]
+
+Wirt [verlegen und bittend].
+Ich bin recht sehr bestuerzt, dass ich erfahren muss -!
+Ich sehe, gnaedger Herr, Sie sind noch voll Verdruss.
+Doch bitt ich, vorderhand es guetigst zu verschweigen;
+Es wird sich wohl ein Weg zum Wiederkommen zeigen.
+Erfaehrt man's in der Stadt, so freun die Neider sich,
+Und ihre Bosheit schiebt wohl alle Schuld auf mich.
+Es kann kein Fremder sein, ein Hausdieb hat's genommen.
+Sein Sie nur nicht erzuernt, es wird schon wiederkommen.
+Wie hoch belaeuft sich's denn?
+
+Alcest.
+                               Auf achtzig Taler.
+
+Wirt.
+                                                  Ei!
+
+Alcest.
+Doch achtzig Taler -
+
+Wirt.
+                     Pest! sind keine Kinderei!
+
+Alcest.
+Und dennoch wollt ich sie vergessen und entbehren,
+Wuesst ich, durch wen und wie sie weggekommen waeren.
+
+Wirt.
+Wenn man das Geld nur hat, so fragt man nicht einmal,
+Ob's Michel oder Hans, und wann und wie er's stahl.
+
+Alcest [vor sich].
+Mein Diener hat es nicht, er ist kein Mensch zum Rauben.
+Und in dem Zimmer war - Nein, nein, ich mag's nicht glauben!
+
+Wirt.
+Sie brechen sich den Kopf? Es ist vergebne Mueh,
+Genug, ich schaff das Geld.
+
+Alcest.
+                            Mein Geld?
+
+Wirt.
+                                       Ja, wetten Sie!
+Genung, schaff ich sie nicht, die achtzig bare Taler,
+So nennet mich Pique As, Mann von Papier, Hans Prahler!
+
+Alcest.
+Sie wissen also? -
+
+Wirt.
+                   Hm! Ich bring's heraus, das Geld.
+
+Alcest.
+Ei, sagen Sie mir's doch -
+
+Wirt.
+                           Nicht um die ganze Welt!
+
+Alcest.
+Wer nahm's, ich bitte Sie!
+
+Wirt.
+                           Ich sag, ich darf's nicht sagen.
+
+Alcest.
+Doch jemand aus dem Haus?
+
+Wirt.
+                          Sie werden's nicht erfragen.
+
+Alcest.
+Vielleicht die junge Magd?
+
+Wirt.
+                           Die gute Hanne! Nein!
+
+Alcest.
+Der Kellner hat's doch nicht?
+
+Wirt.
+                              Der Kellner! das kann sein!
+
+Alcest.
+Die Koechin ist zu dumm -
+
+Wirt.
+                          Ich wollte nicht drauf schwoeren.
+
+Alcest.
+Der Kuechenjunge Hans?
+
+Wirt.
+                       Ja, ja, das laesst sich hoeren.
+
+Alcest.
+Der Gaertner koennte wohl -
+
+Wirt.
+                            Bald, balde sind Sie da.
+
+Alcest.
+Der Sohn des Gaertners?
+
+Wirt.
+                        Nein!
+
+Alcest.
+                              Vielleicht -
+
+Wirt [halblaut].
+                                           Der Haushund? - Ja.
+
+Alcest [vor sich].
+Wart nur, du dummer Kerl; ich weiss dich schon zu kriegen!
+[Laut.]
+So hab's denn, wer es will! Daran kann wenig liegen,
+Wenn's wiederkommt!
+[Er tut, als ging er weg.]
+
+Wirt.
+                    Jawohl!
+
+Alcest [als wenn ihm etwas einfiele].
+                            Herr Wirt! Mein Tintenfass
+Ist leer, und dieser Brief verlangt express -
+[Er zieht den Brief aus der Tasche.]
+
+Wirt.
+                                              Ei was!
+Erst gestern kam er an, und heute schon zu schreiben,
+Es muss was Wichtigs sein.
+
+Alcest.
+                           Er darf nicht liegenbleiben.
+
+Wirt.
+Es ist ein grosses Glueck, wenn man korrespondiert.
+
+Alcest.
+Nicht eben allemal! Die Zeit, die man verliert,
+Wird nicht sogleich ersetzt.
+
+Wirt.
+                             O das geht wie im Spiele:
+Da kommt ein einzger Brief, und troestet uns fuer viele.
+Verzeihn Sie, gnaedger Herr! Der gestrige enthaelt
+Viel Wichtigs? Duerft ich wohl -?
+
+Alcest.
+                                  Nicht um die ganze Welt!
+
+Wirt.
+Vielleicht vom Norden her?
+
+Alcest.
+                           Ich sag, ich darf's nicht sagen.
+
+Wirt.
+Aus Polen denk ich wohl?
+
+Alcest.
+                         Sie werden's nicht erfragen.
+
+Wirt.
+Vielleicht vom Koenige?
+
+Alcest.
+                        Vom armen Koenig? Nein!
+
+Wirt.
+Gewiss vom Tuerkenmarsch?
+
+Alcest.
+                          Vom Tuerken? Das kann sein!
+
+Wirt.
+Doch nicht vom Paoli?
+
+Alcest.
+                      Ich wollte nicht drauf schwoeren.
+
+Wirt.
+Vom Fuenfundvierziger?
+
+Alcest.
+                       Nun ja, das laesst sich hoeren.
+
+Wirt.
+Doch vom Kometen nichts?
+
+Alcest.
+                         Bald, balde sind Sie da.
+
+Wirt.
+Vom saechsischen Gespenst?
+
+Alcest.
+                           Dem Jesuiten? Ja!
+
+Wirt.
+Sie scheinen gar nicht viel auf Ihren Knecht zu bauen.
+
+Alcest.
+Wer selbst misstrauisch ist, verdient der viel Vertrauen?
+
+Wirt.
+Und was verlangen Sie fuer ein Vertraun von mir?
+
+Alcest.
+Wer ist der Dieb? Mein Brief steht gleich zu Diensten. Hier:
+Sehr billig ist der Tausch, wozu ich mich erbiete.
+Nun, wollen Sie den Brief?
+
+Wirt [konfundiert und begierig].
+                           Ach, allzuviele Guete!
+[Vor sich.]
+Waer's nur nicht eben das, was er von mir begehrt.
+
+Alcest.
+Sie sehen doch, ein Dienst ist wohl des andern wert.
+Und ich verrate nichts, ich schwoer bei meiner Ehre.
+
+Wirt.
+Wenn nur der Brief nicht gar zu appetitlich waere!
+Allein wie? wenn Sophie - Eh nun! das mag sie sehn!
+Die Reizung ist zu gross, kein Mensch kann widerstehn!
+Er waessert mir das Maul, wie ein gebeizter Hase.
+
+Alcest [vor sich].
+So stach kein Schinken je dem Windhund in die Nase.
+
+Wirt [beschaemt, nachgebend und noch zaudernd].
+Sie wollen's, gnaedger Herr, und Ihre Guetigkeit -
+
+Alcest [vor sich].
+Jetzt beisst er an.
+
+Wirt.
+                    Zwingt mich auch zur Vertraulichkeit.
+[Zweifelnd und halb bittend.]
+Versprechen Sie, soll ich auch gleich den Brief bekommen?
+
+Alcest [reicht den Brief hin].
+Den Augenblick.
+
+Wirt, [der sich langsam dem Alcest, mit unverwandten Augen auf den
+Brief, naehert.]
+                Der Dieb -
+
+Alcest.
+                           Der Dieb!
+
+Wirt.
+                                     Der's weggenommen,
+Ist -
+
+Alcest.
+      Nur heraus!
+
+Wirt.
+                  Ist mei-
+
+Alcest.
+                           Nun?
+
+Wirt [mit einem herzhaften Tone, und faehrt zugleich zu und reisst
+Alcesten den Brief aus der Hand.]
+                                Meine Tochter!
+
+Alcest [erstaunt].
+                                               Wie?
+
+Wirt [laeuft hervor an die Lichter, reisst vor geschwindem Aufmachen
+das Kuvert in Stuecken und faengt an zu lesen.]
+"Hochwohlgeborner Herr!"
+
+Alcest [kriegt ihn bei der Schulter].
+                         Sie waer's? Nein, sagen Sie
+Die Wahrheit!
+
+Wirt [ungeduldig].
+              Ja, sie ist's! O, er ist unertraeglich!
+Er liest. "Insonders" -
+
+Alcest [wie oben].
+                        Nein, Herr Wirt! Sophie! das ist unmoeglich!
+
+Wirt [reisst sich los und faehrt, ohne ihm zu antworten, fort].
+"Hochzuverehrender" -
+
+Alcest [wie oben].
+                      Ich bin ganz stumm davon.
+
+Wirt [wie oben].
+Ich wollt, er waer es. "Herr" -
+
+Alcest [wie oben].
+                                So hoeren Sie!
+
+Wirt [wie oben].
+                                               "Patron" -
+
+Alcest.
+Sie sind ein dummer Kerl.
+
+Wirt.
+                          Von Herzen gern.
+
+Alcest.
+                                           Sie taugen
+Zu nichts!
+
+Wirt.
+           Ja, gnaedger Herr.
+
+Alcest [im Abgehen fuer sich].
+                              Das will ich nun schon brauchen.
+
+
+
+Vierter Auftritt
+
+Der Wirt [liest und spricht dazwischen].
+"Und Goenner" - Ist er fort? - "Die viele Guetigkeit,
+Die mir so manchen Fehl verziehen hat, verzeiht
+Mir, hoff ich, diesmal auch." - Was gibt's denn zu verzeihen?
+"Ich weiss es, gnaedger Herr, dass Sie sich mit mir freuen."
+Schon gut! - "Der Himmel hat mir heut ein Glueck geschenkt,
+Das jeden Bauern freut, und manchen Reichen kraenkt,
+Er hat vom sechsten Sohn mein liebes Weib entbunden."
+Ich bin des Tods! "Ganz frueh hat er sich eingefunden,
+Der Knab" - Der Balg! Der -! O ersaeuft! erdrosselt ihn!
+"Nun macht Ihr guetig Hetz mich armen Mann so kuehn" -
+Ach ich ersticke fast! "Und bitte Ihro Gnaden -!"
+An Galgen mit dem Hund, den Schindersknecht zum Paten!
+Wie heisst er denn, der Kerl mit seiner Hecke da?
+Franz. Ah, nun kommt Latein! Can - Candidatus? Ja.
+Ein Kandidat, o ja, die sind sonst wohl bei Blute.
+Theologiae; und - wie? Pachter auf dem Gute.
+Wart nur, das geht dir nicht so ungenossen aus!
+Alcest! Ich will dich schon! Du sollst mir aus dem Haus!
+Mich, einen alten Mann, so schaendlich anzufuehren!
+Wie moecht ich ihm an Hals! Ich liess ihn gern zitieren.
+Doch meine Tochter! O! das Henkersding geht schief!
+Und ich verrate sie um den Gevatternbrief!
+[Er fasst sich in die Peruecke.]
+Schweinsaug'ger Ochsenkopf mit wahren Eselsohren!
+Der Brief! Das Geld! Der Streich! Ich bin als wie verloren,
+So dumm! So voll Begier nach Rach und Pruegeln. Ha!
+[Er erwischt einen Stock und laeuft auf dem Theater herum.]
+Ist denn kein Buckel nicht fuer meinen Hunger da?
+O waer ich doch ein Wind mit ein paar hundert Fluegeln,
+Ich moecht die ganze Welt, Sonn, Mond und Sterne pruegeln.
+Ich sterbe, wenn ich nicht - Zerbraech nur eins ein Glas,
+So haett ich doch Raison; beging der Jung nur was!
+[Er stoesst auf seinen Sessel und pruegelt ihn aus.]
+Weh, bist du staubig! Nun komm her, du sollst mich laben.
+Alcest! o koennt ich doch so deinen Buckel haben!
+
+
+
+Fuenfter Auftritt
+
+[Der Wirt schlaegt immer fort. Soeller kommt ganz in der ersten
+Kulisse heraus und erschrickt; er ist im Domino, die Maske auf den Arm
+gebunden, und hat ein halbes Raeuschchen.]
+
+Soeller.
+Was gibt's? Was? Ist er toll? Nun sei auf deiner Hut,
+Das waer ein schoen Emploi, des Sessels Substitut!
+Was fuer ein boeser Geist mag doch den Alten plagen?
+[Zum Parterre.]
+Wer Herz von Ihnen hat, der komm herauf und frag'en!
+
+Wirt [ohne Soellern zu sehn].
+Ich kann nicht mehr! o weh! es schmerzt mich Rueck' und Arm!
+[Er wirft sich in den gepruegelten Sessel.]
+Ich schwitz am ganzen Leib.
+
+Soeller [vor sich].
+                            Ja, ja, Motion macht warm.
+[Er zeigt sich dem Wirt.]
+Herr Vater!
+
+Wirt.
+            Ah, Mosje! Er lebt die Nacht beim Sause,
+Ich quaele mich zu Tod, und Er laeuft aus dem Hause?
+Da traegt der Fastnachtsnarr zum Tanz und Spiel sein Geld,
+Und lacht, wenn hier im Haus der Teufel Fastnacht haelt!
+
+Soeller.
+So aufgebracht?
+
+Wirt.
+                O wart, ich will mich nicht mehr quaelen.
+
+Soeller.
+Was gab's?
+
+Wirt [zornig].
+           Alcest, Sophie! Soll ich's Ihm noch erzaehlen?
+
+Soeller.
+Nein, nein.
+
+Wirt.
+            Waert Ihr geholt, so haett ich endlich Ruh,
+Und der verdammte Kerl, der Kandidat, dazu!
+[Ab.]
+
+
+
+Sechster Auftritt
+
+Soeller [mit Karikatur von Angst].
+Was gab's? Weh dir! vielleicht in wenig Augenblicken! -
+Gib deine Stirne preis! Parier nur deinen Ruecken!
+Vielleicht ist's 'raus! O weh! O wuesst ihr, wie mir's graust!
+Es wird mir siedend heiss. So war's dem Doktor Faust
+Nicht halb zumut! Nicht halb war's so Richard dem Dritten!
+Hoell da! der Galgen da! der Hahnrei in der Mitten!
+[Er laeuft wie unsinnig herum, endlich besinnt er sich.]
+Ach, des gestohlnen Guts wird keiner jemals froh!
+Geh, Memme, Boesewicht! Warum erschrickst du so?
+Vielleicht ist's nicht so schlimm. Ich will es schon erfahren.
+[Er erblickt Alcesten und laeuft fort.]
+O weh! er ist's! er ist's! Er fasst mich bei den Haaren.
+
+
+
+Siebenter Auftritt
+
+Alcest.
+Solch einen schweren Streit empfand dies Herz noch nie.
+Das seltene Geschoepf, in dem die Phantasie
+Des zaertlichen Alcests das Bild der Tugend ehrte,
+Die ihn den hoechsten Grad der suessten Liebe lehrte,
+Ihm Gottheit, Maedchen, Freund, in allem alles war -
+Jetzt so herabgesetzt! Es ueberlaeuft mich! Zwar
+Ist sie so ziemlich weg, die Hoheit der Ideen;
+Ich lass sie als ein Weib bei andern Weibern stehen;
+Allein so tief! so tief! Das treibt zur Raserei.
+Mein widerspenstig Herz steht ihr noch immer bei.
+Wie klein! Kannst du denn das nicht ueber dich vermoegen?
+Ergreif das schoene Glueck, es kommt dir ja entgegen.
+Ein unvergleichlich Weib, das du begierig liebst,
+Braucht Geld. Geschwind, Alcest, der Pfennig, den du gibst,
+Traegt seinen Taler. Nun hat sie sich's selbst genommen;
+Schon gut, da mag sie noch einmal mit Tugend kommen!
+Geh wie ein Debauche, und sag mit kaltem Blut:
+Madam, Sie haben doch das Geld genommen; gut,
+Es ist mir herzlich lieb, nur ohne Furcht bedienen
+Sie sich der wenigen. Was mein ist, ist auch Ihnen.
+Dann den vertrauten Ton von halbem Mann und Frau -
+Und selbst die Tugend nimmt nicht alles so genau,
+Wenn man huebsch sachte geht. Weit eher wird sie weichen.
+Sie kommt, du bist bestuerzt. Das ist ein schlimmes Zeichen.
+Alcest, du schickst dich nicht zur Bosheit, zum Betrug;
+Dein Herz ist uebrig boes, allein nicht stark genug.
+
+
+
+Achter Auftritt
+
+[Alcest. Sophie.]
+
+Sophie.
+Was machen Sie, Alcest! Sie scheinen mich zu fliehen.
+Hat denn die Einsamkeit so viel, Sie anzuziehen?
+
+Alcest [munter].
+Fuer diesmal weiss ich nichts, was mich besonders zog,
+Und ohne viel Raison gibt's manchen Monolog.
+
+Sophie.
+Zwar der Verlust ist gross und kann Sie billig schmerzen.
+
+Alcest.
+Ei wohl, was will das sein. Es liegt mir nicht am Herzen!
+Wir haben's ja; was ist's denn um das bisschen Geld,
+Lasst's fallen, wenn es nur in gute Haende faellt.
+
+Sophie.
+Die grosse Guetigkeit wird gerne zum Verschwenden.
+
+Alcest.
+Oh, ein Verschwender weiss sein Geld oft anzuwenden.
+
+Sophie.
+Wie soll ich das verstehn?
+
+Alcest [laechelnd].
+                           Das?
+
+Sophie.
+                                Ja, wie passt das hier?
+
+Alcest.
+Sie kennen mich, Sophie, sein Sie vertraut mit mir!
+Das Geld ist einmal fort! Wo's liegt, da mag es liegen!
+Haett ich es eh gewusst, ich haette stillgeschwiegen;
+Da sich die Sache so verhaelt -
+
+Sophie [erstaunt].
+                                So wissen Sie?
+
+Alcest [mit Zaertlichkeit, er ergreift ihre Hand und kuesst sie].
+Ihr Vater! - Ja, ich weiss's, geliebteste Sophie!
+
+Sophie [verwundert und beschaemt].
+Und Sie verzeihn?
+
+Alcest.
+                  Verzeihn? Ist hier denn ein Verbrechen?
+
+Sophie.
+Mich duenkt -
+
+Alcest.
+              Erlaube mir, dass wir von Herzen sprechen.
+Du weisst es, dass Alcest noch immer fuer dich brennt.
+Das Glueck entriss dich mir, und hat uns nicht getrennt:
+Dein Herz ist immer mein, meins immer dein geblieben.
+Mein Geld ist alles dein, so gut, als waer's verschrieben;
+Du hast ein gleiches Recht an all mein Gut, wie ich.
+Nimm, was du gerne hast, Sophie, nur liebe mich!
+[Er umarmt sie; sie schweigt.]
+Befiehl! Du findest mich zu allem gleich erboetig.
+
+Sophie [stolz, indem sie sich von ihm losreisst].
+Respekt vor Ihrem Geld! allein ich hab's nicht noetig.
+Was ist das fuer ein Ton? Ich weiss nicht, fass ich's recht?
+Ha! Sie verkennen mich.
+
+Alcest [pikiert].
+                        O, Ihr ergebner Knecht
+Kennt Sie nur gar zu wohl, und weiss auch, was er fodert,
+Und sieht nicht ein, warum Ihr Zorn so heftig lodert.
+Wer sich so weit vergeht -
+
+Sophie [erstaunt].
+                           Vergeht? wie das?
+
+Alcest.
+                                             Madam!
+
+Sophie [aufgebracht].
+Was soll das heissen, Herr?
+
+Alcest.
+                            Verzeihn Sie meiner Scham:
+Ich liebe Sie zu sehr, um so was laut zu sagen.
+
+Sophie [mit Zorn].
+Alcest!
+
+Alcest.
+        Belieben Sie nur den Papa zu fragen.
+Der sagte mir es.
+
+Sophie [mit einem Ausbruch von Heftigkeit].
+                  Was? Ich will es wissen! Was?
+Der Teufel! Wollen Sie!
+
+Alcest.
+                        Er sagte, dass Sie das -
+
+Sophie [wie oben].
+Nun! das!
+
+Alcest.
+          Eh nun! dass Sie - dass Sie das Geld genommen.
+
+Sophie [mit Wut und Traenen, indem sie sich wegwendet].
+Er darf! Ist es so weit mit seiner Bosheit kommen?
+
+Alcest [bittend].
+Sophie!
+
+Sophie [weggewendet].
+        Sie sind nicht wert -
+
+Alcest [wie oben].
+                              Sophie!
+
+Sophie.
+                                      Mir vom Gesicht!
+
+Alcest.
+Verzeihn Sie!
+
+Sophie.
+              Weg von mir! Nein, ich verzeih es nicht!
+Mein Vater scheut sich nicht, mir meinen Ruf zu rauben.
+Und von Sophien? Wie? Alcest, Sie konnten's glauben?
+Ich haett es nicht gesagt, um alles Gut der Welt;
+Allein es muss heraus! Mein Vater hat das Geld.
+[Eilig ab.]
+
+
+
+Neunter Auftritt
+
+[Alcest, hernach Soeller.]
+
+Alcest [wirft sich in den Sessel].
+Nun, Herr Alcest, wie steht's! Nun waerst du ziemlich klueger.
+Der Vater und Sophie, und eins waer der Betrueger.
+Sie sind doch beide sonst von allem Vorwurf rein.
+Ha, Soeller! Still einmal! Doch nein, es kann nicht sein;
+Er war die ganze Nacht nicht hier im Haus; vor allen
+Waer sicher mein Verdacht auf diesen Kerl gefallen.
+Er ist am faehigsten zu Bosheit, Trug und List.
+Allein wie kann es sein, dass er der Taeter ist?
+
+Soeller [in gewoehnlicher Kleidung, mit einer Weinlaune].
+Da sitzt er. Uh! mir ist kein Mensch verhasst wie dieser.
+Es steht ihm an der Stirn: Hirschapotheksproviser.
+
+Alcest [vor sich].
+Da kommt er, wie bestellt!
+[Laut.]
+                           Wie steht's, Herr Soeller?
+
+Soeller.
+                                                      Dumm!
+Es geht mir die Musik noch so im Kopf herum.
+[Er reibt die Stirn.]
+Er tut mir greulich weh.
+
+Alcest.
+                         Sie waren auf dem Balle;
+Viel Damen da?
+
+Soeller.
+               Wie sonst! Die Maus laeuft zu der Falle,
+Weil Speck dran ist.
+
+Alcest.
+                     Ging's brav?
+
+Soeller.
+                                  Gar sehr!
+
+Alcest.
+                                            Was tanzten Sie
+
+Soeller.
+Ich hab nur zugesehn.
+[Zum Parterre.]
+                      Dem Tanz von heute frueh.
+
+Alcest.
+Herr Soeller nicht getanzt? ei, das ist zu verwundern;
+Da blieb ich lieber weg.
+
+Soeller.
+                         Ich wollte mich ermuntern.
+
+Alcest.
+Und ging es nicht?
+
+Soeller.
+                   Eh, nein! im Kopfe drueckt es mich
+Gewaltig, und da war mir's gar nicht tanzerlich.
+
+Alcest.
+Ei!
+
+Soeller.
+    Und das Schlimmste war, ich konnte gar nicht wehren:
+Je mehr ich hoert und sah, verging mir Sehn und Hoeren.
+
+Alcest.
+So arg? Das ist mir leid! Das Uebel kommt geschwind.
+
+Soeller.
+O nein, ich spuer es schon - seitdem Sie bei uns sind,
+Und laenger.
+
+Alcest.
+             Sonderbar!
+
+Soeller.
+                        Und ist nicht zu vertreiben.
+
+Alcest.
+Eh, lass Er sich den Kopf mit warmen Tuechern reiben!
+Vielleicht verzieht es sich.
+
+Soeller [vor sich].
+                             Ich glaub, er spottet noch!
+[Laut.]
+Ja, das geht nicht so leicht.
+
+Alcest.
+                              Am Ende gibt sich's doch.
+Und es geschieht Ihm recht. Es wird noch besser kommen!
+Er hat die arme Frau nicht einmal mitgenommen,
+Wenn Er zum Balle ging; und es ist gar nicht fein,
+Er laesst der jungen Frau das kalte Bett allein.
+
+Soeller.
+Ah! Sie bleibt gern zu Haus und laesst mich immer schwaermen;
+Denn sie versteht die Kunst, sich ohne mich zu waermen.
+
+Alcest.
+Das waere doch kurios!
+
+Soeller.
+                       O ja, wer 's Naschen liebt,
+Der merkt sich ohne Wink, wo's was zum besten gibt.
+
+Alcest [pikiert].
+Wieso verbluemt?
+
+Soeller.
+                 Es ist ganz deutlich, was ich meine.
+Exempli gratia: des alten Vaters Weine
+Trink ich recht gern; allein er rueckt nicht gern heraus,
+Er schont das Seinige; da trink ich ausserm Haus!
+
+Alcest [mit Ahndung].
+Mein Herr, bedenken Sie! -
+
+Soeller [mit Hohn].
+                           Herr! Freund von Frauenzimmern!
+Sie ist nun meine Frau, und Sie kann's nichts bekuemmern,
+Und wenn sie noch ihr Mann fuer sonst was anders haelt.
+
+Alcest [mit zurueckgehaltenem Zorne].
+Was Mann! Mann oder nicht! Ich trotz der ganzen Welt;
+Und unterstehn Sie sich, noch einmal was zu sagen -
+
+Soeller [geschreckt, vor sich].
+O schoen! Ich soll ihn noch wohl gar am Ende fragen,
+Wie tugendhaft sie ist?
+[Laut.]
+                        Mein Herd ist doch mein Herd!
+Trotz jedem fremden Koch!
+
+Alcest.
+                          Er ist die Frau nicht wert!
+So schoen, so tugendhaft! so vielen Reiz der Seele!
+So viel ihm zugebracht! es ist nichts, was ihr fehle.
+
+Soeller.
+Sie hat, ich hab's gemerkt, besondern Reiz im Blut,
+Und auch der Kopfschmuck war ein zugebrachtes Gut.
+Ich war praedestiniert zu einem solchen Weibe,
+Und zwar zum Hahnrei schon gekroent in Mutterleibe.
+
+Alcest [herausbrechend].
+Herr Soeller!
+
+Soeller [keck].
+              Soll er was?
+
+Alcest [zurueckhaltend].
+                           Ich sag Ihm, sei Er still!
+
+Soeller.
+Ich will doch sehn, wer mir das Maul verbieten will.
+
+Alcest.
+Haett ich Ihn anderswo, ich wies Ihm, wer es waere!
+
+Soeller [trocken].
+Der beste Champion fuer meines Weibes Ehre.
+
+Alcest.
+Gewiss!
+
+Soeller.
+        Es weiss kein Mensch so gut, wie weit sie geht.
+
+Alcest.
+Verflucht!
+
+Soeller.
+           O Herr Alcest! wir wissen ja, wie's steht.
+Nur still! ein bisschen still! Wir wollen uns vergleichen,
+Und da versteht sich's schon, die Herren Ihresgleichen,
+Die schneiden meist fuer sich das ganze Kornfeld um,
+Und lassen dann dem Mann das Spicilegium.
+
+Alcest.
+Mein Herr, ich wundre mich, dass Sie sich unterfangen.
+
+Soeller.
+O, mir sind auch gar oft die Augen uebergangen,
+Und taeglich ist mir's noch, als roech ich Zwiebeln.
+
+Alcest [zornig und entschlossen].
+                                                     Wie?
+Mein Herr, nun geht's zu weit! Heraus! Was wollen Sie?
+Was, glauben Sie, vermag Sophiens Ehr zu rauben?
+
+Soeller [herzhaft].
+Eh, Herre, was man sieht, das geht noch uebers Glauben.
+
+Alcest.
+Wie! sieht? Wie nehmen Sie das Sehen?
+
+Soeller.
+                                      Wie man's nimmt.
+Vom Hoeren und vom Sehn.
+
+Alcest.
+                         Ha!
+
+Soeller.
+                             Nur nicht so ergrimmt!
+
+Alcest [mit dem entschlossensten Zorne].
+Was haben Sie gehoert? Was haben Sie gesehen?
+
+Soeller [erschrocken, will sich wegbegeben].
+Erlauben Sie, mein Herr!
+
+Alcest [ihn zurueckhaltend].
+                         Wohin?
+
+Soeller.
+                                Beiseit zu gehen.
+
+Alcest.
+Sie kommen hier nicht los!
+
+Soeller [vor sich].
+                           Ob ihn ein Teufel plagt!
+
+Alcest.
+Was hoerten Sie?
+
+Soeller.
+                 Ich? Nichts! Man hat mir's nur gesagt!
+
+Alcest [dringend zornig].
+Wer war der Mann?
+
+Soeller.
+                  Der Mann! das war ein Mann.
+
+Alcest [heftiger und auf ihn losgehend].
+                                              Geschwinde!
+
+Soeller [in Angst].
+Der's selbst mit Augen sah.
+[Herzhafter.]
+                            Ich rufe dem Gesinde!
+
+Alcest [kriegt ihn beim Kragen].
+Wer war's?
+
+Soeller [will sich losreissen].
+           Was Hoelle!
+
+Alcest [haelt ihn feste].
+                       Wer? Sie uebertreiben mich!
+[Er zieht den Degen.]
+Wer ist der Boesewicht? der Schelm? der Luegner?
+
+Soeller [faellt vor Angst auf die Kniee].
+                                                 Ich!
+
+Alcest [drohend].
+Was haben Sie gesehn?
+
+Soeller [furchtsam].
+                      Ei nun, das sieht man immer,
+Der Herr, das ist ein Herr, Sophie ein Frauenzimmer.
+
+Alcest [wie oben].
+Und weiter?
+
+Soeller.
+            Nun, da geht's denn so den Lauf der Welt,
+Wie's geht, wenn sie dem Herrn und ihr der Herr gefaellt.
+
+Alcest.
+Das heisst?
+
+Soeller.
+            Ich daechte doch, Sie wuessten's ohne Fragen.
+
+Alcest.
+Nun?
+
+Soeller.
+     Man hat nicht das Herz, so etwas zu versagen.
+
+Alcest.
+Wie, Herre, so etwas?
+
+Soeller.
+                      O lassen Sie mir Ruh!
+
+Alcest [immer wie oben].
+Beim Teufel!
+
+Soeller.
+             O verflucht, es heisst ein Rendezvous.
+
+Alcest [erschrocken].
+Er luegt!
+
+Soeller [vor sich].
+          Nun bricht es los.
+
+Alcest [vor sich].
+                             O weh, wir sind verraten.
+[Er steckt den Degen ein.]
+
+Soeller [vor sich].
+Er ist erschreckt. Nun Herz! Er kann dir doch nicht schaden.
+
+Alcest [erholt].
+Was meinen Sie damit?
+
+Soeller [trotzig].
+                      O wir verstehn uns schon.
+Das Lustspiel heute nacht! Ich stand nicht weit davon.
+
+Alcest [erstaunt].
+Und wo?
+
+Soeller.
+        Im Kabinett!
+
+Alcest.
+                     So war Er auf dem Balle.
+
+Soeller.
+Wer war denn auf dem Schmaus? Nur still und ohne Galle
+Zwei Woertchen: Was man noch so heimlich treiben mag,
+Ihr Herren, merkt's euch wohl, es kommt zuletzt an Tag.
+
+Alcest.
+Es kommt wohl noch heraus, dass Er der Dieb ist. Raben
+Und Dohlen wollt ich eh in meinem Hause haben
+Als Ihn. Pfui! schlechter Mensch!
+
+Soeller.
+                                  Ja, ja, ich bin wohl schlecht;
+Allein, ihr grossen Herrn, ihr habt wohl immer recht?
+Ihr wollt mit unserm Gut nur nach Belieben schalten;
+Ihr haltet kein Gesetz, und andre sollen's halten?
+Das ist sehr einerlei, Geluest nach Fleisch, nach Gold!
+Seid erst nicht haengenswert, wenn ihr uns haengen wollt.
+
+Alcest.
+Er untersteht sich noch -
+
+Soeller.
+                          Ich darf mich unterstehen.
+Gewiss, es ist kein Spass, gehoernt herumzugehen.
+In summa, nehmen Sie's nur nicht so gar genau:
+Ich stahl dem Herrn sein Geld, und er mir meine Frau.
+
+Alcest [drohend].
+Was stahl ich?
+
+Soeller.
+               Nichts, mein Herr! Es war schon laengst Ihr eigen,
+Noch eh es meine war.
+
+Alcest.
+                      Soll -
+
+Soeller.
+                             Da muss ich wohl schweigen.
+
+Alcest.
+An Galgen mit dem Dieb!
+
+Soeller.
+                        Erinnern Sie sich nicht,
+Dass ein gewiss Gesetz von andern Leuten spricht?
+
+Alcest.
+Herr Soeller!
+
+Soeller [macht das Zeichen des Koepfens].
+              Ja, man hilft euch Naeschern auch vom Brode.
+
+Alcest.
+Ist Er ein Praktikus, und haelt das Zeug fuer Mode:
+Gehangen wird Er noch, zum wenigsten gestaeupt.
+
+Soeller [zeigt auf die Stirne].
+Gebrandmarkt bin ich schon.
+
+
+
+Letzter Auftritt
+
+[Vorige. Der Wirt. Sophie.]
+
+Sophie [im Fond].
+                            Mein harter Vater bleibt
+Auf dem verhassten Ton.
+
+Wirt [im Fond].
+                        Das Maedchen will nicht weichen.
+
+Sophie.
+Da ist Alcest.
+
+Wirt [erblickt Alcesten].
+               Aha!
+
+Sophie.
+                    Es muss, es muss sich zeigen!
+
+Wirt [zu Alcesten].
+Mein Herr, sie ist der Dieb!
+
+Sophie [auf der andern Seite].
+                             Er ist der Dieb, mein Herr!
+
+Alcest [sieht sie beide lachend an, dann sagt er in einem Tone wie
+sie, auf Soellern deutend].
+Er ist der Dieb!
+
+Soeller [vor sich].
+                 Nun, Haut, nun halt dich fest!
+
+Sophie.
+                                                Er!
+
+Wirt.
+                                                    Er?
+
+Alcest.
+Sie haben's beide nicht; er hat's!
+
+Wirt.
+                                   Schlagt einen Nagel
+Ihm durch den Kopf, aufs Rad!
+
+Sophie.
+                              Du?
+
+Soeller [vor sich].
+                                  Wolkenbruch und Hagel!
+
+Wirt.
+Ich moechte dich -
+
+Alcest.
+                   Mein Herr! ich bitte nur Geduld!
+Sophie war im Verdacht, doch nicht mit ihrer Schuld.
+Sie kam, besuchte mich. Der Schritt war wohl verwegen;
+Doch ihre Tugend darf's -
+[Zu Soeller.]
+                          Sie waren ja zugegen!
+[Sophie erstaunt.]
+Wir wussten nichts davon, vertraulich schwieg die Nacht,
+Die Tugend -!
+
+Soeller.
+              Ja, sie hat mir ziemlich warm gemacht.
+
+Alcest [zum Wirt].
+Doch Sie?
+
+Wirt.
+          Aus Neugier war ich auch hinaufgekommen.
+Von dem verwuenschten Brief war ich so eingenommen,
+Ich dacht, es schrieb ein Prinz, ein polnischer Magnat,
+Und aus dem Prinzen ward ein Pachter Kandidat.
+
+Alcest.
+Verzeihn Sie diesen Scherz! Und Sie, Sophie, vergeben
+Mir auch gewiss?
+
+Sophie.
+                 Alcest!
+
+Alcest.
+                         Ich zweifl' in meinem Leben
+An Ihrer Tugend nie. Verzeihn Sie jenen Schritt!
+So gross wie tugendhaft -
+
+Soeller.
+                          Fast glaub ich's selbsten mit.
+
+Alcest.
+Und Sie verzeihen doch auch unserm Soeller?
+
+Sophie.
+                                            Gerne!
+[Sie gibt ihm die Hand.]
+Da!
+
+Alcest [zum Wirt].
+    Allons!
+
+Wirt [gibt Soellern die Hand].
+            Stiehl nicht mehr!
+
+Soeller.
+                               Die Laenge bringt die Ferne!
+
+Alcest.
+Allein was macht mein Geld?
+
+Soeller.
+                            O Herr, es war aus Not.
+Der Spieler peinigte mich Armen fast zu Tod.
+Ich wusste keinen Rat, ich stahl und zahlte Schulden.
+Da ist das uebrige, ich weiss nicht wieviel Gulden.
+
+Alcest.
+Was fort ist, schenk ich Ihm.
+
+Soeller [zum Parterre].
+                              Fuer diesmal waer's vorbei!
+
+Alcest.
+Allein ich hoff, Er wird fein hoeflich, still und treu!
+Und untersteht Er sich, noch einmal anzufangen -
+Dann -
+[Er macht ihm das Zeichen des Haengens.]
+
+Soeller.
+       Nein, das waer zu viel - ein Hahnrei und gehangen!
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, DIE MITSCHULDIGEN ***
+
+This file should be named 7diem10.txt or 7diem10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7diem11.txt
+VERSIONS based on separate sources get new LETTER, 7diem10a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

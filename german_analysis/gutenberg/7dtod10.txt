@@ -1,0 +1,4230 @@
+The Project Gutenberg EBook of Dantons Tod, by Georg Buchner
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Dantons Tod
+
+Author: Georg Buchner
+
+Release Date: February, 2004  [EBook #5072]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 14, 2002]
+[Most recently updated June 30, 2002]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, DANTONS TOD ***
+
+
+
+
+This eBook was produced for Project Gutenberg of Germany by Gerd Bouillon.
+
+
+
+
+Georg Buechner
+
+Dantons Tod
+
+Ein Drama
+
+
+
+Personen:
+
+Deputierte des Nationalkonvents:
+  Georg Danton
+  Legendre
+  Camille Desmoulins
+  Herault-Sechelles
+  Lacroix
+  Philippeau
+  Fabre d'Eglantine
+  Mercier
+  Thomas Payne
+
+Mitglieder des Wohlfahrtsausschusses:
+  Robespierre
+  St. Just
+  Barere
+  Collot d'Herbois
+  Billaud-Varennes
+
+Chaumette, Prokurator des Gemeinderats
+
+Dillon, ein General
+
+Fouquier-Tinville, oeffentlicher Anklaeger
+
+Amar und Vouland, Mitglieder des Sicherheitsausschusses
+
+Herman und Dumas, Praesidenten des Revolutionstribunales
+
+Paris, ein Freund Dantons
+
+Simon, Souffleur
+
+Weib Simons
+
+Laflotte
+
+Julie, Dantons Gattin
+
+Lucile, Gattin des Camille Desmoulins
+
+Rosalie, Adelaide und Marion, Grisetten
+
+Damen am Spieltisch, Herren und Damen sowie junger Herr und Eugenie
+auf einer Promenade, Buerger, Buergersoldaten, Lyoner und andere
+Deputierte, Jakobiner, Praesidenten des Jakobinerklubs und des
+Nationalkonvents, Schliesser, Henker und Fuhrleute, Maenner und Weiber
+aus dem Volk, Grisetten, Baenkelsaenger, Bettler usw.
+
+
+
+
+Erster Akt
+
+Erste Szene
+
+Herault-Sechelles, einige Damen am Spieltisch. Danton, Julie etwas
+weiter weg, Danton auf einem Schemel zu den Fuessen von Julie.
+
+Danton.
+Sieh die huebsche Dame, wie artig sie die Karten dreht! Ja wahrhaftig,
+sie versteht's; man sagt, sie halte ihrem Manne immer das coeur und
+anderen Leuten das carreau hin. - Ihr koenntet einen noch in die Luege
+verliebt machen.
+
+Julie.
+Glaubst du an mich?
+
+Danton.
+Was weiss ich! Wir wissen wenig voneinander. Wir sind Dickhaeuter, wir
+strecken die Haende nacheinander aus, aber es ist vergebliche Muehe,
+wir reiben nur das grobe Leder aneinander ab - wir sind sehr einsam.
+
+Julie.
+Du kennst mich, Danton.
+
+Danton.
+Ja, was man so kennen heisst. Du hast dunkle Augen und lockiges Haar
+und einen feinen Teint und sagst immer zu mir: lieber Georg! Aber
+(er deutet ihr auf Stirn und Augen) da, da, was liegt hinter dem?
+Geh, wir haben grobe Sinne. Einander kennen? Wir muessten uns die
+Schaedeldecken aufbrechen und die Gedanken einander aus den Hirnfasern
+zerren. -
+
+Eine Dame (zu Herault).
+Was haben Sie nur mit Ihren Fingern vor?
+
+Herault.
+Nichts!
+
+Dame.
+Schlagen Sie den Daumen nicht so ein, es ist nicht zum Ansehn!
+
+Herault.
+Sehn Sie nur, das Ding hat eine ganz eigne Physiognomie. -
+
+Danton.
+Nein, Julie, ich liebe dich wie das Grab.
+
+Julie (sich abwendend).
+Oh!
+
+Danton.
+Nein, hoere! Die Leute sagen, im Grab sei Ruhe, und Grab und Ruhe
+seien eins. Wenn das ist, lieg ich in deinem Schoss schon unter der
+Erde. Du suesses Grab, deine Lippen sind Totenglocken, deine Stimme
+ist mein Grabgelaeute, deine Brust mein Grabhuegel und dein Herz mein
+Sarg. -
+
+Dame.
+Verloren!
+
+Herault.
+Das war ein verliebtes Abenteuer, es kostet Geld wie alle andern.
+
+Dame.
+Dann haben Sie Ihre Liebeserklaerungen, wie ein Taubstummer, mit den
+Fingern gemacht.
+
+Herault.
+Ei, warum nicht? Man will sogar behaupten, gerade die wuerden am
+leichtesten verstanden. - Ich zettelte eine Liebschaft mit einer
+Kartenkoenigin an; meine Finger waren in Spinnen verwandelte Prinzen,
+Sie, Madame, waren die Fee; aber es ging schlecht, die Dame lag immer
+in den Wochen, jeden Augenblick bekam sie einen Buben. Ich wuerde
+meine Tochter dergleichen nicht spielen lassen, die Herren und Damen
+fallen so unanstaendig uebereinander und die Buben kommen gleich
+hintennach.
+
+(Camille Desmoulins und Philippeau treten ein.)
+
+Herault.
+Philippeau, welch truebe Augen! Hast du dir ein Loch in die rote
+Muetze gerissen? Hat der heilige Jakob ein boeses Gesicht gemacht?
+Hat es waehrend des Guillotinierens geregnet? Oder hast du einen
+schlechten Platz bekommen und nichts sehen koennen?
+
+Camille.
+Du parodierst den Sokrates. Weisst du auch, was der Goettliche den
+Alcibiades fragte, als er ihn eines Tages finster und niedergeschlagen
+fand: "Hast du deinen Schild auf dem Schlachtfeld verloren? Bist du im
+Wettlauf oder im Schwertkampf besiegt worden? Hat ein andrer besser
+gesungen oder besser die Zither geschlagen?" Welche klassischen
+Republikaner! Nimm einmal unsere Guillotinenromantik dagegen!
+
+Philippeau.
+Heute sind wieder zwanzig Opfer gefallen. Wir waren im Irrtum, man
+hat die Hebertisten nur aufs Schafott geschickt, weil sie nicht
+systematisch genug verfuhren, vielleicht auch, weil die Dezemvirn sich
+verloren glaubten, wenn es nur eine Woche Maenner gegeben haette, die
+man mehr fuerchtete als sie.
+
+Herault.
+Sie moechten uns zu Antediluvianern machen. St. Just saeh' es
+nicht ungern, wenn wir wieder auf allen vieren kroechen, damit
+uns der Advokat von Arras nach der Mechanik des Genfer Uhrmachers
+Fallhuetchen, Schulbaenke und einen Herrgott erfaende.
+
+Philippeau.
+Sie wuerden sich nicht scheuen, zu dem Behuf an Marats Rechnung noch
+einige Nullen zu haengen. Wie lange sollen wir noch schmutzig und
+blutig sein wie neugeborne Kinder, Saerge zur Wiege haben und mit
+Koepfen spielen? Wir muessen vorwaerts: der Gnadenausschuss muss
+durchgesetzt, die ausgestossnen Deputierten muessen wieder aufgenommen
+werden!
+
+Herault.
+Die Revolution ist in das Stadium der Reorganisation gelangt. - Die
+Revolution muss aufhoeren, und die Republik muss anfangen. - In unsern
+Staatsgrundsaetzen muss das Recht an die Stelle der Pflicht, das
+Wohlbefinden an die der Tugend und die Notwehr an die der Strafe
+treten. Jeder muss sich geltend machen und seine Natur durchsetzen
+koennen. Er mag nun vernuenftig oder unvernuenftig, gebildet oder
+ungebildet, gut oder boese sein, das geht den Staat nichts an.
+Wir alle sind Narren, es hat keiner das Recht, einem andern seine
+eigentuemliche Narrheit aufzudraengen. - Jeder muss in seiner Art
+geniessen koennen, jedoch so, dass keiner auf Unkosten eines andern
+geniessen oder ihn in seinem eigentuemlichen Genuss stoeren darf.
+
+Camille.
+Die Staatsform muss ein durchsichtiges Gewand sein, das sich dicht an
+den Leib des Volkes schmiegt. Jedes Schwellen der Adern, jedes Spannen
+der Muskeln, jedes Zucken der Sehnen muss sich darin abdruecken. Die
+Gestalt mag nun schoen oder haesslich sein, sie hat einmal das Recht,
+zu sein, wie sie ist; wir sind nicht berechtigt, ihr ein Roecklein
+nach Belieben zuzuschneiden. - Wir werden den Leuten, welche ueber
+die nackten Schultern der allerliebsten Suenderin Frankreich den
+Nonnenschleier werfen wollen, auf die Finger schlagen. - Wir wollen
+nackte Goetter, Bacchantinnen, olympische Spiele, und von melodischen
+Lippen: ach, die gliederloesende, boese Liebe! - Wir wollen den
+Roemern nicht verwehren, sich in die Ecke zu setzen und Rueben zu
+kochen, aber sie sollen uns keine Gladiatorspiele mehr geben wollen. -
+Der goettliche Epikur und die Venus mit dem schoenen Hintern muessen
+statt der Heiligen Marat und Chalier die Tuersteher der Republik
+werden. - Danton, du wirst den Angriff im Konvent machen!
+
+Danton.
+Ich werde, du wirst, er wird. Wenn wir bis dahin noch leben! sagen
+die alten Weiber. Nach einer Stunde werden sechzig Minuten verflossen
+sein. Nicht wahr, mein Junge?
+
+Camille.
+Was soll das hier? Das versteht sich von selbst.
+
+Danton.
+Oh, es versteht sich alles von selbst. Wer soll denn all die schoenen
+Dinge ins Werk setzen?
+
+Philippeau.
+Wir und die ehrlichen Leute.
+
+Danton.
+Das "und" dazwischen ist ein langes Wort, es haelt uns ein wenig weit
+auseinander; die Strecke ist lang, die Ehrlichkeit verliert den Atem,
+eh' wir zusammenkommen. Und wenn auch! - den ehrlichen Leuten kann man
+Geld leihen, man kann bei ihnen Gevatter stehn und seine Toechter an
+sie verheiraten, aber das ist alles!
+
+Camille.
+Wenn du das weisst, warum hast du den Kampf begonnen?
+
+Danton.
+Die Leute waren mir zuwider. Ich konnte dergleichen gespreizte Katonen
+nie ansehn, ohne ihnen einen Tritt zu geben. Mein Naturell ist einmal
+so. (Er erhebt sich.)
+
+Julie.
+Du gehst?
+
+Danton (zu Julie).
+Ich muss fort, sie reiben mich mit ihrer Politik noch auf. - (Im
+Hinausgehn:) Zwischen Tuer und Angel will ich euch prophezeien: die
+Statue der Freiheit ist noch nicht gegossen, der Ofen glueht, wir alle
+koennen uns noch die Finger dabei verbrennen. (Ab.)
+
+Camille.
+Lasst ihn! Glaubt ihr, er koenne die Finger davon lassen, wenn es zum
+Handeln koemmt?
+
+Herault.
+Ja, aber bloss zum Zeitvertreib, wie man Schach spielt.
+
+
+
+Zweite Szene
+
+Eine Gasse
+
+Simon. Sein Weib.
+
+Simon (schlaegt das Weib).
+Du Kuppelpelz, du runzlige Sublimatpille, du wurmstichiger
+Suendenapfel!
+
+Weib.
+He, Huelfe! Huelfe!
+
+(Es kommen Leute gelaufen.)
+
+Leute.
+Reisst sie auseinander, reisst sie auseinander!
+
+Simon.
+Nein, lasst mich, Roemer! Zerschellen will ich dies Geripp! Du
+Vestalin!
+
+Weib.
+Ich eine Vestalin? Das will ich sehen, ich.
+
+Simon.
+        So reiss ich von den Schultern dein Gewand.
+        Nackt in die Sonne schleudr' ich dann dein Aas.
+
+Du Hurenbett, in jeder Runzel deines Leibes nistet Unzucht. (Sie
+werden getrennt.)
+
+Erster Buerger.
+Was gibt's?
+
+Simon.
+Wo ist die Jungfrau? Sprich! Nein, so kann ich nicht sagen. Das
+Maedchen! Nein, auch das nicht. Die Frau, das Weib! Auch das, auch das
+nicht! Nur noch ein Name; oh, der erstickt mich! Ich habe keinen Atem
+dafuer.
+
+Zweiter Buerger.
+Das ist gut, sonst wuerde der Name nach Schnaps riechen.
+
+Simon.
+Alter Virginius, verhuelle dein kahl Haupt - der Rabe Schande sitzt
+darauf und hackt nach deinen Augen. Gebt mir ein Messer, Roemer! (Er
+sinkt um.)
+
+Weib.
+Ach, er ist sonst ein braver Mann, er kann nur nicht viel vertragen;
+der Schnaps stellt ihm gleich ein Bein.
+
+Zweiter Buerger.
+Dann geht er mit dreien.
+
+Weib.
+Nein, er faellt.
+
+Zweiter Buerger.
+Richtig, erst geht er mit dreien, und dann faellt er auf das dritte,
+bis das dritte selbst wieder faellt.
+
+Simon.
+Du bist die Vampirzunge, die mein waermstes Herzblut trinkt.
+
+Weib.
+Lasst ihn nur, das ist so die Zeit, worin er immer geruehrt wird; es
+wird sich schon geben.
+
+Erster Buerger.
+Was gibt's denn?
+
+Weib.
+Seht ihr: ich sass da so auf dem Stein in der Sonne und waermte mich,
+seht ihr - denn wir haben kein Holz, seht ihr -
+
+Zweiter Buerger.
+So nimm deines Mannes Nase.
+
+Weib.
+Und meine Tochter war da hinuntergegangen um die Ecke - sie ist ein
+braves Maedchen und ernaehrt ihre Eltern.
+
+Simon.
+Ha, sie bekennt!
+
+Weib.
+Du Judas! haettest du nur ein Paar Hosen hinauf zuziehen, wenn
+die jungen Herren die Hosen nicht bei ihr hinunterliessen? Du
+Branntweinfass, willst du verdursten, wenn das Bruennlein zu laufen
+aufhoert, he? - Wir arbeiten mit allen Gliedern, warum denn nicht auch
+damit; ihre Mutter hat damit geschafft, wie sie zur Welt kam, und
+es hat ihr weh getan; kann sie fuer ihre Mutter nicht auch damit
+schaffen, he? und tut's ihr auch weh dabei, he? Du Dummkopf!
+
+Simon.
+Ha, Lukretia! ein Messer, gebt mir ein Messer, Roemer! Ha, Appius
+Claudius!
+
+Erster Buerger.
+Ja, ein Messer, aber nicht fuer die arme Hure! Was tat sie? Nichts!
+Ihr Hunger hurt und bettelt. Ein Messer fuer die Leute, die das
+Fleisch unserer Weiber und Toechter kaufen. Weh ueber die, so mit den
+Toechtern des Volkes huren! Ihr habt Kollern im Leib, und sie haben
+Magendruecken; ihr habt Loecher in den Jacken, und sie haben warme
+Roecke; ihr habt Schwielen in den Faeusten, und sie haben Samthaende.
+Ergo, ihr arbeitet, und sie tun nichts; ergo, ihr habt's erworben, und
+sie haben's gestohlen; ergo, wenn ihr von eurem gestohlnen Eigentum
+ein paar Heller wiederhaben wollt, muesst ihr huren und betteln; ergo,
+sie sind Spitzbuben, und man muss sie totschlagen!
+
+Dritter Buerger.
+Sie haben kein Blut in den Adern, als was sie uns ausgesaugt haben.
+Sie haben uns gesagt: schlagt die Aristokraten tot, das sind Woelfe!
+Wir haben die Aristokraten an die Laternen gehaengt. Sie haben gesagt:
+das Veto frisst euer Brot; wir haben das Veto totgeschlagen. Sie haben
+gesagt: die Girondisten hungern euch aus; wir haben die Girondisten
+guillotiniert. Aber sie haben die Toten ausgezogen, und wir laufen wie
+zuvor auf nackten Beinen und frieren. Wir wollen ihnen die Haut von
+den Schenkeln ziehen und uns Hosen daraus machen, wir wollen ihnen das
+Fett auslassen und unsere Suppen mit schmelzen. Fort! Totgeschlagen,
+wer kein Loch im Rock hat!
+
+Erster Buerger.
+Totgeschlagen, wer lesen und schreiben kann!
+
+Zweiter Buerger.
+Totgeschlagen, wer auswaerts geht!
+
+Alle (schreien).
+Totgeschlagen! Totgeschlagen!
+
+(Einige schleppen einen jungen Menschen herbei.)
+
+Einige Stimmen.
+Er hat ein Schnupftuch! ein Aristokrat! an die Laterne! an die
+Laterne!
+
+Zweiter Buerger.
+Was? er schneuzt sich die Nase nicht mit den Fingern? An die Laterne!
+(Eine Laterne wird heruntergelassen.)
+
+Junger Mensch.
+Ach, meine Herren!
+
+Zweiter Buerger.
+Es gibt hier keine Herren! An die Laterne!
+
+Einige (singen).
+        Die da liegen in der Erden,
+        Von de Wuerm gefresse werden;
+        Besser hangen in der Luft,
+        Als verfaulen in der Gruft!
+
+Junger Mensch.
+Erbarmen!
+
+Dritter Buerger.
+Nur ein Spielen mit einer Hanflocke um den Hals! 's ist nur ein
+Augenblick, wir sind barmherziger als ihr. Unser Leben ist der Mord
+durch Arbeit; wir haengen sechzig Jahre lang am Strick und zapplen,
+aber wir werden uns losschneiden. - An die Laterne!
+
+Junger Mensch.
+Meinetwegen, ihr werdet deswegen nicht heller sehen.
+
+Die Umstehenden.
+Bravo! Bravo!
+
+Einige Stimmen.
+Lasst ihn laufen! (Er entwischt.)
+
+(Robespierre tritt auf, begleitet von Weibern und Ohnehosen.)
+
+Robespierre.
+Was gibt's da, Buerger?
+
+Dritter Buerger.
+Was wird's geben? Die paar Tropfen Bluts vom August und September
+haben dem Volk die Backen nicht rot gemacht. Die Guillotine ist zu
+langsam. Wir brauchen einen Platzregen!
+
+Erster Buerger.
+Unsere Weiber und Kinder schreien nach Brot, wir wollen sie mit
+Aristokratenfleisch fuettern. He! totgeschlagen, wer kein Loch im Rock
+hat!
+
+Alle.
+Totgeschlagen! Totgeschlagen!
+
+Robespierre.
+Im Namen des Gesetzes!
+
+Erster Buerger.
+Was ist das Gesetz?
+
+Robespierre.
+Der Wille des Volks.
+
+Erster Buerger.
+Wir sind das Volk, und wir wollen, dass kein Gesetz sei; ergo ist
+dieser Wille das Gesetz, ergo im Namen des Gesetzes gibt's kein Gesetz
+mehr, ergo totgeschlagen!
+
+Einige Stimmen.
+Hoert den Aristides! hoert den Unbestechlichen!
+
+Ein Weib.
+Hoert den Messias, der gesandt ist, zu waehlen und zu richten; er wird
+die Boesen mit der Schaerfe des Schwertes schlagen. Seine Augen sind
+die Augen der Wahl, seine Haende sind die Haende des Gerichts.
+
+Robespierre.
+Armes, tugendhaftes Volk! Du tust deine Pflicht, du opferst deine
+Feinde. Volk, du bist gross! Du offenbarst dich unter Blitzstrahlen
+und Donnerschlaegen. Aber, Volk, deine Streiche duerfen deinen eignen
+Leib nicht verwunden; du mordest dich selbst in deinem Grimm. Du
+kannst nur durch deine eigne Kraft fallen, das wissen deine Feinde.
+Deine Gesetzgeber wachen, sie werden deine Haende fuehren; ihre Augen
+sind untruegbar, deine Haende sind unentrinnbar. Kommt mit zu den
+Jakobinern! Eure Brueder werden euch ihre Arme oeffnen, wir werden ein
+Blutgericht ueber unsere Feinde halten.
+
+Viele Stimmen.
+Zu den Jakobinern! Es lebe Robespierre! (Alle ab.)
+
+Simon.
+Weh mir, verlassen! (Er versucht sich aufzurichten.)
+
+Weib.
+Da! (Sie unterstuetzt ihn.)
+
+Simon.
+Ach, meine Baucis! du sammelst Kohlen auf mein Haupt.
+
+Weib.
+Da steh!
+
+Simon.
+Du wendest dich ab? Ha, kannst du mir vergeben, Porcia? Schlug ich
+dich? Das war nicht meine Hand, war nicht mein Arm, mein Wahnsinn tat
+es.
+        Sein Wahnsinn ist des armen Hamlet Feind.
+        Hamlet tat's nicht, Hamlet verleugnet's.
+
+
+Wo ist unsre Tochter, wo ist mein Sannchen?
+
+Weib.
+Dort um das Eck herum.
+
+Simon.
+Fort zu ihr! Komm, mein tugendreich Gemahl. (Beide ab.)
+
+
+
+Dritte Szene
+Der Jakobinerklub
+
+Ein Lyoner.
+Die Brueder von Lyon senden uns, um in eure Brust ihren bittren Unmut
+auszuschuetten. Wir wissen nicht, ob der Karren, auf dem Ronsin zur
+Guillotine fuhr, der Totenwagen der Freiheit war, aber wir wissen,
+dass seit jenem Tage die Moerder Chaliers wieder so fest auf den Boden
+treten, als ob es kein Grab fuer sie gaebe. Habt ihr vergessen, dass
+Lyon ein Flecken auf dem Boden Frankreichs ist, den man mit den
+Gebeinen der Verraeter zudecken muss? Habt ihr vergessen, dass diese
+Hure der Koenige ihren Aussatz nur in dem Wasser der Rhone abwaschen
+kann? Habt ihr vergessen, dass dieser revolutionaere Strom die Flotten
+Pitts im Mittelmeere auf den Leichen der Aristokraten muss stranden
+machen? Eure Barmherzigkeit mordet die Revolution. Der Atemzug eines
+Aristokraten ist das Roecheln der Freiheit. Nur ein Feigling stirbt
+fuer die Republik, ein Jakobiner toetet fuer sie. Wisst: finden wir
+in euch nicht mehr die Spannkraft der Maenner des 10. August, des
+September und des 31. Mai, so bleibt uns, wie dem Patrioten Gaillard,
+nur der Dolch des Kato. (Beifall und verwirrtes Geschrei.)
+
+Ein Jakobiner.
+Wir werden den Becher des Sokrates mit euch trinken!
+
+Legendre (schwingt sich auf die Tribuene).
+Wir haben nicht noetig, unsere Blicke auf Lyon zu werfen. Die Leute,
+die seidne Kleider tragen, die in Kutschen fahren, die in den Logen im
+Theater sitzen und nach dem Diktionaer der Akademie sprechen, tragen
+seit einigen Tagen die Koepfe fest auf den Schultern. Sie sind
+witzig und sagen, man muesse Marat und Chalier zu einem doppelten
+Maertyrertum verhelfen und sie in effigie guillotinieren. (Heftige
+Bewegung in der Versammlung.)
+
+Einige Stimmen.
+Das sind tote Leute, ihre Zunge guillotiniert sie.
+
+Legendre.
+Das Blut dieser Heiligen komme ueber sie! Ich frage die anwesenden
+Mitglieder des Wohlfahrtsausschusses, seit wann ihre Ohren so taub
+geworden sind...
+
+Collot d'Herbois (unterbricht ihn).
+Und ich frage dich, Legendre, wessen Stimme solchen Gedanken Atem
+gibt, dass sie lebendig werden und zu sprechen wagen? Es ist Zeit, die
+Masken abzureissen. Hoert! Die Ursache verklagt ihre Wirkung, der Ruf
+sein Echo, der Grund seine Folge. Der Wohlfahrtsausschuss versteht
+mehr Logik, Legendre. Sei ruhig! Die Buesten der Heiligen werden
+unberuehrt bleiben, sie werden wie Medusenhaeupter die Verraeter in
+Stein verwandten.
+
+Robespierre.
+Ich verlange das Wort.
+
+Die Jakobiner.
+Hoert, hoert den Unbestechlichen!
+
+Robespierre.
+Wir warteten nur auf den Schrei des Unwillens, der von allen Seiten
+ertoent, um zu sprechen. Unsere Augen waren offen, wir sahen den Feind
+sich ruesten und sich erheben, aber wir haben das Laermzeichen nicht
+gegeben; wir liessen das Volk sich selbst bewachen, es hat nicht
+geschlafen, es hat an die Waffen geschlagen. Wir liessen den Feind
+aus seinem Hinterhalt hervorbrechen, wir liessen ihn anruecken; jetzt
+steht er frei und ungedeckt in der Helle des Tages, jeder Streich wird
+ihn treffen, er ist tot, sobald ihr ihn erblickt habt.
+
+Ich habe es euch schon einmal gesagt: in zwei Abteilungen, wie in zwei
+Heerhaufen, sind die inneren Feinde der Republik zerfallen. Unter
+Bannern von verschiedener Farbe und auf den verschiedensten Wegen
+eilen sie alle dem naemlichen Ziele zu. Die eine dieser Faktionen ist
+nicht mehr. In ihrem affektierten Wahnsinn suchte sie die erprobtesten
+Patrioten als abgenutzte Schwaechlinge beiseite zu werfen, um die
+Republik ihrer kraeftigsten Arme zu berauben. Sie erklaerte der
+Gottheit und dem Eigentum den Krieg, um eine Diversion zugunsten der
+Koenige zu machen. Sie parodierte das erhabne Drama der Revolution,
+um dieselbe durch studierte Ausschweifungen blosszustellen. Heberts
+Triumph haette die Republik in ein Chaos verwandelt, und der
+Despotismus war befriedigt. Das Schwert des Gesetzes hat den Verraeter
+getroffen. Aber was liegt den Fremden daran, wenn ihnen Verbrecher
+einer anderen Gattung zur Erreichung des naemlichen Zwecks bleiben?
+Wir haben nichts getan, wenn wir noch eine andere Faktion zu
+vernichten haben.
+
+Sie ist das Gegenteil der vorhergehenden. Sie treibt uns zur
+Schwaeche, ihr Feldgeschrei heisst: Erbarmen! Sie will dem Volk seine
+Waffen und die Kraft, welche die Waffen fuehrt, entreissen, um es
+nackt und entnervt den Koenigen zu ueberantworten.
+
+Die Waffe der Republik ist der Schrecken, die Kraft der Republik ist
+die Tugend - die Tugend, weil ohne sie der Schrecken verderblich, der
+Schrecken, weil ohne ihn die Tugend ohnmaechtig ist. Der Schrecken
+ist ein Ausfluss der Tugend, er ist nichts anders als die schnelle,
+strenge und unbeugsame Gerechtigkeit. Sie sagen, der Schrecken sei
+die Waffe einer despotischen Regierung, die unsrige gliche also dem
+Despotismus. Freilich! aber so, wie das Schwert in den Haenden eines
+Freiheitshelden dem Saebel gleicht, womit der Satellit des Tyrannen
+bewaffnet ist. Regiere der Despot seine tieraehnlichen Untertanen
+durch den Schrecken, er hat recht als Despot; zerschmettert durch
+den Schrecken die Feinde der Freiheit, und ihr habt als Stifter
+der Republik nicht minder recht. Die Revolutionsregierung ist der
+Despotismus der Freiheit gegen die Tyrannei.
+
+Erbarmen mit den Royalisten! rufen gewisse Leute. Erbarmen mit
+Boesewichtern? Nein! Erbarmen fuer die Unschuld, Erbarmen fuer die
+Schwaeche, Erbarmen fuer die Ungluecklichen, Erbarmen fuer die
+Menschheit! Nur dem friedlichen Buerger gebuehrt von seiten der
+Gesellschaft Schutz.
+
+In einer Republik sind nur Republikaner Buerger; Royalisten und
+Fremde sind Feinde. Die Unterdruecker der Menschheit bestrafen, ist
+Gnade; ihnen verzeihen, ist Barbarei. Alle Zeichen einer falschen
+Empfindsamkeit scheinen mir Seufzer, welche nach England oder nach
+Oestreich fliegen.
+
+Aber nicht zufrieden, den Arm des Volkes zu entwaffnen, sucht man noch
+die heiligsten Quellen seiner Kraft durch das Laster zu vergiften.
+Dies ist der feinste, gefaehrlichste und abscheulichste Angriff auf
+die Freiheit. Nur der hoellischste Machiavellismus, doch - nein! Ich
+will nicht sagen, dass ein solcher Plan in dem Gehirne eines Menschen
+haette ausgebruetet werden koennen! Es mag unwillkuerlich geschehen,
+doch die Absicht tut nichts zur Sache, die Wirkung bleibt die
+naemliche, die Gefahr ist gleich gross! Das Laster ist das
+Kainszeichen des Aristokratismus. In einer Republik ist es nicht
+nur ein moralisches, sondern auch ein politisches Verbrechen; der
+Lasterhafte ist der politische Feind der Freiheit, er ist ihr um so
+gefaehrlicher, je groesser die Dienste sind, die er ihr scheinbar
+erwiesen. Der gefaehrlichste Buerger ist derjenige, welcher leichter
+ein Dutzend rote Muetzen verbraucht als eine gute Handlung vollbringt.
+
+Ihr werdet mich leicht verstehen, wenn ihr an Leute denkt, welche
+sonst in Dachstuben lebten und jetzt in Karossen fahren und mit
+ehemaligen Marquisinnen und Baronessen Unzucht treiben. Wir duerfen
+wohl fragen: ist das Volk gepluendert, oder sind die Goldhaende der
+Koenige gedrueckt worden, wenn wir Gesetzgeber des Volks mit allen
+Lastern und allem Luxus der ehemaligen Hoeflinge Parade machen, wenn
+wir diese Marquis und Grafen der Revolution reiche Weiber heiraten,
+ueppige Gastmaehler geben, spielen, Diener halten und kostbare Kleider
+tragen sehen? Wir duerfen wohl staunen, wenn wir sie Einfaelle haben,
+schoengeistern und so etwas vom guten Ton bekommen hoeren. Man hat vor
+kurzem auf eine unverschaemte Weise den Tacitus parodiert, ich koennte
+mit dem Sallust antworten und den Katilina travestieren; doch ich
+denke, ich habe keine Striche mehr noetig, die Portraets sind fertig.
+
+Keinen Vertrag, keinen Waffenstillstand mit den Menschen, welche
+nur auf Auspluenderung des Volkes bedacht waren, welche diese
+Auspluenderung ungestraft zu vollbringen hofften, fuer welche die
+Republik eine Spekulation und die Revolution ein Handwerk war! In
+Schrecken gesetzt durch den reissenden Strom der Beispiele, suchen
+sie ganz leise die Gerechtigkeit abzukuehlen. Man sollte glauben,
+jeder sage zu sich selbst: "Wir sind nicht tugendhaft genug, um so
+schrecklich zu sein. Philosophische Gesetzgeber, erbarmt euch unsrer
+Schwaeche! Ich wage euch nicht zu sagen, dass ich lasterhaft bin; ich
+sage euch also lieber: seid nicht grausam!"
+
+Beruhige dich, tugendhaftes Volk, beruhigt euch, ihr Patrioten! Sagt
+euren Bruedern zu Lyon: das Schwert des Gesetzes roste nicht in den
+Haenden, denen ihr es anvertraut habt! - Wir werden der Republik ein
+grosses Beispiel geben. (Allgemeiner Beifall.)
+
+Viele Stimmen.
+Es lebe die Republik! Es lebe Robespierre!
+
+Praesident.
+Die Sitzung ist aufgehoben.
+
+
+
+Vierte Szene
+
+Eine Gasse
+
+Lacroix. Legendre.
+
+Lacroix.
+Was hast du gemacht, Legendre! Weisst du auch, wem du mit deinen
+Buesten den Kopf herunterwirfst?
+
+Legendre.
+Einigen Stutzern und eleganten Weibern, das ist alles.
+
+Lacroix.
+Du bist ein Selbstmoerder, ein Schatten, der sein Original und somit
+sich selbst ermordet.
+
+Legendre.
+Ich begreife nicht.
+
+Lacroix.
+Ich daechte, Collot haette deutlich gesprochen.
+
+Legendre.
+Was macht das? Es war, als ob eine Champagnerflasche spraenge. Er war
+wieder betrunken.
+
+Lacroix.
+Narren, Kinder und - nun? - Betrunkne sagen die Wahrheit. Wen glaubst
+du denn, dass Robespierre mit dem Katilina gemeint habe?
+
+Legendre.
+Nun?
+
+Lacroix.
+Die Sache ist einfach. Man hat die Atheisten und Ultrarevolutionaers
+aufs Schafott geschickt; aber dem Volk ist nicht geholfen, es laeuft
+noch barfuss in den Gassen und will sich aus Aristokratenleder Schuhe
+machen. Der Guillotinenthermometer darf nicht fallen; noch einige
+Grade, und der Wohlfahrtsausschuss kann sich sein Bett auf dem
+Revolutionsplatz suchen.
+
+Legendre.
+Was haben damit meine Buesten zu schaffen?
+
+Lacroix.
+Siehst du's noch nicht? Du hast die Contrerevolution offiziell
+bekanntgemacht, du hast die Dezemvirn zur Energie gezwungen, du hast
+ihnen die Hand gefuehrt. Das Volk ist ein Minotaurus, der woechentlich
+seine Leichen haben muss, wenn er sie nicht auffressen soll.
+
+Legendre.
+Wo ist Danton?
+
+Lacroix.
+Was weiss ich! Er sucht eben die Mediceische Venus stueckweise bei
+allen Grisetten des Palais-Royal zusammen; er macht Mosaik, wie er
+sagt. Der Himmel weiss, bei welchem Glied er gerade ist. Es ist
+ein Jammer, dass die Natur die Schoenheit, wie Medea ihren Bruder,
+zerstueckt und sie so in Fragmenten in die Koerper gesenkt hat. - Gehn
+wir ins Palais-Royal! (Beide ab.)
+
+
+
+Fuenfte Szene
+
+Ein Zimmer
+
+Danton. Marion.
+
+Marion.
+Nein, lass mich! So zu deinen Fuessen. Ich will dir erzaehlen.
+
+Danton.
+Du koenntest deine Lippen besser gebrauchen.
+
+Marion.
+Nein, lass mich einmal so. - Meine Mutter war eine kluge Frau; sie
+sagte mir immer, die Keuschheit sei eine schoene Tugend. Wenn Leute
+ins Haus kamen und von manchen Dingen zu sprechen anfingen, hiess sie
+mich aus dem Zimmer gehn; frug ich, was die Leute gewollt haetten, so
+sagte sie mir, ich solle mich schaemen; gab sie mir ein Buch zu lesen,
+so musst' ich fast immer einige Seiten ueberschlagen. Aber die Bibel
+las ich nach Belieben, da war alles heilig; aber es war etwas darin,
+was ich nicht begriff. Ich mochte auch niemand fragen, ich bruetete
+ueber mir selbst. Da kam der Fruehling; es ging ueberall etwas um
+mich vor, woran ich keinen Teil hatte. Ich geriet in eine eigne
+Atmosphaere, sie erstickte mich fast. Ich betrachtete meine Glieder;
+es war mir manchmal, als waere ich doppelt und verschmoelze dann
+wieder in eins. Ein junger Mensch kam zu der Zeit ins Haus; er war
+huebsch und sprach oft tolles Zeug; ich wusste nicht recht, was er
+wollte, aber ich musste lachen. Meine Mutter hiess ihn oefters kommen,
+das war uns beiden recht. Endlich sahen wir nicht ein, warum wir nicht
+ebensogut zwischen zwei Bettuechern beieinander liegen, als auf zwei
+Stuehlen nebeneinander sitzen durften. Ich fand dabei mehr Vergnuegen
+als bei seiner Unterhaltung und sah nicht ab, warum man mir das
+geringere gewaehren und das groessere entziehen wollte. Wir taten's
+heimlich. Das ging so fort. Aber ich wurde wie ein Meer, was alles
+verschlang und sich tiefer und tiefer wuehlte. Es war fuer mich nur
+ein Gegensatz da, alle Maenner verschmolzen in einen Leib. Meine Natur
+war einmal so, wer kann da drueber hinaus? Endlich merkt' er's. Er kam
+eines Morgens und kuesste mich, als wollte er mich ersticken; seine
+Arme schnuerten sich um meinen Hals, ich war in unsaeglicher Angst. Da
+liess er mich los und lachte und sagte: er haette fast einen dummen
+Streich gemacht; ich solle mein Kleid nur behalten und es brauchen, es
+wuerde sich schon von selbst abtragen, er wolle mir den Spass nicht
+vor der Zeit verderben, es waere doch das einzige, was ich haette.
+Dann ging er; ich wusste wieder nicht, was er wollte. Den Abend sass
+ich am Fenster; ich bin sehr reizbar und haenge mit allem um mich
+nur durch eine Empfindung zusammen; ich versank in die Wellen der
+Abendroete. Da kam ein Haufe die Strasse herab, die Kinder liefen
+voraus, die Weiber sahen aus den Fenstern. Ich sah hinunter: sie
+trugen ihn in einem Korb vorbei, der Mond schien auf seine bleiche
+Stirn, seine Locken waren feucht, er hatte sich ersaeuft. Ich musste
+weinen. - Das war der einzige Bruch in meinem Wesen. Die andern
+Leute haben Sonn- und Werktage, sie arbeiten sechs Tage und beten am
+siebenten, sie sind jedes Jahr auf ihren Geburtstag einmal geruehrt
+und denken jedes Jahr auf Neujahr einmal nach. Ich begreife nichts
+davon: ich kenne keinen Absatz, keine Veraenderung. Ich bin immer nur
+eins; ein ununterbrochenes Sehnen und Fassen, eine Glut, ein Strom.
+Meine Mutter ist vor Gram gestorben; die Leute weisen mit Fingern auf
+mich. Das ist dumm. Es laeuft auf eins hinaus, an was man seine Freude
+hat, an Leibern, Christusbildern, Blumen oder Kinderspielsachen; es
+ist das naemliche Gefuehl; wer am meisten geniesst, betet am meisten.
+
+Danton.
+Warum kann ich deine Schoenheit nicht ganz in mich fassen, sie nicht
+ganz umschliessen?
+
+Marion.
+Danton, deine Lippen haben Augen.
+
+Danton.
+Ich moechte ein Teil des Aethers sein, um dich in meiner Flut zu
+baden, um mich auf jeder Welle deines schoenen Leibes zu brechen.
+
+(Lacroix, Adelaide, Rosalie treten ein.)
+
+Lacroix (bleibt in der Tuer stehn).
+Ich muss lachen, ich muss lachen.
+
+Danton (unwillig).
+Nun?
+
+Lacroix.
+Die Gasse faellt mir ein.
+
+Danton.
+Und?
+
+Lacroix.
+Auf der Gasse waren Hunde, eine Dogge und ein Bologneser
+Schosshuendlein, die quaelten sich.
+
+Danton.
+Was soll das?
+
+Lacroix.
+Das fiel mir nun grade so ein, und da musst' ich lachen. Es sah
+erbaulich aus! Die Maedel guckten aus den Fenstern; man sollte
+vorsichtig sein und sie nicht einmal in der Sonne sitzen lassen. Die
+Muecken treiben's ihnen sonst auf den Haenden; das macht Gedanken.
+Legendre und ich sind fast durch alle Zellen gelaufen, die Noennlein
+von der Offenbarung durch das Fleisch hingen uns an den Rockschoessen
+und wollten den Segen. Legendre gibt einer die Disziplin, aber er wird
+einen Monat dafuer zu fasten bekommen. Da bringe ich zwei von den
+Priesterinnen mit dem Leib.
+
+Marion.
+Guten Tag, Demoiselle Adelaide! guten Tag, Demoiselle Rosalie!
+
+Rosalie.
+Wir hatten schon lange nicht das Vergnuegen.
+
+Marion.
+Es war mir recht leid.
+
+Adelaide.
+Ach Gott, wir sind Tag und Nacht beschaeftigt.
+
+Danton (zu Rosalie).
+Ei, Kleine, du hast ja geschmeidige Hueften bekommen.
+
+Rosalie.
+Ach ja, man vervollkommnet sich taeglich.
+
+Lacroix.
+Was ist der Unterschied zwischen dem antiken und einem modernen
+Adonis?
+
+Danton.
+Und Adelaide ist sittsam-interessant geworden; eine pikante
+Abwechslung. Ihr Gesicht sieht aus wie ein Feigenblatt, das sie sich
+vor den ganzen Leib haelt. So ein Feigenbaum an einer so gangbaren
+Strasse gibt einen erquicklichen Schatten.
+
+Adelaide.
+Ich waere ein Herdweg, wenn Monsieur...
+
+Danton.
+Ich verstehe; nur nicht boese, mein Fraeulein!
+
+Lacroix.
+So hoere doch! Ein moderner Adonis wird nicht von einem Eber, sondern
+von Saeuen zerrissen; er bekommt seine Wunde nicht am Schenkel,
+sondern in den Leisten, und aus seinem Blut spriessen nicht Rosen
+hervor, sondern schiessen Quecksilberblueten an.
+
+Danton.
+O lass das, Fraeulein Rosalie ist ein restaurierter Torso, woran nur
+die Hueften und Fuesse antik sind. Sie ist eine Magnetnadel: was der
+Pol Kopf abstoesst, zieht der Pol Fuss an; die Mitte ist ein Aequator,
+wo jeder eine Sublimattaufe bekoemmt, der die Linie passiert.
+
+Lacroix.
+Zwei Barmherzige Schwestern; jede dient in einem Spital, d. h. in
+ihrem eignen Koerper.
+
+Rosalie.
+Schaemen Sie sich, unsere Ohren rot zu machen!
+
+Adelaide.
+Sie sollten mehr Lebensart haben! (Adelaide und Rosalie ab.)
+
+Danton.
+Gute Nacht, ihr huebschen Kinder!
+
+Lacroix.
+Gute Nacht, ihr Quecksilbergruben!
+
+Danton.
+Sie dauern mich, sie kommen um ihr Nachtessen.
+
+Lacroix.
+Hoere, Danton, ich komme von den Jakobinern.
+
+Danton.
+Nichts weiter?
+
+Lacroix.
+Die Lyoner verlasen eine Proklamation; sie meinten, es bliebe ihnen
+nichts uebrig, als sich in die Toga zu wickeln. Jeder macht ein
+Gesicht, als wollte er zu seinem Nachbar sagen: Paetus, es schmerzt
+nicht! - Legendre rief, man wolle Chaliers und Marats Buesten
+zerschlagen. Ich glaube, er will sich das Gesicht wieder rot machen;
+er ist ganz aus der Terreur herausgekommen, die Kinder zupfen ihn auf
+der Gasse am Rock.
+
+Danton.
+Und Robespierre?
+
+Lacroix.
+Fingerte auf der Tribuene und sagte: die Tugend muss durch den
+Schrecken herrschen. Die Phrase machte mir Halsweh.
+
+Danton.
+Sie hobelt Bretter fuer die Guillotine.
+
+Lacroix.
+Und Collot schrie wie besessen, man muesse die Masken abreissen.
+
+Danton.
+Da werden die Gesichter mitgehen.
+
+(Paris tritt ein.)
+
+Lacroix.
+Was gibt's, Fabricius?
+
+Paris.
+Von den Jakobinern weg ging ich zu Robespierre; ich verlangte eine
+Erklaerung. Er suchte eine Miene zu machen wie Brutus, der seine
+Soehne opfert. Er sprach im allgemeinen von den Pflichten, sagte: der
+Freiheit gegenueber kenne er keine Ruecksicht, er wuerde alles opfern,
+sich, seinen Bruder, seine Freunde.
+
+Danton.
+Das war deutlich; man braucht nur die Skala herumzukehren, so steht
+er unten und haelt seinen Freunden die Leiter. Wir sind Legendre Dank
+schuldig, er hat sie sprechen gemacht.
+
+Lacroix.
+Die Hebertisten sind noch nicht tot, das Volk ist materiell elend, das
+ist ein furchtbarer Hebel. Die Schale des Blutes darf nicht steigen,
+wenn sie dem Wohlfahrtsausschuss nicht zur Laterne werden soll; er hat
+Ballast noetig, er braucht einen schweren Kopf.
+
+Danton.
+Ich weiss wohl - die Revolution ist wie Saturn, sie frisst ihre eignen
+Kinder. (Nach einigem Besinnen:) Doch, sie werden's nicht wagen.
+
+Lacroix.
+Danton, du bist ein toter Heiliger; aber die Revolution kennt keine
+Reliquien, sie hat die Gebeine aller Koenige auf die Gasse und alle
+Bildsaeulen von den Kirchen geworfen. Glaubst du, man wuerde dich als
+Monument stehen lassen?
+
+Danton.
+Mein Name! das Volk!
+
+Lacroix.
+Dein Name! Du bist ein Gemaessigter, ich bin einer, Camille,
+Philippeau, Herault. Fuer das Volk sind Schwaeche und Maessigung eins;
+es schlaegt die Nachzuegler tot. Die Schneider von der Sektion der
+roten Muetze werden die ganze roemische Geschichte in ihrer Nadel
+fuehlen, wenn der Mann des September ihnen gegenueber ein Gemaessigter
+war.
+
+Danton.
+Sehr wahr, und ausserdem - das Volk ist wie ein Kind, es muss alles
+zerbrechen, um zu sehen, was darin steckt.
+
+Lacroix.
+Und ausserdem, Danton, sind wir lasterhaft, wie Robespierre sagt,
+d. h. wir geniessen; und das Volk ist tugendhaft, d. h. es geniesst
+nicht, weil ihm die Arbeit die Genussorgane stumpf macht, es besaeuft
+sich nicht, weil es kein Geld hat, und es geht nicht ins Bordell, weil
+es nach Kaes und Hering aus dem Hals stinkt und die Maedel davor einen
+Ekel haben.
+
+Danton.
+Es hasst die Geniessenden wie ein Eunuch die Maenner.
+
+Lacroix.
+Man nennt uns Spitzbuben, und (sich zu den Ohren Dantons neigend) es
+ist, unter uns gesagt, so halbwegs was Wahres dran. Robespierre und
+das Volk werden tugendhaft sein. St. Just wird einen Roman schreiben,
+und Barere wird eine Carmagnole schneidern und dem Konvent das
+Blutmaentelchen umhaengen und - ich sehe alles.
+
+Danton.
+Du traeumst. Sie hatten nie Mut ohne mich, sie werden keinen gegen
+mich haben; die Revolution ist noch nicht fertig, sie koennten mich
+noch noetig haben, sie werden mich im Arsenal aufheben.
+
+Lacroix.
+Wir muessen handeln.
+
+Danton.
+Das wird sich finden.
+
+Lacroix.
+Es wird sich finden, wenn wir verloren sind.
+
+Marion (zu Danton).
+Deine Lippen sind kalt geworden, deine Worte haben deine Kuesse
+erstickt.
+
+Danton (zu Marion).
+So viel Zeit zu verlieren! Das war der Muehe wert! - (Zu Lacroix:)
+Morgen geh ich zu Robespierre; ich werde ihn aergern, da kann er nicht
+schweigen. Morgen also! Gute Nacht, meine Freunde, gute Nacht! ich
+danke euch!
+
+Lacroix.
+Packt euch, meine guten Freunde, Packt euch! Gute Nacht, Danton! Die
+Schenkel der Demoiselle guillotinieren dich, der Mons Veneris wird
+dein Tarpejischer Fels. (Ab mit Paris.)
+
+
+
+Sechste Szene
+
+Ein Zimmer
+
+Robespierre. Danton. Paris.
+
+Robespierre.
+Ich sage dir, wer mir in den Arm faellt, wenn ich das Schwert ziehe,
+ist mein Feind - seine Absicht tut nichts zur Sache; wer mich
+verhindert, mich zu verteidigen, toetet mich so gut, als wenn er mich
+angriffe.
+
+Danton.
+Wo die Notwehr aufhoert, faengt der Mord an; ich sehe keinen Grund,
+der uns laenger zum Toeten zwaenge.
+
+Robespierre.
+Die soziale Revolution ist noch nicht fertig; wer eine Revolution zur
+Haelfte vollendet, graebt sich selbst sein Grab. Die gute Gesellschaft
+ist noch nicht tot, die gesunde Volkskraft muss sich an die Stelle
+dieser nach allen Richtungen abgekitzelten Klasse setzen. Das Laster
+muss bestraft werden, die Tugend muss durch den Schrecken herrschen.
+
+Danton.
+Ich verstehe das Wort Strafe nicht. - Mit deiner Tugend, Robespierre!
+Du hast kein Geld genommen, du hast keine Schulden gemacht, du hast
+bei keinem Weibe geschlafen, du hast immer einen anstaendigen Rock
+getragen und dich nie betrunken. Robespierre, du bist empoerend
+rechtschaffen. Ich wuerde mich schaemen, dreissig Jahre lang mit der
+naemlichen Moralphysiognomie zwischen Himmel und Erde herumzulaufen,
+bloss um des elenden Vergnuegens willen, andre schlechter zu finden
+als mich. - Ist denn nichts in dir, was dir nicht manchmal ganz leise,
+heimlich sagte: du luegst, du luegst!?
+
+Robespierre.
+Mein Gewissen ist rein.
+
+Danton.
+Das Gewissen ist ein Spiegel, vor dem ein Affe sich quaelt; jeder
+putzt sich, wie er kann, und geht auf seine eigne Art auf seinen Spass
+dabei aus. Das ist der Muehe wert, sich darueber in den Haaren zu
+liegen! Jeder mag sich wehren, wenn ein andrer ihm den Spass verdirbt.
+Hast du das Recht, aus der Guillotine einen Waschzuber fuer die
+unreine Waesche anderer Leute und aus ihren abgeschlagenen Koepfen
+Fleckkugeln fuer ihre schmutzigen Kleider zu machen, weil du immer
+einen sauber gebuersteten Rock traegst? Ja, du kannst dich wehren,
+wenn sie dir drauf spucken oder Loecher hineinreissen; aber was geht
+es dich an, solang sie dich in Ruhe lassen? Wenn sie sich nicht
+genieren, so herumzugehn, hast du deswegen das Recht, sie ins Grabloch
+zu sperren? Bist du der Polizeisoldat des Himmels? Und kannst du es
+nicht ebensogut mitansehn als dein lieber Herrgott, so halte dir dein
+Schnupftuch vor die Augen.
+
+Robespierre.
+Du leugnest die Tugend?
+
+Danton.
+Und das Laster. Es gibt nur Epikureer, und zwar grobe und feine,
+Christus war der feinste; das ist der einzige Unterschied, den ich
+zwischen den Menschen herausbringen kann. Jeder handelt seiner Natur
+gemaess, d. h. er tut, was ihm wohltut. - Nicht wahr, Unbestechlicher,
+es ist grausam, dir die Absaetze so von den Schuhen zu treten?
+
+Robespierre.
+Danton, das Laster ist zu gewissen Zeiten Hochverrat.
+
+Danton.
+Du darfst es nicht proskribieren, ums Himmels willen nicht, das waere
+undankbar; du bist ihm zu viel schuldig, durch den Kontrast naemlich.
+- Uebrigens, um bei deinen Begriffen zu bleiben, unsere Streiche
+muessen der Republik nuetzlich sein, man darf die Unschuldigen nicht
+mit den Schuldigen treffen.
+
+Robespierre.
+Wer sagt dir denn, dass ein Unschuldiger getroffen worden sei?
+
+Danton.
+Hoerst du, Fabricius? Es starb kein Unschuldiger! (Er geht; im
+Hinausgehn zu Paris:) Wir duerfen keinen Augenblick verlieren, wir
+muessen uns zeigen! (Danton und Paris ab.)
+
+Robespierre. (allein).
+Geh nur! Er will die Rosse der Revolution am Bordell halten machen,
+wie ein Kutscher seine dressierten Gaeule; sie werden Kraft genug
+haben, ihn zum Revolutionsplatz zu schleifen.
+
+Mir die Absaetze von den Schuhen treten! Um bei deinen Begriffen zu
+bleiben! - Halt! Halt! Ist's das eigentlich? Sie werden sagen, seine
+gigantische Gestalt haette zu viel Schatten auf mich geworfen, ich
+haette ihn deswegen aus der Sonne gehen heissen. - Und wenn sie recht
+haetten? Ist's denn so notwendig? Ja, ja! die Republik! Er muss weg.
+
+Es ist laecherlich, wie meine Gedanken einander beaufsichtigen. - Er
+muss weg. Wer in einer Masse, die vorwaerts draengt, stehenbleibt,
+leistet so gut Widerstand, als traet' er ihr entgegen: er wird
+zertreten.
+
+Wir werden das Schiff der Revolution nicht auf den seichten
+Berechnungen und den Schlammbaenken dieser Leute stranden lassen; wir
+muessen die Hand abhauen, die es zu halten wagt - und wenn er es mit
+den Zaehnen packte!
+
+Weg mit einer Gesellschaft, die der toten Aristokratie die Kleider
+ausgezogen und ihren Aussatz geerbt hat!
+
+Keine Tugend! Die Tugend ein Absatz meiner Schuhe! Bei meinen
+Begriffen! - Wie das immer wiederkommt. - Warum kann ich den Gedanken
+nicht loswerden? Er deutet mit blutigem Finger immer da, da hin! Ich
+mag so viel Lappen darum wickeln, als ich will, das Blut schlaegt
+immer durch. - (Nach einer Pause:) Ich weiss nicht, was in mir das
+andere beluegt.
+
+(Er tritt ans Fenster.) Die Nacht schnarcht ueber der Erde und waelzt
+sich im wuesten Traum. Gedanken, Wuensche, kaum geahnt, wirr und
+gestaltlos, die scheu sich vor des Tages Licht verkrochen, empfangen
+jetzt Form und Gewand und stehlen sich in das stille Haus des Traums.
+Sie oeffnen die Tueren, sie sehen aus den Fenstern, sie werden
+halbwegs Fleisch, die Glieder strecken sich im Schlaf, die Lippen
+murmeln. - Und ist nicht unser Wachen ein hellerer Traum? sind wir
+nicht Nachtwandler? ist nicht unser Handeln wie das im Traum, nur
+deutlicher, bestimmter, durchgefuehrter? Wer will uns darum schelten?
+In einer Stunde verrichtet der Geist mehr Taten des Gedankens, als
+der traege Organismus unsres Leibes in Jahren nachzutun vermag. Die
+Suende ist im Gedanken. Ob der Gedanke Tat wird, ob ihn der Koerper
+nachspiele, das ist Zufall.
+
+(St. Just tritt ein.)
+
+Robespierre.
+He, wer da im Finstern? He, Licht, Licht!
+
+St. Just.
+Kennst du meine Stimme?
+
+Robespierre.
+Ah du, St. Just!
+
+(Eine Dienerin bringt Licht.)
+
+St. Just.
+Warst du allein?
+
+Robespierre.
+Eben ging Danton weg.
+
+St. Just.
+Ich traf ihn unterwegs im Palais-Royal. Er machte seine revolutionaere
+Stirn und sprach in Epigrammen; er duzte sich mit den Ohnehosen, die
+Grisetten liefen hinter seinen Waden drein, und die Leute blieben
+stehn und zischelten sich in die Ohren, was er gesagt hatte. - Wir
+werden den Vorteil des Angriffs verlieren. Willst du noch laenger
+zaudern? Wir werden ohne dich handeln. Wir sind entschlossen.
+
+Robespierre.
+Was wollt ihr tun?
+
+St. Just.
+Wir berufen den Gesetzgebungs-, den Sicherheits- und den
+Wohlfahrtsausschuss zu feierlicher Sitzung.
+
+Robespierre.
+Viel Umstaende.
+
+St. Just.
+Wir muessen die grosse Leiche mit Anstand begraben, wie Priester,
+nicht wie Moerder; wir duerfen sie nicht verstuemmeln, alle ihre
+Glieder muessen mit hinunter.
+
+Robespierre.
+Sprich deutlicher!
+
+St. Just.
+Wir muessen ihn in seiner vollen Waffenruestung beisetzen und seine
+Pferde und Sklaven auf seinem Grabhuegel schlachten: Lacroix -
+
+Robespierre.
+Ein ausgemachter Spitzbube, gewesener Advokatenschreiber, gegenwaertig
+Generalleutnant von Frankreich. Weiter!
+
+St. Just.
+Herault-Sechelles.
+
+Robespierre.
+Ein schoener Kopf!
+
+St. Just.
+Er war der schoengemalte Anfangsbuchstaben der Konstitutionsakte; wir
+haben dergleichen Zierat nicht mehr noetig, er wird ausgewischt. -
+Philippeau. - Camille.
+
+Robespierre.
+Auch der?
+
+St. Just (ueberreicht ihm ein Papier)
+Das dacht' ich. Da lies!
+
+Robespierre.
+Aha, "Der alte Franziskaner"! Sonst nichts? Er ist ein Kind, er hat
+ueber euch gelacht.
+
+St. Just.
+Lies hier, hier! (Er zeigt ihm eine Stelle.)
+
+Robespierre (liest).
+"Dieser Blutmessias Robespierre auf seinem Kalvarienberge zwischen
+den beiden Schaechern Couthon und Collot, auf dem er opfert und nicht
+geopfert wird. Die Guillotinen-Betschwestern stehen wie Maria und
+Magdalena unten. St. Just liegt ihm wie Johannes am Herzen und macht
+den Konvent mit den apokalyptischen Offenbarungen des Meisters
+bekannt; er traegt seinen Kopf wie eine Monstranz."
+
+St. Just.
+Ich will ihn den seinigen wie St. Denis tragen machen.
+
+Robespierre (liest weiter).
+"Sollte man glauben, dass der saubere Frack des Messias das
+Leichenhemd Frankreichs ist, und dass seine duennen, auf der Tribuene
+herumzuckenden Finger Guillotinenmesser sind? - Und du, Barere, der du
+gesagt hast, auf dem Revolutionsplatz werde Muenze geschlagen! Doch -
+ich will den alten Sack nicht aufwuehlen. Er ist eine Witwe, die schon
+ein halb Dutzend Maenner hatte und sie alle begraben half. Wer kann
+was dafuer? Das ist so seine Gabe, er sieht den Leuten ein halbes
+Jahr vor dem Tode das hippokratische Gesicht an. Wer mag sich auch zu
+Leichen setzen und den Gestank riechen?"
+
+Also auch du, Camille? - Weg mit ihnen! Rasch! Nur die Toten kommen
+nicht wieder.
+
+Hast du die Anklage bereit?
+
+St. Just.
+Es macht sich leicht. Du hast die Andeutungen bei den Jakobinern
+gemacht.
+
+Robespierre.
+Ich wollte sie schrecken.
+
+St. Just.
+Ich brauche nur durchzufuehren; die Faelscher geben das Ei und die
+Fremden den Apfel ab. - Sie sterben an der Mahlzeit, ich gebe dir mein
+Wort.
+
+Robespierre.
+Dann rasch, morgen! Keinen langen Todeskampf! Ich bin empfindlich seit
+einigen Tagen. Nur rasch! (St. Just ab.)
+
+Robespierre (allein).
+Jawohl, Blutmessias, der opfert und nicht geopfert wird. - Er hat sie
+mit seinem Blut erloest, und ich erloese sie mit ihrem eignen. Er hat
+sie suendigen gemacht, und ich nehme die Suende auf mich. Er hatte die
+Wollust des Schmerzes, und ich habe die Qual des Henkers. Wer hat sich
+mehr verleugnet, ich oder er? - Und doch ist was von Narrheit in dem
+Gedanken. - Was sehen wir nur immer nach dem Einen? Wahrlich, der
+Menschensohn wird in uns allen gekreuzigt, wir ringen alle im
+Gethsemanegarten im blutigen Schweiss, aber es erloest keiner den
+andern mit seinen Wunden.
+
+Mein Camille! - Sie gehen alle von mir - es ist alles wuest und leer -
+ich bin allein.
+
+
+
+
+Zweiter Akt
+
+Erste Szene
+
+Ein Zimmer
+
+Danton. Lacroix. Philippeau. Paris. Camille Desmoulins.
+
+Camille.
+Rasch, Danton, wir haben keine Zeit zu verlieren!
+
+Danton (er kleidet sich an).
+Aber die Zeit verliert uns. Das ist sehr langweilig, immer das Hemd
+zuerst und dann die Hosen drueber zu ziehen und des Abends ins Bett
+und morgens wieder herauszukriechen und einen Fuss immer so vor den
+andern zu setzen; da ist gar kein Absehen, wie es anders werden soll.
+Das ist sehr traurig, und dass Millionen es schon so gemacht haben,
+und dass Millionen es wieder so machen werden, und dass wir noch
+obendrein aus zwei Haelften bestehen, die beide das naemliche tun, so
+dass alles doppelt geschieht - das ist sehr traurig.
+
+Camille.
+Du sprichst in einem ganz kindlichen Ton.
+
+Danton.
+Sterbende werden oft kindisch.
+
+Lacroix.
+Du stuerzest dich durch dein Zoegern ins Verderben, du reissest alle
+deine Freunde mit dir. Benachrichtige die Feiglinge, dass es Zeit ist,
+sich um dich zu versammeln, fordere sowohl die vom Tale als die vom
+Berge auf! Schreie ueber die Tyrannei der Dezemvirn, sprich von
+Dolchen, rufe Brutus an, dann wirst du die Tribunen erschrecken und
+selbst die um dich sammeln, die man als Mitschuldige Heberts bedroht!
+Du musst dich deinem Zorn ueberlassen. Lasst uns wenigstens nicht
+entwaffnet und erniedrigt wie der schaendliche Hebert sterben!
+
+Danton.
+Du hast ein schlechtes Gedaechtnis, du nanntest mich einen toten
+Heiligen. Du hattest mehr recht, als du selbst glaubtest. Ich war bei
+den Sektionen; sie waren ehrfurchtsvoll, aber wie Leichenbitter. Ich
+bin eine Reliquie, und Reliquien wirft man auf die Gasse, du hattest
+recht.
+
+Lacroix.
+Warum hast du es dazu kommen lassen?
+
+Danton.
+Dazu? Ja, wahrhaftig, es war mir zuletzt langweilig. Immer im
+naemlichen Rock herumzulaufen und die naemlichen Falten zu ziehen! Das
+ist erbaermlich. So ein armseliges Instrument zu sein, auf dem eine
+Saite immer nur einen Ton angibt! - 's ist nicht zum Aushalten. Ich
+wollte mir's bequem machen. Ich habe es erreicht; die Revolution setzt
+mich in Ruhe, aber auf andere Weise, als ich dachte.
+
+Uebrigens, auf was sich stuetzen? Unsere Huren koennten es noch mit
+den Guillotinen-Betschwestern aufnehmen; sonst weiss ich nichts. Es
+laesst sich an den Fingern herzaehlen: die Jakobiner haben erklaert,
+dass die Tugend an der Tagesordnung sei, die Cordeliers nennen mich
+Heberts Henker, der Gemeinderat tut Busse, der Konvent - das waere
+noch ein Mittel! aber es gaebe einen 31. Mai, sie wuerden nicht
+gutwillig weichen. Robespierre ist das Dogma der Revolution, es darf
+nicht ausgestrichen werden. Es ginge auch nicht. Wir haben nicht die
+Revolution, sondern die Revolution hat uns gemacht.
+
+Und wenn es ginge - ich will lieber guillotiniert werden als
+guillotinieren lassen. Ich hab es satt; wozu sollen wir Menschen
+miteinander kaempfen? Wir sollten uns nebeneinander setzen und Ruhe
+haben. Es wurde ein Fehler gemacht, wie wir geschaffen wurden; es
+fehlt uns etwas, ich habe keinen Namen dafuer - aber wir werden es
+einander nicht aus den Eingeweiden herauswuehlen, was sollen wir uns
+drum die Leiber aufbrechen? Geht, wir sind elende Alchymisten!
+
+Camille.
+Pathetischer gesagt, wuerde es heissen: wie lange soll die Menschheit
+in ewigem Hunger ihre eignen Glieder fressen? oder: wie lange sollen
+wir Schiffbruechige auf einem Wrack in unloeschbarem Durst einander
+das Blut aus den Adern saugen? oder: wie lange sollen wir Algebraisten
+im Fleisch beim Suchen nach dem unbekannten, ewig verweigerten X
+unsere Rechnungen mit zerfetzten Gliedern schreiben?
+
+Danton.
+Du bist ein starkes Echo.
+
+Camille.
+Nicht wahr, ein Pistolenschuss schallt gleich wie ein Donnerschlag.
+Desto besser fuer dich, du solltest mich immer bei dir haben.
+
+Philippeau.
+Und Frankreich bleibt seinen Henkern?
+
+Danton.
+Was liegt daran? Die Leute befinden sich ganz wohl dabei. Sie haben
+Unglueck; kann man mehr verlangen um geruehrt, edel, tugendhaft oder
+witzig zu sein, oder um ueberhaupt keine Langeweile zu haben? - Ob sie
+nun an der Guillotine oder am Fieber oder am Alter sterben! Es ist
+noch vorzuziehen, sie treten mit gelenken Gliedern hinter die Kulissen
+und koennen im Abgehen noch huebsch gestikulieren und die Zuschauer
+klatschen hoeren. Das ist ganz artig und passt fuer uns; wir stehen
+immer auf dem Theater, wenn wir auch zuletzt im Ernst erstochen
+werden.
+
+Es ist recht gut, dass die Lebenszeit ein wenig reduziert wird; der
+Rock war zu lang, unsere Glieder konnten ihn nicht ausfuellen. Das
+Leben wird ein Epigramm, das geht an; wer hat auch Atem und Geist
+genug fuer ein Epos in fuenfzig oder sechzig Gesaengen? 's ist Zeit,
+dass man das bisschen Essenz nicht mehr aus Zubern, sondern aus
+Likoerglaeschen trinkt; so bekommt man doch das Maul voll, sonst
+konnte man kaum einige Tropfen in dem plumpen Gefaess zusammenrinnen
+machen.
+
+Endlich - ich muesste schreien; das ist mir der Muehe zuviel, das
+Leben ist nicht die Arbeit wert, die man sich macht, es zu erhalten.
+
+Paris.
+So flieh, Danton!
+
+Danton.
+Nimmt man das Vaterland an den Schuhsohlen mit?
+
+Und endlich - und das ist die Hauptsache: sie werden's nicht wagen.
+(Zu Camille:) Komm, mein Junge; ich sage dir, sie werden's nicht
+wagen. Adieu, adieu! (Danton und Camille ab.)
+
+Philippeau.
+Da geht er hin.
+
+Lacroix.
+Und glaubt kein Wort von dem, was er gesagt hat. Nichts als Faulheit!
+Er will sich lieber guillotinieren lassen als eine Rede halten.
+
+Paris.
+Was tun?
+
+Lacroix.
+Heimgehn und als Lukretia auf einen anstaendigen Fall studieren.
+
+
+
+Zweite Szene
+
+Eine Promenade
+
+Spaziergaenger.
+
+Ein Buerger.
+Meine gute Jacqueline - ich wollte sagen Korn... wollt ich: Kor...
+
+Simon.
+Kornelia, Buerger, Kornelia.
+
+Buerger.
+Meine gute Kornelia hat mich mit einem Knaeblein erfreut.
+
+Simon.
+Hat der Republik einen Sohn geboren.
+
+Buerger.
+Der Republik, das lautet zu allgemein; man koennte sagen...
+
+Simon.
+Das ist's gerade, das Einzelne muss sich dem Allgemeinen...
+
+Buerger.
+Ach ja, das sagt meine Frau auch.
+
+Baenkelsaenger (singt).
+        Was doch ist, was doch ist
+        Aller Maenner Freud' und Luest'?
+
+Buerger.
+Ach, mit den Namen, da komm ich gar nicht ins reine.
+
+Simon.
+Tauf ihn Pike, Marat!
+
+Baenkelsaenger.
+        Unter Kummer, unter Sorgen
+        Sich bemuehn vom fruehen Morgen,
+        Bis der Tag vorueber ist.
+
+Buerger.
+Ich haette gern drei - es ist doch was mit der Zahl Drei - und
+dann was Nuetzliches und was Rechtliches; jetzt hab ich's: Pflug,
+Robespierre. Und dann das dritte?
+
+Simon.
+Pike.
+
+Buerger.
+Ich dank Euch, Nachbar; Pike, Pflug, Robespierre, das sind huebsche
+Namen, das macht sich schoen.
+
+Simon.
+Ich sage dir, die Brust deiner Kornelia wird wie das Euter der
+roemischen Woelfin - nein, das geht nicht: Romulus war ein Tyrann, das
+geht nicht. (Gehn vorbei.)
+
+Ein Bettler (singt).
+"Eine Handvoll Erde und ein wenig Moos..." Liebe Herren, schoene
+Damen!
+
+Erster Herr.
+Kerl, arbeite, du siehst ganz wohlgenaehrt aus!
+
+Zweiter Herr.
+Da! (Er gibt ihm Geld.) Er hat eine Hand wie Sammet. Das ist
+unverschaemt.
+
+Bettler.
+Mein Herr, wo habt Ihr Euren Rock her?
+
+Zweiter Herr.
+Arbeit, Arbeit! Du koenntest den naemlichen haben; ich will dir Arbeit
+geben, komm zu mir, ich wohne...
+
+Bettler.
+Herr, warum habt Ihr gearbeitet?
+
+Zweiter Herr.
+Narr, um den Rock zu haben.
+
+Bettler.
+Ihr habt Euch gequaelt, um einen Genuss zu haben; denn so ein Rock ist
+ein Genuss, ein Lumpen tut's auch.
+
+Zweiter Herr.
+Freilich, sonst geht's nicht.
+
+Bettler.
+Dass ich ein Narr waere! Das hebt einander.
+Die Sonne scheint warm an das Eck, und das geht ganz leicht. (Singt:)
+"Eine Handvoll Erde und ein wenig Moos..."
+
+Rosalie (zu Adelaiden).
+Mach fort, da kommen Soldaten! Wir haben seit gestern nichts Warmes in
+den Leib gekriegt.
+
+Bettler.
+"Ist auf dieser Erde einst mein letztes Los!" Meine Herren, meine
+Damen!
+
+Soldat.
+Halt! Wo hinaus, meine Kinder? (Zu Rosalie:) Wie alt bist du?
+
+Rosalie.
+So alt wie mein kleiner Finger.
+
+Soldat.
+Du bist sehr spitz.
+
+Rosalie.
+Und du sehr stumpf.
+
+Soldat.
+So will ich mich an dir wetzen. (Er singt:)
+
+        Christinlein, lieb Christinlein mein,
+        Tut dir der Schaden weh, Schaden weh,
+        Schaden weh, Schaden weh?
+
+Rosalie (singt).
+        Ach nein, ihr Herrn Soldaten,
+        Ich haett' es gerne meh, gerne meh,
+        Gerne meh, gerne meh!
+
+(Danton und Camille treten auf.)
+
+Danton.
+Geht das nicht lustig? - Ich wittre was in der Atmosphaere; es
+ist, als bruete die Sonne Unzucht aus. - Moechte man nicht drunter
+springen, sich die Hosen vom Leibe reissen und sich ueber den Hintern
+begatten wie die Hunde auf der Gasse? (Gehn vorbei.)
+
+Junger Herr.
+Ach, Madame, der Ton einer Glocke, das Abendlicht an den Baeumen, das
+Blinken eines Sterns...
+
+Madame.
+Der Duft einer Blume! Diese natuerlichen Freuden, dieser reine Genuss
+der Natur! (Zu ihrer Tochter:) Sieh, Eugenie, nur die Tugend hat Augen
+dafuer.
+
+Eugenie (kuesst ihrer Mutter die Hand).
+Ach, Mama, ich sehe nur Sie.
+
+Madame.
+Gutes Kind!
+
+Junger Herr (zischelt Eugenien ins Ohr).
+Sehen Sie dort die huebsche Dame mit dem alten Herrn?
+
+Eugenie.
+Ich kenne sie.
+
+Junger Herr.
+Man sagt, ihr Friseur habe sie a l'enfant frisiert.
+
+Eugenie (lacht).
+Boese Zunge!
+
+Junger Herr.
+Der alte Herr geht nebenbei; er sieht das Knoespchen schwellen und
+fuehrt es in die Sonne spazieren und meint, er sei der Gewitterregen,
+der es habe wachsen machen.
+
+Eugenie.
+Wie unanstaendig! Ich haette Lust, rot zu werden.
+
+Junger Herr.
+Das koennte mich blass machen. (Gehn ab.)
+
+Danton (zu Camille).
+Mute mir nur nichts Ernsthaftes zu! Ich begreife nicht, warum die
+Leute nicht auf der Gasse stehenbleiben und einander ins Gesicht
+lachen. Ich meine, sie muessten zu den Fenstern und zu den Graebern
+heraus lachen, und der Himmel muesse bersten, und die Erde muesse sich
+waelzen vor Lachen. (Gehn ab.)
+
+Erster Herr.
+Ich versichre Sie, eine ausserordentliche Entdeckung! Alle technischen
+Kuenste bekommen dadurch eine andere Physiognomie. Die Menschheit eilt
+mit Riesenschritten ihrer hohen Bestimmung entgegen.
+
+Zweiter Herr.
+Haben Sie das neue Stueck gesehen? Ein babylonischer Turm! Ein Gewirr
+von Gewoelben, Treppchen, Gaengen, und das alles so leicht und kuehn
+in die Luft gesprengt. Man schwindelt bei jedem Tritt. Ein bizarrer
+Kopf. (Er bleibt verlegen stehn.)
+
+Erster Herr.
+Was haben Sie denn?
+
+Zweiter Herr.
+Ach, nichts! Ihre Hand, Herr! die Pfuetze - so! Ich danke Ihnen. Kaum
+kam ich vorbei; das konnte gefaehrlich werden!
+
+Erster Herr.
+Sie fuerchteten doch nicht?
+
+Zweiter Herr.
+Ja, die Erde ist eine duenne Kruste; ich meine immer, ich koennte
+durchfallen, wo so ein Loch ist. - Man muss mit Vorsicht auftreten,
+man koennte durchbrechen. Aber gehn Sie ins Theater, ich rat es Ihnen!
+
+
+
+Dritte Szene
+
+Ein Zimmer
+
+Danton. Camille. Lucile.
+
+Camille.
+Ich sage euch, wenn sie nicht alles in hoelzernen Kopien bekommen,
+verzettelt in Theatern, Konzerten und Kunstausstellungen, so haben sie
+weder Augen noch Ohren dafuer. Schnitzt einer eine Marionette, wo man
+den Strick hereinhaengen sieht, an dem sie gezerrt wird und deren
+Gelenke bei jedem Schritt in fuenffuessigen Jamben krachen - welch
+ein Charakter, welche Konsequenz! Nimmt einer ein Gefuehlchen, eine
+Sentenz, einen Begriff und zieht ihm Rock und Hosen an, macht ihm
+Haende und Fuesse, faerbt ihm das Gesicht und laesst das Ding sich
+drei Akte hindurch herumquaelen, bis es sich zuletzt verheiratet oder
+sich totschiesst - ein Ideal! Fiedelt einer eine Oper, welche das
+Schweben und Senken im menschlichen Gemuet wiedergibt wie eine
+Tonpfeife mit Wasser die Nachtigall - ach, die Kunst!
+
+Setzt die Leute aus dem Theater auf die Gasse: die erbaermliche
+Wirklichkeit! - Sie vergessen ihren Herrgott ueber seinen schlechten
+Kopisten. Von der Schoepfung, die gluehend, brausend und leuchtend, um
+und in ihnen, sich jeden Augenblick neu gebiert, hoeren und sehen sie
+nichts. Sie gehen ins Theater, lesen Gedichte und Romane, schneiden
+den Fratzen darin die Gesichter nach und sagen zu Gottes Geschoepfen:
+wie gewoehnlich! - Die Griechen wussten, was sie sagten, wenn sie
+erzaehlten, Pygmalions Statue sei wohl lebendig geworden, habe aber
+keine Kinder bekommen.
+
+Danton.
+Und die Kuenstler gehn mit der Natur um wie David, der im September
+die Gemordeten, wie sie aus der Force auf die Gasse geworfen wurden,
+kaltbluetig zeichnete und sagte: ich erhasche die letzten Zuckungen
+des Lebens in diesen Boesewichtern. (Danton wird hinausgerufen.)
+
+Camille.
+Was sagst du, Lucile?
+
+Lucile.
+Nichts, ich seh dich so gern sprechen.
+
+Camille.
+Hoerst mich auch?
+
+Lucile.
+Ei freilich!
+
+Camille.
+Hab ich recht? Weisst du auch, was ich gesagt habe?
+
+Lucile.
+Nein, wahrhaftig nicht.
+
+(Danton kommt zurueck.)
+
+Camille.
+Was hast du?
+
+Danton.
+Der Wohlfahrtsausschuss hat meine Verhaftung beschlossen. Man hat mich
+gewarnt und mir einen Zufluchtsort angeboten.
+
+Sie wollen meinen Kopf; meinetwegen. Ich bin der Hudeleien
+ueberdruessig. Moegen sie ihn nehmen. Was liegt daran? Ich werde mit
+Mut zu sterben wissen; das ist leichter, als zu leben.
+
+Camille.
+Danton, noch ist's Zeit!
+
+Danton.
+Unmoeglich - aber ich haette nicht gedacht...
+
+Camille.
+Deine Traegheit!
+
+Danton.
+Ich bin nicht traeg, aber muede; meine Sohlen brennen mich.
+
+Camille.
+Wo gehst du hin?
+
+Danton.
+Ja, wer das wuesste!
+
+Camille.
+Im Ernst, wohin?
+
+Danton.
+Spazieren, mein Junge, spazieren. (Er geht.)
+
+Lucile.
+Ach, Camille!
+
+Camille.
+Sei ruhig, lieb Kind!
+
+Lucile.
+Wenn ich denke, dass sie dies Haupt -! Mein Camille! das ist Unsinn,
+gelt, ich bin wahnsinnig?
+
+Camille.
+Sei ruhig, Danton und ich sind nicht eins.
+
+Lucile.
+Die Erde ist weit, und es sind viel Dinge drauf - warum denn gerade
+das eine? Wer sollte mir's nehmen? Das waere arg. Was wollten sie auch
+damit anfangen?
+
+Camille.
+Ich wiederhole dir: du kannst ruhig sein. Gestern sprach ich mit
+Robespierre: er war freundlich. Wir sind ein wenig gespannt, das ist
+wahr; verschiedne Ansichten, sonst nichts!
+
+Lucile.
+Such ihn auf!
+
+Camille.
+Wir sassen auf einer Schulbank. Er war immer finster und einsam. Ich
+allein suchte ihn auf und machte ihn zuweilen lachen. Er hat mir immer
+grosse Anhaenglichkeit gezeigt. Ich gehe.
+
+Lucile.
+So schnell, mein Freund? Geh! Komm! Nur das (sie kuesst ihn) und das!
+Geh! Geh! (Camille ab.)
+
+Das ist eine boese Zeit. Es geht einmal so. Wer kann da drueber
+hinaus? Man muss sich fassen. (Singt:)
+
+        Ach Scheiden, ach Scheiden, ach Scheiden,
+        Wer hat sich das Scheiden erdacht?
+
+Wie kommt mir grad das in Kopf? Das ist nicht gut, dass es den Weg
+so von selbst findet. - Wie er hinaus ist, war mir's, als koennte er
+nicht mehr umkehren und muesse immer weiter weg von mir, immer weiter.
+
+Wie das Zimmer so leer ist; die Fenster stehn offen, als haette ein
+Toter drin gelegen. Ich halt es da oben nicht aus. (Sie geht.)
+
+
+
+Vierte Szene
+
+Freies Feld
+
+Danton.
+Ich mag nicht weiter. Ich mag in dieser Stille mit dem Geplauder
+meiner Tritte und dem Keuchen meines Atems nicht Laerm machen. (Er
+setzt sich nieder; nach einer Pause:)
+
+Man hat mir von einer Krankheit erzaehlt, die einem das Gedaechtnis
+verlieren mache. Der Tod soll etwas davon haben. Dann kommt mir
+manchmal die Hoffnung, dass er vielleicht noch kraeftiger wirke und
+einem alles verlieren mache. Wenn das waere! - Dann lief ich wie ein
+Christ, um einen Feind, d. h. mein Gedaechtnis, zu retten.
+
+Der Ort soll sicher sein, ja fuer mein Gedaechtnis, aber nicht fuer
+mich; mir gibt das Grab mehr Sicherheit, es schafft mir wenigstens
+Vergessen. Es toetet mein Gedaechtnis. Dort aber lebt mein Gedaechtnis
+und toetet mich. Ich oder es? Die Antwort ist leicht. (Er erhebt sich
+und kehrt um.)
+
+Ich kokettiere mit dem Tod; es ist ganz angenehm, so aus der Ferne mit
+dem Lorgnon mit ihm zu liebaeugeln.
+
+Eigentlich muss ich ueber die ganze Geschichte lachen. Es ist ein
+Gefuehl des Bleibens in mir, was mir sagt: es wird morgen sein wie
+heute, und uebermorgen und weiter hinaus ist alles wie eben. Das ist
+leerer Laerm, man will mich schrecken; sie werden's nicht wagen! (Ab.)
+
+
+
+Fuenfte Szene
+
+Ein Zimmer
+
+Es ist Nacht.
+
+Danton (am Fenster).
+Will denn das nie aufhoeren? Wird das Licht nie ausgluehn und der
+Schall nie modern? Will's denn nie still und dunkel werden, dass wir
+uns die garstigen Suenden einander nicht mehr anhoeren und ansehen? -
+September! -
+
+Julie (ruft von innen).
+Danton! Danton!
+
+Danton.
+He?
+
+Julie (tritt ein).
+Was rufst du?
+
+Danton.
+Rief ich?
+
+Julie.
+Du sprachst von garstigen Suenden, und dann stoehntest du: September!
+
+Danton.
+Ich, ich? Nein, ich sprach nicht; das dacht' ich kaum, das waren nur
+ganz leise, heimliche Gedanken.
+
+Julie.
+Du zitterst, Danton!
+
+Danton.
+Und soll ich nicht zittern, wenn so die Waende plaudern? Wenn mein
+Leib so zerteilt ist, dass meine Gedanken unstet, umirrend mit den
+Lippen der Steine reden? Das ist seltsam.
+
+Julie.
+Georg, mein Georg!
+
+Danton.
+Ja, Julie, das ist sehr seltsam. Ich moechte nicht mehr denken, wenn
+das gleich so spricht. Es gibt Gedanken, Julie, fuer die es keine
+Ohren geben sollte. Das ist nicht gut, dass sie bei der Geburt gleich
+schreien wie Kinder; das ist nicht gut.
+
+Julie.
+Gott erhalte dir deine Sinne! - Georg, Georg, erkennst du mich?
+
+Danton.
+Ei warum nicht! Du bist ein Mensch und dann eine Frau und endlich
+meine Frau, und die Erde hat fuenf Weltteile, Europa, Asien, Afrika,
+Amerika, Australien, und zwei mal zwei macht vier. Ich bin bei Sinnen,
+siehst du. - Schrie's nicht September? Sagtest du nicht so was?
+
+Julie.
+Ja, Danton, durch alle Zimmer hoert ich's.
+
+Danton.
+Wie ich ans Fenster kam - (er sieht hinaus:) die Stadt ist ruhig, alle
+Lichter aus...
+
+Julie.
+Ein Kind schreit in der Naehe.
+
+Danton.
+Wie ich ans Fenster kam - durch alle Gassen schrie und zetert' es:
+September!
+
+Julie.
+Du traeumtest, Danton. Fass dich!
+
+Danton.
+Traeumtest? Ja, ich traeumte; doch das war anders, ich will dir es
+gleich sagen - mein armer Kopf ist schwach - gleich! So, jetzt hab
+ich's: Unter mir keuchte die Erdkugel in ihrem Schwung; ich hatte sie
+wie ein wildes Ross gepackt, mit riesigen Gliedern wuehlt' ich in
+ihren Maehnen und presst' ich ihre Rippen, das Haupt abwaerts gewandt,
+die Haare flatternd ueber dem Abgrund; so ward ich geschleift. Da
+schrie ich in der Angst, und ich erwachte. Ich trat ans Fenster - und
+da hoert' ich's, Julie.
+
+Was das Wort nur will? Warum gerade das? Was hab ich damit zu
+schaffen? Was streckt es nach mir die blutigen Haende? Ich hab es
+nicht geschlagen. - O hilf mir, Julie, mein Sinn ist stumpf! War's
+nicht im September, Julie?
+
+Julie.
+Die Koenige waren nur noch vierzig Stunden von Paris...
+
+Danton.
+Die Festungen gefallen, die Aristokraten in der Stadt...
+
+Julie.
+Die Republik war verloren.
+
+Danton.
+Ja, verloren. Wir konnten den Feind nicht im Ruecken lassen, wir
+waeren Narren gewesen: zwei Feinde auf einem Brett; wir oder sie, der
+Staerkere stoesst den Schwaecheren hinunter - ist das nicht billig?
+
+Julie.
+Ja, ja.
+
+Danton.
+Wir schlugen sie - das war kein Mord, das war Krieg nach innen.
+
+Julie.
+Du hast das Vaterland gerettet.
+
+Danton.
+Ja, das hab ich; das war Notwehr, wir mussten. Der Mann am Kreuze hat
+sich's bequem gemacht: es muss ja Aergernis kommen, doch wehe dem,
+durch welchen Aergernis kommt! - Es muss; das war dies Muss. Wer will
+der Hand fluchen, auf die der Fluch des Muss gefallen? Wer hat das
+Muss gesprochen, wer? Was ist das, was in uns luegt, hurt, stiehlt und
+mordet?
+
+Puppen sind wir, von unbekannten Gewalten am Draht gezogen; nichts,
+nichts wir selbst! die Schwerter, mit denen Geister kaempfen - man
+sieht nur die Haende nicht, wie im Maerchen. - Jetzt bin ich ruhig.
+
+Julie.
+Ganz ruhig, lieb Herz?
+
+Danton.
+Ja, Julie; komm, zu Bette!
+
+
+
+Sechste Szene
+
+Strasse vor Dantons Haus
+
+Simon. Buergersoldaten.
+
+Simon.
+Wie weit ist's in der Nacht?
+
+Erster Buerger.
+Was in der Nacht?
+
+Simon.
+Wie weit ist die Nacht?
+
+Erster Buerger.
+So weit als zwischen Sonnenuntergang und Sonnenaufgang.
+
+Simon.
+Schuft, wieviel Uhr?
+
+Erster Buerger.
+Sieh auf dein Zifferblatt; es ist die Zeit, wo die Perpendikel unter
+den Bettdecken ausschlagen.
+
+Simon.
+Wir muessen hinauf! Fort, Buerger! Wir haften mit unseren Koepfen
+dafuer. Tot oder lebendig! Er hat gewaltige Glieder. Ich werde
+vorangehn, Buerger. Der Freiheit eine Gasse! - Sorgt fuer mein Weib!
+Eine Eichenkrone werd ich ihr hinterlassen.
+
+Erster Buerger.
+Eine Eichelkrone? Es sollen ihr ohnehin jeden Tag Eicheln genug in den
+Schoss fallen.
+
+Simon.
+Vorwaerts, Buerger, ihr werdet euch um das Vaterland verdient machen!
+
+Zweiter Buerger.
+Ich wollte, das Vaterland machte sich um uns verdient; ueber all
+den Loechern, die wir in andrer Leute Koerper machen, ist noch kein
+einziges in unsern Hosen zugegangen.
+
+Erster Buerger.
+Willst du, dass dir dein Hosenlatz zuginge? Hae, hae, hae!
+
+Die andern.
+Hae, hae, hae!
+
+Simon.
+Fort, fort! (Sie dringen in Dantons Haus.)
+
+
+
+Siebente Szene
+
+Der Nationalkonvent
+
+Eine Gruppe von Deputierten.
+
+Legendre.
+Soll denn das Schlachten der Deputierten nicht aufhoeren? - Wer ist
+noch sicher, wenn Danton faellt?
+
+Ein Deputierter.
+Was tun?
+
+Ein anderer.
+Er muss vor den Schranken des Konvents gehoert werden. - Der
+Erfolg dieses Mittels ist sicher; was sollten sie seiner Stimme
+entgegensetzen?
+
+Ein anderer.
+Unmoeglich, ein Dekret verhindert uns.
+
+Legendre.
+Es muss zurueckgenommen oder eine Ausnahme gestattet werden. - Ich
+werde den Antrag machen; ich rechne auf eure Unterstuetzung.
+
+Der Praesident.
+Die Sitzung ist eroeffnet.
+
+Legendre (besteigt die Tribuene).
+Vier Mitglieder des Nationalkonvents sind verflossene Nacht verhaftet
+worden. Ich weiss, dass Danton einer von ihnen ist, die Namen der
+uebrigen kenne ich nicht. Moegen sie uebrigens sein, wer sie wollen,
+so verlange ich, dass sie vor den Schranken gehoert werden.
+
+Buerger, ich erklaere es: ich halte Danton fuer ebenso rein wie mich
+selbst, und ich glaube nicht, dass mir irgendein Vorwurf gemacht
+werden kann. Ich will kein Mitglied des Wohlfahrts- oder des
+Sicherheitsausschusses angreifen, aber gegruendete Ursachen lassen
+mich fuerchten, Privathass und Privatleidenschaft moechten der
+Freiheit Maenner entreissen, die ihr die groessten Dienste erwiesen
+haben. Der Mann, welcher im Jahre 1792 Frankreich durch seine Energie
+rettete, verdient gehoert zu werden; er muss sich erklaeren duerfen,
+wenn man ihn des Hochverrats anklagt. (Heftige Bewegung.)
+
+Einige Stimmen.
+Wir unterstuetzen Legendres Vorschlag.
+
+Ein Deputierter.
+Wir sind hier im Namen des Volkes; man kann uns ohne den Willen
+unserer Waehler nicht von unseren Plaetzen reissen.
+
+Ein anderer.
+Eure Worte riechen nach Leichen; ihr habt sie den Girondisten aus dem
+Munde genommen. Wollt ihr Privilegien? Das Beil des Gesetzes schwebt
+ueber allen Haeuptern.
+
+Ein anderer.
+Wir koennen unsern Ausschuessen nicht erlauben, die Gesetzgeber aus
+dem Asyl des Gesetzes auf die Guillotine zu schicken.
+
+Ein anderer.
+Das Verbrechen hat kein Asyl, nur gekroente Verbrecher finden eins auf
+dem Thron.
+
+Ein anderer.
+Nur Spitzbuben appellieren an das Asylrecht.
+
+Ein anderer.
+Nur Moerder erkennen es nicht an.
+
+Robespierre.
+Die seit langer Zeit in dieser Versammlung unbekannte Verwirrung
+beweist, dass es sich um grosse Dinge handelt. Heute entscheidet
+sich's, ob einige Maenner den Sieg ueber das Vaterland davontragen
+werden. - Wie koennt ihr eure Grundsaetze weit genug verleugnen, um
+heute einigen Individuen das zu bewilligen, was ihr gestern Chabot,
+Delaunai und Fahre verweigert habt? Was soll dieser Unterschied
+zugunsten einiger Maenner? Was kuemmern mich die Lobsprueche, die man
+sich selbst und seinen Freunden spendet? Nur zu viele Erfahrungen
+haben uns gezeigt, was davon zu halten sei. Wir fragen nicht, ob ein
+Mann diese oder jene patriotische Handlung vollbracht habe; wir fragen
+nach seiner ganzen politischen Laufbahn. - Legendre scheint die Namen
+der Verhafteten nicht zu wissen; der ganze Konvent kennt sie. Sein
+Freund Lacroix ist darunter. Warum scheint Legendre das nicht zu
+wissen? Weil er wohl weiss, dass nur die Schamlosigkeit Lacroix
+verteidigen kann. Er nannte nur Danton, weil er glaubt, an diesen
+Namen knuepfe sich ein Privilegium. Nein, wir wollen keine
+Privilegien, wir wollen keine Goetzen! (Beifall.)
+
+Was hat Danton vor Lafayette, vor Dumouriez, vor Brissot, Fabre,
+Chabot, Hebert voraus? Was sagt man von diesen, was man nicht auch von
+ihm sagen koennte? Habt ihr sie gleichwohl geschont? Wodurch verdient
+er einen Vorzug vor seinen Mitbuergern? Etwa, weil einige betrogene
+Individuen und andere, die sich nicht betruegen liessen, sich um ihn
+reihten, um in seinem Gefolge dem Glueck und der Macht in die Arme
+zu laufen? - Je mehr er die Patrioten betrogen hat, welche Vertrauen
+in ihn setzten, desto nachdruecklicher muss er die Strenge der
+Freiheitsfreunde empfinden.
+
+Man will euch Furcht einfloessen vor dem Missbrauche einer Gewalt,
+die ihr selbst ausgeuebt habt. Man schreit ueber den Despotismus der
+Ausschuesse, als ob das Vertrauen, welches das Volk euch geschenkt
+und das ihr diesen Ausschuessen uebertragen habt, nicht eine sichre
+Garantie ihres Patriotismus waere. Man stellt sich, als zittre man.
+Aber ich sage euch, wer in diesem Augenblicke zittert, ist schuldig;
+denn nie zittert die Unschuld vor der oeffentlichen Wachsamkeit.
+(Allgemeiner Beifall.)
+
+Man hat auch mich schrecken wollen; man gab mir zu verstehen, dass die
+Gefahr, indem sie sich Danton naehere, auch bis zu mir dringen koenne.
+Man schrieb mir, Dantons Freunde hielten mich umlagert, in der
+Meinung, die Erinnerung an eine alte Verbindung, der blinde Glauben an
+erheuchelte Tugenden koennten mich bestimmen, meinen Eifer und meine
+Leidenschaft fuer die Freiheit zu maessigen. - So erklaere ich denn:
+nichts soll mich aufhalten, und sollte auch Dantons Gefahr die meinige
+werden. Wir alle haben etwas Mut und etwas Seelengroesse noetig. Nur
+Verbrecher und gemeine Seelen fuerchten, ihresgleichen an ihrer Seite
+fallen zu sehen, weil sie, wenn keine Schar von Mitschuldigen sie mehr
+versteckt, sich dem Licht der Wahrheit ausgesetzt sehen. Aber wenn es
+dergleichen Seelen in dieser Versammlung gibt, so gibt es in ihr auch
+heroische. Die Zahl der Schurken ist nicht gross; wir haben nur wenige
+Koepfe zu treffen, und das Vaterland ist gerettet. (Beifall.)
+
+Ich verlange, dass Legendres Vorschlag zurueckgewiesen werde.
+(Die Deputierten erheben sich saemtlich zum Zeichen allgemeiner
+Beistimmung.)
+
+St. Just.
+Es scheint in dieser Versammlung einige empfindliche Ohren zu geben,
+die das Wort "Blut" nicht wohl vertragen koennen. Einige allgemeine
+Betrachtungen moegen sie ueberzeugen, dass wir nicht grausamer
+sind als die Natur und als die Zeit. Die Natur folgt ruhig und
+unwiderstehlich ihren Gesetzen; der Mensch wird vernichtet, wo er
+mit ihnen in Konflikt kommt. Eine Aenderung in den Bestandteilen der
+Luft, ein Auflodern des tellurischen Feuers, ein Schwanken in dem
+Gleichgewicht einer Wassermasse und eine Seuche, ein vulkanischer
+Ausbruch, eine Ueberschwemmung begraben Tausende. Was ist das
+Resultat? Eine unbedeutende, im grossen Ganzen kaum bemerkbare
+Veraenderung der physischen Natur, die fast spurlos voruebergegangen
+sein wuerde, wenn nicht Leichen auf ihrem Wege laegen.
+
+Ich frage nun: soll die geistige Natur in ihren Revolutionen mehr
+Ruecksicht nehmen als die physische? Soll eine Idee nicht ebensogut
+wie ein Gesetz der Physik vernichten duerfen, was sich ihr widersetzt?
+Soll ueberhaupt ein Ereignis, was die ganze Gestaltung der moralischen
+Natur, das heisst der Menschheit, umaendert, nicht durch Blut gehen
+duerfen? Der Weltgeist bedient sich in der geistigen Sphaere unserer
+Arme ebenso, wie er in der physischen Vulkane und Wasserfluten
+gebraucht. Was liegt daran, ob sie an einer Seuche oder an der
+Revolution sterben?
+
+Die Schritte der Menschheit sind langsam, man kann sie nur nach
+Jahrhunderten zaehlen; hinter jedem erheben sich die Graeber von
+Generationen. Das Gelangen zu den einfachsten Erfindungen und
+Grundsaetzen hat Millionen das Leben gekostet, die auf dem Wege
+starben. Ist es denn nicht einfach, dass zu einer Zeit, wo der Gang
+der Geschichte rascher ist, auch mehr Menschen ausser Atem kommen?
+
+Wir schliessen schnell und einfach: Da alle unter gleichen
+Verhaeltnissen geschaffen werden, so sind alle gleich, die
+Unterschiede abgerechnet, welche die Natur selbst gemacht hat; es darf
+daher jeder Vorzuege und darf daher keiner Vorrechte haben, weder ein
+einzelner noch eine geringere oder groessere Klasse von Individuen. -
+Jedes Glied dieses in der Wirklichkeit angewandten Satzes hat seine
+Menschen getoetet. Der 14. Juli, der 10. August, der 31. Mai sind
+seine Interpunktionszeichen. Er hatte vier Jahre Zeit noetig, um in
+der Koerperwelt durchgefuehrt zu werden, und unter gewoehnlichen
+Umstaenden haette er ein Jahrhundert dazu gebraucht und waere mit
+Generationen interpunktiert worden. Ist es da so zu verwundern, dass
+der Strom der Revolution bei jedem Absatz, bei jeder neuen Kruemmung
+seine Leichen ausstoesst?
+
+Wir werden unserm Satze noch einige Schluesse hinzuzufuegen haben;
+sollen einige hundert Leichen uns verhindern, sie zu machen? - Moses
+fuehrte sein Volk durch das Rote Meer und in die Wueste, bis die alte
+verdorbne Generation sich aufgerieben hatte, eh' er den neuen Staat
+gruendete. Gesetzgeber! Wir haben weder das Rote Meer noch die Wueste,
+aber wir haben den Krieg und die Guillotine.
+
+Die Revolution ist wie die Toechter des Pelias: sie zerstueckt
+die Menschheit, um sie zu verjuengen. Die Menschheit wird aus dem
+Blutkessel wie die Erde aus den Wellen der Suendflut mit urkraeftigen
+Gliedern sich erheben, als waere sie zum ersten Male geschaffen.
+(Langer, anhaltender Beifall. Einige Mitglieder erheben sich im
+Enthusiasmus.)
+
+Alle geheimen Feinde der Tyrannei, welche in Europa und auf dem ganzen
+Erdkreise den Dolch des Brutus unter ihren Gewaendern tragen, fordern
+wir auf, diesen erhabnen Augenblick mit uns zu teilen. (Die Zuhoerer
+und die Deputierten stimmen die Marseillaise an.)
+
+
+
+
+Dritter Akt
+
+Erste Szene
+
+Das Luxembourg. Ein Saal mit Gefangnen
+
+Chaumette, Payne, Mercier, Herault-Sechelles und andre Gefangne.
+
+Chaumette (zupft Payne am Aermel).
+Hoeren Sie, Payne, es koennte doch so sein, vorhin ueberkam es mich
+so; ich habe heute Kopfweh, helfen Sie mir ein wenig mit Ihren
+Schluessen, es ist mir ganz unheimlich zumut.
+
+Payne.
+So komm, Philosoph Anaxagoras, ich will dich katechisieren. - Es gibt
+keinen Gott, denn: Entweder hat Gott die Welt geschaffen oder nicht.
+Hat er sie nicht geschaffen, so hat die Welt ihren Grund in sich, und
+es gibt keinen Gott, da Gott nur dadurch Gott wird, dass er den Grund
+alles Seins enthaelt. Nun kann aber Gott die Welt nicht geschaffen
+haben; denn entweder ist die Schoepfung ewig wie Gott, oder sie hat
+einen Anfang. Ist letzteres der Fall, so muss Gott sie zu einem
+bestimmten Zeitpunkt geschaffen haben, Gott muss also, nachdem er eine
+Ewigkeit geruht, einmal taetig geworden sein, muss also einmal eine
+Veraenderung in sich erlitten haben, die den Begriff Zeit auf ihn
+anwenden laesst, was beides gegen das Wesen Gottes streitet. Gott kann
+also die Welt nicht geschaffen haben. Da wir nun aber sehr deutlich
+wissen, dass die Welt oder dass unser Ich wenigstens vorhanden ist und
+dass sie dem Vorhergehenden nach also auch ihren Grund in sich oder in
+etwas haben muss, das nicht Gott ist, so kann es keinen Gott geben.
+Quod erat demonstrandum.
+
+Chaumette.
+Ei wahrhaftig, das gibt mir wieder Licht; ich danke, danke!
+
+Mercier.
+Halten Sie, Payne! Wenn aber die Schoepfung ewig ist?
+
+Payne.
+Dann ist sie schon keine Schoepfung mehr, dann ist sie eins mit Gott
+oder ein Attribut desselben, wie Spinoza sagt; dann ist Gott in allem,
+in Ihnen, Wertester, im Philosoph Anaxagoras und in mir. Das waere so
+uebel nicht, aber Sie muessen mir zugestehen, dass es gerade nicht
+viel um die himmlische Majestaet ist, wenn der liebe Herrgott in jedem
+von uns Zahnweh kriegen, den Tripper haben, lebendig begraben werden
+oder wenigstens die sehr unangenehmen Vorstellungen davon haben kann.
+
+Mercier.
+Aber eine Ursache muss doch da sein.
+
+Payne.
+Wer leugnet dies? Aber wer sagt Ihnen denn, dass diese Ursache das
+sei, was wir uns als Gott, d. h. als das Vollkommne denken? Halten Sie
+die Welt fuer vollkommen?
+
+Mercier.
+Nein.
+
+Payne.
+Wie wollen Sie denn aus einer unvollkommnen Wirkung auf eine
+vollkommne Ursache schliessen? - Voltaire wagte es ebensowenig mit
+Gott als mit den Koenigen zu verderben, deswegen tat er es. Wer einmal
+nichts hat als Verstand und ihn nicht einmal konsequent zu gebrauchen
+weiss oder wagt, ist ein Stuemper.
+
+Mercier.
+Ich frage dagegen: kann eine vollkommne Ursache eine vollkommne
+Wirkung haben, d. h. kann etwas Vollkommnes was Vollkommnes schaffen?
+Ist das nicht unmoeglich, weil das Geschaffne doch nie seinen Grund in
+sich haben kann, was doch, wie Sie sagten, zur Vollkommenheit gehoert?
+
+Chaumette.
+Schweigen Sie! Schweigen Sie!
+
+Payne.
+Beruhige dich, Philosoph! - Sie haben recht; aber muss denn Gott
+einmal schaffen, kann er nur was Unvollkommnes schaffen, so laesst
+er es gescheuter ganz bleiben. Ist's nicht sehr menschlich, uns Gott
+nur als schaffend denken zu koennen? Weil wir uns immer regen und
+schuetteln muessen, um uns nur immer sagen zu koennen: wir sind!
+muessen wir Gott auch dies elende Beduerfnis andichten? - Muessen
+wir, wenn sich unser Geist in das Wesen einer harmonisch in sich
+ruhenden, ewigen Seligkeit versenkt, gleich annehmen, sie muesse
+die Finger ausstrecken und ueber Tisch Brotmaennchen kneten? aus
+ueberschwenglichem Liebesbeduerfnis, wie wir uns ganz geheimnisvoll in
+die Ohren sagen. Muessen wir das alles, bloss um uns zu Goettersoehnen
+zu machen? Ich nehme mit einem geringern Vater vorlieb; wenigstens
+werd ich ihm nicht nachsagen koennen, dass er mich unter seinem Stande
+in Schweinestaellen oder auf den Galeeren habe erziehen lassen.
+
+Schafft das Unvollkommne weg, dann allein koennt ihr Gott
+demonstrieren; Spinoza hat es versucht. Man kann das Boese leugnen,
+aber nicht den Schmerz; nur der Verstand kann Gott beweisen, das
+Gefuehl empoert sich dagegen. Merke dir es, Anaxagoras: warum
+leide ich? Das ist der Fels des Atheismus. Das leiseste Zucken des
+Schmerzes, und rege es sich nur in einem Atom, macht einen Riss in der
+Schoepfung von oben bis unten.
+
+Mercier.
+Und die Moral?
+
+Payne.
+Erst beweist ihr Gott aus der Moral und dann die Moral aus Gott! - Was
+wollt ihr denn mit eurer Moral? Ich weiss nicht, ob es an und fuer
+sich was Boeses oder was Gutes gibt, und habe deswegen doch nicht
+noetig, meine Handlungsweise zu aendern. Ich handle meiner Natur
+gemaess; was ihr angemessen, ist fuer mich gut und ich tue es, und was
+ihr zuwider, ist fuer mich boes und ich tue es nicht und verteidige
+mich dagegen, wenn es mir in den Weg kommt. Sie koennen, wie man so
+sagt, tugendhaft bleiben und sich gegen das sogenannte Laster wehren,
+ohne deswegen ihre Gegner verachten zu muessen, was ein gar trauriges
+Gefuehl ist.
+
+Chaumette.
+Wahr, sehr wahr!
+
+Herault.
+O Philosoph Anaxagoras, man koennte aber auch sagen: damit Gott alles
+sei, muesse er auch sein eignes Gegenteil sein, d. h. vollkommen und
+unvollkommen, boes und gut, selig und leidend; das Resultat freilich
+wuerde gleich Null sein, es wuerde sich gegenseitig heben, wir kaemen
+zum Nichts. - Freue dich, du koemmst gluecklich durch: du kannst ganz
+ruhig in Madame Momoro das Meisterstueck der Natur anbeten, wenigstens
+hat sie dir die Rosenkraenze dazu in den Leisten gelassen.
+
+Chaumette.
+Ich danke Ihnen verbindlichste meine Herren! (Ab.)
+
+Payne.
+Er traut noch nicht, er wird sich zu guter Letzt noch die Oelung
+geben, die Fuesse nach Mekka zu legen und sich beschneiden lassen, um
+ja keinen Weg zu verfehlen.
+
+(Danton, Lacroix, Camille, Philippeau werden hereingefuehrt.)
+
+Herault. (laeuft auf Danton zu und umarmt ihn).
+Guten Morgen! Gute Nacht sollte ich sagen. Ich kann nicht fragen, wie
+hast du geschlafen -: wie wirst du schlafen?
+
+Danton.
+Nun gut, man muss lachend zu Bett gehn.
+
+Mercier (zu Payne).
+Diese Dogge mit Taubenfluegeln! Er ist der boese Genius der
+Revolution; er wagte sich an seine Mutter, aber sie war staerker als
+er.
+
+Payne.
+Sein Leben und sein Tod sind ein gleich grosses Unglueck.
+
+Lacroix (zu Danton).
+Ich dachte nicht, dass sie so schnell kommen wuerden.
+
+Danton.
+Ich wusst' es, man hatte mich gewarnt.
+
+Lacroix.
+Und du hast nichts gesagt?
+
+Danton.
+Zu was? Ein Schlagfluss ist der beste Tod; wolltest du zuvor krank
+sein? Und - ich dachte nicht, dass sie es wagen wuerden. (Zu Herault:)
+Es ist besser, sich in die Erde legen als sich Leichdoerner auf ihr
+laufen; ich habe sie lieber zum Kissen als zum Schemel.
+
+Herault.
+Wir werden wenigstens nicht mit Schwielen an den Fingern der huebschen
+Dame Verwesung die Wangen streicheln.
+
+Camille (zu Danton).
+Gib dir nur keine Muehe! du magst die Zunge noch so weit zum Hals
+heraushaengen, du kannst dir damit doch nicht den Todesschweiss von
+der Stirne lecken. - O Lucile! Das ist ein grosser Jammer!
+
+(Die Gefangnen draengen sich um die neu Angekommnen.)
+
+Danton (zu Payne).
+Was Sie fuer das Wohl Ihres Landes getan, habe ich fuer das meinige
+versucht. Ich war weniger gluecklich, man schickt mich aufs Schafott;
+meinetwegen, ich werde nicht stolpern.
+
+Mercier (zu Danton).
+Das Blut der Zweiundzwanzig ersaeuft dich.
+
+Ein Gefangener (zu Herault).
+Die Macht des Volkes und die Macht der Vernunft sind eins.
+
+Ein andrer (zu Camille).
+Nun, Generalprokurator der Laterne, deine Verbesserung der
+Strassenbeleuchtung hat in Frankreich nicht heller gemacht.
+
+Ein andrer.
+Lasst ihn! Das sind die Lippen, welche das Wort "Erbarmen" gesprochen.
+(Er umarmt Camille, mehrere Gefangne folgen seinem Beispiel.)
+
+Philippeau.
+Wir sind Priester, die mit Sterbenden gebetet haben; wir sind
+angesteckt worden und sterben an der naemlichen Seuche.
+
+Einige Stimmen.
+Der Streich, der euch trifft, toetet uns alle.
+
+Camille.
+Meine Herren, ich beklage sehr, dass unsere Anstrengungen so fruchtlos
+waren; ich gehe aufs Schafott, weil mir die Augen ueber das Los
+einiger Ungluecklichen nass geworden.
+
+
+
+Zweite Szene
+
+Ein Zimmer
+
+Fouquier-Tinville. Herman.
+
+Fouquier.
+Alles bereit?
+
+Herman.
+Es wird schwer halten; waere Danton nicht darunter, so ginge es
+leicht.
+
+Fouquier.
+Er muss vortanzen.
+
+Herman.
+Er wird die Geschwornen erschrecken, er ist die Vogelscheuche der
+Revolution.
+
+Fouquier.
+Die Geschwornen muessen wollen.
+
+Herman.
+Ein Mittel wuesst' ich, aber es wird die gesetzliche Form verletzen.
+
+Fouquier.
+Nur zu!
+
+Herman.
+Wir losen nicht, sondern suchen die Handfesten aus.
+
+Fouquier.
+Das muss gehen. - Das wird ein gutes Heckefeuer geben. Es sind ihrer
+neunzehn. Sie sind geschickt zusammengewoerfelt. Die vier Faelscher,
+dann einige Bankiers und Fremde. Es ist ein pikantes Gericht. Das Volk
+braucht dergleichen. - Also zuverlaessige Leute! Wer zum Beispiel?
+
+Herman.
+Leroi. Er ist taub und hoert daher nichts von all dem, was die
+Angeklagten vorbringen. Danton mag sich den Hals bei ihm rauh
+schreien.
+
+Fouquier.
+Sehr gut; weiter!
+
+Herman.
+Vilatte und Lumiere. Der eine sitzt immer in der Trinkstube, und
+der andere schlaeft immer; beide oeffnen den Mund nur, um das Wort
+"Schuldig" zu sagen. - Girard hat den Grundsatz, es duerfe keiner
+entwischen, der einmal vor das Tribunal gestellt sei. Renaudin...
+
+Fouquier.
+Auch der? Er half einmal einigen Pfaffen durch.
+
+Herman.
+Sei ruhig! Vor einigen Tagen kommt er zu mir und verlangt, man solle
+allen Verurteilten vor der Hinrichtung zur Ader lassen, um sie ein
+wenig matt zu machen; ihre meist trotzige Haltung aergere ihn.
+
+Fouquier.
+Ach, sehr gut. Also ich verlasse mich!
+
+Herman.
+Lass mich nur machen!
+
+
+
+Dritte Szene
+
+Die Conciergerie. Ein Korridor
+
+Lacroix, Danton, Mercier und andre Gefangne auf und ab gehend.
+
+Lacroix (zu einem Gefangnen).
+Wie, so viel Unglueckliche, und in einem so elenden Zustande?
+
+Der Gefangne.
+Haben Ihnen die Guillotinenkarren nie gesagt, dass Paris eine
+Schlachtbank sei?
+
+Mercier.
+Nicht wahr, Lacroix, die Gleichheit schwingt ihre Sichel ueber
+allen Haeuptern, die Lava der Revolution fliesst, die Guillotine
+republikanisiert! Da klatschen die Galerien, und die Roemer reiben
+sich die Haende; aber sie hoeren nicht, dass jedes dieser Worte das
+Roecheln eines Opfers ist. Geht einmal euren Phrasen nach bis zu dem
+Punkt, wo sie verkoerpert werden. - Blickt um euch, das alles habt
+ihr gesprochen; es ist eine mimische Uebersetzung eurer Worte. Diese
+Elenden, ihre Henker und die Guillotine sind eure lebendig gewordnen
+Reden. Ihr bautet eure Systeme, wie Bajazet seine Pyramiden, aus
+Menschenkoepfen.
+
+Danton.
+Du hast recht - man arbeitet heutzutag alles in Menschenfleisch. Das
+ist der Fluch unserer Zeit. Mein Leib wird jetzt auch verbraucht.
+
+Es ist grade ein Jahr, dass ich das Revolutionstribunal schuf. Ich
+bitte Gott und Menschen dafuer um Verzeihung; ich wollte neuen
+Septembermorden zuvorkommen, ich hoffte die Unschuldigen zu retten,
+aber dies langsame Morden mit seinen Formalitaeten ist graesslicher
+und ebenso unvermeidlich. Meine Herren, ich hoffte, Sie alle diesen
+Ort verlassen zu machen.
+
+Mercier.
+Oh, herausgehen werden wir.
+
+Danton.
+Ich bin jetzt bei Ihnen; der Himmel weiss, wie das enden soll.
+
+
+
+Vierte Szene
+
+Das Revolutionstribunal
+
+Herman (zu Danton).
+Ihr Name, Buerger.
+
+Danton.
+Die Revolution nennt meinen Namen. Meine Wohnung ist bald im Nichts
+und mein Name im Pantheon der Geschichte.
+
+Herman.
+Danton, der Konvent beschuldigt Sie, mit Mirabeau, mit Dumouriez, mit
+Orleans, mit den Girondisten, den Fremden und der Faktion Ludwigs des
+XVII. konspiriert zu haben.
+
+Danton.
+Meine Stimme, die ich so oft fuer die Sache des Volkes ertoenen liess,
+wird ohne Muehe die Verleumdung zurueckweisen. Die Elenden, welche
+mich anklagen, moegen hier erscheinen, und ich werde sie mit Schande
+bedecken. Die Ausschuesse moegen sich hierher begeben, ich werde nur
+vor ihnen antworten. Ich habe sie als Klaeger und als Zeugen noetig.
+Sie moegen sich zeigen.
+
+Uebrigens, was liegt mir an euch und eurem Urteil? Ich hab es euch
+schon gesagt: das Nichts wird bald mein Asyl sein; - das Leben ist
+mir zur Last, man mag mir es entreissen, ich sehne mich danach, es
+abzuschuetteln.
+
+Herman.
+Danton, die Kuehnheit ist dem Verbrecher, die Ruhe der Unschuld eigen.
+
+Danton.
+Privatkuehnheit ist ohne Zweifel zu tadeln, aber jene
+Nationalkuehnheit, die ich so oft gezeigt, mit welcher ich so oft fuer
+die Freiheit gekaempft habe, ist die verdienstvollste aller Tugenden.
+- Sie ist meine Kuehnheit, sie ist es, der ich mich hier zum Besten
+der Republik gegen meine erbaermlichen Anklaeger bediene. Kann ich
+mich fassen, wenn ich mich auf eine so niedrige Weise verleumdet sehe?
+- Von einem Revolutionaer wie ich darf man keine kalte Verteidigung
+erwarten. Maenner meines Schlages sind in Revolutionen unschaetzbar,
+auf ihrer Stirne schwebt das Genie der Freiheit. (Zeichen von Beifall
+unter den Zuhoerern.)
+
+Mich klagt man an, mit Mirabeau, mit Dumouriez, mit Orleans
+konspiriert, zu den Fuessen elender Despoten gekrochen zu haben; mich
+fordert man auf, vor der unentrinnbaren, unbeugsamen Gerechtigkeit
+zu antworten. - Du elender St. Just wirst der Nachwelt fuer diese
+Laesterung verantwortlich sein!
+
+Herman.
+Ich fordere Sie auf, mit Ruhe zu antworten; gedenken Sie Marats, er
+trat mit Ehrfurcht vor seine Richter.
+
+Danton.
+Sie haben die Haende an mein ganzes Leben gelegt, so mag es sich denn
+aufrichten und ihnen entgegentreten; unter dem Gewichte jeder meiner
+Handlungen werde ich sie begraben. - Ich bin nicht stolz darauf. Das
+Schicksal fuehrt uns den Arm, aber nur gewaltige Naturen sind seine
+Organe.
+
+Ich habe auf dem Marsfelde dem Koenigtume den Krieg erklaert, ich
+habe es am 10. August geschlagen, ich habe es am 21. Januar getoetet
+und den Koenigen einen Koenigskopf als Fehdehandschuh hingeworfen.
+(Wiederholte Zeichen von Beifall. - Er nimmt die Anklageakte.) Wenn
+ich einen Blick auf diese Schandschrift werfe, fuehle ich mein ganzes
+Wesen beben. Wer sind denn die, welche Danton noetigen mussten, sich
+an jenem denkwuerdigen Tage (dem 10. August) zu zeigen? Wer sind denn
+die privilegierten Wesen, von denen er seine Energie borgte? - Meine
+Anklaeger moegen erscheinen! Ich bin ganz bei Sinnen, wenn ich es
+verlange. Ich werde die platten Schurken entlarven und sie in das
+Nichts zurueckschleudern, aus dem sie nie haetten hervorkriechen
+sollen.
+
+Herman (schellt).
+Hoeren Sie die Klingel nicht?
+
+Danton.
+Die Stimme eines Menschen, welcher seine Ehre und sein Leben
+verteidigt, muss deine Schelle ueberschreien.
+
+Ich habe im September die junge Brut der Revolution mit den
+zerstueckten Leibern der Aristokraten geaetzt. Meine Stimme hat aus
+dem Golde der Aristokraten und Reichen dem Volke Waffen geschmiedet.
+Meine Stimme war der Orkan, welcher die Satelliten des Despotismus
+unter Wogen von Bajonetten begrub. (Lauter Beifall.)
+
+Herman.
+Danton, Ihre Stimme ist erschoepft, Sie sind zu heftig bewegt. Sie
+werden das naechste Mal Ihre Verteidigung beschliessen, Sie haben Ruhe
+noetig. - Die Sitzung ist aufgehoben.
+
+Danton.
+Jetzt kennt Ihr Danton - noch wenige Stunden, und er wird in den Armen
+des Ruhmes entschlummern.
+
+
+
+Fuenfte Szene
+
+Das Luxembourg. Ein Kerker
+
+Dillon. Laflotte. Ein Gefangenwaerter.
+
+Dillon.
+Kerl, leuchte mir mit deiner Nase nicht so ins Gesicht. Hae, hae, hae!
+
+Laflotte.
+Halte den Mund zu, deine Mondsichel hat einen Hof. Hae, hae, hae!
+
+Waerter.
+Hae, hae, hae! Glaubt Ihr, Herr, dass Ihr bei ihrem Schein lesen
+koenntet? (Zeigt auf einen Zettel, den er in der Hand haelt.)
+
+Dillon.
+Gib her!
+
+Waerter.
+Herr, meine Mondsichel hat Ebbe bei mir gemacht.
+
+Laflotte.
+Deine Hosen sehen aus, als ob Flut waere.
+
+Waerter.
+Nein, sie zieht Wasser. (Zu Dillon:) Sie hat sich vor Eurer Sonne
+verkrochen, Herr; Ihr muesst mir was geben, das sie wieder feurig
+macht, wenn Ihr dabei lesen wollt.
+
+Dillon.
+Da, Kerl! Pack dich! (Er gibt ihm Geld. Waerter ab. - Dillon liest:)
+Danton hat das Tribunal erschreckt, die Geschwornen schwankten, die
+Zuhoerer murrten. Der Zudrang war ausserordentlich. Das Volk draengte
+sich um den Justizpalast und stand bis zu den Bruecken. Eine Handvoll
+Geld, ein Arm endlich - hin! hin! (Er geht auf und ab und schenkt sich
+von Zeit zu Zeit aus einer Flasche ein.) Haett' ich nur den Fuss auf
+der Gasse! Ich werde mich nicht so schlachten lassen. Ja, nur den Fuss
+auf der Gasse!
+
+Laflotte.
+Und auf dem Karren, das ist eins.
+
+Dillon.
+Meinst du? Da laegen noch ein paar Schritte dazwischen, lange genug,
+um sie mit den Leichen der Dezemvirn zu messen. - Es ist endlich Zeit,
+dass die rechtschaffnen Leute das Haupt erheben.
+
+Laflotte (fuer sich).
+Desto besser, um so leichter ist es zu treffen. Nur zu, Alter; noch
+einige Glaeser, und ich werde flott.
+
+Dillon.
+Die Schurken, die Narren, sie werden sich zuletzt noch selbst
+guillotinieren. (Er laeuft auf und ab.)
+
+Laflotte (beiseite).
+Man koennte das Leben ordentlich wieder liebhaben, wie sein Kind, wenn
+man sich's selbst gegeben. Das kommt gerade nicht oft vor, dass man so
+mit dem Zufall Blutschande treiben und sein eigner Vater werden kann.
+Vater und Kind zugleich. Ein behaglicher Oedipus!
+
+Dillon.
+Man fuettert das Volk nicht mit Leichen; Dantons und Camilles Weiber
+moegen Assignaten unter das Volk werfen, das ist besser als Koepfe.
+
+Laflotte (beiseite).
+Ich wuerde mir hintennach die Augen nicht ausreissen; ich koennte sie
+noetig haben, um den guten General zu beweinen.
+
+Dillon.
+Die Hand an Danton! Wer ist noch sicher? Die Furcht wird sie
+vereinigen.
+
+Laflotte (beiseite).
+Er ist doch verloren. Was ist's denn, wenn ich auf eine Leiche trete,
+um aus dem Grab zu klettern?
+
+Dillon.
+Nur den Fuss auf der Gasse! Ich werde Leute genug finden, alte
+Soldaten, Girondisten, Exadlige; wir erbrechen die Gefaengnisse, wir
+muessen uns mit den Gefangnen verstaendigen.
+
+Laflotte (beiseite).
+Nun freilich, es riecht ein wenig nach Schufterei. Was tut's? Ich
+haette Lust, auch das zu versuchen; ich war bisher zu einseitig. Man
+bekommt Gewissensbisse, das ist doch eine Abwechslung; es ist nicht so
+unangenehm, seinen eignen Gestank zu riechen. - Die Aussicht auf die
+Guillotine ist mir langweilig geworden; so lang auf die Sache zu
+warten! Ich habe sie im Geist schon zwanzigmal durchprobiert. Es ist
+auch gar nichts Pikantes mehr dran; es ist ganz gemein geworden.
+
+Dillon.
+Man muss Dantons Frau ein Billett zukommen lassen.
+
+Laflotte (beiseite).
+Und dann - ich fuerchte den Tod nicht, aber den Schmerz. Es koennte
+wehe tun, wer steht mir dafuer? Man sagt zwar, es sei nur ein
+Augenblick; aber der Schmerz hat ein feineres Zeitmass, er zerlegt
+eine Tertie. Nein! Der Schmerz ist die einzige Suende, und das Leiden
+ist das einzige Laster; ich werde tugendhaft bleiben.
+
+Dillon.
+Hoere, Laflotte, wo ist der Kerl hingekommen? Ich habe Geld, das muss
+gehen. Wir muessen das Eisen schmieden; mein Plan ist fertig.
+
+Laflotte.
+Gleich, gleich! Ich kenne den Schliesser, ich werde mit ihm sprechen.
+Du kannst auf mich zaehlen, General, wir werden aus dem Loch kommen
+- (fuer sich im Hinausgehn:) um in ein anderes zu gehen: ich in das
+weiteste, die Welt, er in das engste, das Grab.
+
+
+
+Sechste Szene
+
+Der Wohlfahrtsausschuss
+
+St. Just. Barere. Collot d'Herbois. Billaud-Varennes.
+
+Barere.
+Was schreibt Fouquier?
+
+St. Just.
+Das zweite Verhoer ist vorbei. Die Gefangnen verlangen das Erscheinen
+mehrerer Mitglieder des Konvents und des Wohlfahrtsausschusses; sie
+appellierten an das Volk, wegen Verweigerung der Zeugen. Die Bewegung
+der Gemueter soll unbeschreiblich sein. - Danton parodierte den
+Jupiter und schuettelte die Locken.
+
+Collot.
+Um so leichter wird ihn Samson daran packen.
+
+Barere.
+Wir duerfen uns nicht zeigen, die Fischweiber und die Lumpensammler
+koennten uns weniger imposant finden.
+
+Billaud.
+Das Volk hat einen Instinkt, sich treten zu lassen, und waere es nur
+mit Blicken; dergleichen insolente Physiognomien gefallen ihm. Solche
+Stirnen sind aerger als ein adliges Wappen, der feine Aristokratismus
+der Menschenverachtung sitzt auf ihnen. Es sollte sie jeder
+einschlagen helfen, den es verdriesst, einen Blick von oben herunter
+zu erhalten.
+
+Barere.
+Er ist wie der hoernerne Siegfried, das Blut der Septembrisierten hat
+ihn unverwundbar gemacht. Was sagt Robespierre?
+
+St. Just.
+Er tut, als ob er etwas zu sagen haette. Die Geschwornen muessen sich
+fuer hinlaenglich unterrichtet erklaeren und die Debatten schliessen.
+
+Barere.
+Unmoeglich, das geht nicht.
+
+St. Just.
+Sie muessen weg, um jeden Preis, und sollten wir sie mit den eignen
+Haenden erwuergen. Wagt! Danton soll uns das Wort nicht umsonst
+gelehrt haben. Die Revolution wird ueber ihre Leichen nicht stolpern;
+aber bleibt Danton am Leben, so wird er sie am Gewand fassen, und er
+hat etwas in seiner Gestalt, als ob er die Freiheit notzuechtigen
+koennte. (St. Just wird hinausgerufen.)
+
+(Ein Schliesser tritt ein.)
+
+Schliesser.
+In St. Pelagie liegen Gefangne am Sterben, sie verlangen einen Arzt.
+
+Billaud.
+Das ist unnoetig, so viel Muehe weniger fuer den Scharfrichter.
+
+Schliesser.
+Es sind schwangere Weiber dabei.
+
+Billaud.
+Desto besser, da brauchen ihre Kinder keinen Sarg.
+
+Barere.
+Die Schwindsucht eines Aristokraten spart dem Revolutionstribunal eine
+Sitzung. Jede Arznei waere contrerevolutionaer.
+
+Collot (nimmt ein Papier).
+Eine Bittschrift, ein Weibername!
+
+Barere.
+Wohl eine von denen, die gezwungen sein moechten, zwischen einem
+Guillotinenbrett und dem Bett eines Jakobiners zu waehlen. Die wie
+Lukretia nach dem Verlust ihrer Ehre sterben, aber etwas spaeter als
+die Roemerin: im Kindbett oder am Krebs oder aus Altersschwaeche. - Es
+mag nicht so unangenehm sein, einen Tarquinius aus der Tugendrepublik
+einer Jungfrau zu treiben.
+
+Collot.
+Sie ist zu alt. Madame verlangt den Tod, sie weiss sich auszudruecken:
+das Gefaengnis liege auf ihr wie ein Sargdeckel; sie sitzt erst
+seit vier Wochen. Die Antwort ist leicht. (Er schreibt und liest:)
+"Buergerin, es ist noch nicht lange genug, dass du den Tod
+wuenschest." (Schliesser ab.)
+
+Barere.
+Gut gesagt! Aber, Collot, es ist nicht gut, dass die Guillotine zu
+lachen anfaengt; die Leute haben sonst keine Furcht mehr davor; man
+muss sich nicht so familiaer machen.
+
+(St. Just kommt zurueck.)
+
+St. Just.
+Eben erhalte ich eine Denunziation. Man konspiriert in den
+Gefaengnissen; ein junger Mensch namens Laflotte hat alles entdeckt.
+Er sass mit Dillon im naemlichen Zimmer, Dillon hat getrunken und
+geplaudert.
+
+Barere.
+Er schneidet sich mit seiner Bouteille den Hals ab; das ist schon mehr
+vorgekommen.
+
+St. Just.
+Dantons und Camilles Weiber sollen Geld unter das Volk werfen, Dillon
+soll ausbrechen, man will die Gefangnen befreien, der Konvent soll
+gesprengt werden.
+
+Barere.
+Das sind Maerchen.
+
+St. Just.
+Wir werden sie aber mit dem Maerchen in Schlaf erzaehlen. Die Anzeige
+habe ich in Haenden; dazu die Keckheit der Angeklagten, das Murren
+des Volks, die Bestuerzung der Geschwornen - ich werde einen Bericht
+machen.
+
+Barere.
+Ja, geh, St. Just, und spinne deine Perioden, worin jedes Komma ein
+Saebelhieb und jeder Punkt ein abgeschlagner Kopf ist!
+
+St. Just.
+Der Konvent muss dekretieren, das Tribunal solle ohne Unterbrechung
+den Prozess fortfuehren und duerfe jeden Angeklagten, welcher die
+dem Gerichte schuldige Achtung verletzte oder stoerende Auftritte
+veranlasste, von den Debatten ausschliessen.
+
+Barere.
+Du hast einen revolutionaeren Instinkt; das lautet ganz gemaessigt und
+wird doch seine Wirkung tun. Sie koennen nicht schweigen, Danton muss
+schreien.
+
+St. Just.
+Ich zaehle auf eure Unterstuetzung. Es gibt Leute im Konvent, die
+ebenso krank sind wie Danton und welche die naemliche Kur fuerchten.
+Sie haben wieder Mut bekommen, sie werden ueber Verletzung der Formen
+schreien...
+
+Barere(ihn unterbrechend)
+Ich werde ihnen sagen: Zu Rom wurde der Konsul, welcher die
+Verschwoerung des Katilina entdeckte und die Verbrecher auf der Stelle
+mit dem Tod bestrafte, der verletzten Foermlichkeit angeklagt. Wer
+waren seine Anklaeger?
+
+Collot (mit Pathos).
+Geh, St. Just! Die Lava der Revolution fliesst. Die Freiheit wird die
+Schwaechlinge, welche ihren maechtigen Schoss befruchten wollten, in
+ihren Umarmungen ersticken; die Majestaet des Volks wird ihnen wie
+Jupiter der Semele unter Donner und Blitz erscheinen und sie in Asche
+verwandeln. Geh, St. Just, wir werden dir helfen, den Donnerkeil auf
+die Haeupter der Feiglinge zu schleudern! (St. Just ab.)
+
+Barere.
+Hast du das Wort Kur gehoert? Sie werden noch aus der Guillotine ein
+Spezifikum gegen die Lustseuche machen. Sie kaempfen nicht mit den
+Moderierten, sie kaempfen mit dem Laster.
+
+Billaud.
+Bis jetzt geht unser Weg zusammen.
+
+Barere.
+Robespierre will aus der Revolution einen Hoersaal fuer Moral machen
+und die Guillotine als Katheder gebrauchen.
+
+Billaud.
+Oder als Betschemel.
+
+Collot.
+Auf dem er aber alsdann nicht stehen, sondern liegen soll.
+
+Barere.
+Das wird leicht gehen. Die Welt muesste auf dem Kopf stehen, wenn die
+sogenannten Spitzbuben von den sogenannten rechtlichen Leuten gehaengt
+werden sollten.
+
+Collot(zu Barere).
+Wann kommst du wieder nach Clichy?
+
+Barere.
+Wenn der Arzt nicht mehr zu mir kommt.
+
+Collot.
+Nicht wahr, ueber dem Ort steht ein Haarstern, unter dessen
+versengenden Strahlen dein Rueckenmark ganz ausgedoerrt wird?
+
+Billaud.
+Naechstens werden die niedlichen Finger der reizenden Demaly es ihm
+aus dem Futterale ziehen und es als Zoepfchen ueber den Ruecken
+hinunterhaengen machen.
+
+Barere (zuckt die Achseln).
+Pst! davon darf der Tugendhafte nichts wissen.
+
+Billaud.
+Er ist ein impotenter Masoret. (Billaud und Collot ab.)
+
+Barere (allein).
+Die Ungeheuer! - "Es ist noch nicht lange genug, dass du den Tod
+wuenschest!" Diese Worte haetten die Zunge muessen verdorren machen,
+die sie gesprochen.
+
+Und ich? - Als die Septembriseurs in die Gefaengnisse drangen, fasst
+ein Gefangner sein Messer, er draengt sich unter die Moerder, er
+stoesst es in die Brust eines Priesters, er ist gerettet! Wer kann was
+dawider haben? Ob ich mich nun unter die Moerder draenge oder mich
+in den Wohlfahrtsausschuss setze, ob ich ein Guillotinen- oder
+ein Taschenmesser nehme? Es ist der naemliche Fall, nur mit etwas
+verwickelteren Umstaenden; die Grundverhaeltnisse sind sich gleich. -
+Und durft' er einen morden: durft' er auch zwei, auch drei, auch noch
+mehr? wo hoert das auf? Da kommen die Gerstenkoerner! Machen zwei
+einen Haufen, drei, vier, wieviel dann? Komm, mein Gewissen, komm,
+mein Huehnchen, komm, bi, bi, bi, da ist Futter!
+
+Doch - war ich auch Gefangner? Verdaechtig war ich, das laeuft auf
+eins hinaus; der Tod war mir gewiss. (Ab.)
+
+
+
+Siebente Szene
+
+Die Conciergerie
+
+Lacroix. Danton. Philippeau. Camille.
+
+Lacroix.
+Du hast gut geschrien, Danton; haettest du dich etwas frueher so um
+dein Leben gequaelt, es waere jetzt anders. Nicht wahr, wenn der Tod
+einem so unverschaemt nahe kommt und so aus dem Hals stinkt und immer
+zudringlicher wird?
+
+Camille.
+Wenn er einen noch notzuechtigte und seinen Raub unter Ringen und
+Kampf aus den heissen Gliedern riss! Aber so in allen Formalitaeten
+wie bei der Hochzeit mit einem alten Weibe, wie die Pakten aufgesetzt,
+wie die Zeugen gerufen, wie das Amen gesagt und wie dann die Bettdecke
+gehoben wird und es langsam hereinkriecht mit seinen kalten Gliedern!
+
+Danton.
+Waer' es ein Kampf, dass die Arme und Zaehne einander packten! Aber
+es ist mir, als waere ich in ein Muehlwerk gefallen, und die Glieder
+wuerden mir langsam systematisch von der kalten physischen Gewalt
+abgedreht. So mechanisch getoetet zu werden!
+
+Camille.
+Und dann daliegen allein, kalt, steif in dem feuchten Dunst der
+Faeulnis - vielleicht, dass einem der Tod das Leben langsam aus den
+Fibern martert - mit Bewusstsein vielleicht sich wegzufaulen!
+
+Philippeau.
+Seid ruhig, meine Freunde! Wir sind wie die Herbstzeitlose, welche
+erst nach dem Winter Samen traegt. Von Blumen, die versetzt werden,
+unterscheiden wir uns nur dadurch, dass wir ueber dem Versuch ein
+wenig stinken. Ist das so arg?
+
+Danton.
+Eine erbauliche Aussicht! Von einem Misthaufen auf den andern! Nicht
+wahr, die goettliche Klassentheorie? Von Prima nach Sekunda, von
+Sekunda nach Tertia und so weiter? Ich habe die Schulbaenke satt, ich
+habe mir Gesaessschwielen wie ein Affe darauf gesessen.
+
+Philippeau.
+Was willst du denn?
+
+Danton.
+Ruhe.
+
+Philippeau.
+Die ist in Gott.
+
+Danton.
+Im Nichts. Versenke dich in was Ruhigers als das Nichts, und wenn die
+hoechste Ruhe Gott ist, ist nicht das Nichts Gott? Aber ich bin ein
+Atheist. Der verfluchte Satz: Etwas kann nicht zu nichts werden! Und
+ich bin etwas, das ist der Jammer! - Die Schoepfung hat sich so breit
+gemacht, da ist nichts leer, alles voll Gewimmels. Das Nichts hat sich
+ermordet, die Schoepfung ist seine Wunde, wir sind seine Blutstropfen,
+die Welt ist das Grab, worin es fault. - Das lautet verrueckt, es ist
+aber doch was Wahres daran.
+
+Camille.
+Die Welt ist der Ewige Jude, das Nichts ist der Tod, aber er ist
+unmoeglich. Oh, nicht sterben koennen, nicht sterben koennen! wie es
+im Lied heisst.
+
+Danton.
+Wir sind alle lebendig begraben und wie Koenige in drei- oder
+vierfachen Saergen beigesetzt, unter dem Himmel, in unsern Haeusern,
+in unsern Roecken und Hemden. - Wir kratzen fuenfzig Jahre lang
+am Sargdeckel. Ja, wer an Vernichtung glauben koennte! dem waere
+geholfen. - Da ist keine Hoffnung im Tod; er ist nur eine einfachere,
+das Leben eine verwickeltere, organisiertere Faeulnis, das ist der
+ganze Unterschied! - Aber ich bin gerad einmal an diese Art des
+Faulens gewoehnt; der Teufel weiss, wie ich mit einer andern
+zurechtkomme. O Julie! Wenn ich allein ginge! Wenn sie mich einsam
+liesse! - Und wenn ich ganz zerfiele, mich ganz aufloeste: ich waere
+eine Handvoll gemarterten Staubes, jedes meiner Atome koennte nur
+Ruhe finden bei ihr. - Ich kann nicht sterben, nein, ich kann nicht
+sterben. Wir sind noch nicht geschlagen. Wir muessen schreien; sie
+muessen mir jeden Lebenstropfen aus den Gliedern reissen.
+
+Lacroix.
+Wir muessen auf unsrer Forderung bestehen; unsre Anklaeger und die
+Ausschuesse muessen vor dem Tribunal erscheinen.
+
+
+
+Achte Szene
+
+Ein Zimmer
+
+Fouquier. Amar. Vouland.
+
+Fouquier.
+Ich weiss nicht mehr, was ich antworten soll; sie fordern eine
+Kommission.
+
+Amar.
+Wir haben die Schurken: da hast du, was du verlangst. (Er ueberreicht
+Fouquier ein Papier.)
+
+Vouland.
+Das wird sie zufriedenstellen.
+
+Fouquier.
+Wahrhaftig, das hatten wir noetig.
+
+Amar.
+Nun mache, dass wir und sie die Sache vom Hals bekommen.
+
+
+
+Neunte Szene
+
+Das Revolutionstribunal
+
+Danton.
+Die Republik ist in Gefahr, und er hat keine Instruktion! Wir
+appellieren an das Volk; meine Stimme ist noch stark genug, um
+den Dezemvirn die Leichenrede zu halten. - Ich wiederhole es, wir
+verlangen eine Kommission; wir haben wichtige Entdeckungen zu machen.
+Ich werde mich in die Zitadelle der Vernunft zurueckziehen, ich werde
+mit der Kanone der Wahrheit hervorbrechen und meine Feinde zermalmen.
+(Zeichen des Beifalls.)
+
+(Fouquier, Amar und Vouland treten ein.)
+
+Fouquier.
+Ruhe im Namen der Republik, Achtung dem Gesetz! Der Konvent
+beschliesst:
+
+In Betracht, dass in den Gefaengnissen sich Spuren von Meutereien
+zeigen, in Betracht, dass Dantons und Camilles Weiber Geld unter das
+Volk werfen und dass der General Dillon ausbrechen und sich an die
+Spitze der Empoerer stellen soll, um die Angeklagten zu befreien, in
+Betracht endlich, dass diese selbst unruhige Auftritte herbeizufuehren
+sich bemueht und das Tribunal zu beleidigen versucht haben, wird das
+Tribunal ermaechtigt, die Untersuchung ohne Unterbrechung fortzusetzen
+und jeden Angeklagten, der die dem Gesetze schuldige Ehrfurcht ausser
+Augen setzen sollte, von den Debatten auszuschliessen.
+
+Danton.
+Ich frage die Anwesenden, ob wir dem Tribunal, dem Volke oder dem
+Nationalkonvent Hohn gesprochen haben?
+
+Viele Stimmen.
+Nein! Nein!
+
+Camille.
+Die Elenden, sie wollen meine Lucile morden!
+
+Danton.
+Eines Tages wird man die Wahrheit erkennen. Ich sehe grosses Unglueck
+ueber Frankreich hereinbrechen. Das ist die Diktatur; sie hat ihren
+Schleier zerrissen, sie traegt die Stirne hoch, sie schreitet ueber
+unsere Leichen. (Auf Amar und Vouland deutend:) Seht da die feigen
+Moerder, seht da die Raben des Wohlfahrtsausschusses!
+
+Ich klage Robespierre, St. Just und ihre Henker des Hochverrats
+an. - Sie wollen die Republik im Blut ersticken. Die Gleise der
+Guillotinenkarren sind die Heerstrassen, auf welchen die Fremden in
+das Herz des Vaterlandes dringen sollen.
+
+Wie lange sollen die Fussstapfen der Freiheit Graeber sein? - Ihr
+wollt Brot, und sie werfen euch Koepfe hin! Ihr durstet, und sie
+machen euch das Blut von den Stufen der Guillotine lecken! (Heftige
+Bewegung unter den Zuhoerern, Geschrei des Beifalls.)
+
+Viele Stimmen.
+Es lebe Danton, nieder mit den Dezemvirn! (Die Gefangnen werden mit
+Gewalt hinausgefuehrt.)
+
+
+
+Zehnte Szene
+
+Platz vor dem Justizpalast
+
+Ein Volkshaufe.
+
+Einige Stimmen.
+Nieder mit den Dezemvirn! Es lebe Danton!
+
+Erster Buerger.
+Ja, das ist wahr, Koepfe statt Brot, Blut statt Wein!
+
+Einige Weiber.
+Die Guillotine ist eine schlechte Muehle und Samson ein schlechter
+Baeckerknecht; wir wollen Brot, Brot!
+
+Zweiter Buerger.
+Euer Brot, das hat Danton gefressen. Sein Kopf wird euch allen wieder
+Brot geben, er hatte recht.
+
+Erster Buerger.
+Danton war unter uns am 10. August, Danton war unter uns im September.
+Wo waren die Leute, welche ihn angeklagt haben?
+
+Zweiter Buerger.
+Und Lafayette war mit euch in Versailles und war doch ein Verraeter.
+
+Erster Buerger.
+Wer sagt, dass Danton ein Verraeter sei?
+
+Zweiter Buerger.
+Robespierre.
+
+Erster Buerger.
+Und Robespierre ist ein Verraeter!
+
+Zweiter Buerger.
+Wer sagt das?
+
+Erster Buerger.
+Danton.
+
+Zweiter Buerger.
+Danton hat schoene Kleider, Danton hat ein schoenes Haus, Danton hat
+eine schoene Frau, er badet sich in Burgunder, isst das Wildbret von
+silbernen Tellern und schlaeft bei euren Weibern und Toechtern, wenn
+er betrunken ist. - Danton war arm wie ihr. Woher hat er das alles?
+Das Veto hat es ihm gekauft, damit er ihm die Krone rette. Der Herzog
+von Orleans hat es ihm geschenkt, damit er ihm die Krone stehle. Der
+Fremde hat es ihm gegeben, damit er euch alle verrate. - Was hat
+Robespierre? Der tugendhafte Robespierre! Ihr kennt ihn alle.
+
+Alle.
+Es lebe Robespierre! Nieder mit Danton! Nieder mit dem Verraeter!
+
+
+
+
+Vierter Akt
+
+Erste Szene
+
+Ein Zimmer
+
+Julie. Ein Knabe.
+
+Julie.
+Es ist aus. Sie zitterten vor ihm. Sie toeten ihn aus Furcht. Geh! ich
+habe ihn zum letzten Mal gesehen; sag ihm, ich koenne ihn nicht so
+sehen. (Sie gibt ihm eine Locke.) Da, bring ihm das und sag ihm, er
+wuerde nicht allein gehn - er versteht mich schon. Und dann schnell
+zurueck, ich will seine Blicke aus deinen Augen lesen.
+
+
+
+Zweite Szene
+
+Eine Strasse
+
+Dumas. Ein Buerger.
+
+Buerger.
+Wie kann man nach einem solchen Verhoer soviel Unschuldige zum Tod
+verurteilen?
+
+Dumas.
+Das ist in der Tat ausserordentlich; aber die Revolutionsmaenner haben
+einen Sinn, der andern Menschen fehlt, und dieser Sinn truegt sie nie.
+
+Buerger.
+Das ist der Sinn des Tigers. - Du hast ein Weib.
+
+Dumas.
+Ich werde bald eins gehabt haben.
+
+Buerger.
+So ist es denn wahr?
+
+Dumas.
+Das Revolutionstribunal wird unsere Ehescheidung aussprechen; die
+Guillotine wird uns von Tisch und Bett trennen.
+
+Buerger.
+Du bist ein Ungeheuer!
+
+Dumas.
+Schwachkopf! Du bewunderst Brutus?
+
+Buerger.
+Von ganzer Seele.
+
+Dumas.
+Muss man denn gerade roemischer Konsul sein und sein Haupt mit der
+Toga verhuellen koennen, um sein Liebstes dem Vaterlande zu opfern?
+Ich werde mir die Augen mit dem Aermel meines roten Fracks abwischen;
+das ist der ganze Unterschied.
+
+Buerger.
+Das ist entsetzlich!
+
+Dumas.
+Geh, du begreifst mich nicht! (Sie gehen ab.)
+
+
+
+Dritte Szene
+
+Die Conciergerie
+
+Lacroix, Herault auf einem Bett, Danton, Camille auf einem andern.
+
+Lacroix.
+Die Haare wachsen einem so und die Naegel, man muss sich wirklich
+schaemen.
+
+Herault.
+Nehmen Sie sich ein wenig in acht, Sie niesen mir das ganze Gesicht
+voll Sand!
+
+Lacroix.
+Und treten Sie mir nicht so auf die Fuesse, Bester, ich habe
+Huehneraugen!
+
+Herault.
+Sie leiden noch an Ungeziefer.
+
+Lacroix.
+Ach, wenn ich nur einmal die Wuermer ganz los waere!
+
+Herault.
+Nun, schlafen Sie wohl! wir muessen sehen, wie wir miteinander
+zurechtkommen, wir haben wenig Raum. - Kratzen Sie mich nicht mit
+Ihren Naegeln im Schlaf! - So! Zerren Sie nicht so am Leichtuch, es
+ist kalt da unten! -
+
+Danton.
+Ja, Camille, morgen sind wir durchgelaufne Schuhe, die man der
+Bettlerin Erde in den Schoss wirft.
+
+Camille.
+Das Rindsleder, woraus nach Platon die Engel sich Pantoffeln
+geschnitten und damit auf der Erde herumtappen. Es geht aber auch
+danach. - Meine Lucile!
+
+Danton.
+Sei ruhig, mein Junge!
+
+Camille.
+Kann ich's? Glaubst du, Danton? Kann ich's? Sie koennen die Haende
+nicht an sie legen! Das Licht der Schoenheit, das von ihrem suessen
+Leib sich ausgiesst, ist unloeschbar. Sieh, die Erde wuerde nicht
+wagen, sie zu verschuetten; sie wuerde sich um sie woelben, der
+Grabdunst wuerde wie Tau an ihren Wimpern funkeln, Kristalle wuerden
+wie Blumen um ihre Glieder spriessen und helle Quellen in Schlaf sie
+murmeln.
+
+Danton.
+Schlafe, mein Junge, schlafe!
+
+Camille.
+Hoere, Danton, unter uns gesagt, es ist so elend, sterben muessen. Es
+hilft auch zu nichts. Ich will dem Leben noch die letzten Blicke aus
+seinen huebschen Augen stehlen, ich will die Augen offen haben.
+
+Danton.
+Du wirst sie ohnehin offen behalten, Samson drueckt einem die Augen
+nicht zu. Der Schlaf ist barmherziger. Schlafe, mein Junge, schlafe!
+
+Camille.
+Lucile, deine Kuesse phantasieren auf meinen Lippen; jeder Kuss wird
+ein Traum, meine Augen sinken und schliessen ihn fest ein. -
+
+Danton.
+Will denn die Uhr nicht ruhen? Mit jedem Picken schiebt sie die Waende
+enger um mich, bis sie so eng sind wie ein Sarg. - Ich las einmal als
+Kind so 'ne Geschichte, die Haare standen mir zu Berg. Ja, als Kind!
+Das war der Muehe wert, mich so gross zu fuettern und mich warm zu
+halten. Bloss Arbeit fuer den Totengraeber!
+
+Es ist mir, als roech' ich schon. Mein lieber Leib, ich will mir die
+Nase zuhalten und mir einbilden, du seist ein Frauenzimmer, was vom
+Tanzen schwitzt und stinkt, und dir Artigkeiten sagen. Wir haben uns
+sonst schon mehr miteinander die Zeit vertrieben.
+
+Morgen bist du eine zerbrochene Fiedel; die Melodie darauf ist
+ausgespielt. Morgen bist du eine leere Bouteille; der Wein ist
+ausgetrunken, aber ich habe keinen Rausch davon und gehe nuechtern zu
+Bett - das sind glueckliche Leute, die sich noch besaufen koennen.
+Morgen bist du eine durchgerutschte Hose; du wirst in die Garderobe
+geworfen, und die Motten werden dich fressen, du magst stinken, wie du
+willst.
+
+Ach, das hilft nichts! Jawohl, es ist so elend, sterben muessen. Der
+Tod aefft die Geburt; beim Sterben sind wir so hilflos und nackt wie
+neugeborne Kinder. Freilich, wir bekommen das Leichentuch zur Windel.
+Was wird es helfen? Wir koennen im Grab so gut wimmern wie in der
+Wiege.
+
+Camille! Er schlaeft; (indem er sich ueber ihn bueckt:) ein Traum
+spielt zwischen seinen Wimpern. Ich will den goldnen Tau des Schlafes
+ihm nicht von den Augen streifen
+
+(Er erhebt sich und tritt ans Fenster.) Ich werde nicht allein gehn:
+ich danke dir, Julie! doch haette ich anders sterben moegen, so ganz
+muehelos, so wie ein Stern faellt, wie ein Ton sich selbst aushaucht,
+sich mit den eignen Lippen rotkuesst, wie ein Lichtstrahl in klaren
+Fluten sich begraebt. - Wie schimmernde Traenen sind die Sterne durch
+die Nacht gesprengt; es muss ein grosser Jammer in dem Aug' sein, von
+dem sie abtraeufelten.
+
+Camille.
+Oh! (Er hat sich aufgerichtet und tastet nach der Decke.)
+
+Danton.
+Was hast du, Camille?
+
+Camille.
+Oh, oh!
+
+Danton (schuettelt ihn).
+Willst du die Decke herunterkratzen?
+
+Camille.
+Ach du, du - o halt mich! sprich, du!
+
+Danton.
+Du bebst an allen Gliedern, der Schweiss steht dir auf der Stirne.
+
+Camille.
+Das bist du, das ich - so! Das ist meine Hand! Ja! jetzt besinn ich
+mich. O Danton, das war entsetzlich!
+
+Danton.
+Was denn?
+
+Camille.
+Ich lag so zwischen Traum und Wachen. Da schwand die Decke, und der
+Mond sank herein, ganz nahe, ganz dicht, mein Arm erfasst' ihn. Die
+Himmelsdecke mit ihren Lichtern hatte sich gesenkt, ich stiess daran,
+ich betastete die Sterne, ich taumelte wie ein Ertrinkender unter der
+Eisdecke. Das war entsetzlich, Danton!
+
+Danton.
+Die Lampe wirft einen runden Schein an die Decke, das sahst du.
+
+Camille.
+Meinetwegen, es braucht grade nicht viel, um einem das bisschen
+Verstand verlieren zu machen. Der Wahnsinn fasste mich bei den Haaren.
+(Er erhebt sich.) Ich mag nicht mehr schlafen, ich mag nicht verrueckt
+werden. (Er greift nach einem Buch.)
+
+Danton.
+Was nimmst du?
+
+Camille.
+Die Nachtgedanken.
+
+Danton.
+Willst du zum voraus sterben? Ich nehme die Pucelle. Ich will mich aus
+dem Leben nicht wie aus dem Betstuhl, sondern wie aus dem Bett einer
+Barmherzigen Schwester wegschleichen. Es ist eine Hure; es treibt mit
+der ganzen Welt Unzucht.
+
+
+
+Vierte Szene
+
+Platz vor der Conciergerie
+
+Ein Schliesser. Zwei Fuhrleute mit Karren. Weiber.
+
+Schliesser.
+Wer hat euch herfahren geheissen?
+
+Erster Fuhrmann.
+Ich heisse nicht Herfahren, das ist ein kurioser Namen.
+
+Schliesser.
+Dummkopf, wer hat dir die Bestallung dazu gegeben?
+
+Erster Fuhrmann.
+Ich habe keine Stallung dazu kriegt, nichts als zehn Sous fuer den
+Kopf.
+
+Zweiter Fuhrmann.
+Der Schuft will mich ums Brot bringen.
+
+Erster Fuhrmann.
+Was nennst du dein Brot? (Auf die Fenster der Gefangnen deutend:) Das
+ist Wurmfrass.
+
+Zweiter Fuhrmann.
+Meine Kinder sind auch Wuermer, und die wollen auch ihr Teil davon.
+Oh, es geht schlecht mit unsrem Metier, und doch sind wir die besten
+Fuhrleute.
+
+Erster Fuhrmann.
+Wie das?
+
+Zweiter Fuhrmann.
+Wer ist der beste Fuhrmann?
+
+Erster Fuhrmann.
+Der am weitesten und am schnellsten faehrt.
+
+Zweiter Fuhrmann.
+Nun, Esel, wer faehrt weiter, als der aus der Welt faehrt, und wer
+faehrt schneller, als der 's in einer Viertelstunde tut? Genau
+gemessen ist's eine Viertelstunde von da bis zum Revolutionsplatz.
+
+Schliesser.
+Rasch, ihr Schlingel! Naeher ans Tor; Platz da, ihr Maedel!
+
+Erster Fuhrmann.
+Halt't Euren Platz vor! Um ein Maedel faehrt man nit herum, immer in
+die Mitt' 'nein.
+
+Zweiter Fuhrmann.
+Ja, das glaub ich: du kannst mit Karren und Gaeulen hinein, du findst
+gute Gleise; aber du musst Quarantaene halten, wenn du herauskommst.
+(Sie fahren vor.)
+
+Zweiter Fuhrmann. (zu den Weibern).
+Was gafft ihr?
+
+Ein Weib.
+Wir warten auf alte Kunden.
+
+Zweiter Fuhrmann.
+Meint ihr, mein Karren waer' ein Bordell? Er ist ein anstaendiger
+Karren, er hat den Koenig und alle vornehmen Herren aus Paris zur
+Tafel gefahren.
+
+Lucile (tritt auf. Sie setzt sich auf einen Stein unter die Fenster
+der Gefangnen).
+Camille, Camille! (Camille erscheint am Fenster.) Hoere, Camille, du
+machst mich lachen mit dem langen Steinrock und der eisernen Maske vor
+dem Gesicht; kannst du dich nicht buecken? Wo sind deine Arme? - Ich
+will dich locken, lieber Vogel. (Singt:)
+
+        Es stehn zwei Sternlein an dem Himmel,
+        Scheinen heller als der Mond,
+        Der ein' scheint vor Feinsliebchens Fenster,
+        Der andre vor die Kammertuer.
+
+Komm, komm, mein Freund! Leise die Truppe herauf, sie schlafen alle.
+Der Mond hilft mir schon lange warten. Aber du kannst ja nicht zum
+Tor herein, das ist eine unleidliche Tracht. Das ist zu arg fuer den
+Spass, mach ein Ende! Du ruehrst dich auch gar nicht, warum sprichst
+du nicht? Du machst mir Angst.
+
+Hoere! die Leute sagen, du muesstest sterben, und machen dazu so
+ernsthafte Gesichter. Sterben! ich muss lachen ueber die Gesichter.
+Sterben! Was ist das fuer ein Wort? Sag mir's, Camille. Sterben! Ich
+will nachdenken. Da, da ist's. Ich will ihm nachlaufen; komm, suesser
+Freund, hilf mir fangen, komm! komm! (Sie laeuft weg.)
+
+Camille (ruft).
+Lucile! Lucile!
+
+
+
+Fuenfte Szene
+
+Die Conciergerie
+
+Danton an einem Fenster, was ins naechste Zimmer geht. Camille.
+Philippeau. Lacroix. Herault.
+
+Danton.
+Du bist jetzt ruhig, Fabre.
+
+Eine Stimme (von innen).
+Am Sterben.
+
+Danton.
+Weisst du auch, was wir jetzt machen werden?
+
+Die Stimme.
+Nun?
+
+Danton.
+Was du dein ganzes Leben hindurch gemacht hast - des vers.
+
+Camille (fuer sich).
+Der Wahnsinn sass hinter ihren Augen. Es sind schon mehr Leute
+wahnsinnig geworden, das ist der Lauf der Welt. Was koennen wir dazu?
+Wir waschen unsere Haende -. Es ist auch besser so.
+
+Danton.
+Ich lasse alles in einer schrecklichen Verwirrung. Keiner versteht das
+Regieren. Es koennte vielleicht noch gehn, wenn ich Robespierre meine
+Huren und Couthon meine Waden hinterliesse.
+
+Lacroix.
+Wir haetten die Freiheit zur Hure gemacht!
+
+Danton.
+Was waere es auch! Die Freiheit und eine Hure sind die
+kosmopolitischsten Dinge unter der Sonne. Sie wird sich jetzt
+anstaendig im Ehebett des Advokaten von Arras prostituieren. Aber ich
+denke, sie wird die Klytaemnestra gegen ihn spielen; ich lasse ihm
+keine sechs Monate Frist, ich ziehe ihn mit mir.
+
+Camille (fuer sich).
+Der Himmel verhelf ihr zu einer behaglichen fixen Idee. Die
+allgemeinen fixen Ideen, welche man die gesunde Vernunft tauft, sind
+unertraeglich langweilig. Der gluecklichste Mensch war der, welcher
+sich einbilden konnte, dass er Gott Vater, Sohn und Heiliger Geist
+sei.
+
+Lacroix.
+Die Esel werden schreien "Es lebe die Republik", wenn wir vorbeigehen.
+
+Danton.
+Was liegt daran? Die Suendflut der Revolution mag unsere Leichen
+absetzen, wo sie will; mit unsern fossilen Knochen wird man noch immer
+allen Koenigen die Schaedel einschlagen koennen.
+
+Herault.
+Ja, wenn sich gerade ein Simson fuer unsere Kinnbacken findet.
+
+Danton.
+Sie sind Kainsbrueder.
+
+Lacroix.
+Nichts beweist mehr, dass Robespierre ein Nero ist, als der Umstand,
+dass er gegen Camille nie freundlicher war als zwei Tage vor dessen
+Verhaftung. Ist es nicht so, Camille?
+
+Camille.
+Meinetwegen, was geht das mich an? - (Fuer sich:) Was sie an dem
+Wahnsinn ein reizendes Kind geboren hat! Warum muss ich jetzt fort?
+Wir haetten zusammen mit ihm gelacht, es gewiegt und gekuesst.
+
+Danton.
+Wenn einmal die Geschichte ihre Gruefte oeffnet, kann der Despotismus
+noch immer an dem Duft unsrer Leichen ersticken.
+
+Herault.
+Wir stanken bei Lebzeiten schon hinlaenglich. - Das sind Phrasen fuer
+die Nachwelt, nicht wahr, Danton; uns gehn sie eigentlich nichts an.
+
+Camille.
+Er zieht ein Gesicht, als solle es versteinern und von der Nachwelt
+als Antike ausgegraben werden. Das verlohnt sich auch der Muehe,
+Maeulchen zu machen und Rot aufzulegen und mit einem guten Akzent zu
+sprechen; wir sollten einmal die Masken abnehmen, wir saehen dann,
+wie in einem Zimmer mit Spiegeln, ueberall nur den einen uralten,
+zahnlosen, unverwuestlichen Schafskopf, nichts mehr, nichts weniger.
+Die Unterschiede sind so gross nicht, wir alle sind Schurken und
+Engel, Dummkoepfe und Genies, und zwar das alles in einem: die vier
+Dinge finden Platz genug in dem naemlichen Koerper, sie sind nicht
+so breit, als man sich einbildet. Schlafen, Verdauen, Kinder machen
+- das treiben alle; die uebrigen Dinge sind nur Variationen aus
+verschiedenen Tonarten ueber das naemliche Thema. Da braucht man
+sich auf die Zehen zu stellen und Gesichter zu schneiden, da braucht
+man sich voreinander zu genieren! Wir haben uns alle am naemlichen
+Tische krank gegessen und haben Leibgrimmen; was haltet ihr euch
+die Servietten vor das Gesicht? Schreit nur und greint, wie es euch
+ankommt! Schneidet nur keine so tugendhafte und so witzige und so
+heroische und so geniale Grimassen, wir kennen uns ja einander, spart
+euch die Muehe!
+
+Herault.
+Ja, Camille, wir wollen uns beieinandersetzen und schreien; nichts
+dummer, als die Lippen zusammenzupressen, wenn einem was weh tut. -
+Griechen und Goetter schrien, Roemer und Stoiker machten die heroische
+Fratze.
+
+Danton.
+Die einen waren so gut Epikureer wie die andern. Sie machten sich ein
+ganz behagliches Selbstgefuehl zurecht. Es ist nicht so uebel, seine
+Toga zu drapieren und sich umzusehen, ob man einen langen Schatten
+wirft. Was sollen wir uns zerren? Ob wir uns nun Lorbeerblaetter,
+Rosenkraenze oder Weinlaub vor die Scham binden oder das haessliche
+Ding offen tragen und es uns von den Hunden lecken lassen?
+
+Philippeau.
+Meine Freunde, man braucht gerade nicht hoch ueber der Erde zu stehen,
+um von all dem wirren Schwanken und Flimmern nichts mehr zu sehen und
+die Augen von einigen grossen, goettlichen Linien erfuellt zu haben.
+Es gibt ein Ohr, fuer welches das Ineinanderschreien und der Zeter,
+die uns betaeuben, ein Strom von Harmonien sind.
+
+Danton.
+Aber wir sind die armen Musikanten und unsere Koerper die Instrumente.
+Sind denn die haesslichen Toene, welche auf ihnen herausgepfuscht
+werden, nur da, um hoeher und hoeher dringend und endlich leise
+verhallend wie ein wolluestiger Hauch in himmlischen Ohren zu sterben?
+
+Herault.
+Sind wir wie Ferkel, die man fuer fuerstliche Tafeln mit Ruten
+totpeitscht, damit ihr Fleisch schmackhafter werde?
+
+Danton.
+Sind wir Kinder, die in den gluehenden Molochsarmen dieser Welt
+gebraten und mit Lichtstrahlen gekitzelt werden, damit die Goetter
+sich ueber ihr Lachen freuen?
+
+Camille.
+Ist denn der Aether mit seinen Goldaugen eine Schuessel mit
+Goldkarpfen, die am Tisch der seligen Goetter steht, und die seligen
+Goetter lachen ewig, und die Fische sterben ewig, und die Goetter
+erfreuen sich ewig am Farbenspiel des Todeskampfes?
+
+Danton.
+Die Welt ist das Chaos. Das Nichts ist der zu gebaerende Weltgott.
+
+(Der Schliesser tritt ein.)
+
+Schliesser.
+Meine Herren, Sie koennen abfahren, die Wagen halten vor der Tuer.
+
+Philippeau.
+Gute Nacht, meine Freunde! Legen wir ruhig die grosse Decke ueber uns,
+worunter alle Herzen ausschlagen und alle Augen zufallen. (Sie umarmen
+einander.)
+
+Herault. (nimmt Camilles Arm).
+Freue dich, Camille, wir bekommen eine schoene Nacht. Die Wolken
+haengen am stillen Abendhimmel wie ein ausgluehender Olymp mit
+verbleichenden, versinkenden Goettergestalten. (Sie gehen ab.)
+
+
+
+Sechste Szene
+
+Ein Zimmer
+
+Julie.
+Das Volk lief in den Gassen, jetzt ist alles still. Keinen Augenblick
+moechte ich ihn warten lassen. (Sie zieht eine Phiole hervor.) Komm,
+liebster Priester, dessen Amen uns zu Bette gehn macht. (Sie tritt ans
+Fenster.) Es ist so huebsch, Abschied zu nehmen; ich habe die Tuere
+nur noch hinter mir zuzuziehen. (Sie trinkt.)
+
+Man moechte immer so stehn. - Die Sonne ist hinunter; der Erde Zuege
+waren so scharf in ihrem Licht, doch jetzt ist ihr Gesicht so still
+und ernst wie einer Sterbenden. - Wie schoen das Abendlicht ihr um
+Stirn und Wangen spielt. - Stets bleicher und bleicher wird sie, wie
+eine Leiche treibt sie abwaerts in der Flut des Aethers. Will denn
+kein Arm sie bei den goldnen Locken fassen und aus dem Strom sie
+ziehen und sie begraben?
+
+Ich gehe leise. Ich kuesse sie nicht, dass kein Hauch, kein Seufzer
+sie aus dem Schlummer wecke. - Schlafe, schlafe! (Sie stirbt.)
+
+
+
+Siebente Szene
+
+Der Revolutionsplatz
+
+Die Wagen kommen angefahren und halten vor der Guillotine. Maenner und
+Weiber singen und tanzen die Carmagnole. Die Gefangenen stimmen die
+Marseillaise an.
+
+Ein Weib (mit Kindern).
+Platz! Platz! Die Kinder schreien, sie haben Hunger. Ich muss sie
+zusehen machen, dass sie still sind. Platz!
+
+Ein Weib.
+He, Danton, du kannst jetzt mit den Wuermern Unzucht treiben.
+
+Eine andere.
+Herault, aus deinen huebschen Haaren lass ich mir eine Peruecke
+machen.
+
+Herault.
+Ich habe nicht Waldung genug fuer einen so abgeholzten Venusberg.
+
+Camille.
+Verfluchte Hexen! Ihr werdet noch schreien: "Ihr Berge, fallet auf
+uns!"
+
+Ein Weib.
+Der Berg ist auf euch, oder ihr seid ihn vielmehr hinuntergefallen.
+
+Danton (zu Camille).
+Ruhig, mein Junge! Du hast dich heiser geschrien.
+
+Camille (gibt dem Fuhrmann Geld).
+Da, alter Charon, dein Karren ist ein guter Praesentierteller! -
+Meine Herren, ich will mich zuerst servieren. Das ist ein klassisches
+Gastmahl; wir liegen auf unsern Plaetzen und verschuetten etwas
+Blut als Libation. Adieu, Danton! (Er besteigt das Blutgeruest, die
+Gefangnen folgen ihm, einer nach dem andern. Danton steigt zuletzt
+hinauf.)
+
+Lacroix (zu dem Volk).
+Ihr toetet uns an dem Tage, wo ihr den Verstand verloren habt; ihr
+werdet sie an dem toeten, wo ihr ihn wiederbekommt.
+
+Einige Stimmen.
+Das war schon einmal da; wie langweilig!
+
+Lacroix.
+Die Tyrannen werden ueber unsern Graebern den Hals brechen.
+
+Herault (zu Danton).
+Er haelt seine Leiche fuer ein Mistbeet der Freiheit.
+
+Philippeau (auf dem Schafott).
+Ich vergebe euch; ich wuensche, eure Todesstunde sei nicht bittrer als
+die meinige.
+
+Herault.
+Dacht' ich's doch! er muss sich noch einmal in den Busen greifen und
+den Leuten da unten zeigen, dass er reine Waesche hat.
+
+Fabre.
+Lebe wohl, Danton! Ich sterbe doppelt.
+
+Danton.
+Adieu, mein Freund! Die Guillotine ist der beste Arzt.
+
+Herault (will Danton umarmen).
+Ach, Danton, ich bringe nicht einmal einen Spass mehr heraus. Da ist's
+Zeit. (Ein Henker stoesst ihn zurueck.)
+
+Danton (zum Henker).
+Willst du grausamer sein als der Tod? Kannst du verhindern, dass
+unsere Koepfe sich auf dem Boden des Korbes kuessen?
+
+
+
+Achte Szene
+
+Eine Strasse
+
+Lucile.
+Es ist doch was wie Ernst darin. Ich will einmal nachdenken. Ich fange
+an, so was zu begreifen.
+
+Sterben - Sterben -! - Es darf ja alles leben, alles, die kleine
+Muecke da, der Vogel. Warum denn er nicht? Der Strom des Lebens
+muesste stocken, wenn nur der eine Tropfen verschuettet wuerde. Die
+Erde muesste eine Wunde bekommen von dem Streich.
+
+Es regt sich alles, die Uhren gehen, die Glocken schlagen, die Leute
+laufen, das Wasser rinnt, und so alles weiter bis da, dahin - nein,
+es darf nicht geschehen, nein, ich will mich auf den Boden setzen und
+schreien, dass erschrocken alles stehn bleibt, alles stockt, sich
+nichts mehr regt. (Sie setzt sich nieder, verhuellt sich die Augen und
+stoesst einen Schrei aus. Nach einer Pause erhebt sie sich:) Das hilft
+nichts, da ist noch alles wie sonst; die Haeuser, die Gasse, der Wind
+geht, die Wolken ziehen. - Wir muessen's wohl leiden.
+
+(Einige Weiber kommen die Gasse herunter.)
+
+Erstes Weib.
+Ein huebscher Mann, der Herault!
+
+Zweites Weib.
+Wie er beim Konstitutionsfest so am Triumphbogen stand, da dacht' ich
+so, der muss sich gut auf der Guillotine ausnehmen, dacht' ich. Das
+war so 'ne Ahnung.
+
+Drittes Weib.
+Ja, man muss die Leute in allen Verhaeltnissen sehen; es ist recht
+gut, dass das Sterben so oeffentlich wird. (Sie geben vorbei.)
+
+Lucile.
+Mein Camille! Wo soll ich dich jetzt suchen?
+
+
+
+Neunte Szene
+
+Der Revolutionsplatz
+
+Zwei Henker, an der Guillotine beschaeftigt.
+
+Erster Henker (steht auf der Guillotine und singt).
+        Und wann ich hame geh,
+        Scheint der Mond so scheh...
+
+Zweiter Henker.
+He, holla! Bist bald fertig?
+
+Erster Henker.
+Gleich, gleich! (Singt:)
+
+        Scheint in meines Ellervaters Fenster -
+        Kerl, wo bleibst so lang bei de Menscher?
+
+So! Die Jacke her! (Sie gehn singend ab:)
+
+        Und wann ich hame geh,
+        Scheint der Mond so scheh...
+
+Lucile (tritt auf und setzt sich auf die Stufen der Guillotine).
+Ich setze mich auf deinen Schoss, du stiller Todesengel. (Sie singt:)
+
+        Es ist ein Schnitter, der heisst Tod,
+        Hat Gewalt vom hoechsten Gott.
+
+Du liebe Wiege, die du meinen Camille in Schlaf gelullt, ihn unter
+deinen Rosen erstickt hast. Du Totenglocke, die du ihn mit deiner
+suessen Zunge zu Grabe sangst. (Sie singt:)
+
+        Viel Hunderttausend ungezaehlt,
+        Was nur unter die Sichel faellt.
+
+(Eine Patrouille tritt auf.)
+
+Ein Buerger.
+He, wer da?
+
+Lucile (sinnend und wie einen Entschluss fassend, ploetzlich).
+Es lebe der Koenig!
+
+Buerger.
+Im Namen der Republik! (Sie wird von der Wache umringt und
+weggefuehrt.)
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, DANTONS TOD ***
+
+This file should be named 7dtod10.txt or 7dtod10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7dtod11.txt
+VERSIONS based on separate sources get new LETTER, 7dtod10a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

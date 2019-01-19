@@ -1,0 +1,3151 @@
+The Project Gutenberg EBook of Deutschland. Ein Wintermaerchen, by Heinrich Heine
+(#6 in our series by Heinrich Heine)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Deutschland. Ein Wintermaerchen
+
+Author: Heinrich Heine
+
+Release Date: July, 2004  [EBook #6079]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on November 3, 2002]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, DEUTSCHLAND. EIN WINTERMAERCHEN ***
+
+
+
+
+This eBook was from Project Gutenberg of Germany.  Reformatting by Gunther
+Olesch and Andrew Sly.
+
+
+
+"Deutschland. Ein Wintermaerchen" (Germany. A winter tale) by Heinrich
+Heine [in German]
+
+7-bit ASCII:
+Opening and closing quotation marks have both been replaced by:  "
+Accents on vowels in French names are lost.
+The German sz-ligature has been replaced by:  ss
+The German umlauts have been replaced by:  Ae Oe Ue ae oe ue
+This resulted in longer lines.  Therefore, the word wrapping of the
+preface has been redone.
+
+----------------------------------------------------------------------
+
+
+
+Heinrich Heine
+
+Deutschland. Ein Wintermaerchen
+
+
+
+
+VORWORT
+
+Das nachstehende Gedicht schrieb ich im diesjaehrigen Monat Januar
+zu Paris, und die freie Luft des Ortes wehete in manche Strophe weit
+schaerfer hinein, als mir eigentlich lieb war. Ich unterliess nicht,
+schon gleich zu mildern und auszuscheiden, was mit dem deutschen Klima
+unvertraeglich schien. Nichtsdestoweniger, als ich das Manuskript im
+Monat Maerz an meinen Verleger nach Hamburg schickte, wurden mir noch
+mannigfache Bedenklichkeiten in Erwaegung gestellt. Ich musste mich
+dem fatalen Geschaefte des Umarbeitens nochmals unterziehen, und
+da mag es wohl geschehen sein, dass die ernsten Toene mehr als
+noetig abgedaempft oder von den Schellen des Humors gar zu heiter
+ueberklingelt wurden. Einigen nackten Gedanken habe ich im hastigen
+Unmut ihre Feigenblaetter wieder abgerissen, und zimperlich sproede
+Ohren habe ich vielleicht verletzt. Es ist mir leid, aber ich troeste
+mich mit dem Bewusstsein, dass groessere Autoren sich aehnliche
+Vergehen zuschulden kommen liessen. Des Aristophanes will ich zu
+solcher Beschoenigung gar nicht erwaehnen, denn der war ein blinder
+Heide, und sein Publikum zu Athen hatte zwar eine klassische Erziehung
+genossen, wusste aber wenig von Sittlichkeit. Auf Cervantes und
+Moliere koennte ich mich schon viel besser berufen; und ersterer
+schrieb fuer den hohen Adel beider Kastilien, letzterer fuer den
+grossen Koenig und den grossen Hof von Versailles! Ach, ich vergesse,
+dass wir in einer sehr buergerlichen Zeit leben, und ich sehe leider
+voraus, dass viele Toechter gebildeter Staende an der Spree, wo nicht
+gar an der Alster, ueber mein armes Gedicht die mehr oder minder
+gebogenen Naeschen ruempfen werden! Was ich aber mit noch groesserem
+Leidwesen voraussehe, das ist das Zetern jener Pharisaeer der
+Nationalitaet, die jetzt mit den Antipathien der Regierungen Hand in
+Hand gehen, auch die volle Liebe und Hochachtung der Zensur geniessen
+und in der Tagespresse den Ton angeben koennen, wo es gilt, jene
+Gegner zu befehden, die auch zugleich die Gegner ihrer allerhoechsten
+Herrschaften sind. Wir sind im Herzen gewappnet gegen das Missfallen
+dieser heldenmuetigen Lakaien in schwarzrotgoldner Livree. Ich hoere
+schon ihre Bierstimmen: "Du laesterst sogar unsere Farben, Veraechter
+des Vaterlands, Freund der Franzosen, denen du den freien Rhein
+abtreten willst!" Beruhigt euch. Ich werde eure Farben achten und
+ehren, wenn sie es verdienen, wenn sie nicht mehr eine muessige oder
+knechtische Spielerei sind. Pflanzt die schwarzrotgoldne Fahne auf
+die Hoehe des deutschen Gedankens, macht sie zur Standarte des freien
+Menschtums, und ich will mein bestes Herzblut fuer sie hingeben.
+Beruhigt euch, ich liebe das Vaterland ebensosehr wie ihr. Wegen
+dieser Liebe habe ich dreizehn Lebensjahre im Exile verlebt, und
+wegen ebendieser Liebe kehre ich wieder zurueck ins Exil, vielleicht
+fuer immer, jedenfalls ohne zu flennen oder eine schiefmaeulige
+Duldergrimasse zu schneiden. Ich bin der Freund der Franzosen, wie
+ich der Freund aller Menschen bin, wenn sie vernuenftig und gut sind,
+und weil ich selber nicht so dumm oder so schlecht bin, als dass ich
+wuenschen sollte, dass meine Deutschen und die Franzosen, die beiden
+auserwaehlten Voelker der Humanitaet, sich die Haelse braechen zum
+Besten von England und Russland und zur Schadenfreude aller Junker und
+Pfaffen dieses Erdballs. Seid ruhig, ich werde den Rhein nimmermehr
+den Franzosen abtreten, schon aus dem ganz einfachen Grunde: weil
+mir der Rhein gehoert. Ja, mir gehoert er, durch unveraeusserliches
+Geburtsrecht, ich bin des freien Rheins noch weit freierer Sohn, an
+seinem Ufer stand meine Wiege, und ich sehe gar nicht ein, warum der
+Rhein irgendeinem andern gehoeren soll als den Landeskindern. Elsass
+und Lothringen kann ich freilich dem deutschen Reiche nicht so leicht
+einverleiben, wie ihr es tut, denn die Leute in jenen Landen haengen
+fest an Frankreich wegen der Rechte, die sie durch die franzoesische
+Staatsumwaelzung gewonnen, wegen jener Gleichheitsgesetze und freien
+Institutionen, die dem buergerlichen Gemuete sehr angenehm sind, aber
+dem Magen der grossen Menge dennoch vieles zu wuenschen uebriglassen.
+Indessen, die Elsasser und Lothringer werden sich wieder an
+Deutschland anschliessen, wenn wir das vollenden, was die Franzosen
+begonnen haben, wenn wir diese ueberfluegeln in der Tat, wie wir es
+schon getan im Gedanken, wenn wir uns bis zu den letzten Folgerungen
+desselben emporschwingen, wenn wir die Dienstbarkeit bis in ihrem
+letzten Schlupfwinkel, dem Himmel, zerstoeren, wenn wir den Gott, der
+auf Erden im Menschen wohnt, aus seiner Erniedrigung retten, wenn wir
+die Erloeser Gottes werden, wenn wir das arme, glueckenterbte Volk und
+den verhoehnten Genius und die geschaendete Schoenheit wieder in ihre
+Wuerde einsetzen, wie unsere grossen Meister gesagt und gesungen und
+wie wir es wollen, wir, die Juenger - ja, nicht bloss Elsass und
+Lothringen, sondern ganz Frankreich wird uns alsdann zufallen, ganz
+Europa, die ganze Welt - die ganze Welt wird deutsch werden! Von
+dieser Sendung und Universalherrschaft Deutschlands traeume ich oft,
+wenn ich unter Eichen wandle. Das ist _mein_ Patriotismus.
+
+Ich werde in einem naechsten Buche auf dieses Thema zurueckkommen,
+mit letzter Entschlossenheit, mit strenger Ruecksichtslosigkeit,
+jedenfalls mit Loyalitaet. Den entschiedensten Widerspruch werde ich
+zu achten wissen, wenn er aus einer Ueberzeugung hervorgeht. Selbst
+der rohesten Feindseligkeit will ich alsdann geduldig verzeihen; ich
+will sogar der Dummheit Rede stehen, wenn sie nur ehrlich gemeint
+ist. Meine ganze schweigende Verachtung widme ich hingegen dem
+gesinnungslosen Wichte, der aus leidiger Scheelsucht oder unsauberer
+Privatgiftigkeit meinen guten Leumund in der oeffentlichen Meinung
+herabzuwuerdigen sucht und dabei die Maske des Patriotismus, wo nicht
+gar die der Religion und der Moral, benutzt. Der anarchische Zustand
+der deutschen politischen und literarischen Zeitungsblaetterwelt ward
+in solcher Beziehung zuweilen mit einem Talente ausgebeutet, das ich
+schier bewundern musste. Wahrhaftig, Schufterle ist nicht tot, er lebt
+noch immer und steht seit Jahren an der Spitze einer wohlorganisierten
+Bande von literarischen Strauchdieben, die in den boehmischen Waeldern
+unserer Tagespresse ihr Wesen treiben, hinter jedem Busch, hinter
+jedem Blatt versteckt liegen und dem leisesten Pfiff ihres wuerdigen
+Hauptmanns gehorchen.
+
+Noch ein Wort. Das "Wintermaerchen" bildet den Schluss der "Neuen
+Gedichte", die in diesem Augenblick bei Hoffmann und Campe erscheinen.
+Um den Einzeldruck veranstalten zu koennen, musste mein Verleger
+das Gedicht den ueberwachenden Behoerden zu besonderer Sorgfalt
+ueberliefern, und neue Varianten und Ausmerzungen sind das Ergebnis
+dieser hoeheren Kritik.
+
+Hamburg, den 17. September 1844                        Heinrich Heine
+
+
+
+
+CAPUT I
+
+Im traurigen Monat November war's,
+Die Tage wurden trueber,
+Der Wind riss von den Baeumen das Laub,
+Da reist ich nach Deutschland hinueber.
+
+Und als ich an die Grenze kam,
+Da fuehlt ich ein staerkeres Klopfen
+In meiner Brust, ich glaube sogar
+Die Augen begunnen zu tropfen.
+
+Und als ich die deutsche Sprache vernahm,
+Da ward mir seltsam zumute;
+Ich meinte nicht anders, als ob das Herz
+Recht angenehm verblute.
+
+Ein kleines Harfenmaedchen sang.
+Sie sang mit wahrem Gefuehle
+Und falscher Stimme, doch ward ich sehr
+Geruehret von ihrem Spiele.
+
+Sie sang von Liebe und Liebesgram,
+Aufopfrung und Wiederfinden
+Dort oben, in jener besseren Welt,
+Wo alle Leiden schwinden.
+
+Sie sang vom irdischen Jammertal,
+Von Freuden, die bald zerronnen,
+Vom Jenseits, wo die Seele schwelgt
+Verklaert in ew'gen Wonnen.
+
+Sie sang das alte Entsagungslied,
+Das Eiapopeia vom Himmel,
+Womit man einlullt, wenn es greint,
+Das Volk, den grossen Luemmel.
+
+Ich kenne die Weise, ich kenne den Text,
+Ich kenn auch die Herren Verfasser;
+Ich weiss, sie tranken heimlich Wein
+Und predigten oeffentlich Wasser.
+
+Ein neues Lied, ein besseres Lied,
+O Freunde, will ich euch dichten!
+Wir wollen hier auf Erden schon
+Das Himmelreich errichten.
+
+Wir wollen auf Erden gluecklich sein,
+Und wollen nicht mehr darben;
+Verschlemmen soll nicht der faule Bauch,
+Was fleissige Haende erwarben.
+
+Es waechst hienieden Brot genug
+Fuer alle Menschenkinder,
+Auch Rosen und Myrten, Schoenheit und Lust,
+Und Zuckererbsen nicht minder.
+
+Ja, Zuckererbsen fuer jedermann,
+Sobald die Schoten platzen!
+Den Himmel ueberlassen wir
+Den Engeln und den Spatzen.
+
+Und wachsen uns Fluegel nach dem Tod,
+So wollen wir euch besuchen
+Dort oben, und wir, wir essen mit euch
+Die seligsten Torten und Kuchen.
+
+Ein neues Lied, ein besseres Lied!
+Es klingt wie Floeten und Geigen!
+Das Miserere ist vorbei,
+Die Sterbeglocken schweigen.
+
+Die Jungfer Europa ist verlobt
+Mit dem schoenen Geniusse
+Der Freiheit, sie liegen einander im Arm,
+Sie schwelgen im ersten Kusse.
+
+Und fehlt der Pfaffensegen dabei,
+Die Ehe wird gueltig nicht minder -
+Es lebe Braeutigam und Braut,
+Und ihre zukuenftigen Kinder!
+
+Ein Hochzeitkarmen ist mein Lied,
+Das bessere, das neue!
+In meiner Seele gehen auf
+Die Sterne der hoechsten Weihe -
+
+Begeisterte Sterne, sie lodern wild,
+Zerfliessen in Flammenbaechen -
+Ich fuehle mich wunderbar erstarkt,
+Ich koennte Eichen zerbrechen!
+
+Seit ich auf deutsche Erde trat,
+Durchstroemen mich Zaubersaefte -
+Der Riese hat wieder die Mutter beruehrt,
+Und es wuchsen ihm neu die Kraefte.
+
+
+
+CAPUT II
+
+Waehrend die Kleine von Himmelslust
+Getrillert und musizieret,
+Ward von den preussischen Douaniers
+Mein Koffer visitieret.
+
+Beschnueffelten alles, kramten herum
+In Hemden, Hosen, Schnupftuechern;
+Sie suchten nach Spitzen, nach Bijouterien,
+Auch nach verbotenen Buechern.
+
+Ihr Toren, die ihr im Koffer sucht!
+Hier werdet ihr nichts entdecken!
+Die Konterbande, die mit mir reist,
+Die hab ich im Kopfe stecken.
+
+Hier hab ich Spitzen, die feiner sind
+Als die von Bruessel und Mecheln,
+Und pack ich einst meine Spitzen aus,
+Sie werden euch sticheln und hecheln.
+
+Im Kopfe trage ich Bijouterien,
+Der Zukunft Krondiamanten,
+Die Tempelkleinodien des neuen Gotts,
+Des grossen Unbekannten.
+
+Und viele Buecher trag ich im Kopf!
+Ich darf es euch versichern,
+Mein Kopf ist ein zwitscherndes Vogelnest
+Von konfiszierlichen Buechern.
+
+Glaubt mir, in Satans Bibliothek
+Kann es nicht schlimmere geben;
+Sie sind gefaehrlicher noch als die
+Von Hoffmann von Fallersleben! -
+
+Ein Passagier, der neben mir stand,
+Bemerkte, ich haette
+Jetzt vor mir den preussischen Zollverein,
+Die grosse Douanenkette.
+
+"Der Zollverein" - bemerkte er -
+"Wird unser Volkstum begruenden,
+Er wird das zersplitterte Vaterland
+Zu einem Ganzen verbinden.
+
+Er gibt die aeussere Einheit uns,
+Die sogenannt materielle;
+Die geistige Einheit gibt uns die Zensur,
+Die wahrhaft ideelle -
+
+Sie gibt die innere Einheit uns,
+Die Einheit im Denken und Sinnen;
+Ein einiges Deutschland tut uns not,
+Einig nach aussen und innen."
+
+
+
+CAPUT III
+
+Zu Aachen, im alten Dome, liegt
+Carolus Magnus begraben.
+(Man muss ihn nicht verwechseln mit Karl
+Mayer, der lebt in Schwaben.)
+
+Ich moechte nicht tot und begraben sein
+Als Kaiser zu Aachen im Dome;
+Weit lieber lebt' ich als kleinster Poet
+Zu Stukkert am Neckarstrome.
+
+Zu Aachen langweilen sich auf der Strass'
+Die Hunde, sie flehn untertaenig:
+"Gib uns einen Fusstritt, o Fremdling, das wird
+Vielleicht uns zerstreuen ein wenig."
+
+Ich bin in diesem langweil'gen Nest
+Ein Stuendchen herumgeschlendert.
+Sah wieder preussisches Militaer,
+Hat sich nicht sehr veraendert.
+
+Es sind die grauen Maentel noch
+Mit dem hohen, roten Kragen -
+(Das Rot bedeutet Franzosenblut,
+Sang Koerner in frueheren Tagen.)
+
+Noch immer das hoelzern pedantische Volk,
+Noch immer ein rechter Winkel
+In jeder Bewegung, und im Gesicht
+Der eingefrorene Duenkel.
+
+Sie stelzen noch immer so steif herum,
+So kerzengerade geschniegelt,
+Als haetten sie verschluckt den Stock,
+Womit man sie einst gepruegelt.
+
+Ja, ganz verschwand die Fuchtel nie,
+Sie tragen sie jetzt im Innern;
+Das trauliche Du wird immer noch
+An das alte Er erinnern.
+
+Der lange Schnurrbart ist eigentlich nur
+Des Zopftums neuere Phase:
+Der Zopf, der ehmals hinten hing,
+Der haengt jetzt unter der Nase.
+
+Nicht uebel gefiel mir das neue Kostuem
+Der Reuter, das muss ich loben,
+Besonders die Pickelhaube, den Helm
+Mit der staehlernen Spitze nach oben.
+
+Das ist so rittertuemlich und mahnt
+An der Vorzeit holde Romantik,
+An die Burgfrau Johanna von Montfaucon,
+An den Freiherrn Fouque, Uhland, Tieck.
+
+Das mahnt an das Mittelalter so schoen,
+An Edelknechte und Knappen,
+Die in dem Herzen getragen die Treu
+Und auf dem Hintern ein Wappen.
+
+Das mahnt an Kreuzzug und Turnei,
+An Minne und frommes Dienen,
+An die ungedruckte Glaubenszeit,
+Wo noch keine Zeitung erschienen.
+
+Ja, ja, der Helm gefaellt mir, er zeugt
+Vom allerhoechsten Witze!
+Ein koeniglicher Einfall war's!
+Es fehlt nicht die Pointe, die Spitze!
+
+Nur fuercht ich, wenn ein Gewitter entsteht,
+Zieht leicht so eine Spitze
+Herab auf euer romantisches Haupt
+Des Himmels modernste Blitze! - -
+
+Zu Aachen, auf dem Posthausschild,
+Sah ich den Vogel wieder,
+Der mir so tief verhasst! Voll Gift
+Schaute er auf mich nieder.
+
+Du haesslicher Vogel, wirst du einst
+Mir in die Haende fallen;
+So rupfe ich dir die Federn aus
+Und hacke dir ab die Krallen.
+
+Du sollst mir dann, in luft'ger Hoeh',
+Auf einer Stange sitzen,
+Und ich rufe zum lustigen Schiessen herbei
+Die rheinischen Vogelschuetzen.
+
+Wer mir den Vogel herunterschiesst,
+Mit Zepter und Krone belehn ich
+Den wackern Mann! Wir blasen Tusch
+Und rufen: "Es lebe der Koenig!"
+
+
+
+CAPUT IV
+
+Zu Koellen kam ich spaetabends an,
+Da hoerte ich rauschen den Rheinfluss,
+Da faechelte mich schon deutsche Luft,
+Da fuehlt ich ihren Einfluss -
+
+Auf meinen Appetit. Ich ass
+Dort Eierkuchen mit Schinken,
+Und da er sehr gesalzen war,
+Musst ich auch Rheinwein trinken.
+
+Der Rheinwein glaenzt noch immer wie Gold
+Im gruenen Roemerglase,
+Und trinkst du etwelche Schoppen zuviel,
+So steigt er dir in die Nase.
+
+In die Nase steigt ein Prickeln so suess,
+Man kann sich vor Wonne nicht lassen!
+Es trieb mich hinaus in die daemmernde Nacht,
+In die widerhallenden Gassen.
+
+Die steinernen Haeuser schauten mich an,
+Als wollten sie mir berichten
+Legenden aus altverschollener Zeit,
+Der heil'gen Stadt Koellen Geschichten.
+
+Ja, hier hat einst die Klerisei
+Ihr frommes Wesen getrieben,
+Hier haben die Dunkelmaenner geherrscht,
+Die Ulrich von Hutten beschrieben.
+
+Der Cancan des Mittelalters ward hier
+Getanzt von Nonnen und Moenchen;
+Hier schrieb Hochstraaten, der Menzel von Koeln,
+Die gift'gen Denunziatioenchen.
+
+Die Flamme des Scheiterhaufens hat hier
+Buecher und Menschen verschlungen;
+Die Glocken wurden gelaeutet dabei
+Und Kyrie eleison gesungen.
+
+Dummheit und Bosheit buhlten hier
+Gleich Hunden auf freier Gasse;
+Die Enkelbrut erkennt man noch heut
+An ihrem Glaubenshasse. -
+
+Doch siehe! dort im Mondenschein
+Den kolossalen Gesellen!
+Er ragt verteufelt schwarz empor,
+Das ist der Dom von Koellen.
+
+Er sollte des Geistes Bastille sein,
+Und die listigen Roemlinge dachten:
+In diesem Riesenkerker wird
+Die deutsche Vernunft verschmachten!
+
+Da kam der Luther, und er hat
+Sein grosses "Halt!" gesprochen -
+Seit jenem Tage blieb der Bau
+Des Domes unterbrochen.
+
+Er ward nicht vollendet - und das ist gut.
+Denn eben die Nichtvollendung
+Macht ihn zum Denkmal von Deutschlands Kraft
+Und protestantischer Sendung.
+
+Ihr armen Schelme vom Domverein,
+Ihr wollt mit schwachen Haenden
+Fortsetzen das unterbrochene Werk,
+Und die alte Zwingburg vollenden!
+
+O toerichter Wahn! Vergebens wird
+Geschuettelt der Klingelbeutel,
+Gebettelt bei Ketzern und Juden sogar;
+Ist alles fruchtlos und eitel.
+
+Vergebens wird der grosse Franz Liszt
+Zum Besten des Doms musizieren,
+Und ein talentvoller Koenig wird
+Vergebens deklamieren!
+
+Er wird nicht vollendet, der Koelner Dom,
+Obgleich die Narren in Schwaben
+Zu seinem Fortbau ein ganzes Schiff
+Voll Steine gesendet haben.
+
+Er wird nicht vollendet, trotz allem Geschrei
+Der Raben und der Eulen,
+Die, altertuemlich gesinnt, so gern
+In hohen Kirchtuermen weilen.
+
+Ja, kommen wird die Zeit sogar,
+Wo man, statt ihn zu vollenden,
+Die inneren Raeume zu einem Stall
+Fuer Pferde wird verwenden.
+
+"Und wird der Dom ein Pferdestall,
+Was sollen wir dann beginnen
+Mit den Heil'gen Drei Koen'gen, die da ruhn
+Im Tabernakel da drinnen?"
+
+So hoere ich fragen. Doch brauchen wir uns
+In unserer Zeit zu genieren?
+Die Heil'gen Drei Koen'ge aus Morgenland,
+Sie koennen woanders logieren.
+
+Folgt meinem Rat und steckt sie hinein
+In jene drei Koerbe von Eisen,
+Die hoch zu Muenster haengen am Turm,
+Der Sankt Lamberti geheissen.
+
+Der Schneiderkoenig sass darin
+Mit seinen beiden Raeten,
+Wir aber benutzen die Koerbe jetzt
+Fuer andre Majestaeten.
+
+Zur Rechten soll Herr Balthasar,
+Zur Linken Herr Melchior schweben,
+In der Mitte Herr Gaspar - Gott weiss, wie einst
+Die drei gehaust im Leben!
+
+Die Heil'ge Allianz des Morgenlands,
+Die jetzt kanonisieret,
+Sie hat vielleicht nicht immer schoen
+Und fromm sich aufgefuehret.
+
+Der Balthasar und der Melchior,
+Das waren vielleicht zwei Gaeuche,
+Die in der Not eine Konstitution
+Versprochen ihrem Reiche,
+
+Und spaeter nicht Wort gehalten - Es hat
+Herr Gaspar, der Koenig der Mohren,
+Vielleicht mit schwarzem Undank sogar
+Belohnt sein Volk, die Toren!
+
+
+
+CAPUT V
+
+Und als ich an die Rheinbrueck' kam,
+Wohl an die Hafenschanze,
+Da sah ich fliessen den Vater Rhein
+Im stillen Mondenglanze.
+
+"Sei mir gegruesst, mein Vater Rhein,
+Wie ist es dir ergangen?
+Ich habe oft an dich gedacht
+Mit Sehnsucht und Verlangen."
+
+So sprach ich, da hoert ich im Wasser tief
+Gar seltsam graemliche Toene,
+Wie Huesteln eines alten Manns,
+Ein Bruemmeln und weiches Gestoehne:
+
+"Willkommen, mein Junge, das ist mir lieb,
+Dass du mich nicht vergessen;
+Seit dreizehn Jahren sah ich dich nicht,
+Mir ging es schlecht unterdessen.
+
+Zu Biberich hab ich Steine verschluckt,
+Wahrhaftig, sie schmeckten nicht lecker!
+Doch schwerer liegen im Magen mir
+Die Verse von Niklas Becker.
+
+Er hat mich besungen, als ob ich noch
+Die reinste Jungfer waere,
+Die sich von niemand rauben laesst
+Das Kraenzlein ihrer Ehre.
+
+Wenn ich es hoere, das dumme Lied,
+Dann moecht ich mir zerraufen
+Den weissen Bart, ich moechte fuerwahr
+Mich in mir selbst ersaufen!
+
+Dass ich keine reine Jungfer bin,
+Die Franzosen wissen es besser,
+Sie haben mit meinem Wasser so oft
+Vermischt ihr Siegergewaesser.
+
+Das dumme Lied und der dumme Kerl!
+Er hat mich schmaehlich blamieret,
+Gewissermassen hat er mich auch
+Politisch kompromittieret.
+
+Denn kehren jetzt die Franzosen zurueck,
+So muss ich vor ihnen erroeten,
+Ich, der um ihre Rueckkehr so oft
+Mit Traenen zum Himmel gebeten.
+
+Ich habe sie immer so liebgehabt,
+Die lieben kleinen Franzoeschen -
+Singen und springen sie noch wie sonst?
+Tragen noch weisse Hoeschen?
+
+Ich moechte sie gerne wiedersehn,
+Doch fuercht ich die Persiflage,
+Von wegen des verwuenschten Lieds,
+Von wegen der Blamage.
+
+Der Alfred de Musset, der Gassenbub',
+Der kommt an ihrer Spitze
+Vielleicht als Tambour, und trommelt mir vor
+All seine schlechten Witze."
+
+So klagte der arme Vater Rhein,
+Konnt sich nicht zufriedengeben.
+Ich sprach zu ihm manch troestendes Wort,
+Um ihm das Herz zu heben:
+
+"O fuerchte nicht, mein Vater Rhein,
+Den spoettelnden Scherz der Franzosen;
+Sie sind die alten Franzosen nicht mehr,
+Auch tragen sie andere Hosen.
+
+Die Hosen sind rot und nicht mehr weiss,
+Sie haben auch andere Knoepfe,
+Sie singen nicht mehr, sie springen nicht mehr,
+Sie senken nachdenklich die Koepfe.
+
+Sie philosophieren und sprechen jetzt
+Von Kant, von Fichte und Hegel,
+Sie rauchen Tabak, sie trinken Bier,
+Und manche schieben auch Kegel.
+
+Sie werden Philister ganz wie wir,
+Und treiben es endlich noch aerger;
+Sie sind keine Voltairianer mehr;
+Sie werden Hengstenberger.
+
+Der Alfred de Musset, das ist wahr,
+Ist noch ein Gassenjunge;
+Doch fuerchte nichts, wir fesseln ihm
+Die schaendliche Spoetterzunge.
+
+Und trommelt er dir einen schlechten Witz,
+So pfeifen wir ihm einen schlimmern,
+Wir pfeifen ihm vor, was ihm passiert
+Bei schoenen Frauenzimmern.
+
+Gib dich zufrieden, Vater Rhein,
+Denk nicht an schlechte Lieder,
+Ein besseres Lied vernimmst du bald -
+Leb wohl, wir sehen uns wieder."
+
+
+
+CAPUT VI
+
+Den Paganini begleitete stets
+Ein Spiritus familiaris,
+Manchmal als Hund, manchmal in Gestalt
+Des seligen Georg Harrys.
+
+Napoleon sah einen roten Mann
+Vor jedem wicht'gen Ereignis.
+Sokrates hatte seinen Daemon,
+Das war kein Hirnerzeugnis.
+
+Ich selbst, wenn ich am Schreibtisch sass
+Des Nachts, hab ich gesehen
+Zuweilen einen vermummten Gast
+Unheimlich hinter mir stehen.
+
+Unter dem Mantel hielt er etwas
+Verborgen, das seltsam blinkte,
+Wenn es zum Vorschein kam, und ein Beil,
+Ein Richtbeil, zu sein mir duenkte.
+
+Er schien von untersetzter Statur,
+Die Augen wie zwei Sterne;
+Er stoerte mich im Schreiben nie,
+Blieb ruhig stehn in der Ferne.
+
+Seit Jahren hatte ich nicht gesehn
+Den sonderbaren Gesellen,
+Da fand ich ihn ploetzlich wieder hier
+In der stillen Mondnacht zu Koellen.
+
+Ich schlenderte sinnend die Strassen entlang,
+Da sah ich ihn hinter mir gehen,
+Als ob er mein Schatten waere, und stand
+Ich still, so blieb er stehen.
+
+Blieb stehen, als wartete er auf was,
+Und foerderte ich die Schritte,
+Dann folgte er wieder. So kamen wir
+Bis auf des Domplatz' Mitte.
+
+Es ward mir unleidlich, ich drehte mich um
+Und sprach: "Jetzt steh mir Rede,
+Was folgst du mir auf Weg und Steg
+Hier in der naechtlichen Oede?
+
+Ich treffe dich immer in der Stund',
+Wo Weltgefuehle spriessen
+In meiner Brust und durch das Hirn
+Die Geistesblitze schiessen.
+
+Du siehst mich an so stier und fest -
+Steh Rede: Was verhuellst du
+Hier unter dem Mantel, das heimlich blinkt?
+Wer bist du und was willst du?"
+
+Doch jener erwiderte trockenen Tons,
+Sogar ein bisschen phlegmatisch:
+"Ich bitte dich, exorziere mich nicht,
+Und werde nur nicht emphatisch!
+
+Ich bin kein Gespenst der Vergangenheit,
+Kein grabentstiegener Strohwisch,
+Und von Rhetorik bin ich kein Freund,
+Bin auch nicht sehr philosophisch.
+
+Ich bin von praktischer Natur,
+Und immer schweigsam und ruhig.
+Doch wisse: was du ersonnen im Geist,
+Das fuehr ich aus, das tu ich.
+
+Und gehn auch Jahre drueber hin,
+Ich raste nicht, bis ich verwandle
+In Wirklichkeit, was du gedacht;
+Du denkst, und ich, ich handle.
+
+Du bist der Richter, der Buettel bin ich,
+Und mit dem Gehorsam des Knechtes
+Vollstreck' ich das Urteil, das du gefaellt,
+Und sei es ein ungerechtes.
+
+Dem Konsul trug man ein Beil voran
+Zu Rom, in alten Tagen.
+Auch du hast deinen Liktor, doch wird
+Das Beil dir nachgetragen.
+
+Ich bin dein Liktor, und ich geh
+Bestaendig mit dem blanken
+Richtbeile hinter dir - ich bin
+Die Tat von deinem Gedanken."
+
+
+
+CAPUT VII
+
+Ich ging nach Haus und schlief, als ob
+Die Engel gewiegt mich haetten.
+Man ruht in deutschen Betten so weich,
+Denn das sind Federbetten.
+
+Wie sehnt ich mich oft nach der Suessigkeit
+Des vaterlaendischen Pfuehles,
+Wenn ich auf harten Matratzen lag,
+In der schlaflosen Nacht des Exiles!
+
+Man schlaeft sehr gut und traeumt auch gut
+In unseren Federbetten.
+Hier fuehlt die deutsche Seele sich frei
+Von allen Erdenketten.
+
+Sie fuehlt sich frei und schwingt sich empor
+Zu den hoechsten Himmelsraeumen.
+O deutsche Seele, wie stolz ist dein Flug
+In deinen naechtlichen Traeumen!
+
+Die Goetter erbleichen, wenn du nahst!
+Du hast auf deinen Wegen
+Gar manches Sternlein ausgeputzt
+Mit deinen Fluegelschlaegen!
+
+Franzosen und Russen gehoert das Land,
+Das Meer gehoert den Briten,
+Wir aber besitzen im Luftreich des Traums
+Die Herrschaft unbestritten.
+
+Hier ueben wir die Hegemonie,
+Hier sind wir unzerstueckelt;
+Die andern Voelker haben sich
+Auf platter Erde entwickelt. - -
+
+Und als ich einschlief, da traeumte mir,
+Ich schlenderte wieder im hellen
+Mondschein die hallenden Strassen entlang,
+In dem altertuemlichen Koellen.
+
+Und hinter mir ging wieder einher
+Mein schwarzer, vermummter Begleiter.
+Ich war so muede, mir brachen die Knie,
+Doch immer gingen sie weiter.
+
+Wir gingen weiter. Mein Herz in der Brust
+War klaffend aufgeschnitten,
+Und aus der Herzenswunde hervor
+Die roten Tropfen glitten.
+
+Ich tauchte manchmal die Finger hinein,
+Und manchmal ist es geschehen,
+Dass ich die Haustuerpfosten bestrich
+Mit dem Blut im Voruebergehen.
+
+Und jedesmal, wenn ich ein Haus
+Bezeichnet in solcher Weise,
+Ein Sterbegloeckchen erscholl fernher,
+Wehmuetig wimmernd und leise.
+
+Am Himmel aber erblich der Mond,
+Er wurde immer trueber;
+Gleich schwarzen Rossen jagten an ihm
+Die wilden Wolken vorueber.
+
+Und immer ging hinter mir einher
+Mit seinem verborgenen Beile
+Die dunkle Gestalt - so wanderten wir
+Wohl eine gute Weile.
+
+Wir gehen und gehen, bis wir zuletzt
+Wieder zum Domplatz gelangen;
+Weit offen standen die Pforten dort,
+Wir sind hineingegangen.
+
+Es herrschte im ungeheuren Raum
+Nur Tod und Nacht und Schweigen;
+Es brannten Ampeln hie und da,
+Um die Dunkelheit recht zu zeigen.
+
+Ich wandelte lange den Pfeilern entlang
+Und hoerte nur die Tritte
+Von meinem Begleiter, er folgte mir
+Auch hier bei jedem Schritte.
+
+Wir kamen endlich zu einem Ort,
+Wo funkelnde Kerzenhelle
+Und blitzendes Gold und Edelstein;
+Das war die Drei-Koenigs-Kapelle.
+
+Die Heil'gen Drei Koenige jedoch,
+Die sonst so still dort lagen,
+O Wunder! sie sassen aufrecht jetzt
+Auf ihren Sarkophagen.
+
+Drei Totengerippe, phantastisch geputzt,
+Mit Kronen auf den elenden
+Vergilbten Schaedeln, sie trugen auch
+Das Zepter in knoechernen Haenden.
+
+Wie Hampelmaenner bewegten sie
+Die laengstverstorbenen Knochen;
+Die haben nach Moder und zugleich
+Nach Weihrauchduft gerochen.
+
+Der eine bewegte sogar den Mund
+Und hielt eine Rede, sehr lange;
+Er setzte mir auseinander, warum
+Er meinen Respekt verlange.
+
+Zuerst weil er ein Toter sei,
+Und zweitens weil er ein Koenig,
+Und drittens weil er ein Heil'ger sei -
+Das alles ruehrte mich wenig.
+
+Ich gab ihm zur Antwort lachenden Muts:
+"Vergebens ist deine Bemuehung!
+Ich sehe, dass du der Vergangenheit
+Gehoerst in jeder Beziehung.
+
+Fort! fort von hier! im tiefen Grab
+Ist eure natuerliche Stelle.
+Das Leben nimmt jetzt in Beschlag
+Die Schaetze dieser Kapelle.
+
+Der Zukunft froehliche Kavallerie
+Soll hier im Dome hausen,
+Und weicht ihr nicht willig, so brauch ich Gewalt
+Und lass euch mit Kolben lausen!"
+
+So sprach ich, und drehte mich um,
+Da sah ich furchtbar blinken
+Des stummen Begleiters furchtbares Beil -
+Und er verstand mein Winken.
+
+Er nahte sich, und mit dem Beil
+Zerschmetterte er die armen
+Skelette des Aberglaubens, er schlug
+Sie nieder ohn' Erbarmen.
+
+Es droehnte der Hiebe Widerhall
+Aus allen Gewoelben, entsetzlich! -
+Blutstroeme schossen aus meiner Brust,
+Und ich erwachte ploetzlich.
+
+
+
+CAPUT VIII
+
+Von Koellen bis Hagen kostet die Post
+Fuenf Taler sechs Groschen preussisch.
+Die Diligence war leider besetzt,
+Und ich kam in die offene Beichais'.
+
+Ein Spaetherbstmorgen, feucht und grau,
+Im Schlamme keuchte der Wagen;
+Doch trotz des schlechten Wetters und Wegs
+Durchstroemte mich suesses Behagen.
+
+Das ist ja meine Heimatluft!
+Die gluehende Wange empfand es!
+Und dieser Landstrassenkot, er ist
+Der Dreck meines Vaterlandes!
+
+Die Pferde wedelten mit dem Schwanz
+So traulich wie alte Bekannte,
+Und ihre Mistkuechlein duenkten mir schoen
+Wie die Aepfel der Atalante!
+
+Wir fuhren durch Muehlheim. Die Stadt ist nett,
+Die Menschen still und fleissig.
+War dort zuletzt im Monat Mai
+Des Jahres einunddreissig.
+
+Damals stand alles im Bluetenschmuck,
+Und die Sonnenlichter lachten,
+Die Voegel sangen sehnsuchtvoll,
+Und die Menschen hofften und dachten -
+
+Sie dachten: 'Die magere Ritterschaft
+Wird bald von hinnen reisen,
+Und der Abschiedstrunk wird ihnen kredenzt
+Aus langen Flaschen von Eisen!
+
+Und die Freiheit kommt mit Spiel und Tanz,
+Mit der Fahne, der weissblauroten;
+Vielleicht holt sie sogar aus dem Grab
+Den Bonaparte, den Toten!'
+
+Ach Gott! die Ritter sind immer noch hier,
+Und manche dieser Gaeuche,
+Die spindelduerre gekommen ins Land,
+Die haben jetzt dicke Baeuche.
+
+Die blassen Kanaillen, die ausgesehn
+Wie Liebe, Glauben und Hoffen,
+Sie haben seitdem in unserm Wein
+Sich rote Nasen gesoffen - - -
+
+Und die Freiheit hat sich den Fuss verrenkt,
+Kann nicht mehr springen und stuermen;
+Die Trikolore in Paris
+Schaut traurig herab von den Tuermen.
+
+Der Kaiser ist auferstanden seitdem,
+Doch die englischen Wuermer haben
+Aus ihm einen stillen Mann gemacht,
+Und er liess sich wieder begraben.
+
+Hab selber sein Leichenbegaengnis gesehn,
+Ich sah den goldenen Wagen
+Und die goldenen Siegesgoettinnen drauf,
+Die den goldenen Sarg getragen.
+
+Den Elysaeischen Feldern entlang,
+Durch des Triumphes Bogen,
+Wohl durch den Nebel, wohl ueber den Schnee
+Kam langsam der Zug gezogen.
+
+Misstoenend schauerlich war die Musik.
+Die Musikanten starrten
+Vor Kaelte. Wehmuetig gruessten mich
+Die Adler der Standarten.
+
+Die Menschen schauten so geisterhaft
+In alter Erinnrung verloren -
+Der imperiale Maerchentraum
+War wieder heraufbeschworen.
+
+Ich weinte an jenem Tag. Mir sind
+Die Traenen ins Auge gekommen,
+Als ich den verschollenen Liebesruf,
+Das "Vive l'Empereur!", vernommen.
+
+
+
+CAPUT IX
+
+Von Koellen war ich drei Viertel auf acht
+Des Morgens fortgereiset;
+Wir kamen nach Hagen schon gegen drei,
+Da ward zu Mittag gespeiset.
+
+Der Tisch war gedeckt. Hier fand ich ganz
+Die altgermanische Kueche.
+Sei mir gegruesst, mein Sauerkraut,
+Holdselig sind deine Gerueche!
+
+Gestovte Kastanien im gruenen Kohl!
+So ass ich sie einst bei der Mutter!
+Ihr heimischen Stockfische, seid mir gegruesst!
+Wie schwimmt ihr klug in der Butter!
+
+Jedwedem fuehlenden Herzen bleibt
+Das Vaterland ewig teuer -
+Ich liebe auch recht braun geschmort
+Die Buecklinge und Eier.
+
+Wie jauchzten die Wuerste im spritzelnden Fett!
+Die Krammetsvoegel, die frommen
+Gebratenen Englein mit Apfelmus,
+Sie zwitscherten mir: "Willkommen!"
+
+"Willkommen, Landsmann" - zwitscherten sie -,
+"Bist lange ausgeblieben,
+Hast dich mit fremdem Gevoegel so lang
+In der Fremde herumgetrieben!"
+
+Es stand auf dem Tische eine Gans,
+Ein stilles, gemuetliches Wesen.
+Sie hat vielleicht mich einst geliebt,
+Als wir beide noch jung gewesen.
+
+Sie blickte mich an so bedeutungsvoll,
+So innig, so treu, so wehe!
+Besass eine schoene Seele gewiss,
+Doch war das Fleisch sehr zaehe.
+
+Auch einen Schweinskopf trug man auf
+In einer zinnernen Schuessel;
+Noch immer schmueckt man den Schweinen bei uns
+Mit Lorbeerblaettern den Ruessel.
+
+
+
+CAPUT X
+
+Dicht hinter Hagen ward es Nacht,
+Und ich fuehlte in den Gedaermen
+Ein seltsames Froesteln. Ich konnte mich erst
+Zu Unna, im Wirtshaus, erwaermen.
+
+Ein huebsches Maedchen fand ich dort,
+Die schenkte mir freundlich den Punsch ein;
+Wie gelbe Seide das Lockenhaar,
+Die Augen sanft wie Mondschein.
+
+Den lispelnd westfaelischen Akzent
+Vernahm ich mit Wollust wieder.
+Viel suesse Erinnerung dampfte der Punsch,
+Ich dachte der lieben Brueder,
+
+Der lieben Westfalen, womit ich so oft
+In Goettingen getrunken,
+Bis wir geruehrt einander ans Herz
+Und unter die Tische gesunken!
+
+Ich habe sie immer so liebgehabt,
+Die lieben, guten Westfalen,
+Ein Volk, so fest, so sicher, so treu,
+Ganz ohne Gleissen und Prahlen.
+
+Wie standen sie praechtig auf der Mensur
+Mit ihren Loewenherzen!
+Es fielen so grade, so ehrlich gemeint,
+Die Quarten und die Terzen.
+
+Sie fechten gut, sie trinken gut,
+Und wenn sie die Hand dir reichen
+Zum Freundschaftsbuendnis, dann weinen sie;
+Sind sentimentale Eichen.
+
+Der Himmel erhalte dich, wackres Volk,
+Er segne deine Staaten,
+Bewahre dich vor Krieg und Ruhm,
+Vor Helden und Heldentaten.
+
+Er schenke deinen Soehnen stets
+Ein sehr gelindes Examen,
+Und deine Toechter bringe er huebsch
+Unter die Haube - Amen!
+
+
+
+CAPUT XI
+
+Das ist der Teutoburger Wald,
+Den Tacitus beschrieben,
+Das ist der klassische Morast,
+Wo Varus steckengeblieben.
+
+Hier schlug ihn der Cheruskerfuerst,
+Der Hermann, der edle Recke;
+Die deutsche Nationalitaet,
+Die siegte in diesem Drecke.
+
+Wenn Hermann nicht die Schlacht gewann,
+Mit seinen blonden Horden,
+So gaeb es deutsche Freiheit nicht mehr,
+Wir waeren roemisch geworden!
+
+In unserem Vaterland herrschten jetzt
+Nur roemische Sprache und Sitten,
+Vestalen gaeb es in Muenchen sogar,
+Die Schwaben hiessen Quiriten!
+
+Der Hengstenberg waer ein Haruspex
+Und gruebelte in den Gedaermen
+Von Ochsen. Neander waer ein Augur
+Und schaute nach Vogelschwaermen.
+
+Birch-Pfeiffer soeffe Terpentin,
+Wie einst die roemischen Damen.
+(Man sagt, dass sie dadurch den Urin
+Besonders wohlriechend bekamen.)
+
+Der Raumer waere kein deutscher Lump,
+Er waere ein roem'scher Lumpacius.
+Der Freiligrath dichtete ohne Reim,
+Wie weiland Flaccus Horatius.
+
+Der grobe Bettler, Vater Jahn,
+Der hiesse jetzt Grobianus.
+Me hercule! Massmann spraeche Latein,
+Der Marcus Tullius Massmanus!
+
+Die Wahrheitsfreunde wuerden jetzt
+Mit Loewen, Hyaenen, Schakalen
+Sich raufen in der Arena, anstatt
+Mit Hunden in kleinen Journalen.
+
+Wir haetten _einen_ Nero jetzt,
+Statt Landesvaeter drei Dutzend.
+Wir schnitten uns die Adern auf,
+Den Schergen der Knechtschaft trutzend.
+
+Der Schelling waer ganz ein Seneca,
+Und kaeme in solchem Konflikt um.
+Zu unsrem Cornelius sagten wir:
+"Cacatum non est pictum."
+
+Gottlob! Der Hermann gewann die Schlacht,
+Die Roemer wurden vertrieben,
+Varus mit seinen Legionen erlag,
+Und wir sind Deutsche geblieben!
+
+Wir blieben deutsch, wir sprechen deutsch,
+Wie wir es gesprochen haben;
+Der Esel heisst Esel, nicht asinus,
+Die Schwaben blieben Schwaben.
+
+Der Raumer blieb ein deutscher Lump
+In unserm deutschen Norden.
+In Reimen dichtet Freiligrath,
+Ist kein Horaz geworden.
+
+Gottlob, der Massmann spricht kein Latein,
+Birch-Pfeiffer schreibt nur Dramen,
+Und saeuft nicht schnoeden Terpentin
+Wie Roms galante Damen.
+
+O Hermann, dir verdanken wir das!
+Drum wird dir, wie sich gebuehret,
+Zu Detmold ein Monument gesetzt;
+Hab selber subskribieret.
+
+
+
+CAPUT XII
+
+Im naechtlichen Walde humpelt dahin
+Die Chaise. Da kracht es ploetzlich -
+Ein Rad ging los. Wir halten still.
+Das ist nicht sehr ergoetzlich.
+
+Der Postillion steigt ab und eilt
+Ins Dorf, und ich verweile
+Um Mitternacht allein im Wald.
+Ringsum ertoent ein Geheule.
+
+Das sind die Woelfe, die heulen so wild,
+Mit ausgehungerten Stimmen.
+Wie Lichter in der Dunkelheit
+Die feurigen Augen glimmen.
+
+Sie hoerten von meiner Ankunft gewiss,
+Die Bestien, und mir zur Ehre
+Illuminierten sie den Wald
+Und singen sie ihre Choere.
+
+Das ist ein Staendchen, ich merke es jetzt,
+Ich soll gefeiert werden!
+Ich warf mich gleich in Positur
+Und sprach mit geruehrten Gebaerden:
+
+"Mitwoelfe! Ich bin gluecklich, heut
+In eurer Mitte zu weilen,
+Wo soviel edle Gemueter mir
+Mit Liebe entgegenheulen.
+
+Was ich in diesem Augenblick
+Empfinde, ist unermesslich;
+Ach, diese schoene Stunde bleibt
+Mir ewig unvergesslich.
+
+Ich danke euch fuer das Vertraun,
+Womit ihr mich beehret
+Und das ihr in jeder Pruefungszeit
+Durch treue Beweise bewaehret.
+
+Mitwoelfe! Ihr zweifeltet nie an mir,
+Ihr liesset euch nicht fangen
+Von Schelmen, die euch gesagt, ich sei
+Zu den Hunden uebergegangen,
+
+Ich sei abtruennig und werde bald
+Hofrat in der Laemmerhuerde -
+Dergleichen zu widersprechen war
+Ganz unter meiner Wuerde.
+
+Der Schafpelz, den ich umgehaengt
+Zuweilen, um mich zu waermen,
+Glaubt mir's, er brachte mich nie dahin,
+Fuer das Glueck der Schafe zu schwaermen.
+
+Ich bin kein Schaf, ich bin kein Hund,
+Kein Hofrat und kein Schellfisch -
+Ich bin ein Wolf geblieben, mein Herz
+Und meine Zaehne sind woelfisch.
+
+Ich bin ein Wolf und werde stets
+Auch heulen mit den Woelfen -
+Ja, zaehlt auf mich und helft euch selbst,
+Dann wird auch Gott euch helfen!"
+
+Das war die Rede, die ich hielt,
+Ganz ohne Vorbereitung;
+Verstuemmelt hat Kolb sie abgedruckt
+In der "Allgemeinen Zeitung".
+
+
+
+CAPUT XIII
+
+Die Sonne ging auf bei Paderborn,
+Mit sehr verdrossner Gebaerde.
+Sie treibt in der Tat ein verdriesslich Geschaeft -
+Beleuchten die dumme Erde!
+
+Hat sie die eine Seite erhellt,
+Und bringt sie mit strahlender Eile
+Der andern ihr Licht, so verdunkelt schon
+Sich jene mittlerweile.
+
+Der Stein entrollt dem Sisyphus,
+Der Danaiden Tonne
+Wird nie gefuellt, und den Erdenball
+Beleuchtet vergeblich die Sonne! -
+
+Und als der Morgennebel zerrann,
+Da sah ich am Wege ragen,
+Im Fruehrotschein, das Bild des Manns,
+Der an das Kreuz geschlagen.
+
+Mit Wehmut erfuellt mich jedesmal
+Dein Anblick, mein armer Vetter,
+Der du die Welt erloesen gewollt,
+Du Narr, du Menschheitsretter!
+
+Sie haben dir uebel mitgespielt,
+Die Herren vom hohen Rate.
+Wer hiess dich auch reden so ruecksichtslos
+Von der Kirche und vom Staate!
+
+Zu deinem Malheur war die Buchdruckerei
+Noch nicht in jenen Tagen
+Erfunden; du haettest geschrieben ein Buch
+Ueber die Himmelsfragen.
+
+Der Zensor haette gestrichen darin,
+Was etwa anzueglich auf Erden,
+Und liebend bewahrte dich die Zensur
+Vor dem Gekreuzigtwerden.
+
+Ach! haettest du nur einen andern Text
+Zu deiner Bergpredigt genommen,
+Besassest ja Geist und Talent genug,
+Und konntest schonen die Frommen!
+
+Geldwechsler, Bankiers, hast du sogar
+Mit der Peitsche gejagt aus dem Tempel -
+Ungluecklicher Schwaermer, jetzt haengst du am Kreuz
+Als warnendes Exempel!
+
+
+
+CAPUT XIV
+
+Ein feuchter Wind, ein kahles Land,
+Die Chaise wackelt im Schlamme;
+Doch singt es und klingt es in meinem Gemuet:
+"Sonne, du klagende Flamme!"
+
+Das ist der Schlussreim des alten Lieds,
+Das oft meine Amme gesungen -
+"Sonne, du klagende Flamme!" Das hat
+Wie Waldhornruf geklungen.
+
+Es kommt im Lied ein Moerder vor,
+Der lebt' in Lust und Freude;
+Man findet ihn endlich im Walde gehenkt
+An einer grauen Weide.
+
+Des Moerders Todesurteil war
+Genagelt am Weidenstamme;
+Das haben die Raecher der Feme getan -
+"Sonne, du klagende Flamme!"
+
+Die Sonne war Klaeger, sie hatte bewirkt,
+Dass man den Moerder verdamme.
+Ottilie hatte sterbend geschrien:
+"Sonne, du klagende Flamme!"
+
+Und denk ich des Liedes, so denk ich auch
+Der Amme, der lieben Alten;
+Ich sehe wieder ihr braunes Gesicht,
+Mit allen Runzeln und Falten.
+
+Sie war geboren im Muensterland,
+Und wusste, in grosser Menge,
+Gespenstergeschichten, grausenhaft,
+Und Maerchen und Volksgesaenge.
+
+Wie pochte mein Herz, wenn die alte Frau
+Von der Koenigstochter erzaehlte,
+Die einsam auf der Heide sass
+Und die goldnen Haare straehlte.
+
+Die Gaense musste sie hueten dort
+Als Gaensemagd, und trieb sie
+Am Abend die Gaense wieder durchs Tor,
+Gar traurig stehen blieb sie.
+
+Denn angenagelt ueber dem Tor
+Sah sie ein Rosshaupt ragen,
+Das war der Kopf des armen Pferds,
+Das sie in die Fremde getragen.
+
+Die Koenigstochter seufzte tief:
+"O Falada, dass du hangest!"
+Der Pferdekopf herunterrief:
+"O wehe! dass du gangest!"
+
+Die Koenigstochter seufzte tief:
+"Wenn das meine Mutter wuesste!"
+Der Pferdekopf herunterrief:
+"Ihr Herze brechen muesste!"
+
+Mit stockendem Atem horchte ich hin,
+Wenn die Alte ernster und leiser
+Zu sprechen begann und vom Rotbart sprach,
+Von unserem heimlichen Kaiser.
+
+Sie hat mir versichert, er sei nicht tot,
+Wie da glauben die Gelehrten,
+Er hause versteckt in einem Berg
+Mit seinen Waffengefaehrten.
+
+Kyffhaeuser ist der Berg genannt,
+Und drinnen ist eine Hoehle;
+Die Ampeln erhellen so geisterhaft
+Die hochgewoelbten Saele.
+
+Ein Marstall ist der erste Saal,
+Und dorten kann man sehen
+Viel tausend Pferde, blankgeschirrt,
+Die an den Krippen stehen.
+
+Sie sind gesattelt und gezaeumt,
+Jedoch von diesen Rossen
+Kein einziges wiehert, kein einziges stampft,
+Sind still, wie aus Eisen gegossen.
+
+Im zweiten Saale, auf der Streu,
+Sieht man Soldaten liegen,
+Viel tausend Soldaten, baertiges Volk,
+Mit kriegerisch trotzigen Zuegen.
+
+Sie sind geruestet von Kopf bis Fuss,
+Doch alle diese Braven,
+Sie ruehren sich nicht, bewegen sich nicht,
+Sie liegen fest und schlafen.
+
+Hochaufgestapelt im dritten Saal
+Sind Schwerter, Streitaexte, Speere,
+Harnische, Helme, von Silber und Stahl,
+Altfraenkische Feuergewehre.
+
+Sehr wenig Kanonen, jedoch genug,
+Um eine Trophaee zu bilden.
+Hoch ragt daraus eine Fahne hervor,
+Die Farbe ist schwarzrotguelden.
+
+Der Kaiser bewohnt den vierten Saal.
+Schon seit Jahrhunderten sitzt er
+Auf steinernem Stuhl, am steinernen Tisch,
+Das Haupt auf den Armen stuetzt er.
+
+Sein Bart, der bis zur Erde wuchs,
+Ist rot wie Feuerflammen,
+Zuweilen zwinkert er mit dem Aug',
+Zieht manchmal die Brauen zusammen.
+
+Schlaeft er oder denkt er nach?
+Man kann's nicht genau ermitteln;
+Doch wenn die rechte Stunde kommt,
+Wird er gewaltig sich ruetteln.
+
+Die gute Fahne ergreift er dann
+Und ruft: "Zu Pferd! zu Pferde!"
+Sein reisiges Volk erwacht und springt
+Lautrasselnd empor von der Erde.
+
+Ein jeder schwingt sich auf sein Ross,
+Das wiehert und stampft mit den Hufen!
+Sie reiten hinaus in die klirrende Welt,
+Und die Trompeten rufen.
+
+Sie reiten gut, sie schlagen gut,
+Sie haben ausgeschlafen.
+Der Kaiser haelt ein strenges Gericht,
+Er will die Moerder bestrafen -
+
+Die Moerder, die gemeuchelt einst
+Die teure, wundersame,
+Goldlockichte Jungfrau Germania -
+"Sonne, du klagende Flamme!"
+
+Wohl mancher, der sich geborgen geglaubt
+Und lachend auf seinem Schloss sass,
+Er wird nicht entgehen dem raechenden Strang,
+Dem Zorne Barbarossas! - - -
+
+Wie klingen sie lieblich, wie klingen sie suess,
+Die Maerchen der alten Amme!
+Mein aberglaeubisches Herze jauchzt:
+"Sonne, du klagende Flamme!"
+
+
+
+CAPUT XV
+
+Ein feiner Regen prickelt herab,
+Eiskalt, wie Naehnadelspitzen.
+Die Pferde bewegen traurig den Schwanz,
+Sie waten im Kot und schwitzen.
+
+Der Postillion stoesst in sein Horn,
+Ich kenne das alte Getute -
+"Es reiten drei Reiter zum Tor hinaus!"
+Es wird mir so daemmrig zumute.
+
+Mich schlaeferte und ich entschlief,
+Und siehe! mir traeumte am Ende,
+Dass ich mich in dem Wunderberg
+Beim Kaiser Rotbart befaende.
+
+Er sass nicht mehr auf steinernem Stuhl,
+Am steinernen Tisch, wie ein Steinbild;
+Auch sah er nicht so ehrwuerdig aus,
+Wie man sich gewoehnlich einbildt.
+
+Er watschelte durch die Saele herum
+Mit mir im trauten Geschwaetze.
+Er zeigte wie ein Antiquar
+Mir seine Kuriosa und Schaetze.
+
+Im Saale der Waffen erklaerte er mir,
+Wie man sich der Kolben bediene,
+Von einigen Schwertern rieb er den Rost
+Mit seinem Hermeline.
+
+Er nahm ein Pfauenwedel zur Hand,
+Und reinigte vom Staube
+Gar manchen Harnisch, gar manchen Helm,
+Auch manche Pickelhaube.
+
+Die Fahne staeubte er gleichfalls ab,
+Und er sprach: "Mein groesster Stolz ist,
+Dass noch keine Motte die Seide zerfrass,
+Und auch kein Wurm im Holz ist."
+
+Und als wir kamen in den Saal,
+Wo schlafend am Boden liegen
+Viel tausend Krieger, kampfbereit,
+Der Alte sprach mit Vergnuegen:
+
+"Hier muessen wir leiser reden und gehn,
+Damit wir nicht wecken die Leute;
+Wieder verflossen sind hundert Jahr',
+Und Loehnungstag ist heute."
+
+Und siehe! der Kaiser nahte sich sacht
+Den schlafenden Soldaten,
+Und steckte heimlich in die Tasch'
+Jedwedem einen Dukaten.
+
+Er sprach mit schmunzelndem Gesicht,
+Als ich ihn ansah verwundert:
+"Ich zahle einen Dukaten per Mann,
+Als Sold, nach jedem Jahrhundert."
+
+Im Saale, wo die Pferde stehn
+In langen, schweigenden Reihen,
+Da rieb der Kaiser sich die Haend',
+Schien sonderbar sich zu freuen.
+
+Er zaehlte die Gaeule, Stueck vor Stueck,
+Und klaetschelte ihnen die Rippen;
+Er zaehlte und zaehlte, mit aengstlicher Hast
+Bewegten sich seine Lippen.
+
+"Das ist noch nicht die rechte Zahl" -
+Sprach er zuletzt verdrossen -,
+"Soldaten und Waffen hab ich genung,
+Doch fehlt es noch an Rossen.
+
+Rosskaemme hab ich ausgeschickt
+In alle Welt, die kaufen
+Fuer mich die besten Pferde ein,
+Hab schon einen guten Haufen.
+
+Ich warte, bis die Zahl komplett,
+Dann schlag ich los und befreie
+Mein Vaterland, mein deutsches Volk,
+Das meiner harret mit Treue."
+
+So sprach der Kaiser, ich aber rief:
+"Schlag los, du alter Geselle,
+Schlag los, und hast du nicht Pferde genug,
+Nimm Esel an ihrer Stelle."
+
+Der Rotbart erwiderte laechelnd: "Es hat
+Mit dem Schlagen gar keine Eile,
+Man baute nicht Rom an einem Tag,
+Gut Ding will haben Weile.
+
+Wer heute nicht kommt, kommt morgen gewiss,
+Nur langsam waechst die Eiche,
+Und chi va piano, va sano, so heisst
+Das Spruechwort im roemischen Reiche."
+
+
+
+CAPUT XVI
+
+Das Stossen des Wagens weckte mich auf,
+Doch sanken die Augenlider
+Bald wieder zu, und ich entschlief
+Und traeumte vom Rotbart wieder.
+
+Ging wieder schwatzend mit ihm herum
+Durch alle die hallenden Saele;
+Er frug mich dies, er frug mich das,
+Verlangte, dass ich erzaehle.
+
+Er hatte aus der Oberwelt
+Seit vielen, vielen Jahren,
+Wohl seit dem Siebenjaehrigen Krieg,
+Kein Sterbenswort erfahren.
+
+Er frug nach Moses Mendelssohn,
+Nach der Karschin, mit Intresse
+Frug er nach der Graefin Dubarry,
+Des fuenfzehnten Ludwigs Maetresse.
+
+"O Kaiser", rief ich, "wie bist du zurueck!
+Der Moses ist laengst gestorben,
+Nebst seiner Rebekka, auch Abraham,
+Der Sohn, ist gestorben, verdorben.
+
+Der Abraham hatte mit Lea erzeugt
+Ein Buebchen, Felix heisst er,
+Der brachte es weit im Christentum,
+Ist schon Kapellenmeister.
+
+Die alte Karschin ist gleichfalls tot,
+Auch die Tochter ist tot, die Klencke;
+Helmine Chezy, die Enkelin,
+Ist noch am Leben, ich denke.
+
+Die Dubarry lebte lustig und flott,
+Solange Ludwig regierte,
+Der Fuenfzehnte naemlich, sie war schon alt,
+Als man sie guillotinierte.
+
+Der Koenig Ludwig der Fuenfzehnte starb
+Ganz ruhig in seinem Bette,
+Der Sechzehnte aber ward guillotiniert
+Mit der Koenigin Antoinette.
+
+Die Koenigin zeigte grossen Mut,
+Ganz wie es sich gebuehrte,
+Die Dubarry aber weinte und schrie,
+Als man sie guillotinierte." - -
+
+Der Kaiser blieb ploetzlich stillestehn,
+Und sah mich an mit den stieren
+Augen und sprach: "Um Gottes will'n,
+Was ist das, guillotinieren!"
+
+"Das Guillotinieren" - erklaerte ich ihm -
+"Ist eine neue Methode,
+Womit man die Leute jeglichen Stands
+Vom Leben bringt zu Tode.
+
+Bei dieser Methode bedient man sich
+Auch einer neuen Maschine,
+Die hat erfunden Herr Guillotin,
+Drum nennt man sie Guillotine.
+
+Du wirst hier an ein Brett geschnallt; -
+Das senkt sich; - du wirst geschoben
+Geschwinde zwischen zwei Pfosten; - es haengt
+Ein dreieckig Beil ganz oben; -
+
+Man zieht eine Schnur, dann schiesst herab
+Das Beil, ganz lustig und munter; -
+Bei dieser Gelegenheit faellt dein Kopf
+In einen Sack hinunter."
+
+Der Kaiser fiel mir in die Red':
+"Schweig still, von deiner Maschine
+Will ich nichts wissen, Gott bewahr',
+Dass ich mich ihrer bediene!
+
+Der Koenig und die Koenigin!
+Geschnallt! an einem Brette!
+Das ist ja gegen allen Respekt
+Und alle Etikette!
+
+Und du, wer bist du, dass du es wagst,
+Mich so vertraulich zu duzen?
+Warte, du Buerschchen, ich werde dir schon
+Die kecken Fluegel stutzen!
+
+Es regt mir die innerste Galle auf,
+Wenn ich dich hoere sprechen,
+Dein Odem schon ist Hochverrat
+Und Majestaetsverbrechen!"
+
+Als solchermassen in Eifer geriet
+Der Alte und sonder Schranken
+Und Schonung mich anschnob, da platzten heraus
+Auch mir die geheimsten Gedanken.
+
+"Herr Rotbart" - rief ich laut -, "du bist
+Ein altes Fabelwesen,
+Geh, leg dich schlafen, wir werden uns
+Auch ohne dich erloesen.
+
+Die Republikaner lachen uns aus,
+Sehn sie an unserer Spitze
+So ein Gespenst mit Zepter und Kron';
+Sie rissen schlechte Witze.
+
+Auch deine Fahne gefaellt mir nicht mehr,
+Die altdeutschen Narren verdarben
+Mir schon in der Burschenschaft die Lust
+An den schwarzrotgoldnen Farben.
+
+Das beste waere, du bliebest zu Haus,
+Hier in dem alten Kyffhaeuser -
+Bedenk ich die Sache ganz genau,
+So brauchen wir gar keinen Kaiser."
+
+
+
+CAPUT XVII
+
+Ich habe mich mit dem Kaiser gezankt
+Im Traum, im Traum versteht sich -
+Im wachenden Zustand sprechen wir nicht
+Mit Fuersten so widersetzig.
+
+Nur traeumend, im idealen Traum,
+Wagt ihnen der Deutsche zu sagen
+Die deutsche Meinung, die er so tief
+Im treuen Herzen getragen.
+
+Als ich erwacht', fuhr ich einem Wald
+Vorbei, der Anblick der Baeume,
+Der nackten hoelzernen Wirklichkeit,
+Verscheuchte meine Traeume.
+
+Die Eichen schuettelten ernsthaft das Haupt,
+Die Birken und Birkenreiser,
+Sie nickten so warnend - und ich rief:
+"Vergib mir, mein teurer Kaiser!
+
+Vergib mir, o Rotbart, das rasche Wort!
+Ich weiss, du bist viel weiser
+Als ich, ich habe sowenig Geduld -
+Doch komme du bald, mein Kaiser!
+
+Behagt dir das Guillotinieren nicht,
+So bleib bei den alten Mitteln:
+Das Schwert fuer Edelleute, der Strick
+Fuer Buerger und Bauern in Kitteln.
+
+Nur manchmal wechsle ab, und lass
+Den Adel haengen, und koepfe
+Ein bisschen die Buerger und Bauern, wir sind
+Ja alle Gottesgeschoepfe.
+
+Stell wieder her das Halsgericht,
+Das peinliche Karls des Fuenften,
+Und teile wieder ein das Volk
+Nach Staenden, Gilden und Zuenften.
+
+Das alte Heilige Roemische Reich,
+Stell's wieder her, das ganze,
+Gib uns den modrigsten Plunder zurueck
+Mit allem Firlifanze.
+
+Das Mittelalter, immerhin,
+Das wahre, wie es gewesen,
+Ich will es ertragen - erloese uns nur
+Von jenem Zwitterwesen,
+
+Von jenem Kamaschenrittertum,
+Das ekelhaft ein Gemisch ist
+Von gotischem Wahn und modernem Lug,
+Das weder Fleisch noch Fisch ist.
+
+Jag fort das Komoediantenpack,
+Und schliesse die Schauspielhaeuser,
+Wo man die Vorzeit parodiert -
+Komme du bald, o Kaiser!"
+
+
+
+CAPUT XVIII
+
+Minden ist eine feste Burg,
+Hat gute Wehr und Waffen!
+Mit preussischen Festungen hab ich jedoch
+Nicht gerne was zu schaffen.
+
+Wir kamen dort an zur Abendzeit.
+Die Planken der Zugbrueck' stoehnten
+So schaurig, als wir hinuebergerollt;
+Die dunklen Graeben gaehnten.
+
+Die hohen Bastionen schauten mich an,
+So drohend und verdrossen;
+Das grosse Tor ging rasselnd auf,
+Ward rasselnd wieder geschlossen.
+
+Ach! meine Seele ward betruebt,
+Wie des Odysseus Seele,
+Als er gehoert, dass Polyphem
+Den Felsblock schob vor die Hoehle.
+
+Es trat an den Wagen ein Korporal
+Und frug uns: wie wir hiessen?
+"Ich heisse Niemand, bin Augenarzt
+Und steche den Star den Riesen."
+
+Im Wirtshaus ward mir noch schlimmer zumut,
+Das Essen wollt mir nicht schmecken.
+Ging schlafen sogleich, doch schlief ich nicht,
+Mich drueckten so schwer die Decken.
+
+Es war ein breites Federbett,
+Gardinen von rotem Damaste,
+Der Himmel von verblichenem Gold,
+Mit einem schmutzigen Quaste.
+
+Verfluchter Quast! der die ganze Nacht
+Die liebe Ruhe mir raubte!
+Er hing mir, wie des Damokles Schwert,
+So drohend ueber dem Haupte!
+
+Schien manchmal ein Schlangenkopf zu sein,
+Und ich hoerte ihn heimlich zischen:
+"Du bist und bleibst in der Festung jetzt,
+Du kannst nicht mehr entwischen!"
+
+"Oh, dass ich waere" - seufzte ich -,
+"Dass ich zu Hause waere,
+Bei meiner lieben Frau in Paris,
+Im Faubourg Poissonniere!"
+
+Ich fuehlte, wie ueber die Stirne mir
+Auch manchmal etwas gestrichen,
+Gleich einer kalten Zensorhand,
+Und meine Gedanken wichen -
+
+Gendarmen in Leichenlaken gehuellt,
+Ein weisses Spukgewirre,
+Umringten mein Bett, ich hoerte auch
+Unheimliches Kettengeklirre.
+
+Ach! Die Gespenster schleppten mich fort,
+Und ich hab mich endlich befunden
+An einer steilen Felsenwand;
+Dort war ich festgebunden.
+
+Der boese schmutzige Betthimmelquast!
+Ich fand ihn gleichfalls wieder,
+Doch sah er jetzt wie ein Geier aus,
+Mit Krallen und schwarzem Gefieder.
+
+Er glich dem preussischen Adler jetzt,
+Und hielt meinen Leib umklammert;
+Er frass mir die Leber aus der Brust,
+Ich habe gestoehnt und gejammert.
+
+Ich jammerte lange - da kraehte der Hahn,
+Und der Fiebertraum erblasste.
+Ich lag zu Minden im schwitzenden Bett,
+Der Adler ward wieder zum Quaste.
+
+Ich reiste fort mit Extrapost,
+Und schoepfte freien Odem
+Erst draussen in der freien Natur,
+Auf bueckeburg'schem Boden.
+
+
+
+CAPUT XIX
+
+Oh, Danton, du hast dich sehr geirrt
+Und musstest den Irrtum buessen!
+Mitnehmen kann man das Vaterland
+An den Sohlen, an den Fuessen.
+
+Das halbe Fuerstentum Bueckeburg
+Blieb mir an den Stiefeln kleben;
+So lehmichte Wege habe ich wohl
+Noch nie gesehen im Leben.
+
+Zu Bueckeburg stieg ich ab in der Stadt,
+Um dort zu betrachten die Stammburg,
+Wo mein Grossvater geboren ward;
+Die Grossmutter war aus Hamburg.
+
+Ich kam nach Hannover um Mittagzeit,
+Und liess mir die Stiefel putzen.
+Ich ging sogleich, die Stadt zu besehn,
+Ich reise gern mit Nutzen.
+
+Mein Gott! da sieht es sauber aus!
+Der Kot liegt nicht auf den Gassen.
+Viel Prachtgebaeude sah ich dort,
+Sehr imponierende Massen.
+
+Besonders gefiel mir ein grosser Platz,
+Umgeben von stattlichen Haeusern;
+Dort wohnt der Koenig, dort steht sein Palast,
+Er ist von schoenem Aeussern
+
+(Naemlich der Palast). Vor dem Portal
+Zu jeder Seite ein Schildhaus.
+Rotroecke mit Flinten halten dort Wacht,
+Sie sehen drohend und wild aus.
+
+Mein Cicerone sprach: "Hier wohnt
+Der Ernst Augustus, ein alter,
+Hochtoryscher Lord, ein Edelmann,
+Sehr ruestig fuer sein Alter.
+
+Idyllisch sicher haust er hier,
+Denn besser als alle Trabanten
+Beschuetzet ihn der mangelnde Mut
+Von unseren lieben Bekannten.
+
+Ich seh ihn zuweilen, er klagt alsdann,
+Wie gar langweilig das Amt sei,
+Das Koenigsamt, wozu er jetzt
+Hier in Hannover verdammt sei.
+
+An grossbritannisches Leben gewoehnt,
+Sei es ihm hier zu enge,
+Ihn plage der Spleen, er fuerchte schier,
+Dass er sich mal erhaenge.
+
+Vorgestern fand ich ihn traurig gebueckt
+Am Kamin, in der Morgenstunde;
+Er kochte hoechstselbst ein Lavement
+Fuer seine kranken Hunde."
+
+
+
+CAPUT XX
+
+Von Harburg fuhr ich in einer Stund'
+Nach Hamburg. Es war schon Abend.
+Die Sterne am Himmel gruessten mich,
+Die Luft war lind und labend.
+
+Und als ich zu meiner Frau Mutter kam,
+Erschrak sie fast vor Freude;
+Sie rief: "Mein liebes Kind!" und schlug
+Zusammen die Haende beide.
+
+"Mein liebes Kind, wohl dreizehn Jahr'
+Verflossen unterdessen!
+Du wirst gewiss sehr hungrig sein -
+Sag an, was willst du essen?
+
+Ich habe Fisch und Gaensefleisch
+Und schoene Apfelsinen."
+"So gib mir Fisch und Gaensefleisch
+Und schoene Apfelsinen."
+
+Und als ich ass mit grossem App'tit,
+Die Mutter ward gluecklich und munter,
+Sie frug wohl dies, sie frug wohl das,
+Verfaengliche Fragen mitunter.
+
+"Mein liebes Kind! und wirst du auch
+Recht sorgsam gepflegt in der Fremde?
+Versteht deine Frau die Haushaltung,
+Und flickt sie dir Struempfe und Hemde?"
+
+"Der Fisch ist gut, lieb Muetterlein,
+Doch muss man ihn schweigend verzehren;
+Man kriegt so leicht eine Graet' in den Hals,
+Du darfst mich jetzt nicht stoeren."
+
+Und als ich den braven Fisch verzehrt,
+Die Gans ward aufgetragen.
+Die Mutter frug wieder wohl dies, wohl das,
+Mitunter verfaengliche Fragen.
+
+"Mein liebes Kind! in welchem Land
+Laesst sich am besten leben?
+Hier oder in Frankreich? und welchem Volk
+Wirst du den Vorzug geben?"
+
+"Die deutsche Gans, lieb Muetterlein,
+Ist gut, jedoch die Franzosen,
+Sie stopfen die Gaense besser als wir,
+Auch haben sie bessere Saucen." -
+
+Und als die Gans sich wieder empfahl,
+Da machten ihre Aufwartung
+Die Apfelsinen, sie schmeckten so suess,
+Ganz ueber alle Erwartung.
+
+Die Mutter aber fing wieder an
+Zu fragen sehr vergnueglich,
+Nach tausend Dingen, mitunter sogar
+Nach Dingen, die sehr anzueglich.
+
+"Mein liebes Kind! Wie denkst du jetzt?
+Treibst du noch immer aus Neigung
+Die Politik? Zu welcher Partei
+Gehoerst du mit Ueberzeugung?"
+
+"Die Apfelsinen, lieb Muetterlein,
+Sind gut, und mit wahrem Vergnuegen
+Verschlucke ich den suessen Saft,
+Und ich lasse die Schalen liegen."
+
+
+
+CAPUT XXI
+
+Die Stadt, zur Haelfte abgebrannt,
+Wird aufgebaut allmaehlich;
+Wie 'n Pudel, der halb geschoren ist,
+Sieht Hamburg aus, truebselig.
+
+Gar manche Gassen fehlen mir,
+Die ich nur ungern vermisse -
+Wo ist das Haus, wo ich gekuesst
+Der Liebe erste Kuesse?
+
+Wo ist die Druckerei, wo ich
+Die "Reisebilder" druckte?
+Wo ist der Austerkeller, wo ich
+Die ersten Austern schluckte?
+
+Und der Dreckwall, wo ist der Dreckwall hin?
+Ich kann ihn vergeblich suchen!
+Wo ist der Pavillon, wo ich
+Gegessen so manchen Kuchen?
+
+Wo ist das Rathaus, worin der Senat
+Und die Buergerschaft gethronet?
+Ein Raub der Flammen! Die Flamme hat
+Das Heiligste nicht verschonet.
+
+Die Leute seufzten noch vor Angst,
+Und mit wehmuet'gem Gesichte
+Erzaehlten sie mir vom grossen Brand
+Die schreckliche Geschichte:
+
+"Es brannte an allen Ecken zugleich,
+Man sah nur Rauch und Flammen!
+Die Kirchentuerme loderten auf
+Und stuerzten krachend zusammen.
+
+Die alte Boerse ist verbrannt,
+Wo unsere Vaeter gewandelt,
+Und miteinander jahrhundertelang
+So redlich als moeglich gehandelt.
+
+Die Bank, die silberne Seele der Stadt,
+Und die Buecher, wo eingeschrieben
+Jedweden Mannes Banko-Wert,
+Gottlob! sie sind uns geblieben!
+
+Gottlob! man kollektierte fuer uns
+Selbst bei den fernsten Nationen -
+Ein gutes Geschaeft - die Kollekte betrug
+Wohl an die acht Millionen.
+
+Aus allen Laendern floss das Geld
+In unsre offnen Haende,
+Auch Viktualien nahmen wir an,
+Verschmaehten keine Spende.
+
+Man schickte uns Kleider und Betten genug,
+Auch Brot und Fleisch und Suppen!
+Der Koenig von Preussen wollte sogar
+Uns schicken seine Truppen.
+
+Der materielle Schaden ward
+Verguetet, das liess sich schaetzen -
+Jedoch den Schrecken, unseren Schreck,
+Den kann uns niemand ersetzen!"
+
+Aufmunternd sprach ich: "Ihr lieben Leut',
+Ihr muesst nicht jammern und flennen;
+Troja war eine bessere Stadt
+Und musste doch verbrennen.
+
+Baut eure Haeuser wieder auf
+Und trocknet eure Pfuetzen,
+Und schafft euch bessre Gesetze an
+Und bessre Feuerspritzen.
+
+Giesst nicht zuviel Cayenne-Piment
+In eure Mockturtlesuppen,
+Auch eure Karpfen sind euch nicht gesund,
+Ihr kocht sie so fett mit den Schuppen.
+
+Kalkuten schaden euch nicht viel,
+Doch huetet euch vor der Tuecke
+Des Vogels, der sein Ei gelegt
+In des Buergermeisters Peruecke. - -
+
+Wer dieser fatale Vogel ist,
+Ich brauch es euch nicht zu sagen -
+Denk ich an ihn, so dreht sich herum
+Das Essen in meinem Magen."
+
+
+
+CAPUT XXII
+
+Noch mehr veraendert als die Stadt
+Sind mir die Menschen erschienen,
+Sie gehn so betruebt und gebrochen herum,
+Wie wandelnde Ruinen.
+
+Die Mageren sind noch duenner jetzt,
+Noch fetter sind die Feisten,
+Die Kinder sind alt, die Alten sind
+Kindisch geworden, die meisten.
+
+Gar manche, die ich als Kaelber verliess,
+Fand ich als Ochsen wieder;
+Gar manches kleine Gaenschen ward
+Zur Gans mit stolzem Gefieder.
+
+Die alte Gudel fand ich geschminkt
+Und geputzt wie eine Sirene;
+Hat schwarze Locken sich angeschafft
+Und blendendweisse Zaehne.
+
+Am besten hat sich konserviert
+Mein Freund, der Papierverkaeufer;
+Sein Haar ward gelb und umwallt sein Haupt,
+Sieht aus wie Johannes der Taeufer.
+
+Den ***, den sah ich nur von fern,
+Er huschte mir rasch vorueber;
+Ich hoere, sein Geist ist abgebrannt
+Und war versichert bei Bieber.
+
+Auch meinen alten Zensor sah
+Ich wieder. Im Nebel, gebuecket,
+Begegnet' er mir auf dem Gaensemarkt,
+Schien sehr darniedergedruecket.
+
+Wir schuettelten uns die Haende, es schwamm
+Im Auge des Manns eine Traene.
+Wie freute er sich, mich wiederzusehn!
+Es war eine ruehrende Szene. -
+
+Nicht alle fand ich. Mancher hat
+Das Zeitliche gesegnet.
+Ach! meinem Gumpelino sogar
+Bin ich nicht mehr begegnet.
+
+Der Edle hatte ausgehaucht
+Die grosse Seele soeben,
+Und wird als verklaerter Seraph jetzt
+Am Throne Jehovas schweben.
+
+Vergebens suchte ich ueberall
+Den krummen Adonis, der Tassen
+Und Nachtgeschirr von Porzellan
+Feilbot in Hamburgs Gassen.
+
+Sarras, der treue Pudel, ist tot.
+Ein grosser Verlust! Ich wette,
+Dass Campe lieber ein ganzes Schock
+Schriftsteller verloren haette. - -
+
+Die Population des Hamburger Staats
+Besteht, seit Menschengedenken,
+Aus Juden und Christen; es pflegen auch
+Die letztren nicht viel zu verschenken.
+
+Die Christen sind alle ziemlich gut,
+Auch essen sie gut zu Mittag,
+Und ihre Wechsel bezahlen sie prompt,
+Noch vor dem letzten Respittag.
+
+Die Juden teilen sich wieder ein
+In zwei verschiedne Parteien;
+Die Alten gehn in die Synagog',
+Und in den Tempel die Neuen.
+
+Die Neuen essen Schweinefleisch,
+Zeigen sich widersetzig,
+Sind Demokraten; die Alten sind
+Vielmehr aristokraetzig.
+
+Ich liebe die Alten, ich liebe die Neu'n -
+Doch schwoer ich, beim ewigen Gotte,
+Ich liebe gewisse Fischchen noch mehr,
+Man heisst sie geraeucherte Sprotte.
+
+
+
+CAPUT XXIII
+
+Als Republik war Hamburg nie
+So gross wie Venedig und Florenz,
+Doch Hamburg hat bessere Austern; man speist
+Die besten im Keller von Lorenz.
+
+Es war ein schoener Abend, als ich
+Mich hinbegab mit Campen;
+Wir wollten miteinander dort
+In Rheinwein und Austern schlampampen.
+
+Auch gute Gesellschaft fand ich dort,
+Mit Freude sah ich wieder
+Manch alten Genossen, zum Beispiel Chaufepie,
+Auch manche neue Brueder.
+
+Da war der Wille, dessen Gesicht
+Ein Stammbuch, worin mit Hieben
+Die akademischen Feinde sich
+Recht leserlich eingeschrieben.
+
+Da war der Fucks, ein blinder Heid'
+Und persoenlicher Feind des Jehova,
+Glaubt nur an Hegel und etwa noch
+An die Venus des Canova.
+
+Mein Campe war Amphitryo
+Und laechelte vor Wonne;
+Sein Auge strahlte Seligkeit,
+Wie eine verklaerte Madonne.
+
+Ich ass und trank, mit gutem App'tit,
+Und dachte in meinem Gemuete:
+'Der Campe ist wirklich ein grosser Mann,
+Ist aller Verleger Bluete.
+
+Ein andrer Verleger haette mich
+Vielleicht verhungern lassen,
+Der aber gibt mir zu trinken sogar;
+Werde ihn niemals verlassen.
+
+Ich danke dem Schoepfer in der Hoeh',
+Der diesen Saft der Reben
+Erschuf, und zum Verleger mir
+Den Julius Campe gegeben!
+
+Ich danke dem Schoepfer in der Hoeh',
+Der, durch sein grosses Werde,
+Die Austern erschaffen in der See
+Und den Rheinwein auf der Erde!
+
+Der auch Zitronen wachsen liess,
+Die Austern zu betauen -
+Nun lass mich, Vater, diese Nacht
+Das Essen gut verdauen!'
+
+Der Rheinwein stimmt mich immer weich
+Und loest jedwedes Zerwuerfnis
+In meiner Brust, entzuendet darin
+Der Menschenliebe Beduerfnis.
+
+Es treibt mich aus dem Zimmer hinaus,
+Ich muss in den Strassen schlendern;
+Die Seele sucht eine Seele und spaeht
+Nach zaertlich weissen Gewaendern.
+
+In solchen Momenten zerfliesse ich fast
+Vor Wehmut und vor Sehnen;
+Die Katzen scheinen mir alle grau,
+Die Weiber alle Helenen. - - -
+
+Und als ich auf die Drehbahn kam,
+Da sah ich im Mondenschimmer
+Ein hehres Weib, ein wunderbar
+Hochbusiges Frauenzimmer.
+
+Ihr Antlitz war rund und kerngesund,
+Die Augen wie blaue Turkoasen,
+Die Wangen wie Rosen, wie Kirschen der Mund,
+Auch etwas roetlich die Nase.
+
+Ihr Haupt bedeckte eine Muetz'
+Von weissem gesteiftem Linnen,
+Gefaeltelt wie eine Mauerkron',
+Mit Tuermchen und zackigen Zinnen.
+
+Sie trug eine weisse Tunika,
+Bis an die Waden reichend.
+Und welche Waden! Das Fussgestell
+Zwei dorischen Saeulen gleichend.
+
+Die weltlichste Natuerlichkeit
+Konnt man in den Zuegen lesen;
+Doch das uebermenschliche Hinterteil
+Verriet ein hoeheres Wesen.
+
+Sie trat zu mir heran und sprach:
+"Willkommen an der Elbe
+Nach dreizehnjaehr'ger Abwesenheit -
+Ich sehe, du bist noch derselbe!
+
+Du suchst die schoenen Seelen vielleicht,
+Die dir so oft begegnet
+Und mit dir geschwaermt die Nacht hindurch,
+In dieser schoenen Gegend.
+
+Das Leben verschlang sie, das Ungetuem,
+Die hundertkoepfige Hyder;
+Du findest nicht die alte Zeit
+Und die Zeitgenoessinnen wieder!
+
+Du findest die holden Blumen nicht mehr,
+Die das junge Herz vergoettert;
+Hier bluehten sie - jetzt sind sie verwelkt,
+Und der Sturm hat sie entblaettert.
+
+Verwelkt, entblaettert, zertreten sogar
+Von rohen Schicksalsfuessen -
+Mein Freund, das ist auf Erden das Los
+Von allem Schoenen und Suessen!"
+
+"Wer bist du?" - rief ich -, "du schaust mich an
+Wie'n Traum aus alten Zeiten -
+Wo wohnst du, grosses Frauenbild?
+Und darf ich dich begleiten?"
+
+Da laechelte das Weib und sprach:
+"Du irrst dich, ich bin eine feine,
+Anstaend'ge, moralische Person;
+Du irrst dich, ich bin nicht so eine.
+
+Ich bin nicht so eine kleine Mamsell,
+So eine welsche Lorettin -
+Denn wisse: ich bin Hammonia,
+Hamburgs beschuetzende Goettin!
+
+Du stutzest und erschreckst sogar,
+Du sonst so mutiger Saenger!
+Willst du mich noch begleiten jetzt?
+Wohlan, so zoegre nicht laenger."
+
+Ich aber lachte laut und rief:
+"Ich folge auf der Stelle -
+Schreit du voran, ich folge dir,
+Und ging' es in die Hoelle!"
+
+
+
+CAPUT XXIV
+
+Wie ich die enge Sahltrepp' hinauf-
+Gekommen, ich kann es nicht sagen;
+Es haben unsichtbare Geister mich
+Vielleicht hinaufgetragen.
+
+Hier, in Hammonias Kaemmerlein,
+Verflossen mir schnell die Stunden.
+Die Goettin gestand die Sympathie,
+Die sie immer fuer mich empfunden.
+
+"Siehst du" - sprach sie -, "in frueherer Zeit
+War mir am meisten teuer
+Der Saenger, der den Messias besang
+Auf seiner frommen Leier.
+
+Dort auf der Kommode steht noch jetzt
+Die Bueste von meinem Klopstock,
+Jedoch seit Jahren dient sie mir
+Nur noch als Haubenkopfstock.
+
+Du bist mein Liebling jetzt, es haengt
+Dein Bildnis zu Haeupten des Bettes;
+Und, siehst du, ein frischer Lorbeer umkraenzt
+Den Rahmen des holden Portraetes.
+
+Nur dass du meine Soehne so oft
+Genergelt, ich muss es gestehen,
+Hat mich zuweilen tief verletzt;
+Das darf nicht mehr geschehen.
+
+Es hat die Zeit dich hoffentlich
+Von solcher Unart geheilet,
+Und dir eine groessere Toleranz
+Sogar fuer Narren erteilet.
+
+Doch sprich, wie kam der Gedanke dir,
+Zu reisen nach dem Norden
+In solcher Jahreszeit? Das Wetter ist
+Schon winterlich geworden!"
+
+"Oh, meine Goettin!" - erwiderte ich -,
+"Es schlafen tief im Grunde
+Des Menschenherzens Gedanken, die oft
+Erwachen zur unrechten Stunde.
+
+Es ging mir aeusserlich ziemlich gut,
+Doch innerlich war ich beklommen,
+Und die Beklemmnis taeglich wuchs -
+Ich hatte das Heimweh bekommen.
+
+Die sonst so leichte franzoesische Luft,
+Sie fing mich an zu druecken;
+Ich musste Atem schoepfen hier
+In Deutschland, um nicht zu ersticken.
+
+Ich sehnte mich nach Torfgeruch,
+Nach deutschem Tabaksdampfe;
+Es bebte mein Fuss vor Ungeduld,
+Dass er deutschen Boden stampfe.
+
+Ich seufzte des Nachts, und sehnte mich,
+Dass ich sie wiedersaehe,
+Die alte Frau, die am Dammtor wohnt;
+Das Lottchen wohnt in der Naehe.
+
+Auch jenem edlen alten Herrn,
+Der immer mich ausgescholten
+Und immer grossmuetig beschuetzt, auch ihm
+Hat mancher Seufzer gegolten.
+
+Ich wollte wieder aus seinem Mund
+Vernehmen den 'dummen Jungen',
+Das hat mir immer wie Musik
+Im Herzen nachgeklungen.
+
+Ich sehnte mich nach dem blauen Rauch,
+Der aufsteigt aus deutschen Schornsteinen,
+Nach niedersaechsischen Nachtigall'n,
+Nach stillen Buchenhainen. -
+
+Ich sehnte mich nach den Plaetzen sogar,
+Nach jenen Leidensstationen,
+Wo ich geschleppt das Jugendkreuz
+Und meine Dornenkronen.
+
+Ich wollte weinen, wo ich einst
+Geweint die bittersten Traenen -
+Ich glaube, Vaterlandsliebe nennt
+Man dieses toerichte Sehnen.
+
+Ich spreche nicht gern davon; es ist
+Nur eine Krankheit im Grunde.
+Verschaemten Gemuetes, verberge ich stets
+Dem Publiko meine Wunde.
+
+Fatal ist mir das Lumpenpack,
+Das, um die Herzen zu ruehren,
+Den Patriotismus traegt zur Schau
+Mit allen seinen Geschwueren.
+
+Schamlose schaebige Bettler sind's,
+Almosen wollen sie haben -
+Ein'n Pfennig Popularitaet
+Fuer Menzel und seine Schwaben!
+
+Oh, meine Goettin, du hast mich heut
+In weicher Stimmung gefunden;
+Bin etwas krank, doch pfleg ich mich,
+Und ich werde bald gesunden.
+
+Ja, ich bin krank, und du koenntest mir
+Die Seele sehr erfrischen
+Durch eine gute Tasse Tee;
+Du musst ihn mit Rum vermischen."
+
+
+
+CAPUT XXV
+
+Die Goettin hat mir Tee gekocht
+Und Rum hineingegossen;
+Sie selber aber hat den Rum
+Ganz ohne Tee genossen.
+
+An meine Schulter lehnte sie
+Ihr Haupt (die Mauerkrone,
+Die Muetze, ward etwas zerknittert davon),
+Und sie sprach mit sanftem Tone:
+
+"Ich dachte manchmal mit Schrecken dran,
+Dass du in dem sittenlosen
+Paris so ganz ohne Aufsicht lebst,
+Bei jenen frivolen Franzosen.
+
+Du schlenderst dort herum und hast
+Nicht mal an deiner Seite
+Einen treuen deutschen Verleger, der dich
+Als Mentor warne und leite.
+
+Und die Verfuehrung ist dort so gross,
+Dort gibt es viele Sylphiden,
+Die ungesund, und gar zu leicht
+Verliert man den Seelenfrieden.
+
+Geh nicht zurueck und bleib bei uns;
+Hier herrschen noch Zucht und Sitte,
+Und manches stille Vergnuegen blueht
+Auch hier, in unserer Mitte.
+
+Bleib bei uns in Deutschland, es wird dir hier
+Jetzt besser als ehmals munden;
+Wir schreiten fort, du hast gewiss
+Den Fortschritt selbst gefunden.
+
+Auch die Zensur ist nicht mehr streng,
+Hoffmann wird aelter und milder
+Und streicht nicht mehr mit Jugendzorn
+Dir deine 'Reisebilder'.
+
+Du selbst bist aelter und milder jetzt,
+Wirst dich in manches schicken,
+Und wirst sogar die Vergangenheit
+In besserem Lichte erblicken.
+
+Ja, dass es uns frueher so schrecklich ging,
+In Deutschland, ist Uebertreibung;
+Man konnte entrinnen der Knechtschaft, wie einst
+In Rom, durch Selbstentleibung.
+
+Gedankenfreiheit genoss das Volk,
+Sie war fuer die grossen Massen,
+Beschraenkung traf nur die g'ringe Zahl
+Derjen'gen, die drucken lassen.
+
+Gesetzlose Willkuer herrschte nie,
+Dem schlimmsten Demagogen
+Ward niemals ohne Urteilspruch
+Die Staatskokarde entzogen.
+
+So uebel war es in Deutschland nie,
+Trotz aller Zeitbedraengnis -
+Glaub mir, verhungert ist nie ein Mensch
+In einem deutschen Gefaengnis.
+
+Es bluehte in der Vergangenheit
+So manche schoene Erscheinung
+Des Glaubens und der Gemuetlichkeit;
+Jetzt herrscht nur Zweifel, Verneinung.
+
+Die praktische aeussere Freiheit wird einst
+Das Ideal vertilgen,
+Das wir im Busen getragen - es war
+So rein wie der Traum der Liljen!
+
+Auch unsre schoene Poesie
+Erlischt, sie ist schon ein wenig
+Erloschen; mit andern Koenigen stirbt
+Auch Freiligraths Mohrenkoenig.
+
+Der Enkel wird essen und trinken genug,
+Doch nicht in beschaulicher Stille;
+Es poltert heran ein Spektakelstueck,
+Zu Ende geht die Idylle.
+
+Oh, koenntest du schweigen, ich wuerde dir
+Das Buch des Schicksals entsiegeln,
+Ich liesse dir spaetere Zeiten sehn
+In meinen Zauberspiegeln.
+
+Was ich den sterblichen Menschen nie
+Gezeigt, ich moecht es dir zeigen:
+Die Zukunft deines Vaterlands -
+Doch ach! du kannst nicht schweigen!"
+
+"Mein Gott, o Goettin!" - rief ich entzueckt -,
+"Das waere mein groesstes Vergnuegen,
+Lass mich das kuenftige Deutschland sehn -
+Ich bin ein Mann und verschwiegen.
+
+Ich will dir schwoeren jeden Eid,
+Den du nur magst begehren,
+Mein Schweigen zu verbuergen dir -
+Sag an, wie soll ich schwoeren?"
+
+Doch jene erwiderte: "Schwoere mir
+In Vater Abrahams Weise,
+Wie er Eliesern schwoeren liess,
+Als dieser sich gab auf die Reise.
+
+Heb auf das Gewand und lege die Hand
+Hier unten an meine Hueften,
+Und schwoere mir Verschwiegenheit
+In Reden und in Schriften!"
+
+Ein feierlicher Moment! Ich war
+Wie angeweht vom Hauche
+Der Vorzeit, als ich schwur den Eid,
+Nach uraltem Erzvaeterbrauche.
+
+Ich hob das Gewand der Goettin auf,
+Und legte an ihre Hueften
+Die Hand, gelobend Verschwiegenheit
+In Reden und in Schriften.
+
+
+
+CAPUT XXVI
+
+Die Wangen der Goettin gluehten so rot
+(Ich glaube, in die Krone
+Stieg ihr der Rum), und sie sprach zu mir
+In sehr wehmuetigem Tone:
+
+"Ich werde alt. Geboren bin ich
+Am Tage von Hamburgs Begruendung.
+Die Mutter war Schellfischkoenigin
+Hier an der Elbe Muendung.
+
+Mein Vater war ein grosser Monarch,
+Carolus Magnus geheissen,
+Er war noch maecht'ger und klueger sogar
+Als Friedrich der Grosse von Preussen.
+
+Der Stuhl ist zu Aachen, auf welchem er
+Am Tage der Kroenung ruhte;
+Den Stuhl, worauf er sass in der Nacht,
+Den erbte die Mutter, die gute.
+
+Die Mutter hinterliess ihn mir,
+Ein Moebel von scheinlosem Aeussern,
+Doch boete mir Rothschild all sein Geld,
+Ich wuerde ihn nicht veraeussern.
+
+Siehst du, dort in dem Winkel steht
+Ein alter Sessel, zerrissen
+Das Leder der Lehne, von Mottenfrass
+Zernagt das Polsterkissen.
+
+Doch gehe hin und hebe auf
+Das Kissen von dem Sessel,
+Du schaust eine runde Oeffnung dann,
+Darunter einen Kessel -
+
+Das ist ein Zauberkessel, worin
+Die magischen Kraefte brauen,
+Und steckst du in die Ruendung den Kopf,
+So wirst du die Zukunft schauen -
+
+Die Zukunft Deutschlands erblickst du hier,
+Gleich wogenden Phantasmen,
+Doch schaudre nicht, wenn aus dem Wust
+Aufsteigen die Miasmen!"
+
+Sie sprach's und lachte sonderbar,
+Ich aber liess mich nicht schrecken,
+Neugierig eilte ich, den Kopf
+In die furchtbare Ruendung zu stecken.
+
+Was ich gesehn, verrate ich nicht,
+Ich habe zu schweigen versprochen,
+Erlaubt ist mir zu sagen kaum,
+O Gott! was ich gerochen! - - -
+
+Ich denke mit Widerwillen noch
+An jene schnoeden, verfluchten
+Vorspielgerueche, das schien ein Gemisch
+Von altem Kohl und Juchten.
+
+Entsetzlich waren die Duefte, o Gott!
+Die sich nachher erhuben;
+Es war, als fegte man den Mist
+Aus sechsunddreissig Gruben. - - -
+
+Ich weiss wohl, was Saint-Just gesagt
+Weiland im Wohlfahrtsausschuss:
+Man heile die grosse Krankheit nicht
+Mit Rosenoel und Moschus -
+
+Doch dieser deutsche Zukunftsduft
+Mocht alles ueberragen,
+Was meine Nase je geahnt -
+Ich konnt es nicht laenger ertragen - - -
+
+Mir schwanden die Sinne, und als ich aufschlug
+Die Augen, sass ich an der Seite
+Der Goettin noch immer, es lehnte mein Haupt
+An ihre Brust, die breite.
+
+Es blitzte ihr Blick, es gluehte ihr Mund,
+Es zuckten die Nuestern der Nase,
+Bacchantisch umschlang sie den Dichter und sang
+Mit schauerlich wilder Ekstase:
+
+"Bleib bei mir in Hamburg, ich liebe dich,
+Wir wollen trinken und essen
+Den Wein und die Austern der Gegenwart,
+Und die dunkle Zukunft vergessen.
+
+Den Deckel darauf! damit uns nicht
+Der Missduft die Freude vertruebet -
+Ich liebe dich, wie je ein Weib
+Einen deutschen Poeten geliebet!
+
+Ich kuesse dich, und ich fuehle, wie mich
+Dein Genius begeistert;
+Es hat ein wunderbarer Rausch
+Sich meiner Seele bemeistert.
+
+Mir ist, als ob ich auf der Strass'
+Die Nachtwaechter singen hoerte -
+Es sind Hymenaeen, Hochzeitmusik,
+Mein suesser Lustgefaehrte!
+
+Jetzt kommen die reitenden Diener auch
+Mit ueppig lodernden Fackeln,
+Sie tanzen ehrbar den Fackeltanz,
+Sie springen und huepfen und wackeln.
+
+Es kommt der hoch- und wohlweise Senat,
+Es kommen die Oberalten;
+Der Buergermeister raeuspert sich
+Und will eine Rede halten.
+
+In glaenzender Uniform erscheint
+Das Korps der Diplomaten;
+Sie gratulieren mit Vorbehalt
+Im Namen der Nachbarstaaten.
+
+Es kommt die geistliche Deputation,
+Rabbiner und Pastoere -
+Doch ach! da kommt der Hoffmann auch
+Mit seiner Zensorschere!
+
+Die Schere klirrt in seiner Hand,
+Es rueckt der wilde Geselle
+Dir auf den Leib - er schneidet ins Fleisch -
+Es war die beste Stelle."
+
+
+
+CAPUT XXVII
+
+Was sich in jener Wundernacht
+Des weitern zugetragen,
+Erzaehl ich euch ein andermal,
+In warmen Sommertagen.
+
+Das alte Geschlecht der Heuchelei
+Verschwindet, Gott sei Dank, heut,
+Es sinkt allmaehlich ins Grab, es stirbt
+An seiner Luegenkrankheit.
+
+Es waechst heran ein neues Geschlecht,
+Ganz ohne Schminke und Suenden,
+Mit freien Gedanken, mit freier Lust -
+Dem werde ich alles verkuenden.
+
+Schon knospet die Jugend, welche versteht
+Des Dichters Stolz und Guete,
+Und sich an seinem Herzen waermt,
+An seinem Sonnengemuete.
+
+Mein Herz ist liebend wie das Licht,
+Und rein und keusch wie das Feuer;
+Die edelsten Grazien haben gestimmt
+Die Saiten meiner Leier.
+
+Es ist dieselbe Leier, die einst
+Mein Vater liess ertoenen,
+Der selige Herr Aristophanes,
+Der Liebling der Kamoenen.
+
+Es ist die Leier, worauf er einst
+Den Paisteteros besungen,
+Der um die Basileia gefreit,
+Mit ihr sich emporgeschwungen.
+
+Im letzten Kapitel hab ich versucht,
+Ein bisschen nachzuahmen
+Den Schluss der "Voegel", die sind gewiss
+Das beste von Vaters Dramen.
+
+Die "Froesche" sind auch vortrefflich. Man gibt
+In deutscher Uebersetzung
+Sie jetzt auf der Buehne von Berlin,
+Zu koeniglicher Ergetzung.
+
+Der Koenig liebt das Stueck. Das zeugt
+Von gutem antiken Geschmacke;
+Den Alten amuesierte weit mehr
+Modernes Froschgequake.
+
+Der Koenig liebt das Stueck. Jedoch
+Waer noch der Autor am Leben,
+Ich riete ihm nicht, sich in Person
+Nach Preussen zu begeben.
+
+Dem wirklichen Aristophanes,
+Dem ginge es schlecht, dem Armen;
+Wir wuerden ihn bald begleitet sehn
+Mit Choeren von Gendarmen.
+
+Der Poebel bekaem die Erlaubnis bald,
+Zu schimpfen statt zu wedeln;
+Die Polizei erhielte Befehl,
+Zu fahnden auf den Edeln.
+
+O Koenig! Ich meine es gut mit dir,
+Und will einen Rat dir geben:
+Die toten Dichter, verehre sie nur,
+Doch schone, die da leben.
+
+Beleid'ge lebendige Dichter nicht,
+Sie haben Flammen und Waffen,
+Die furchtbarer sind als Jovis Blitz,
+Den ja der Poet erschaffen.
+
+Beleid'ge die Goetter, die alten und neu'n,
+Des ganzen Olymps Gelichter,
+Und den hoechsten Jehova obendrein -
+Beleid'ge nur nicht den Dichter!
+
+Die Goetter bestrafen freilich sehr hart
+Des Menschen Missetaten,
+Das Hoellenfeuer ist ziemlich heiss,
+Dort muss man schmoren und braten -
+
+Doch Heilige gibt es, die aus der Glut
+Losbeten den Suender; durch Spenden
+An Kirchen und Seelenmessen wird
+Erworben ein hohes Verwenden.
+
+Und am Ende der Tage kommt Christus herab
+Und bricht die Pforten der Hoelle;
+Und haelt er auch ein strenges Gericht,
+Entschluepfen wird mancher Geselle.
+
+Doch gibt es Hoellen, aus deren Haft
+Unmoeglich jede Befreiung;
+Hier hilft kein Beten, ohnmaechtig ist hier
+Des Welterloesers Verzeihung.
+
+Kennst du die Hoelle des Dante nicht,
+Die schrecklichen Terzetten?
+Wen da der Dichter hineingesperrt,
+Den kann kein Gott mehr retten -
+
+Kein Gott, kein Heiland erloest ihn je
+Aus diesen singenden Flammen!
+Nimm dich in acht, dass wir dich nicht
+Zu solcher Hoelle verdammen.
+
+----------------------------------------------------------------------
+End of "Deutschland. Ein Wintermaerchen" by Heinrich Heine
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, DEUTSCHLAND. EIN WINTERMAERCHEN ***
+
+This file should be named 7wint10.txt or 7wint10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7wint11.txt
+VERSIONS based on separate sources get new LETTER, 7wint10a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

@@ -1,0 +1,4556 @@
+Project Gutenberg's Die unheilbringende Krone, by Ferdinand Raimund
+#7 in our series by Ferdinand Raimund
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Die unheilbringende Krone
+       (oder Koenig ohne Reich, Held ohne Mut, Schoenheit ohne Jugend)
+
+Author: Ferdinand Raimund
+
+Release Date: April, 2005 [EBook #7860]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 26, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK DIE UNHEILBRINGENDE KRONE ***
+
+
+
+
+Produced by Delphine Lettau and Mike Pullen
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Die unheilbringende Krone
+oder
+Koenig ohne Reich, Held ohne Mut, Schoenheit ohne Jugend
+
+Ferdinand Raimund
+
+Original-tragisch-komisches Zauberspiel in zwei Aufzuegen
+
+
+
+Personen
+Lucina, Schutzgoettin von Agrigent.
+Hades, Fuerst der Unterwelt.
+Thanatos, Genius des ewigen Schlafes.
+Lulu und Fanfu, Genien.
+Tisiphone, Megaera und Alecto, Furien.
+Kreon, Koenig von Agrigent.
+Phalarius, Feldherr.
+Antrogaeus, Unterfeldherr.
+Androkles und Clitonius, Hauptleute des Phalarius.
+Octavian, ein Landmann.
+Ein Jaeger von des Phalarius Gefolge.
+Simplizius Zitternadel, ein armer Dorfschneider.
+Ewald, ein Dichter.
+Riegelsam, ein Weinhaendler.
+Heraklius, Fuerst von Massana.
+Hermodius, sein erster Minister.
+Thestius, ein edler Massanier.
+Arete, seine Nichte.
+Adrasto, erster Diener des Tempels.
+Epaminondas, Hypomedon, Argos und Sillius, Massanier.
+Eine Frau von Massana.
+Ein Diener des Thestius.
+Dardonius, Fuerst von Kallidalos.
+Olimar, Astrachan, Abukar und Nimelot, Bewohner von Kallidalos.
+  Aloe.
+Atritia, ihre Nichte.
+Erster, Zweiter und Dritter Geist des Orkus.
+
+Genien.  Geister.  Erscheinungen.  Edle und Krieger
+von Agrigent.  Jagdgefolge.  Volk von Massana.
+Krieger.  Hoeflinge und Volk von Kallidalos.
+Priesterinnen im Venustempel.
+
+
+
+Erster Aufzug.
+
+Erste Szene.
+(Finsterer Wald.)
+
+Im Hintergrunde links ein gigantischer Fels, mit einer durch ein
+ehernes Tor geschlossenen Hoehle.  Neben der Pforte stehen mit Fackel
+und Dolch bewaffnet die zwei Eumeniden Tisiphone und Alecto, aus
+Stein gehauen.  Megaera, die dritte, ist ueber derselben in sitzender
+Stellung angebracht.  Die Pforte ist symbolisch verziert, neben ihr
+ein steinerner Opferaltar.  In der Tiefe der Buehne ein See, von
+rauhen mit Baeumen bewachsenen Felsen umschlossen.  Im Vordergrund
+rechts ein Gebuesche.  Donner murmelt durch den in weiter Ferne
+erschallenden
+
+
+Jubelchor.
+Wie des Adlers Kraftgefieder
+Seinen Leib zur Sonne traegt,
+Fliegen aufwaerts unsre Lieder,
+Durch der Freude Schwung bewegt.
+Gluecklich, wie in Himmelszonen,
+Von der Erde Leid getrennt,
+Stolz die ew'gen Goetter thronen,
+Herrsch' Kreon in Agrigent.
+
+
+Phalarius (tritt mit wild zurueckschauenden Blicken hastig ein, er
+traegt ein Pantherfell ueber dem Ruecken und ist mit Bogen und Pfeil
+bewaffnet).
+Bin ich denn noch nicht weit genug gezogen,
+Verraeterische Stadt, die mich betrogen?
+Wird auch des Waldes duestre Einsamkeit
+Durch deines Jubels frechen Schall entweiht?
+
+(Die letzten Worte des Jubelchores erklingen wieder:
+"Herrsch' Kreon in Agrigent."
+
+Herrsch' nur Kreon, Volk, jauchz' die Kehle wund,
+Ihr zwingt das Glueck zu keinem ew'gen Bund.
+Prahlt, Luegner, mit der Kron', die ich erkaempft,
+Da nur mein Mut des Krieges Glut gedaempft.
+Mich lasst aus Undank meinen Purpur weben,
+Ihn faerben mit dem ausgestroemten Leben.
+Das ich vergeudet am ersiegten Strand,
+Den Lorbeer brechend mit der blut'gen Hand.
+Glaubt ihr, ich hab' fuer Agrigent gestritten,
+Damit der Rat, nach ungerechten Sitten,
+Das Reich verkauft an den unmuend'gen Knaben,
+Auf das nur ich ein wahrhaft Recht kann haben?
+Denn ist er auch dem Thron verwandt durch Blut,
+Bin ich es wuerd'ger noch durch Heldenmut.
+Ich glaub' nicht, was des Tempels Diener sagten,
+Als schlau sie Jupiters Orakel fragten,
+Ob mir, ob wohl Kreon das Reich gehoert;
+Es hab' der Gott sich donnernd drob' empoert,
+Dass ich's gewagt, als meiner Siege Lohn,
+Zu fordern Agrigentens goldnen Thron,
+Und ausgesprochen unter ew'gen Blitzen;
+"Ich duerfe nie ein Reich der Welt besitzen,
+Und Agrigent kann dann nur Glueck erringen,
+Wird auf dem Thron Kreon das Zepter schwingen."
+So logen sie, als ich zurueckgekehrt,
+Aus blut'ger Schlacht zum heisserkaempften Herd,
+So logen sie, von aller Scham entwoehnt,
+Als Siegesdank fand ich Kreon gekroent.
+Da aussen ich des Landes Feind bekriegt,
+Hat eigner mich im Innern hier besiegt.
+Drum will ich fliehn aus dir, verhasstes Land,
+Doch nimm den Schwur als draeuend Unterpfand,
+Dass ich noch einmal zu dir wiederkehre,
+Zu raechen die durch Trug geraubte Ehre.
+
+(Will ab und erblickt entsetzt der Rachefurien Hoehle.)
+
+Ha, welch ein Pfad hat mich zu euch geleitet,
+Blutlose Schwestern, die ihr stets bereitet,
+Als der Vergeltung grauenvolle Buergen,
+Gewalt'ge Suender dieser Welt zu wuergen.
+Euch fordr' ich auf, an euch will ich mich wenden,
+Sprengt auf das Tor mit den entfleischten Haenden,
+Reicht mir ein Schwert, mich an der Welt zu raechen,
+Die mich verhoehnt, und ihren Bau zu brechen.
+
+(Fuerchterlicher Donnerschlag, der verrollt; die Pforte droehnt und
+erzittert, dann leuchten schwache Blitze auf das Gebuesche rechts,
+das sich in der Mitte auseinanderteilt.  Man erblickt darin Hades,
+in Lumpen gehuellt, mit bleichem Antlitz auf einem Steine sitzen, er
+hat einen Sack ueber dem Ruecken haengen.)
+
+
+
+Zweite Szene.
+Phalarius und Hades.
+(Hades grinst Phalarius an, der ihn mit Entsetzen betrachtet.)
+
+
+Phalarius.  Welch ekliche Gestalt, wer bist du?
+
+Hades (mit etwas hohler Stimme, lauernd und gezogen).  Ich?
+
+Phalarius.  Bist du der Rachefurien eine?  (Starr.) Sprich!
+
+Hades (langsam aufstehend, er geht gebeugt und spricht langsam im
+hohlen Tone).
+Bin keine von den Rachefurien,
+Kann selbst kaum mehr auf morschen Knochen stehn;
+Bin nicht Tisiphone, Megaer', Alecto,
+Nein, nein, ich bin,--vergib,--mich schauert so.
+
+Phalarius.  Du kannst nicht ganz der Erde angehoeren,
+Du koenntest sonst den schoenen Glauben stoeren,
+Dass nach dem hohen Goetterbild des Zeus
+Der Mensch geformet sei durch Prometheus.
+
+Hades.  Nicht ganz ist mehr die Erd' mein Vaterland,
+Tief unten ruft es mich am styg'schen Strand;
+Harpyen, die wie Nachtigallen klagen,
+Verkuenden, dass die Furien um mich fragen.
+
+Phalarius.  Hast du so boes gehaust in dieser Welt,
+Dass dir im Enden jeder Trost nun fehlt?
+Bist du so arm, dass dich Verzweiflung fasst,
+Und hast wohl einst im Uebermut geprasst?
+
+Hades.  So ist es, du hast furchtbar wahr gesprochen,
+Doch jetzt ist meines Glueckes Stab gebrochen;
+Viel hab' ich einst auf dieser Erd' besessen,
+Geliebt ward ich, ich werd' es nie vergessen,
+Doch jetzt bin ich gehasst, bin unbeweibt,
+    (Weinend.)
+So arm, dass mir nichts mehr, als eine Krone bleibt.
+
+Phalarius (nach einer Pause des Erstaunens).
+Was sprichst du, eine Kron'?  Wahnwitzig Tier!
+
+Hades.  Willst du sie sehn?  ich trage sie mit mir.
+(Mit staerkerer Stimme.)
+Ich schenk' sie dir, willst du's mit ihr versuchen,
+Ich hoerte dich vorher um eine Krone fluchen,
+Doch traegst du sie, legst du sie nimmer ab,
+Sie bleibt dem Haupte treu bis an das Grab.
+
+Phalarius.  Was nuetzt die Krone mich, nenn' mir ihr Reich.
+
+Hades (stark).  Die Welt!--Hast du genug?--Was wirst du bleich?
+
+Phalarius.  Soll ich's nicht werden?  Mich befaellt ein Grauen,
+Wer kann in solchen Riesenhimmel schauen,
+Die Erd', so weit sie reicht, unendlich Bild,
+Hat nie die Neugier eines Augs gestillt.
+Entflieh, verlass mich, truegerischer Geist,
+Der Hoelle gibt, da er zum Himmel weist.
+Zeig' her die Kron', wenn du mich nicht geneckt.
+
+Hades.  In meinem Bettelsack ist sie versteckt;
+Dem Drachen gleich, der in der Hoehle kauert,
+Auf fette Beut' mit gift'gem Zahne lauert.
+
+Phalarius.  Ein Diadem in eines Bettlers Tasche?
+
+Hades.  In schlichter Urn' ruht koenigliche Asche.
+    (Mit erhobener Stimme.)
+Durch diese Kron', ruht sie auf einem Haupt,
+Wird dem, der sie erblickt, des Mutes Kraft geraubt.
+Ja, ihr Besitzer darf nur leise winken,
+Wer sich ihm naht, muss huld'gend niedersinken.
+Es wird der Baum, mit ueppig gruenen Zweigen,
+Sein duftend Haupt vor dieser Krone neigen;
+Des Waldes Tiere werden bang' erzittern
+Und heulend sie in weiter Ferne wittern.
+Was er befiehlt, muss streng' vollzogen werden,
+Und keiner lebt, der sie entwenden kann auf Erden.
+Selbst wenn er schlaeft, die sorgsam stille Nacht,
+Geschlossnen Aug's, ihr Eigentum bewacht.
+Kein Speer, kein Dolch, kein Pfeil kann ihn erreichen,
+Der Krone Macht wird nur dem Mondlicht weichen;
+Solang sie dies bestrahlt, ist er verloren,
+Und jedes Feindes Schwert kann ihn durchbohren.
+Solch Glueck bringt dieser Reif und solches Bangen;
+Nun sprich, traegt deine Herrschsucht noch nach ihm Verlangen?
+
+Phalarius.  Den Sturm versoehn' durch eines Schiffes Wrack,
+Golkondens Schatz verbirg im Bettelsack,
+Dem Pfeil befiehl, er soll den Rueckweg nehmen,
+Des Aetna Glut verhindre auszustroemen,
+Nur mich bered' nicht, von der Kron' zu lassen,
+Gib sie heraus, sie muss das Haupt umfassen.
+    (Legt den Helm ab.)
+
+Hades.  Wohlan, schau' nicht zum Himmel, blick' zur Erde,
+Sie fleht dich an mit jammernder Gebaerde;
+    (Er nimmt die goldene Krone aus dem Sacke, aus dem Feuer stroemt,
+     ferner Donner.)
+Doch hoer' ihr Wimmern nicht, reich' mir die Stirn',
+Bleib stark, bewahr' vor Wahnsinn dein Gehirn.
+
+(Er setzt ihm die Krone auf, fuerchterlicher Donnerschlag, kurze
+Musik.  Die Buehne wird lichter.  Die Erde zittert, die Baeume beugen
+ihre Zweige, sodass sie eine gruene Kuppel ueber Phalarius Haupt
+bilden und sich im See spiegeln.)
+
+Hades.  So, so, der Wald bebt vor dem Koenigshaus,
+Es huld'gen dir die Staemme reichbelaubt.
+
+Phalarius.  Ist's Wirklichkeit?  Welch unnennbar Entzuecken!
+
+Hades (beiseite).
+Sie wird die Stirn noch heiss genug dir druecken.
+
+Phalarius.  Ha!  Nun ist mein der hoechste Schatz hienieden.
+Sprich, Wurm, was kann zum Lohn ich dafuer bieten?
+
+Hades.  Brauch' nichts dafuer, trag sie nur gluecklich fort,
+Wir treffen uns schon am Vergeltungsort,
+Wenn weit geoeffnet deines Wahnes Grab,
+Und du einst sprichst, wie ich gesprochen hab';
+    (Weinend.)
+Ich bin so arm, mir bleibt nichts als die Krone,
+    (grimmig.)
+Den Augenblick allein bewahr' ich mir zum Lohne.
+
+(Schleicht ab, den Sack ueber dem Ruecken.)
+
+
+
+Dritte Szene.
+
+
+Phalarius (allein).
+Geh, Luegengeist, nie werde ich so sprechen,
+So denken nur waer' an dem Glueck Verbrechen.
+Nun fort, Phalarius, aus diesem Wald,
+Damit dein Ruhm Sizilien durchschallt.
+Doch kann ich baun auf dieser Krone Macht?--
+Holla, wer schreitet durch des Waldes Nacht?
+
+
+
+Vierte Szene.
+
+Voriger.  Antrogaeus mit koeniglichen Soldaten, welche mit Lanzen
+bewaffnet sind.
+
+Antrogaeus (von innen).  's ist Antrogaeus und des Koenigs Wache.
+
+Phalarius.  Willkommen, Speere, dienet meiner Rache.
+Du, Antrogaeus, sollst der erste sein,
+Den ich dem langverhaltnen Hass will weihn.
+
+(Alles eilt auf Phalarius zu.)
+
+Chor.
+Du sollst nach Hofe kehrn, Phalar',
+Der Koenig will's--
+(Die Krone erblickend und erschrocken zurueckweichend.)
+                               Ha, welch ein Stern,
+Den ich auf deiner Stirn' gewahr'?
+Er haelt mich drohend von dir fern.
+Wie kann sein Anblick doch erschuettern,
+Mich reisst's zur Erd' mit bangem Zittern,
+Die Angst erpresst den Ausruf mir;
+Sei gnaedig, Fuerst,--ich huld'ge dir!
+
+(Alle sinken bebend auf die Knie.)
+
+Phalarius (wild lachend).
+Ha, ha, was laesst mir wohl Kreon befehlen?
+
+Antrogaeus.  Blick' mild auf uns, dein Auge kann entseelen.
+Es sendete Kreon nach dir uns aus,
+    (Spricht mit beklemmter Brust.)
+Dich heimzuleiten nach dem Fuerstenhaus,
+Wo sich die Freude waelzt, Bachanten winken,
+Dort sollst du reuig an die Brust ihm sinken
+Und Abschied deinem duestern Grolle geben,
+Dafuer wird er zu neuer Wuerd' dich heben.
+
+Phalarius.  Verflucht sei der, der mir von Reue spricht!
+    (Zieht sein Schwert und verwundet ihn.)
+Bereue du, wenn dir das Auge bricht!
+    (Antrogaeus wird in das Gebuesch gefuehrt.)
+Verwahrt die Brust, mein durst'ger Stahl will trinken,
+Er wird noch oft in Purpurscheide sinken.
+Nun rafft euch auf und horcht auf mein Befehlen.
+Ich will der Stadt ein Maerlein dort erzaehlen;
+Von einem Siegesfest, wo die Maenaden wueten,
+Der Sieger nur allein muss drauss' im Walde brueten.
+Von maechtig strahlender Kron', die ihm der Orkus schenkt,
+Von wuet'gem Rachgefuehl, das seine Waffe lenkt,
+Von gueldenem Palast am diamantnen See,
+Wo Freudentaumel herrscht, nicht ahnend baldiges Weh.
+Vom Brand, der ihn ergreift, vom grausen Angstgeschrei,
+Von Kreons letzter Stund', verzweiflungsvoller Reu'.
+Von Feinden waffenlos, die froh im Tanze schweifen,
+Von Kriegern roh und wild, die sie wie Schergen greifen.
+Vom gluehenden Balkon, von dem man auf mein Winken
+Sie wild frohlockend stuerzt, dass sie im See ertrinken;
+Dies Maerchen wollen wir der Stadt zum besten geben,
+Und wenn sie drob' erbleicht, soll Frohsinn uns beleben.
+Dann wird auf des Palastes schwarz gebrannten Truemmern
+Der glaenzende Pokal wie Sonnenaufgang schimmern,
+Und unsre Fabel geb' zum Schluss der Welt die Lehre;
+Dass unbewachtes Glueck nicht lang auf Erden waehre.
+    (Fuer sich gemaessigter.)
+Ich will das meine wahrn, mich sehe keiner fallen,
+Und muesst' es auch geschehn, mein Ruhm kann nie verhallen.
+Ich ringe mit der Zeit, es muss nach tausend Jahren
+Die Sage von der Kron' die Nachwelt noch erfahren.
+
+(Alle ab, die Baeume biegen sich abwaerts.)
+
+
+
+Fuenfte Szene.
+
+
+Lucina (schwebt schnell auf Rosenschleiern, die auf weissen Wolken
+ruhn, auf die Erde nieder, Angst befluegelt ihre Worte).
+Was hoert' ich fuer Flueche im Hain hier ertoenen?
+Es beben die Luefte, die Felsen erdroehnen,
+Hin brauset der Frevler durch waldige Nacht,
+Zu liefern die graessliche Hoellenschlacht.
+So musste auf Erden ein Boesewicht reifen,
+Der's wagt, nach der schrecklichen Krone zu greifen.
+Agrigent ist verloren, es jammert die Welt,
+Wenn ihn nicht die Macht der Erinnyen faellt.
+Was soll ich beginnen, ihr blutigen Stunden,
+Zu strafen den Frevel, zu heilen die Wunden?
+Er muss ja die grausame Tat erst vollstrecken,
+Will ich hier die raechenden Furien wecken.
+Nur Tod sprengt des Fatums gewaltige Ketten,
+Drum muss ich das Leben des Koenigs erretten.
+Schon rennt durch die Strassen der gierige Tross,
+Es werde die Wolke zum fluechtigen Ross.
+
+(Die Wolke verwandelt sich in ein schwarzes Ross mit goldenem Zaum.
+Lucina setzt sich schnell auf selbes.)
+
+Nun, Rappe, nun magst du die Luefte durchschnauben,
+Wir wollen den Moerder der Beute berauben.
+
+(Das Ross fliegt pfeilschnell ab.)
+
+
+
+Sechste Szene.
+
+Hades (als Fuerst der Unterwelt, schwarz griechisch gekleidet, eine
+schwarze Krone auf dem Haupte, eine Fackel in der Hand, die er in
+den Opferaltar der Eumeniden steckt)
+So, nun lass die Jagd erschallen
+Und die Jaeger nicht ermatten,
+Dass mir viele Scharen wallen,
+Nach dem Reich der dunklen Schatten;
+Denn ich hab's beim Styx geschworen,
+Zu entvoelkern diese Erd',
+Drum hab' ich Phalar' erkoren,
+Er ist dieses Auftrags wer.
+Bald wird auch Massana fallen,
+Wo ich Unglueck hingebannt,
+Lustig wird der Orkus hallen,
+Wenn versinkt das stolze Land.
+Von der kallidalschen Insel,
+Wo mein ries'ger Eber haust,
+Hoer' ich jammerndes Gewinsel,
+Dass das Meer nicht ueberbraust.
+Doch schon roetet sich der Himmel,
+    (Man sieht Brandroete.)
+Rauch wallt auf, die Zinne kracht.
+Im Palaste wogt Getuemmel,
+Schnell hat er die Tat vollbracht.
+    (Es rasselt donnernd die Pforte der Eumenidenhoehle, Blitze
+dringen durch die Oeffnungen.)
+Halt, die Eumeniden rasseln
+Auf von ihrem Raecherthron,
+Wie sie donnernd naeher prasseln,
+Ihre Dolche zucken schon.
+Ha, ihr sollt mir nicht zerstoeren
+Meines Witzes Heldentum,
+Ihr moegt seine Taten hoeren,
+Eure Rache bleibe stumm.
+    (Die Fackel ergreifend.)
+Durch die Macht, die mir geworden,
+Seit Saturn die Welt umfluegelt,
+Bleiben diese Schauerpforten
+Ihren Furien versiegelt.
+    (Er stoesst die Fackel dreimal gegen die Pforte, es zeigen sich
+drei Flammensiegel.)
+Durch dies Schreckenstor allein
+Koennen nach der Erd' sie dringen,
+Darum soll's verschlossen sein,
+Mit dem Schicksal muss er ringen,
+Ist, was ich gewollt, vollbracht,
+Send' ich selber ihn der Nacht.
+
+(Musik.
+Schreckliches Geprassel und Geheul inner der Pforte, der See wird
+hellrot und wogt fuerchterlich.)
+
+Ha, wie sie empoert nun heulen
+Und den See hier blutig faerben;
+Bleibt gefangen, gift'ge Eulen,
+Nur im Mondlicht kann er sterben.
+Doch ich seh' Kreon befreit
+Mit Lucina niederschweben,
+Er war schon dem Tod geweiht,
+Sie betruegt mich um sein Leben.
+    (Er tritt zurueck.)
+
+
+
+Siebente Szene.
+Voriger.  Lucina und Kreon auf Wolken niedersinkend.  Kreon beugt
+sein Knie vor Lucina.
+
+
+Lucina.  Du bist gerettet, holder Fuerst, du lebst durch mich,
+Des Landes Schutzgeist war's, der niemals von dir wich.
+
+Kreon.  Es dankt mein klopfend Herz, mein Sinn vermag's noch nicht,
+Da vor Erstaunen mir Erinnrung fast gebricht.
+Wer bringt mein treulos Glueck, ich straf' den Hochverrat,
+Den es an mir und meinem Volk begangen hat.
+O gleissnerische Zeit, wer sollt' es von dir glauben,
+Durch einen Augenblick kannst du uns alles rauben.
+Minuten wissen's kaum, dass mich das Elend fand.
+War's denn Phalarius, der drohend vor mir stand?
+Woher die Schreckenskron', mit der er frech geprahlt?
+Und die mit mag'schem Schein den Brand noch ueberstrahlt.
+Woher die Meuterei, wer herrschet nun im Land?
+Ihr Goetter staerket mich, es wanket mein Verstand,
+Vor ihm bin ich gekniet, vor diesem Boesewicht!
+
+Lucina.  Dein Rasen ist umsonst, die Goetter hoeren's nicht,
+Siehst du dort den Altar, auf ihn leg' deine Klagen,
+Die Nimmerruhenden magst du um Rat befragen.
+
+Kreon.  So hoert mich denn, ihr maecht'gen Eumeniden!
+    (Schlaegt an die Tuer, die erdroehnt.)
+
+Hades (tritt hervor).
+Vergebens rufst du sie, du stoerst nur ihren Frieden.
+
+Kreon.  Wer spricht hier Worte aus, die Wahnsinn muesst' bereuen?
+
+Lucina (bebt zurueck).
+Erkennst du Hades nicht, den selbst die Goetter scheuen?
+
+Kreon (bebt auch zurueck).
+Du, Hades, bist's?
+
+Hades.                          Bin's selbst, der dieses Tor bewacht.
+
+
+Lucina (Zu Kreon leise).
+Er hat dich um dein Reich und um dein Volk gebracht.
+
+Kreon.  Sind die Erinnyen taub, dass sie sich noch nicht zeigen?
+
+Hades.  Erkennt die Siegel hier, der Orkus heisst sie schweigen.
+
+Lucina (jammernd zu Kreon).
+O armer Fuerst, Unmoeglichkeit heisst dein Gebiet,
+Aus dem die Hoffnung selbst mit banger Furcht entflieht.
+    (Zu Hades.)
+Ja, du verdienst, dass Goetter dich und Menschen hassen,
+Die Glut des ew'gen Pfuhls muss neben dir erblassen.
+Doch jener blut'ge See bleib Zeuge deiner Wut!
+Lucinas Goettermacht bewahret seine Glut,
+Bis sich einst Jovis Bild in seinen Wellen spiegelt.
+Und sein allmaecht'ger Blitz die Pforte dort entriegelt.
+
+Hades (mit Hohn).
+O Goettin, hold und schoen, wie magst du doch so wueten,
+Sieh deine Wundertat treibt neue Todesblueten,
+Mich schreckt nicht Zeus, drum sei dein See verflucht.
+Und wer durch seine Flut den Durst zu stillen sucht,
+Der wird von dieser Stund' die Menschenbrut verachten,
+Und einem Tiger gleich nach ihrem Leben trachten;
+Doch nur so lang, bis er so vieles Blut vergiesst,
+Als aus dem Wundersee sein durst'ger Mund geniesst.
+
+Lucina.  Halt ein, das geht zu weit, du naechtlich Ungeheuer,
+Ist dir denn nichts auf dieser schoenen Erde teuer?
+Greif an den Himmel hin und raub' ihm seine Sterne,
+Die Goetter selbst verjag' nach lichtberaubter Ferne,
+Vernicht' auch mich, versuch's, raub' mir Unsterblichkeit,
+Beginn den Kampf, fall aus, ich bin dazu bereit.
+    (Sie stellt sich ihm mit majestaetischer Miene gegenueber.)
+
+Kreon.  Was klagst du, Erde, noch, ist doch vom boesen Streit
+Der weite Orkus nicht, nicht der Olymp befreit.
+
+Hades (kalt und gleichgueltig).
+Du nennst unsterblich dich, durch Schmaehung kannst du's sein.
+Ich lasse mich mit dir in keinen Zweikampf ein.
+Du bist ein Goetterweib, mehr braucht's nicht zu erwidern,
+    (Mit vornehmer Nichtachtung.)
+Das heisst, du bist ein Weib und kannst mich nicht erniedern.
+
+Lucina (mit hoechster Wuerde).
+Ich bin's, und weil ich's bin, bebt stolzer mir die Brust;
+Ich bin ein Weib!  des kraeft'gen Erdballs hoechste Lust!
+Ein Weib!  Um das der Brand von Troja hat geleuchtet.
+Ein Weib!  Um das des Donnrers Aug' sich mild befeuchtet;
+Ein Weib!  Vor dem sich tief ganz Persien gebeugt;
+Ein Weib!  Das einst ein Gott aus seinem Haupt gezeugt;
+Ein Weib!  Das durch die Welt der Liebe Zepter schwingt,
+Der Lieb', die auch zu deinem Felsenherzen dringt.
+Ein Weib!  Das deinen Arm durch einen Kuss kann laehmen;
+Das heisst: du bist ein Mann und kannst mich nicht beschaemen.
+
+Hades.  In schoenen Worten kannst du leicht den Preis gewinnen,
+Doch nur durch Mannesgeist gelingt ein gross Beginnen.
+
+Lucina.  Wohlan, so lass uns nicht durch Elemente streiten,
+Durch Flammen, Wogen, Sturm Verderben uns bereiten,
+Gebrauchen wir des Witzes fein geschliffne Klinge,
+Vielleicht gelingt mir's doch, dass ich den Sieg erringe.
+
+Hades.  Was quaelt dich doch die Lust, den Orkus zu bekaempfen?
+Wie leicht waer's meinem Witz, den Uebermut zu daempfen.
+
+Lucina (schlau).
+Wenn dies dein Geist vermag, warum will er's vermeiden?
+Die Goetter muessten dich um deinen Witz beneiden.
+Glaub' nicht, dass im geheim die Himmlischen dich achten,
+Sie schmaehn auf deinen Geist, den sie schon oft verlachten.
+
+Hades (mit gereiztem Ehrgeiz).
+So will ich dir und den Olympschen Goettern zeigen,
+Dass meine Schlauheit nicht sich ihrer List muss beugen.
+Es soll dir moeglich sein, die Furchtbaren zu wecken,
+Doch was ich dir befehl', musst du genau vollstrecken.
+Du kannst zu seinem Sturz die Eumeniden brauchen,
+Laesst du auf dem Altar ein dreifach Opfer rauchen;
+Erst eine Kron', die eines Koenigs Stirn geziert,
+Der nie ein Reich besass, noch eins besitzen wird.
+Dann einen Lorbeerkranz von eines Helden Haupt,
+Der, wenn der Lorbeer rauscht, des Mutes ist beraubt.
+Und doch veruebt solch ungeheure Herkulstat,
+Dass ihm der Krieger Schar den Kranz geflochten hat.
+Nun kommt das dritte noch, es ist ein Diadem,
+Der Eitelkeit Triumph, dass es selbst Juno naehm'.
+Dies sei aus Myrthenbluet' mit Lilienschnee verwebt,
+Und ruh' auf einem Haupt, das sechzig Jahre lebt.
+Ein hochbetagtes Weib, mit reich verschlungnen Falten,
+Muss es fuer ihren Reiz als Schoenheitspreis erhalten.
+Doch Maenner nicht allein, die Mitleid kann versoehnen,
+Es muessen Weiber sie mit neid'schen Blicken kroenen.
+Dies sind die Dinge nur, die ich von dir begehre,
+Und findest du sie aus, dann glaub', dass ich dich ehre.
+Bring' sie zum Opfer hier, dann schmelzen jene Siegel,
+Die Pforte donnert auf, gesprengt sind ihre Riegel,
+Die Eumeniden frei, Phalarius kann fallen,
+Und hoer' ich sein Gestoehn' am Acheron erschallen,
+Dann nehm' die Kron' ich selbst von seiner blassen Stirn'
+Und weihe dir beschaemt, verachtend mein Gehirn.
+
+Lucina.  Beim Zeus, ich bin erstaunt!
+
+Kreon.   Sei nicht so grausam doch,
+Dass du die Moeglichkeit belegst mit solchem Joch
+Du willst den Flug und kettest unsre Fluegel,
+Du spornst den Gaul und engest seine Zuegel.
+
+Hades.  Sie hat's gewollt, ich aendre meinen Ausspruch nie,
+Glaubt Ihr, der Hoelle Sued zeugt keine Phantasie?
+Hast du vielleicht gewaehnt, Unsterblichste der Nymphen,
+Es lasse Hades sich so ungerecht beschimpfen?
+Ich bin, was du so schlau gefordert, eingegangen,
+Doch bleibet unerfuellt mein dreifaches Verlangen,
+So sei's bei des Kozytus Trauerlauf geschworen,
+Du wirst des Orkus Spott, und Kreon ist verloren.
+    (Geht mit Wuerde ab.)
+
+
+
+Achte Szene.
+Vorige ohne Hades
+
+
+Kreon.  Verloren bin ich, ja, mein Sturz war schon vollendet,
+Als sich sein Furienblick nach meinem Reich gewendet.
+Das Raetsel ist nun klar, ich weiss, wie es geschah,
+Mein Unglueck steht entlarvt und frech entkleidet da.
+Was ist das Leben doch?  wie waer' ich zu bedauern,
+Wenn ich nicht sterblich waer' und muesste ewig trauern.
+
+Lucina.  O traure nicht zu frueh, mein Geist gebaert Gedanken,
+Die ihn mit Hoffnungen wie Efeu gruen umranken.
+Die Goetter dulden's nicht, dass solch' ein Reich vergeht,
+Wo ein so edles Volk fuer seinen Koenig fleht.
+    (Nachdenkend.)
+Massanas Fuerst ist krank, und wird nicht mehr genesen,
+Das Unglueck haust zu arg, es muss das Land verwesen;
+Dann hier der blut'ge See, das kallidal'sche Schwein,
+Mein Wundermittel wirkt, es kann nicht anders sein.
+    (Der Wolkenwagen sinkt wieder herab.)
+Drum eile jetzt mit mir nach meinem Luftgefilde,
+Vertausch' den Anblick hier mit einem schoenern Bilde.
+Ich will durch mag'sche Kunst ein Zauberlicht bereiten,
+Dann such' durch Fremdlinge den Trug ich einzuleiten;
+Du aber kannst hier nichts zu deiner Rettung helfen,
+Drum harrest du auf mich im Kreise meiner Elfen.
+
+Kreon.  So gern du, Goettin, magst nach deiner Heimat ziehn,
+So schmerzlich faellt es mir, die meinige zu fliehn.
+    (Mit tiefer Ruehrung.)
+O du mein teures Reich, ich muss mich von dir trennen,
+Den rauhen Felsen nur kann meine Qual ich nennen.
+Wo lebt ein Koenig wohl, der solches Leid getragen,
+Dass seinem Volke er kein Lebewohl darf sagen?
+O Echo, dessen Schall in allen Bergen toent,
+Verkuend' das Trauerwort; leb' wohl, mein Agrigent.
+Nun folg' ich Goettin dir ins traumbeglueckte Land,
+Verlass mein wirkliches, aus dem man mich verbannt;
+Doch wenn die Wolken mir mein treues Volk verhuellen,
+Wird sich des Koenigs Aug' mit heissen Traenen fuellen.
+Magst du den Schmerz als kleinlich auch betrachten,
+Er ist ein heil'ges Weh, du darfst ihn nicht verachten.
+    (Er kniet vor ihr.)
+
+Lucina (geruehrt die Hand auf sein Haupt legend).
+Ich ehre tief dein Leid, es fuehrt dich einst zum Lohne,
+Der Schmerz gehoert der Welt, drum traegt ihn auch die Krone.
+    (Hebt ihn auf.)
+Erhebe dich mein Fuerst.
+    (laesst ihn in den Wolkenwagen steigen.)
+                                      Ein Thron soll dich
+umrauschen.
+    (Die Wolke bildet einen Thronhimmel um Kreons Haupt.)
+Ist mir Fortuna hold, sollst du ihn bald vertauschen.
+
+(unter zart klagender Musik schwingen sich beide langsam fort.)
+
+
+
+Neunte Szene.
+(Romantische Gegend.)
+
+(Vorne links ein kleines Haeuschen mit einem Schilde, worauf eine
+goldene Schere gemalt ist.  Diesem gegenueber eine natuerliche
+Rasenbank, von einem Baum ueberschattet.  Die Musik geht nach der
+Verwandlung in Simplizius' Ariette ueber.)
+
+
+Simplizius (in buergerlicher Kleidung).
+Ariette.
+          's gibt wenig, die so gluecklich sind
+Wie ich aus dieser Welt,
+Ich hab' kein Weib und hab' kein Kind,
+Und hab' kein' Kreuzer Geld.
+Wenn ich auch keine Schulden haett',
+Ich wuesst' vor Freud' nicht, was ich taet'.
+Ich will im voraus nicht stolziern,
+Mein Glueck faengt erst recht an,
+Mir scheint, ich werd' mein Gwerb' verliern,
+Dann bin ich praechtig dran;
+Und 's Ueberraschendste wird sein,
+Wenn s' kommen werdn und sperrn mich ein.
+
+Dann schau' ich um ein' Freund mich um,
+Der in der Not mich troest',
+Der macht, dass ich aus d' Festung kumm,
+Da sitz' ich erst recht fest;
+Und wenn s' mich dort vielleicht noch schlagn,
+Das waer' ein Glueck,--nicht zum Ertragn.
+
+Ja, ja, mancher, der mich so reden hoert, wuerd' sagen: O je, da
+kommt schon wieder einer daher, der lamentiert, dass er kein Geld
+hat und voller Schulden ist und dass er soll eing'sperrt werdn.  O
+Jemine, das ist ein' alte G'schicht'.  (Hochdeutsch.) Ja, wenn's
+aber nicht anders ist, was soll man denn machen?  Es ist einmal so,
+ich hab' einmal kein Geld, und sie sperrn mich einmal ein,
+vielleicht auch zweimal, (lokal) und wenn das so fortgeht, so komm'
+ich aus dem Einsperren gar nicht mehr heraus.  Ich bin ein
+rechtschaffener Mann, doch von was soll ich denn zahlen?  Ich bin
+zwar der angesehnste Schneider hier im Ort, aber ich hab' nur eine
+einzige Kundschaft, und das ist mein Glaeubiger, ein Weinhandler,
+der weint um seine fuenfhundert Taler, so oft er mich anschaut.
+Jetzt bin ich ihm das Geld schon sieben Jahr' schuldig, er ist aber
+schon lang gezahlt, denn statt den Interessen hat er mit mir
+ausgemacht, dass ich ihm alles umsonst arbeiten muesst', was in seinem
+Haus ang'schafft wird.  Da kommen aber die Leut' vom ganzen Dorf in
+sein Haus, lassen sich das Mass nehmen, ich muss ihnen umsonst
+arbeiten, und er lasst sich zahlen dafuer.  Da hab' ich einen
+Zimmerherrn drin--(deutet auf sein Haus, geheimnisvoll) der zahlt
+auch nichts.  Ist ein Schmied, ein Reimschmied, schreibt jetzt gar
+ein Theaterstuck.  Auf die Letzt bringt er mich noch in ein Stuck
+hinein, denn ich hoer', jetzt koennen s' gar kein Stuck mehr
+auffuehren, wo s' nicht was von ein' Schneider drin haben, und er
+gar, er schreibt eins, das heisst "Die getrennten Brueder", das wird
+doch aufs z'sam'nahn hinausgehn.  Er erwartet immer das Geld von der
+Post, und jetzt ist ein so ein schlechter Weg, da bleibt's halt
+stecken.  (Ruft zum Fenster hinein.) Guten Morgen, Monsieur Ewald,
+schon wieder fleissig?  Scribendum!
+
+
+
+Zehnte Szene.
+Voriger.  Ewald.
+
+
+Ewald (schlaegt von innen auf den Tisch).  So stoeren Sie mich doch
+nicht mit Ihrem unsinnigen Geschwaetz.  (Kommt heraus im einfachen
+Gehrock.  mit einem Manuskripte, Tinte und Feder.) Es ist nicht
+moeglich, dass ich einen vernuenftigen Gedanken fassen kann, wenn Sie
+in meiner Naehe sind.  Gehen Sie doch hinein, ich will hier schreiben.
+
+
+Simplizius.  Schreiben Sie, wo Sie wollen und an wen Sie wollen,
+aber sein Sie nicht unartig mit mir.
+
+Ewald.  Lieber Hausherr, nehmen Sie meine Heftigkeit nicht so auf,
+Sie sehen, ich bin ein Dichter, ein begeisterter Mensch.  Wenn man
+in Jamben arbeitet, Sie verstehen das nicht so, es sind fuenffuessige
+Verse.
+
+Simplizius.  Ja, das ist ja eben das Unglueck, wenn die Vers' eine
+Menge Fuess' haben und kein' Kopf.  Das tragt nichts ein, ich wollt',
+ich haett' so viel Fuess', als Ihre Schlampen oder Jamben, was Sie da
+schreiben, ich war' schon lang davon g'loffen, auf meine kann ich
+mich nicht mehr verlassen.
+
+Ewald.  Sie sprechen dummes Zeugs, lassen Sie mich ungestoert.  (Er
+setzt sich auf die Rasenbank und ueberlegt.) Der letzte Akt, mir
+fehlt's an Stoff.
+
+Simplizius.  Mir auch, wenn ich so ein paar hundert Ellen Gros de
+Napel haett', ich wollt' Ihnen Ihre Getrennten schon herausstaffiern.
+
+
+Ewald.  Nun hab' ich aufhoeren muessen.  Jetzt ist der ganze Dialog
+zerrissen.
+
+Simplizius.  Ich wollt', es waer' alles z'rrissen, so krieget ich
+doch ein' Arbeit.
+
+Ewald (aufspringend).  Aber lieber Meister, wenn Sie einen Rock
+zuschneiden, so wuenschen Sie doch ungestoert zu sein.
+
+Simplizius.  Nun, Sie werd'n doch erlauben, dass es ein' andere
+Aufgab' ist, wenn ich einen Rock zuschneid', als wenn Sie da eine
+halbe Stund' nachdenken, und hernach fallt Ihnen erst nix ein.  Wenn
+Sie einen Vers um ein paar Ellen zu lang machen, so streichen Sie
+s' halt weg, aber wenn ich einen Aermel um eine halbe Ellen zu kurz
+mach', (er streift seinen Rockaermel hinauf) was g'schieht denn
+hernach?
+
+Ewald (stampft mit dem Fusse).  Zum letzten Male rat' ich es Ihnen,
+mich ungestoert zu lassen, oder Sie werden mich wuetend machen.
+
+Simplizius (verschroben).  Nu, nu, nur nicht so heftig, meine
+schwachen Nerven bitt' ich zu verschonen.  Ueberhaupt zwingen mich
+verhaeltnislose Umstaende, mit Ihnen tragisch zu reden.  Ich kann zwar
+nichts gegen Sie sagen, Sie sind ein ordentlicher Mann, Sie bleiben
+mir meinen Zins schuldig, wie es sich g'hoert.  Aber Sie sind ein
+Dichter, der sehr schoene Ideen hat, warum kommt Ihnen denn nicht
+auch die Idee, mich zu bezahlen?
+
+Ewald.  Sie sollen Ihr Geld erhalten.
+
+Simplizius.  Ja wann?  ich werd' heut noch eing'sperrt.
+
+Ewald.  Warum?
+
+Simplizius.  Weil ich blessiert bin und nicht ausrucken kann.
+(Deutet aufs Zahlen.) Wenn aber das geschieht, wenn sie mich
+einsperrn, Herr von Ewald--Sie sind mir schuldig, ich gebrauch'
+mein Recht, Sie muessen zu mir hinein.  Wir sind Maenner, wir werden
+unser Schicksal zu ertragen wissen.  (Geht gravitaetisch ab ins Haus.)
+
+
+
+Elfte Szene.
+
+
+Ewald (allein).  Ha, ha, ha, ein gutmuetiger Mensch, wenn er nur
+nicht so unertraeglich einfaeltig waere, mich dauert seine missliche
+Lage.  Morgen erhalte ich die Haelfte meines Honorars, davon will ich
+ihn unterstuetzen.  Doch jetzt sei wirksam, Geist.  (Dichtend.)
+Sechzehnte Szene, Gefaengnis, Artur allein.
+
+Warum muss ich im finstern Turm hier hausen,
+Um den des Meers geschaeftige Wellen brausen;
+Ach, waehrend Liebe stillt ihr froh Verlangen,
+Haelt mich der Hass hier trauervoll gefangen.
+O Schutzgeist, der du meinem Traum dich zeigst
+Und sanft dein Haupt zu mir hernieder neigst,
+Leit' mich aus meines Kerkers duestern Bann,
+Dass ich statt nutzlos sinnen, handeln kann.
+
+
+
+Zwoelfte Szene.
+Voriger.  Lucina ist waehrend Ewalds Rede unter sehr leisen sanften
+Toenen auf Wolken niedergesunken.  Ein Genius traegt eine Fackel.
+
+
+Lucina.  Wenn du willst des Gedichtes Sinn auf dich beziehn,
+So kann ich deines Wunsches regen Drang erfuellen,
+Du sollst mit mir nach weit entfernten Landen ziehn
+Und des Verlangens Glut im Tatenstrome kuehlen.
+Zu hohem Werken hab' ich deinen Mut erkoren,
+Weil ich dein Herz und deinen Geist als rein ersehn.
+
+Ewald.  O glanzentzuecktes Aug', zu seltnem Glueck geboren,
+Dass du so holder Goettin Reize darfst erspaehn.
+
+Lucina.  Erstaune nicht, entwirf kein Bild von meinen Reizen,
+Du bist zur Rettung eines maecht'gen Reichs erwaehlt,
+Der Auftrag sei genug, um mit der Zeit zu geizen,
+Drum werd' dir auch von mir das Noet'ge nur erzaehlt.
+Dich sollen Wolken nach Massanas Strande tragen,
+Ein Land, in welchem Unglueck heult in jedem Haus,
+Und das vom Meer verschlungen wird in wenig Tagen,
+Dort gibst du dich fuer einen Weisen aus,
+Entstammend aus Aegyptens heil'gen Pyramiden,
+Der nach Massana kommt, um dieses Land zu retten.
+Und wenn der Koenig enden will den Lauf hienieden,
+Vergoldest du des Todes fuerchterliche Ketten
+Und forderst erst fuer diesen Dienst des Reiches Krone.
+
+Ewald.  Wodurch ich dies vollbring', kann ich noch nicht ergruenden.
+
+Lucina.  Nimm diese Fackel hier, sie flammt in jeder Zone,
+Wenn du sie kraeftig schwingst, wird sie sich selbst entzuenden,
+Den Gegenstand, auf den du ihren Strahl willst leiten,
+Wird zephirleicht in ihrem Zauberlicht verrinnen,
+Narkot'sche Wohlgerueche um sich her verbreiten,
+Und die Gestalt, die du ihm leihen willst, gewinnen.
+Er wird im wundervollsten Rosenlicht sich zeigen,
+Wie ihn die zartste Phantasie nur koennte malen,
+Dass sich die Herzen alle liebend vor ihm beugen,
+Und sanfte Ruehrung wird aus jedem Auge strahlen.
+    (Gibt ihm die Fackel.)
+Verwahr' sie wohl, du wirst sie einst noch dankbar preisen,
+Wenn troestet dich ihr welterfreunder Wunderschein,
+Doch nicht allein darfst du die Rettungsbahn durchreisen,
+Dem kuehnen Mut muss bange Furcht zur Seite sein.
+Du wirst wohl selbst wo einen feigen Duemmling kennen,
+Den eines Sperlings leises Rauschen schon erschreckt.
+
+Ewald.  Da kann ich dir, o Goettin, keinen bessern nennen,
+Als jenen Mann, der sich vor deinem Anblick scheu versteckt.
+    (Deutet auf Simplizius ins Haus.)
+
+Lucina.  Nun wohl, du magst mit ihm die Sache selbst verhandeln.
+
+Ewald.  Er ist mir schon gewiss, ich weiss, was ihn bewegt.
+
+Lucina (zeigt auf einen Fels).
+Die Fackel wird den Stein in leichten Nebel wandeln,
+Der euch im schnellen Flug durch blaue Luefte traegt.
+Du uebst, wie ich's befahl.
+
+Ewald.                                      Dies kann ich hoch
+beteuern.
+
+Lucina.  Wohlan, ich will voraus hin nach Massana steuern.
+    (Fliegt ab.)
+
+
+
+Dreizehnte Szene.
+Ewald (allein.)
+
+
+Dies ist ein Auftrag doch, der eines Dichters wuerdig,
+Weil echte Poesie nach einer Krone strebt,
+Selbst Goettern ist durch hohen Schwung sie ebenbuertig,
+Der ueber Sonnen sie zu Jovis Thron erhebt.
+Mein Geist ist klein, mein Wirken nur ein ungeweihter Traum.
+Drum wird die Kron', die ich heut wage zu begehren,
+In Nichts zerfliessen, wie der Woge fluecht'ger Schaum,
+Nur dass ich sie gewollt, wird mir noch Lohn gewaehren.
+Und wer wird nicht mit Lust von goldnen Dingen traeumen,
+Kann er darueber arme Wirklichkeit versaeumen?
+    (Ab ins Haus.)
+
+
+
+Vierzehnte Szene.
+(Kurzes Zimmer mit schlechten Moebeln, ein Tisch mit Schreibgeraete,
+an der Wand haengen einige schlechte Kleidungsstuecke, Mass und ein
+paar abgeschabte Bilder.  Rechts eine Seitentuer, links ein kleines
+Fenster.)
+
+
+Simplizius.  Jetzt wird's nicht mehr lang dauern, so wird die
+achtzigpfuendige Kanone meines Ungluecks losgehn.  Vor Angst krieg'
+ich noch das gelbe Fieber, das schwarze hab' ich so in allen
+Taschen schon.  Wie spaet wird's denn schon sein.  Ich koennt's gleich
+wissen, ich duerft' nur auf die Uhr schauen, die ich vor zwei Jahren
+versetzt hab'.  Um halb zwoelf Uhr kommt der Weinhandler, der wird
+mich anzapfen um sein Geld, und wenn ich ihn nicht zahlen kann, so
+heisst es; Marsch nach Kamtschatka.
+
+
+
+
+Fuenfzehnte Szene.
+Voriger.  Ewald.
+
+
+Ewald.  Freude, Freude, lieber Simplizius!
+
+Simplizius.  Ja, ja, das wird eine mordionische Freud' werden, bei
+Wasser und Brot.
+
+Ewald.  Nein, lieber Simplizius, wir wollen fort von hier in ein
+fernes Reich.
+
+Simplizius.  Ins Reich hinaus?  Da war ich schon, im Nuernbergischen.
+
+Ewald.  Nicht doch, eine reizende Goettin hat mich und Sie zur
+Rettung eines Koenigreichs bestimmt.
+
+Simplizius.  Mich?
+
+Ewald.  Ja.  Sie.  Goldgesaeumte Wolken werden uns dem gemeinen Leben
+hier entruecken und uns in ein herrlich Land hintragen.  Lassen Sie
+Ihren Glaeubiger hier rasen, er hat ja ohnehin nichts mehr zu
+fordern.  Machen Sie sich reisefertig, Sie sind zu grossen Dingen
+bestimmt.
+
+Simplizius.  Zu was fuer ein'?
+
+Ewald.  Das weiss ich nicht, ich weiss nur, dass es eine Krone gilt.
+
+Simplizius.  Und die soll ich erretten?  Nun, das wird gut ausfallen.
+Sie verkennt mich.
+
+Ewald.  Nein, sie hat Sie ja gesehen und Ihren Mut belobt.
+
+Simplizius.  Die Goettin?  Ah, das ist goettlich!  Aber weiss sie denn,
+dass ich--
+
+Ewald.  Was?
+
+Simplizius.  Nu.  (Macht die Pantomime des Naehens.)
+
+Ewald.  Versteht sich, alles weiss sie.  Kommen Sie nur.
+
+Simplizius.  Ich soll ein Land erretten?  Ich kann mir's gar nicht
+anders vorstellen, als dass das Land durch Unruhen zerrissen ist,
+und ich muss's zusammenflicken.  Oder sie fuerchten sich, dass das Land
+erfriert, und ich muss ihm einen Pauvre machen.  Und auf einer Wolken
+sitzen wir, da fallen wir ja durch.
+
+Ewald.  Bewahre, sorgen Sie sich nicht.
+
+Simplizius.  Nun Sie, wenn wir heut durchfalleten, das waer' weiter
+keine Schand'.  Mir ist jetzt schon, als wenn ich aus den Wolken
+g'fallen waer'.
+
+Ewald.  Ich steh' Ihnen fuer alles.
+
+Simplizius.  O, Sie sind ein gutes Haus.  Was haben S' denn da fuer
+eine vergossne Kerzen?
+
+Ewald.  Das ist eben unsere Wunderfackel.  Was ich durch sie
+bestrahlt wissen will, erscheint nach meinem Wunsche in der
+herrlichsten Gestalt, und rosiger Nebel wird das Auge eines jeden
+lieblich taeuschen.
+
+Simplizius.  Was sie jetzt alles erfinden, um die Leut' hinters
+Licht z' fuehren, das geht ueber alles.  Na wegen meiner, ich bin
+dabei, ich sitz' doch lieber auf einer Wolken als im Arrest.  Also
+gehn wir.  (Sieht durchs Fenster.) Ums Himmels willen, dort kommt
+der Weinhandler, und zwei Schutzgeister hat er bei ihm, mit
+klafterlange Spiess'.
+
+Ewald.  Fatale Sache, was beginn' ich jetzt?
+
+Simplizius.  Monsieur Ewald, mir fallt aus Angst etwas ein.
+Probieren wir die Fackel, richten wir das Zimmer praechtig ein,
+tapezieren wir's aus.  Vielleicht bekommt der Weinhandler einen
+Respekt und glaubt, er kriegt sein Geld.  Warten Sie, ich sperr' die
+Tuer indessen zu, dass er nicht gleich herein kann.  (Tut es.) Wenn er
+nur unterdessen abfuehr'.  bis wir ihm ganz abfahren.
+
+Ewald.  Kein uebler Gedanke, das geht nicht so leicht, er wird fragen,
+wo wir die schoenen Moebel her haben.  Dann wird ihm die Fackel
+auffallen.  Still!
+
+Riegelsam (klopft von aussen).  Nur aufgemacht.  Ich weiss, dass Er zu
+Hause ist.
+
+Simplizius.  Gleich, gleich.  (Heimlich.) Was tun wir denn?
+
+Ewald (ebenso).  Geben Sie mich fuer einen Englaender aus, dem die
+Moebel gehoeren, und der fuer Sie zahlen will.
+
+Riegelsam.  Ich schlag' die Tuer ein, wenn Er nicht aufmacht.
+
+Simplizius.  Richtig, fangen Sie nur zum moeblieren an.  (Ruft.) Nur
+warten.
+
+Riegelsam.  Warten?  Du verdammter Bursch', wart' du auf meinen Stock,
+ wenn ich hineinkomm'.
+
+(Ewald hat indessen die Fackel geschwungen, die sich selbst
+entzuendet.)
+
+(Musik.)
+
+Auf einen Schlag verwandelt sich das schmutzige Zimmer in ein
+herrlich gemaltes und reich moebliertes.  Grosse Gemaelde mit goldenen
+Rahmen, nebst einer schoenen Wanduhr praesentieren sich.  So
+verwandeln sich auch die Tueren, das Fenster, Tisch und Stuehle.  Das
+ganze zeigt sich jedoch im bleichen Rosenlichte
+
+Simplizius.  Mich trifft der Schlag, das wird doch ein schoener
+Betrug sein.  Ich gluecklicher Mensch, das g'hoert alles nicht mein.
+
+Ewald (steckt die Fackel an die Wand, wo der Schreibtisch steht,
+setzt sich schnell und stuetzt das Haupt auf die Hand).  Nun oeffnen
+Sie, sagen Sie, ich dichte und wollte ungestoert bleiben, und Sie
+haetten geschlafen.
+
+Riegelsam.  Brecht das Schloss auf.  (Sie schlagen an die Tuer,
+Simplizius oeffnet.)
+
+Simplizius.  Ist schon offen.
+
+
+
+Sechzehnte Szene.
+Vorige.  Riegelsam (ein sehr dickleibiger Mann von heftigem
+Temperament).
+
+
+Riegelsam (noch in der Tuer).  Aufmachen kann er nicht, aber Schulden
+machen kann er.  Wart', du verdammt--(er tritt herein, zwei
+Gerichtsdiener halten an der Tuer Wache, Riegelsam steht erstarrt.)
+Was ist das fuer eine malizioese Pracht?  Ich erstaune.  Wem gehoert das
+Amoeblement?
+
+Ewald (rasch aufspringend).  Mir!
+
+Riegelsam.  Ihnen?  Ah, allen Respekt.
+
+Ewald.  Also schliessen Sie Ihren Mund.  (Setzt sich nieder und
+schreibt fort.)
+
+Riegelsam..  Was Mund schliessen?  Um fuenfhundert Taler kann man den
+Mund gar nicht weit genug aufmachen.
+
+Simplizius.  Wenn er nur die Mundsperr' bekaem', dass er ihn gar nicht
+mehr zubraecht'.
+
+Riegelsam.  Nichts wird g'schlossen, als der--(auf Simplizius
+deutend) der wird g'schlossen--kreuzweis'.  Wie steht's,
+liederlicher Patron, wird gezahlt oder nicht?
+
+Simplizius.  Ja, es wird gezahlt.
+
+Riegelsam.  Wer zahlt?
+
+Simplizius.  Ich nicht.
+
+Riegelsam.  Gerichtsdiener!  (Sie treten vor.)
+
+Ewald.  Halt!  (Springt auf.) Ich bezahle.  (Setzt sich wieder und
+schreibt.)
+
+Riegelsam.  Wirklich?  Allen Respekt.  Wer ist dieser Herr?
+
+Simplizius.  Ein vacierender Lord.
+
+Riegelsam.  Und wohnt in diesem miserablen Haus?
+
+Simplizius.  Spleen.
+
+Riegelsam.  Warum schreibt er denn bei einer Fackel am hellichten
+Tag?
+
+Simplizius.  Spleen.
+
+Riegelsam.  Und was krieg' ich denn fuer meine Schuld?
+
+Simplizius.  Spleen.
+
+Riegelsam.  Geh Er zum Henker mit seinem Spleen.  (Beiseite.) Wenn
+ich nur die schoenen Moebel haben koennt', ich bin ganz verliebt in
+sie.  (Laut.) Also was soll's sein?  Entweder meine fuenfhundert Taler,
+ oder ich lass' das Zimmer ausraeumen.
+
+Simplizius.  Da kriegt er auch was rechts.
+
+Ewald.  Herr, unterstehen Sie sich nicht, sich meines Eigentumes zu
+bemaechtigen.  In diesem Zimmer bin ich Herr, weil ich es gemietet
+habe, und wenn Sie es nicht zur Stelle verlassen, so werd' ich mein
+Hausrecht gebrauchen und Sie zum Fenster hinauswerfen.
+
+Riegelsam.  Welch eine Behandlung?  Was soll das sein?  (Sieht
+Simplizius fragend an.)
+
+Simplizius (gleichgueltig).  Spleen.
+
+Riegelsam.  Halt' Er sein Maul mit seinem verflixten Spleen.  Sie
+haben sich angeboten zu bezahlen, tun Sie es, ich bin bereit.
+
+Ewald.  Ich noch nicht, in einer Stunde sollen Sie Ihr Geld erhalten,
+ ich erwarte die Post.  Entfernen Sie sich jetzt und kommen Sie in
+einer Stunde wieder.
+
+Riegelsam.  Hat auch kein Geld, nichts als Spleen.
+
+Simplizius.  Ein splendider Mann.
+
+Riegelsam.  Aber die schoenen Moebel, diese herrlichen Moebel.  Gut, ich
+geh', aber die Wach' bleibt hier.
+
+Simplizius Ich seh' mich schon im Loch.
+
+Ewald.  Impertinent, den Augenblick mit der Wache fort, oder Sie
+bekommen keinen Heller von Ihrer Schuld.
+
+Riegelsam.  Nicht?  So lass' ich ihn einsperren.  (Auf Simplizius
+zeigend.)
+
+Ewald.  Nur fort mit ihm, das ist das beste, was Sie tun koennen.
+
+Simplizius (erschrocken).  So ist's recht, das waere schon das beste
+bei ihm.
+
+Riegelsam (beiseite).  Es ist ihm nicht beizukommen, ich moecht'
+rasend werden.  Aber die schoenen Moebel allein koennten mich verfuehren.
+
+
+Simplizius.  Ah, wenn Sie s' erst im rechten Licht sehen werden,
+denn sein' Fackel blendt einen ja.
+
+Riegelsam.  Sind sie da noch schoener?
+
+Simplizius.  O, da kann man sie gar nicht sehn vor lauter Schoenheit.
+
+Riegelsam.  Gut, die Wach' soll sich entfernen, unter der Bedingung,
+dass Sie mir diese Moebel verschreiben.
+
+Simplizius (heimlich erfreut).  Beisst schon an.
+
+Riegelsam.  Wenn ich in einer Stunde mein Geld nicht erhalte,
+gehoeren sie mir.
+
+Simplizius (heimlich freudig).  Haben ihn schon!
+
+Ewald.  Mein Wort darauf.
+
+Riegelsam.  Nichts, das muss schriftlich sein, nur aufsetzen, alles
+schriftlich.
+
+Simplizius (heimlich).  G'hoert schon uns!
+
+Ewald (schreibt).  Also alles was sich in diesem Zimmer befindet?
+
+Simplizius Bis auf uns, denn er waer' imstand, er nehmet uns auch
+dazu.  Das ist gar ein Feiner.
+
+Riegelsam.  So ein miserables Moebel, wie Er ist, kann ich nicht
+brauchen.  Still.  Euer Hoheit geruhen zu unterschreiben.
+
+Ewald.  Hier.
+
+Riegelsam.  Auch der Schneider.
+
+Simplizius (tut es fuer sich).  Du wirst dich schneiden.
+
+Riegelsam (frohlockend).  Bravo, jetzt bin ich in Ordnung.
+
+Simplizius.  Das ist ein gluecklicher Kerl, jetzt hat er einen Fang
+gemacht.
+
+Riegelsam (zur Wache).  Ihr koennt nach Hause gehn.
+
+(Wache ab.)
+
+Simplizius.  Ah, weil nur die Garnierung von der Tuer' weg ist.
+
+Ewald.  Nun gehen Sie auch!
+
+Riegelsam.  Ich?  Was fallt Ihnen ein, ich bleib' hier, bis das Geld
+ankommt.
+
+Ewald.  Welch eine Eigenmaechtigkeit!  Ich muss fort, das Geld zu holen,
+ ich habe Eile.
+
+Simplizius.  Freilich, bei uns geht's auf der Post.  (Fuer sich.) Wir
+fahren ja ab.
+
+Riegelsam.  Das koennen Sie machen, wie Sie wollen.  (Setzt sich in
+einen Stuhl.) Mich bringt einmal niemand aus diesem Zimmer fort.
+Ich muss meine Moebel bewachen, kein Stueck darf mir davon wegkommen.
+Tausend Element!
+
+Ewald (zu Simplizius heimlich).  Das ist eine schoene Geschichte, was
+tun wir jetzt?
+
+Simplizius.  So lassen S' ihn sitzen, wir nehmen unsre Fackel, gehn
+hinaus, sperren ihn ein und er soll seine Moebel bewachen.
+
+Ewald.  Ein delikater Einfall.  (Nimmt die Fackel von der Kulisse.)
+Nun wohl, bleiben Sie hier und haften Sie mir fuer alles.
+
+Simplizius.  Und geben Sie acht, dass Ihnen nichts wegkommt, sonst
+muessen Sie's zahlen.
+
+(Ewald und Simplizius gehen schnell hinaus und sperren die Tuer zu.
+Wie die Fackel ans dem Zimmer ist, verwandelt sich dasselbe wieder
+in die arme Stube.)
+
+
+
+Siebzehnte Szene.
+Riegelsam (allein, springt auf und sagt im hoechsten Erstaunen).
+Blitz und Donner, was ist das fuer eine Bescherung?  Bin ich in eine
+Zauberhoehle geraten?  Wo sind die Moebel hingekommen?  Die schoene Uhr,
+die herrlichen Bilder.  Alles ist fort, Fetzen sind da.  (Zerreisst
+die Kleider.) Nichts als Fetzen sind da und die Lumpen sind fort.
+Ha!  Ich muss ihnen nach.--Die Tuer ist verriegelt, ich kann nicht
+hinaus, ich erstick' vor Wut.  Meine fuenfhundert Taler.  (Sinkt in
+den Stuhl.)
+
+
+Simplizius (sieht zu dem kleinen Fenster herein).  Freund, die sind
+verloren.
+
+Riegelsam.  O du Hexenmeister, wirst du hereinkommen!  Schaff' mir
+meine Moebel her!
+
+Simplizius.  Wollen Sie s' nochmal sehn?  (Haelt die Fackel zum
+Fenster herein.) Da sind sie!  (Das Zimmer wird wie vorher reich
+moebliert.)
+
+Riegelsam (stuerzt mit ausgebreiteten Armen darauf hin).  Halt, jetzt
+lass' ich sie nicht mehr aus.
+
+Simplizius (zieht die Fackel zurueck).
+
+(Schnelle Verwandlung.)
+
+Simplizius.  Halten Sie s' fest.--So raecht sich Simplizius, der
+Verschuldete.
+
+
+
+Achtzehnte Szene.
+Riegelsam (der bei der Verwandlung betroffen zurueckfuhr, springt
+nun wuetend auf das Fenster zu, welches Simplizius ihm vor der Nase
+zuschlaegt).  Spitzbuben!  Gesindel!  Raeuber!  Moerder!  Dieb'!  (Schlaegt
+die Fensterscheiben ein.) Ich zerplatz' vor Zorn.  Ich muss ihnen
+nach.  (Will zum Fenster hinaus und bleibt stehen.) Ich kann nicht
+durch, ich bin zu dick, ich erstick'!  Was seh' ich!  O hoellische
+Zauberei, sie fliegen auf einer Wolken davon.  Die praechtigen
+Kleider, der Schneider strotzt vor Silber, wenn ich s' ihm nur
+herabreissen koennt'.  Meine fuenfhundert Taler.  Ich werd' unsinnig,
+ich spreng' mich in die Luft.  Nein, ich spreng' die Tuer' ein.  (Er
+tut es.) Hilfe!  Hilfe!  Raeuber!  Dieb'!  Wache!  (Ab.)
+
+
+
+Neunzehnte Szene.
+(Grosser Platz in Massana, im griechischen Stil erbaut.  Seitwaerts
+der koenigliche Palast.  Stufen fuehren aufwaerts, auf welchen der
+Genius des Todes, ein bleicher Juengling mit der umgekehrten
+ausgeloeschten Fackel, mit geschlossenen Augen sitzt.  Viele Personen
+in Trauer, viele nicht, gehen haenderingend herum ueber die Strasse.)
+
+Kurzer Chor.
+Jammer, sag', wann wirst du scheiden,
+Von Massanas Ungluecksflur;
+Grosse Goetter, hemmt die Leiden,
+Eure Macht vermag es nur.
+
+
+(Gehen trauervoll ab.)
+
+
+
+Zwanzigste Szene.
+Lucina (kommt und betrachtet mit Wehmut den Palast).  Genius des
+Todes.
+
+(Die ganze Szene muss von beiden Seiten langsam und feierlich
+gesprochen werden.)
+
+
+Lucina.
+Mich erfasst ein widrig Schauern,
+Blick' ich auf dies Trauerschloss.
+Schon seh' ich den Juengling lauern,
+Armer Fuerst, dein Leid ist gross.
+(Mit erhobener Stimme.)
+Du, des Todes Genius,
+Magst durch Antwort mich begluecken;
+Wirst du heut den eis'gen Kuss
+Auf Massanas Lippen druecken?
+
+Genius des Todes
+(hebt sein Haupt, stets bleibt die Fackel gesenkt.  Spricht kalt und
+ernst im tiefen Tone).
+
+Wenn die Nacht den Tag verjagt
+So heischt's Hades Rachesinn,
+Hat Massana ausgeklagt.
+(Kurze Pause.)
+ Rauscht das Meer darueber hin.
+Lucina.
+ Und wie wird der Koenig enden,
+Wirst du freundlich ihn umfahn?
+Genius des Todes.
+ Hades kann nur Schrecken senden,
+Duester wird sein Ende nahn.
+Lucina.
+ Wehmut seufzt aus deiner Kunde
+Und doch frommt sie meinem Plan,
+Mich beglueckt die Ungluecksstunde,
+Wenn ich dich erweichen kann.
+Schenk' das Leben mir von zweien,
+Die nicht Hades Fluch getroffen,
+Die nicht an die Zahl sich reihen,
+Die Erbarmen nicht zu hoffen.
+Genius des Todes (laechelnd).
+ Nimm das Leben hin von zweien,
+Du entziehst mir's dennoch nicht.
+Lucina.
+ Moechtest du mir noch verleihen,
+Dass Heraklius' Auge bricht,
+Eh' des Landes Festen beben.
+Genius des Todes.
+ Eh' den Turm noch kuesst die Well',
+Lischt des kranken Koenigs Leben.
+Lucina.
+ Doch Massana muss dann schnell,
+Eh' die Zeit Sekunden raubt,
+In dem Augenblick versinken,
+Wo auf einem fremden Haupt,
+Wird des Koenigs Krone blinken.
+Genius des Todes
+(laesst das Haupt sinken und
+sagt dumpf und langsam).
+ Wird versinken.
+(Pause, dann noch mit gesenkten Haupte)
+                           Lass mich lauschen.
+Lucina.
+ Ist dein Aug' zum Schlaf erlahmt?
+(Gejammer in der Szene, mehrere Stimmen: Hilf, er stirbt.)
+Genius des Todes.
+ Hoerst du's rauschen?
+(Hebt das Haupt.)
+ Dorthin ruft mein eisern Amt.
+
+
+(Er steht auf, sein Haupt ist etwas gebeugt, die rechte Hand
+streckt er gegen den Ort, wo der Schall hertoent, als zeigte er hin,
+die linke haengt, die umgestuerzte Fackel haltend, gerade herab, so
+eilt er gemessenen Schrittes in die Kulisse, doch auf die
+entgegengesetzte Seite des Palastes.)
+
+Lucina (blickt gegen Himmel)
+      Goetter, die ihr gnaedig waltet
+Und doch unbegreiflich schaltet!
+
+(Geht langsam auf die entgegengesetzte Seite ab.)
+
+
+
+Einundzwanzigste Szene.
+Thestius, Epaminondas (mehrere Einwohner von Massana kommen von der
+Seite, wo der Genius abgeschritten ist).
+
+
+Thestius.  Ist aus mit ihm, ist stumm; die Goetter haben seinen Mund
+geschlossen.
+
+Epaminondas.  Ein sonst so sanftes Ross, und schleudert ihn herab,
+dass von dem Fall die Erde donnert.  (Die Weiber weinen.) So heult
+doch nicht, seid ihr's nicht schon gewohnt?  Seit sieben vollen
+Jahren hat Unglueck hier im Lande sich gelagert und ueber diese Stadt
+sein schwarzes Zelt gespannt.  Ich bin schon stumpf gemacht, mich
+kann's nicht ruehren mehr, wenn meines Nachbars Dach auf seinen
+Schaedel stuerzt.  Nur Weiber koennen sich an so was nicht gewoehnen.
+
+Thestius.  O Hades, ungerechter Fuerst der Unterwelt, der du aus
+Rache, weil Massana nicht den Koenig hat gewaehlt, den du durch deine
+unterirdischen Orakel ihm bestimmen liessest, das arme Reich mit
+Uebel aller Art verfolgst; so dass wir wie auf nie betretnem
+Eisgeklueft, nicht einen Schritt auf breiter Strasse tun, wo nicht
+Gefahr des Lebens mit verbunden ist.
+
+Epaminondas.  Seht, was laeuft das Volk zusammen?  Zwei Fremde bringen
+sie.
+
+Thestius.  Die sind so selten jetzt im Lande, als ob sich Kometen
+zeigten.  Hypomedon fuehrt sie.
+
+
+
+Zweiundzwanzigste Szene.
+Vorige.  Hypomedon, Ewald und Simplizius, beide im aegyptischen
+Kostueme.
+
+
+Hypomedon.  Endlich haben wir wieder das Glueck, zwei Fremdlinge in
+unserer Stadt zu sehen.  Staunt, aus Aegypten kommen diese Leute gar,
+um bei uns Verachtung des Lebens zu lernen.
+
+Ewald.  Sei gegruesst, Volk von Massana, ich habe Wichtiges in deinem
+Reiche zu verhandeln.
+
+Simplizius.  Zu verhandeln, sagt er, auf die Letzt' halten s' uns
+fuer Juden.
+
+Thestius.  Seid uns gegruesst, wir bedauern euch.
+
+Simplizius (macht grosse Augen).  Der bedauert uns.
+
+Thestius.  Euch haben boese Sterne in das Land geleitet.
+
+Simplizius.  Ach warum nicht gar, wir sind ja beim helllichten Tag
+ankommen.
+
+Ewald (nimmt ihn auf die Seite).  Sein Sie nicht so gemein, tun Sie
+vornehm, klug, bescheiden und druecken Sie sich in bessern Worten
+aus.
+
+Simplizius.  Das muessen Sie mir schriftlich geben, denn so kann ich
+mir das nicht merken.
+
+Ewald.  Glaubt nicht, dass ich der Pyramiden geheimnisvollen
+Aufenthalt umsonst verliess, ihr werdet die Gestirne hoch verehren,
+die nach Massana mir geleuchtet, denn fromme Goetter haben mich zu
+euch gesendet.
+
+Thestius.  So preisen deine Sendung wir.  Dein Aug' ist sanft, und
+edel deine Haltung, dein Antlitz floesst Vertrauen ein, und deine
+kuehn gewoelbte Stirn mag wohl ein Thron der hoechsten Weisheit sein.
+
+Simplizius.  Nein, was s' an dem alles bemerken, das waer' mir nicht
+im Schlaf eing'fallen.  Einen Thron hat er auf der Stirn, und da
+sitzt die Weisheit d'rauf.  (Macht die Pantomime des Niedersetzens.)
+Jetzt, was werden s' erst auf meiner Stirn' alles sitzen sehn?
+
+Thestius.  Willst du mein Unglueckshaus zur Wohnung dir erwaehlen, so
+folge meinem scheuen Tritt, doch lass die Vorsicht emsig pruefen
+deinen Pfad und Besorgnis ueber deine Schultern schaun.  (Verbeugt
+sich tief.)
+
+Ewald.  Mein Dank gruesst deines Hauses Schwelle, mit frohem
+Hoffnungsgruen wird dir der Gast die Hallen schmuecken.  Simplizius,
+folge bald!  (Geht mit Anstand a, Thestius folgt.)
+
+
+
+Dreiundzwanzigste Szene.
+Vorige, ohne Ewald und Thestius.
+
+
+Simplizius (sieht ihm erstaunt nach).  Ich empfehl' mich ihnen.  Ah,
+was die Weisheit fuer eine langweilige Sach' ist, das haett' ich in
+meinem Leben nicht gedacht.  Ich will einmal lustig sein.  (Tut nobel
+zu Epaminondas.) Sagen Sie mir, mein edelster Massanier, was gibt
+es denn fuer Spaziergaenge hier?
+
+Epaminondas.  Der betretendste Weg fuehrt ins Elend.
+
+Simplizius.  So?  Das muss eine schoene Promenade sein.
+
+Hypomedon.  Du wirst sie schon noch sehen.
+
+Simplizius.  Ich freu mich schon d'rauf.  Haben Sie auch ein Theater?
+
+Epaminondas.  O ja.  (Seufzend.) Massana heisst der Schauplatz.
+
+Simplizius.  Was wird denn da aufgefuehrt?
+
+Hypomedon.  Ein grosses Trauerspiel.
+
+Simplizius.  Von wem?
+
+Epaminondas.  Ein Werk des Orkus ist's.
+
+Simplizius.  Den Dichter kenn' ich nicht, muss ein Auslaender sein.
+
+Hypomedon.  Es waehrt schon sieben Jahre.
+
+Simplizius.  O Spektakel, da muss einer ja drei-, viermal auf die
+Welt kommen, bis er so ein Stueck sehn kann.  Wer spielt denn mit?
+
+Epaminondas.  Das ganze Volk.
+
+Simplizius.  Also ein Volkstheater.  Und wer schaut denn zu?
+
+Epaminondas.  Die Hoelle.
+
+Simplizius.  Da muss ja eine Hitz' im Theater sein, die nicht zum
+aushalten ist.  Ueberhaupt scheinen die Leut' hier nicht ausg'lassen
+lustig z' sein.  Warum weinen denn die Fraun da?
+
+Eine Frau.  Wir beweinen euer Schicksal.
+
+Simplizius.  Unser Schicksal?  Was haben denn wir fuer ein Schicksal?
+Wen tragen s' denn da?  (Sieht in die Kulissen.)
+
+Hypomedon.  's ist nur einer, den ein Ross erschlagen hat.
+
+Simplizius.  Erschlagen hat's ihn nur?  O, da reisst er sich schon
+noch heraus, hier ist eine g'sunde Luft.  Wer wohnt denn in dem
+grossen Haus?
+
+Hypomedon.  Das steht leider leer, die Leute sind alle
+herausgestorben.
+
+Simplizius.  Warum nicht gar?  Was hat ihnen denn g'fehlt?
+
+Epaminondas.  Nu, es ist eine eigene Krankheit, es ist nicht gerade
+ein gelbes Fieber--
+
+Simplizius.  Nu, wenn es nur eine Farb' hat, ich bin mit allen
+z'frieden.  (Sieht auf die entgegengesetzte Seite in die Kulisse.)
+Sie, da tragen s' ja schon wieder einen?
+
+Epaminondas.  Das geht den ganzen Morgen so, heut ist ein
+gefaehrlicher Tag, Ihr duerft Euch in acht nehmen.
+
+Simplizius.  In acht nehmen?  Ja, haben Sie denn etwa die Pest?
+
+Epaminondas.  Nu, jetzt nicht mehr so sehr.
+
+Simplizius.  Nicht mehr so sehr?  Hoeren Sie auf, mir wird voellig
+angst.  Ich bitt' Sie, mein lieber--wie heissen Sie?
+
+Epaminondas.  Epaminondas.
+
+Simplizius.  Epaminondas?  Das ist auch ein so ein g'faehrlicher Nam'.
+Also, mein lieber Epaminondas, haben Sie die Guete und fuehren Sie
+mich wohin, dass ich eine Aufheiterung hab', denn ich bin sehr
+miserabel.
+
+Epaminondas.  Ich will dich an einen Ort fuehren, wo du vielleicht
+Bekannte findest.
+
+Simplizius..  O, das waer' praechtig.  Wohin denn?
+
+Epaminondas.  In die Fremdengruft; dort liegen alle Fremden begraben,
+die seit sieben Jahren in unsere Stadt gekommen sind.
+
+Simplizius.  Alle, ohne Ausnahm'?
+
+Epaminondas.  Ja, ja, alle; du kannst dir gleich dort einen Platz
+bestellen.
+
+Simplizius.  Einen Platz soll ich mir bestellen, wie auf einem
+G'sellschaftswagen?  Sie wahnsinniger Mensch, was fallt Ihnen denn
+ein?  Was ist denn das fuer ein Land?  Das ist eine wahre Marderfallen,
+wo man nicht mehr hinaus kann.  Und das erzaehlen Sie einem noch,
+Sie abscheul-- wie heissen S'?  Ich habe Ihnen schon wieder vergessen.
+
+Epaminondas (wild).  Epaminondas.
+
+Simplizius.  Der Nam' bringt einen allein schon um.  So widerrufen
+Sie doch, Epaminondas, wenn Sie nicht wollen, dass mich die Angst
+verzehrt.
+
+
+
+Vierundzwanzigste Szene.
+Vorige.  Sillius eilig.
+
+
+Sillius.  Helft, helft, es steht ein Haus in Flammen!
+
+Alles (laeuft ab).  Hilfe, rettet, fort!
+
+Epaminondas (lacht).  Haha, die Toren loeschen dort und jammern sich
+bei fremdem Unglueck krank.  Da lach' ich nur, ich bin ein Stoiker,
+wer raubt mein Glueck?
+
+
+
+Fuenfundzwanzigste Szene.
+Vorige.  Argos eilig.
+
+
+Argos.  Du sollst nach Hause kehrn, Epaminond', dein Sohn ist tot.
+
+Epaminondas (die Haende jammernd ringend).  Mein Sohn!  Mein Sohn!  O
+ungluecksel'ger Tag!  Ich ueberleb' ihn nicht!  (Stuerzt mit Argos ab.)
+
+
+
+Sechsundzwanzigste Szene.
+Simplizius allein, dann zwei Diener des Thestius.
+
+
+Simplizius (zittert am ganzen Leibe).  Schrecklich, schrecklich!
+Stirbt schon wieder eine Familie aus.  Der Stoiker ist g'straft fuer
+seinen Uebermut.  Mich fangt eine Ohnmacht ab.  (Setzt sich auf die
+Stufen des Palastes.) Wo werden s' da Hofmannische Tropfen haben?
+Hilfe, Ohnmacht, Hilfe!
+
+Diener (aus dem Hause).  Du moechtest hinaufkommen, Fremdling, dich
+zu laben.
+
+Simplizius (matt).  Laben?  Das ist die hoechste Zeit, dass Sie mich
+laben.  Ich komm' schon, nur voraus.
+
+Diener.  Doch nimm dich wohl in acht, die Treppe ist sehr steil, es
+haben sich drei Hausgenossen schon das Bein gebrochen.
+
+Simplizius (in hoechster Angst).  Ums Himmels willen, das nimmt ja
+gar kein End'.  (Die Knie schnappen ihm zusammen.) Ich trau' mich
+gar nicht aufzutreten mehr.  Fuehrt's mich hinein.  (Der Diener fuehrt
+ihn unter dem Arm, er spricht unter dem Abgehen:) O schlechtes Volk!
+Eine Fremdengruft haben s', das gelbe Fieber, etwas Pest,
+Epaminondas--ein' Beinbruch auch.  O Angst, wann ich hier stirb',
+mein Leben sehn s' mich nimmermehr.  (Schleppt sich ab, von den
+Dienern gefuehrt.)
+
+
+
+Siebenundzwanzigste Szene.
+(kurzes Gemach in Thestius' Hause mit zwei Seitentueren.)
+
+
+Thestius.  Ewald.
+
+Thestius.  Du bist gemeldet bei dem Koenig, Fremdling, als unsres
+Landes wunderbarer Retter.  Seit fruehmorgens sind schon die Minister
+all um ihn versammelt.  An unheilbarem Uebel liegt der Herrliche
+danieder, und wie der Mensch durch hoehern Schmerz den mindern nicht
+fuehlt, so klagt das Volk mit edler Lieb' bei seines Koenigs hohem
+Leid, dass es ob dem Gestoehn' das eigne gross vergisst.
+
+Ewald.  O, wie entzueckend ist es, so geliebt zu sein.
+
+Thestius.  So liebt der Koenig auch sein treubewahrtes Volk, und
+gleichen Sieg erringt sein edles Herz.  Wie gluecklich waer' dies Land,
+wenn nicht der unbarmherz'ge Fuerst der unterird'schen Schatten--
+
+
+
+Achtundzwanzigste Szene.
+Vorige.  Hermodius eilig und bestuerzt.
+
+
+Hermodius.  Wo ist der Weise aus Aegyptens Zauberlande, der Rettung
+bietet dem bestuerzten Volk?
+
+Thestius.  Du siehst ihn hier voll sanfter Wuerde stehn.
+
+Hermodius.  Beweisen magst du nun, dass gute Goetter dich mit
+wunderbarer Zauberkraft begabt; du musst zum Koenig schnell, es will
+sein Geist Elysium erkaempfen, doch sendet Hades schauervolle Bilder,
+mit Schreckensnacht sein Auge zu umgarnen, und Furien, furchtbar
+anzuschauen, mit Schlangen reich umwunden, auf faulen Duensten
+schwebend, durchrauschen das Gemach.  Nun sprich; kannst du des
+Orkus Nacht durch Eos' Strahl erhellen?
+
+Ewald..  Ich kann es nicht, den Goettern ist es moeglich, und was ich
+bin, ich bin es nur durch sie.
+
+Hermodius.  So eil' mit mir, es ist die hoechste Zeit.
+
+Ewald (umarmt Thestius mit Ruehrung).  Mein Thestius, leb' wohl,
+Osiris moege dich fuer deine Guete lohnen.  (Fuer sich mit Schmerz.)
+Massana sinkt, ich seh' ihn nimmermehr.  Nun komm, geleite mich, mir
+winkt ein grosser Augenblick.
+
+Thestius.  Kehr' bald zurueck, mein Herz erwartet dich.
+
+(Ewald und Hermodius zur Seite ab, Thestius zur entgegengesetzten
+Seite ab.)
+
+
+
+Neunundzwanzigste Szene.
+Simplizius und Arete treten ein.
+
+
+Arete.  Ach, du armer Mensch, komm doch herein, warum willst du denn
+keine Speise nehmen.
+
+Simplizius.  Ich bin ueberfluessig satt, mir liegt das ganze Land im
+Magen, drum bring' ich nichts hinein.  Ich verhungre noch vor Angst.
+
+Arete.  Pfui, schaem' dich doch, bist du ein Mann?
+
+Simplizius (beiseite).  Ich weiss selbst nicht mehr, was ich bin.
+(Laut.) Vermutlich.
+
+Arete.  Betrachte mich; ich bin ein Maedchen.  Wir haben zwar grosse
+Ursache, uns zu fuerchten, man hat heute ein Erdbeben verspuert, dass
+die Stadtmauern erzittert haben.
+
+Simplizius.  Jetzt, wenn die Stadtmauern schon zum Zittern anfangen,
+was soll denn unsereiner tun?
+
+Arete.  Warum bist du denn aber eigentlich nach Massana gekommen?
+
+Simplizius (zittert).  Weil ich das Land erretten muss.
+
+Arete.  Du?  Ach, ihr guten Goetter, wenn du dich nur nicht vorher zu
+Tode zitterst.
+
+Simplizius.  Glaubst?  Das war' sehr fatal.
+
+Arete.  Armer Narr, du dauerst mich.
+
+Simplizius.  Ich dank' ergebenst.  Das Maedel waer' so huebsch, wenn mir
+nur nicht die Knie zusamm'schnappeten; ich fanget aus lauter Angst
+eine Amour an.
+
+Arete.  Warum blickst du mich so forschend an, was wuenschest du?
+
+Simplizius (fuer sich).  Wenn sie nur in der G'schwindigkeit eine
+Leidenschaft zu mir fasset, so koennten wir heut vormittag noch
+durchgehn, da kaem' ich doch auf gute Art aus dem verdammten Land.
+Sag' mir, liebes Kind, was fuehlst du eigentlich fuer mich?
+
+Arete.  Mitleid, inniges Mitleid!
+
+Simplizius.  Inniges Mitleid?  Aha, sie ist nicht ohne Antipathie fuer
+mich.  Koenntest du dich wohl entschliessen--
+
+Arete.  Wozu?
+
+Simplizius.  Die Meinige zu werden.
+
+Arete.  Arete die Deinige?
+
+Simplizius..  Ja, Arete, du hast mein Herz arretiert.
+
+Arete (sehr stolz).  Wer bist du, der du es wagst, um die Hand einer
+edlen Massanierin anzuhalten?
+
+Simplizius (beiseite).  Soll ich ihr meinen Stand entdecken?  Nein,
+ein mystisches Dunkel muss darueber walten.  (Laut.) Ich bin nicht,
+was ich scheine, und scheine auch nicht, was ich bin, und wenn ich
+das waere, was ich sein moechte, so wuerd' ich nicht scheinen.  was ich
+nicht bin.
+
+Arete.  Ich verstehe dich.
+
+Simplizius.  Da g'hoert ein Geist dazu, ich versteh' mich selber
+nicht.
+
+Arete.  Du moechtest gern scheinen, was du nicht bist, und bist doch
+so sehr, was du auch scheinst.
+
+Simplizius.  Hat's schon erraten, es ist unglaubbar.  Sag' mir, Maedel,
+ haettest du wohl den Mut, mich zu entfuehren?
+
+Arete.  Dich?
+
+Simplizius.  Oder umgekehrt.
+
+Arete.  Das heisst, ich soll mit dir mein Vaterland verlassen?  Ich
+verstehe dich wohl.
+
+Simplizius.  Hat mich schon wieder verstanden.
+
+Arete.  Damit du mich aber auch verstehst, so will ich dir sagen,
+wofuer ich dich halte; Du bist ein unverschaemter, erbaermlicher
+Mensch, der es wagt, seine vor Todesfurcht bebenden Lippen zu einer
+Liebeserklaerung zu oeffnen und einem edlen Maedchen von Massana seine
+krueppelhafte Gestalt anzutragen.  Entferne dich, mit dir zu reden
+ist Verbrechen an der Zeit, und wenn du kuenftig wieder ein
+Maedchenherz erobern willst, so staehle das deinige erst mit Mut;
+mutige Maenner werden geliebt, mutlose verachtet man.
+
+Simplizius.  Da g'hoert ein Stoiker dazu, um das zu ertragen.  Lebe
+wohl, du wirst zu spaet erfahren, wen du beleidigt hast.  Ha, jetzt
+kann Massana fallen, ich heb's g'wiss nicht auf.
+
+Arete.  Halt, weile noch, erklaere dich, damit ich erfahre, wessen
+Antrag mich entwuerdigt hat.
+
+Duett.
+
+Arete.  Wer bist du wohl, schnell sag' es an?
+
+Simplizius.  Ich hab's schon g'sagt, ich bin ein Mann.
+
+Arete.  Wie heissest du, bist du von Adel?
+
+Simplizius.  Ich heiss' Simplizius Zitternadel.
+
+Arete.  Der Name klingt mir sehr gemein.
+
+Simplizius.  Es kann nicht alles nobel sein.
+
+Arete.  Wie kannst du solchen Unsinn sagen?
+
+Simplizius.  Das wollt' ich dich soeben fragen.
+
+Arete.  Dein Aeussres ist mir schon zuwider.
+
+Simplizius.  Das schlaegt mein Innres sehr danieder.
+
+Arete.  So haesslich ist kein Mann hienieden.
+
+Simplizius.  Die Gusto sind zum Glueck verschieden.
+
+Arete.  Wie abgeschmackt der Schnitt der Kleider.
+
+Simplizius (aufbrausend).  Das ist nicht wahr, ich bin--(fasst sich
+und sagt gelassen) nur weiter.
+
+Arete.  Nun haettest du dich bald verraten.
+
+Simplizius.  Ja, meiner Seel', jetzt hat's mir g'raten.
+
+Arete.  Du musst mir sagen, wer du bist?
+
+Simplizius.  Ich bin ein Held, wie's keiner ist.
+
+Arete (spoettisch).  Dein Mut ist in der Schlacht wohl gross?
+
+Simplizius.  Ich stech' oft ganze Tag' drauf los.
+
+Arete.  Umsonst verschlingst du schlau den Faden.
+
+Simplizius.  Mir scheint, die Feine riecht den Braten.
+
+Arete.  Mein Argwohn laesst sich nicht mehr trennen.
+
+Simplizius.  Jetzt braucht s' nur noch die Scher' zu nennen.
+
+Arete.  Du bist kein Prinz, gesteh' es mir.
+
+Simplizius (zornig).  Ich bin ein Kleideringenieur!
+
+Arete.  Ha!
+
+(Beide zugleich.)
+
+Ihr Goetter, was hoer' ich, mein Auge wird truebe,
+Ein solcher Plebejer spricht zu mir von Liebe,
+                     Welch eine Glut,
+                     Brennet im Blut;
+                     Wuetender Schmerz,
+                     Flammet im Herz.
+Schnell flieh' ich von hinnen, verberge mich schon,
+O folternde Hoelle, beschaemende Reu'!
+
+Simplizius.  Was soll ich es leugnen, 's ist keine Schand',
+Denn Achtung verdienet mein nuetzlicher Stand.
+                     Ich sag' es g'rad,
+                     Ich g'hoer zur Lad';
+                     Und meine Scher',
+                     Schwing' ich mit Ehr'.
+Ich schreit in die Welt hinaus, 's ist meine Pflicht,
+Ich bin ja kein Pfuscher, drum schaem' ich mich nicht.
+
+(Beide ab.)
+
+
+
+Dreissigste Szene.
+(Koenigliches Gemach.)
+
+(Die Hinterwand bildet einen grossen offenen Bogen, vier Schuh
+tiefer, eine breite Rueckwand von dunklen Wolken, durch welche man
+wie im Nebel eine riesige blaeulichte Figur mit gluehenden Augen
+erblickt, welche das Haupt mit einem Kranz von Rosmarin umwunden
+hat.  Sie ruht lauernd auf den Wolken, ihren Blick auf Heraklius
+heftend, ist mit dem Todespfeil bewaffnet und stellt die alles
+vernichtende Zeit in furchtbar drohender Gestalt vor.  Larven
+grinsen hie und da aus den sie umgebenden Wolken hervor.  Zwischen
+dieser Wand und der Oeffnung des Bogens sieht man vier dunkle
+Schatten bei einem offenen Grabe beschaeftigt, aus welchen ein erst
+darin versenkter vergoldeter Sarg noch etwas hervorsteht.  Das
+Gemach ist dunkel, der Donner rollt.  In einem goldenen Armstuhl
+ruht Heraklius, um ihn trauernd die Grossen des Reiches und Diener
+des Tempels.  Neben ihm auf einem Marmortisch die Krone.  An den
+Kulissen, dem Armstuhl des Koenigs gegenueber, ein auf drei Stufen
+erhabener einfacher Sitz.)
+
+Heraklius, Ewald und Hermodius.
+
+
+Kurzer Chor der Furien.
+Wo der Frevler mag auch weilen,
+Trifft ihn doch des Orkus Rache,
+Und ihr Dolch wird ihn ereilen,
+Selbst im goldnen Prunkgemache.
+
+
+Heraklius (in matter Unruh).
+Hinweg, hinweg, du scheusslicher Vampir,
+Der frommes Hoffen aus der Seele saugt.
+
+Hermodius (zu Ewald).
+Du siehst des guten Koenigs Leiden hier,
+Ein Bild, das fuer kein menschlich Auge taugt.
+
+Heraklius.  Wer stoeret meine Pein?
+
+Hermodius.                                      Dein Retter, Herr.
+
+Heraklius.  Umsonst, umsonst, wer bringt die Hoell' zum Weichen?
+O Qual, wenn ich doch nicht geboren waer'!
+
+Ewald.  Ich kann, mein Fuerst, den Anblick dir verscheuchen.
+
+Heraklius.  Wenn du's vermagst, ein Fuerstentum zum Lohne.
+
+Ewald.  So hoch schwebt auch der Preis, den ich bestimm',
+Ich fordre viel, ich fordre deine Krone.
+
+Heraklius.  Sie war mein Stolz--vorbei--verscheuch'--nimm--nimm!
+
+Ewald (zu den Edlen).
+Ihr habt's gehoert, seid ihr damit zufrieden?
+
+Alle (dumpf und halblaut).
+Wenn dich der Koenig waehlt, waehlt dich das Reich.
+
+Ewald.  So will ich ueber dieses Schauertum gebieten,
+Bei Isis' Donner, Truggewoelk' entfleuch!
+
+(Donnerschlag, er schwingt die Fackel, die Hinterwand entweicht,
+Grab und Schatten verschwinden, ein tiefes Wolkentheater zeigt sich,
+es stellt ein praktikables Wolkengebirge vor.  Oben quer vor der
+Hinterwand eine goldene Mauer und ein goldenes Tor.  Hinter diesem
+strahlt heller Sonnenglanz, der sich im Blau des Himmels verliert,
+das mit Sternen besaeet ist.  Am Fusse dieses Gebirges beim Ausgange
+sitzt auf einem Piedestal Thanatos wie in der frueheren Szene, doch
+mit der brennenden Fackel.  Sphaerenmusik ertoent.  Heraklius' Gestalt
+wird von Genien mit Rosenketten ueber den Wolkenberg geleitet, bis
+zu dem goldenen Tor, dort sinkt sie nieder.  Die Musik waehrt leise
+fort.)
+
+Heraklius.  O suesser Seelentrank aus himmlischem Gefaess,
+O Lust, gefuehlt durch neu erschaffnen Sinn,
+Wenn ich auch tausend Kronen noch besaess',
+Ich geb' sie gern fuer diesen Anblick hin.
+O kroent ihn noch an meinem Sterbebette,
+Er wird mein fluchzerruettet Land begluecken.
+    (Nun oeffnet sich das goldene Tor, eine glaenzende Goettergestalt
+tritt heraus.)
+Mir ist so leicht, es schmilzt die ird'sche Kette,
+Mein Geist entflieht, o unnennbar Entzuecken!
+
+(Thanatos stuerzt mildlaechelnd die Fackel um, die verlischt,
+zugleich drueckt die Goettergestalt den Koenig an die Brust, sein
+Kleid verschwindet, und er steht im weissen Schleiergewande da,
+welches rosig bestrahlt wird.  Genien bilden eine Gruppe.  Heraklius'
+Haupt sinkt sanft auf seinen Busen, Ewald loescht die Fackel aus,
+und der das Gemach schliessende Vorhang rauscht langsam und leise
+herab, die Musik verhallt.  Feierliche Pause, Ruehrung in jeder Miene.)
+
+
+
+Hermodius.  Es ist vorbei, er musste von uns scheiden.
+Ein koenigliches End', durch Ruhm verklaert.
+Wer so beglueckt vergeht, ist zu beneiden,
+Beim Zeus, so ist der Tod ein Leben wert!
+    (Man bedeckt Heraklius mit einem seidnen Mantel.)
+Nun lasst sein letzt Gebot uns schnell benuetzen,
+Denn ohne Koenig kann das Land nicht sein.
+
+Adrasto (nimmt die Krone und stellt sich vor Ewald hin).
+Wie Goetter dich, so wirst du uns beschuetzen,
+Drum nimm den Platz auf jenen Stufen ein.
+
+(Ewald besteigt die Stufen, auf welchen der Sitz angebracht ist.)
+
+Ewald (fuer sich).  Es bebt mein Herz, mich fasset Todesschrecken.
+
+(Kniet nieder.)
+
+Alle.  Wir huld'gen dir als Herrscher ehrfurchtsvoll.
+
+(Knien.)
+
+Adrasto.  So mag die Kron' dein weises Haupt bedecken,
+Sei Koenig--herrsch'--
+
+Bei dem letzten Worte hat er ihm die Krone aufs Haupt gesetzt, doch
+ohne die geringste Pause stuerzt unter schrecklichem Gekrach der
+Saal zusammen.  Der Bogen und die Kulissen bilden Berge von Schutt,
+welche die Spielenden dem Auge des Publikums entziehen.  Im
+Hintergrunde zeigt sich das Meer, das zwischen die Schuttberge des
+Saales hereindringt und aus dem in der Ferne die versunkenen Tuerme
+von Massana hervorragen.  Die Stufen, wo Ewald kniet, verwandeln
+sich in Wolken, worauf er bis in die Mitte des Theaters schwebt und
+wehmuetig ausruft:
+
+Massana, lebe wohl!
+
+Er schwingt seine Fackel, um den traurigen Anblick zu verschoenern
+und faehrt fort.  Die aus dem Meere hervorragenden Truemmer und der
+Schutt des Saales verwandeln sich in zarte Rosenhuegel.  Die Luft
+wird rein, und das Ganze strahlt im hellsten Rosenlichte.
+
+(Der Vorhang faellt langsam).
+
+Ende des ersten Aufzuges.
+
+
+
+
+Zweiter Aufzug.
+
+
+
+Erste Szene.
+(In Agrigent.)
+
+Ein anderer Teil des Waldes am roten See, welcher praktikabel ist.
+Androkles, Clitonius und Jaeger treten mit Wurfspiessen bewaffnet auf.
+
+
+Jaegerchor.
+        Jaegerlust muesst' bald erschlaffen,
+Gaelt' die Jagd nur feigen Affen;
+Doch wenn durch der Waelder Stille
+Maechtig toent des Leus Gebruelle,
+Hier die grausame Hyaene
+Fletscht die moerderischen Zaehne,
+Dort, eh' man den Wurfspiess schwingt,
+Aus dem Busch der Tiger springt,
+Dann beginnt des Waldes Krieg.
+Falle, Jaeger, oder sieg'!
+
+
+Androkles (zu den Jaegern).  Verteilt euch, wie ihr wollt, der Koenig
+jagt allein, ihr moegt euch hueten, seinem Feuerblick zu nahen, der
+zornigflammend durch des Forstes Dunkel blitzet.
+
+(Alle bis auf Clitonius und Androkles ab.)
+
+
+
+Zweite Szene.
+Androkles und Clitonius.
+
+
+Androkles.  O mein Clitonius, was mussten wir erleben, die hohen
+Goetter sind aus Agrigent gewichen.
+
+Clitonius.  Wo mag wohl unser edler Koenig weilen, den seines Hauses
+Laren treu gerettet haben.  Koennt' er doch sehn, wie sich sein armes
+Volk betruebt.
+
+Androkles.  Wer freut sich nun in Agrigent?  Der Wahnsinn lacht
+allein, gesundes Hirn muss trauern.  Ist doch Phalarius selbst,
+seitdem die Hoellenkron' auf seinem Haupte brennt, als haett' des
+Unmuts Dolch sein falsches Herz durchbohrt.  Weisst du, warum die
+Jagd nun tobt?  Aspasia ist nicht mehr.
+
+Clitonius.  Aspasia?  Die Schwester unsers teuern Koenigs Kreon?  Die
+herrliche Aspasia?
+
+Androkles.  Sie war's allein, der Phalarius an dem verhaengnisvollen
+Tag des schauerlichen Ueberfalls das Leben liess, weil er als
+Feldherr schon fuer sie in Lieb' entbrannt.  Seit er das Reich
+besitzt, bestuermt er sie mit Bitten und mit Drohungen, sie moechte
+ihre Hand ihm reichen, er wolle ihr dafuer drei Koenigreiche bieten;
+doch wie sie ihn und seine Kron' erblickt, da sinkt sie zitternd
+vor ihm nieder und kruemmt sich zu dieses Wuetrichs Fuessen, beschwoert
+mit Traenen ihn, von ihr zu lassen, es gaeb' fuer seine Kron' auf
+Erden keine Liebe.  Doch er reisst sie mit Ungestuem an seine
+Eberbrust und will dem keuschen Mund den ersten Kuss entreissen; da
+wandeln sich der Lippen gluehende Korallen in bleiche Perlen um, des
+Auges Glanz erstirbt, des Todes Schauer fassen ihre Glieder, die
+Angst, dass sie der Kron' so nah', bricht ihr das Herz, kalt und
+entseelt haelt sie Phalarius, vor Schreck erbleichend, in den Armen.
+
+Clitonius.  Entsetzlich Glueck, sich so gekroent zu wissen.
+
+Androkles.  Da fasst ihn eine Wut, er tobt, dass des Gemaches Saeulen
+beben; Zur Jagd!  ruft er, hetzt mir des Waldes Tiger all' auf mich,
+die Erd' wuehlt auf, dass Ungeheuer ihr entkriechen, die sich noch
+nie ans Sonnenlicht gewagt, gebt Nahrung meinem Pfeil, damit mein
+Hass umarmen kann, weil Lieb' mein Herz so unbarmherzig flieht.  So
+stuerzt er fort zur Jagd, und zitternd beugt vor ihm der schwarze
+Forst sein sonst so drohend Haupt.
+
+Clitonius.  Da wird uns wohl der Morgenstrahl im Wald begruessen.
+
+Androkles.  Der Abend kaum, denn eh' der Mond sich noch auf des
+Palastes Zinnen spiegelt, verbirgt er sich in ein Gemach, aus
+Marmor fest gewoelbt, ganz oeffnungslos, damit kein Strahl des Mondes
+kann sein Haupt erreichen, weil seine Kron', so sagt Dianens weiser
+Diener, die Kraft verliert, solang' des Mondes Licht auf ihren
+Zacken ruht.  Und weil in dieser Zeit sein Leben nicht gesichert ist,
+ verriegelt er die Tuer aus festem Ebenholz; doch ohne Mondenglanz
+kann nie ein Pfeil ihn toeten, und kraftlos sinken sie zu seinen
+Fuessen nieder.
+
+Clitonius.  Sprich nicht so laut, es rauscht dort im Gebuesch.
+
+Androkles (schwingt den Wurfspiess).  Ein Tiger ist's.
+
+Clitonius.  Nein, nein, es ist Phalarius, dich taeuscht sein
+Pantherfell; wir sind verloren, wenn er uns gehoert.
+
+Androkles.  Schweig still, er raset dort hinueber dem Loewen nach, der
+aengstlich vor ihm flieht.  Komm, lass uns auch vor diesem Koenigstiger
+fliehn, wenn Loewen weichen, duerfen Menschen sich der Flucht nicht
+schaemen.
+
+(Beide aengstlich ab.)
+
+
+
+Dritte Szene.
+Musik.  Lulu und Fanfu, gefluegelte Genien, bringen Zitternadel in
+einem grossen Schal, welchen sie an beiden Enden halten, als truegen
+sie etwas in einem Tuche, durch die Luft.  Sie stehen auf Wolken,
+und der Schal ist ein Flugwagen und so gemalt, dass Zitternadel
+gekruemmt wie ein Kind darin liegt und kaum sichtbar ist.  Er ruht
+auf der Erde, der Schal fliegt wieder fort.
+
+
+Lulu.  So steig nur heraus, du tapfres Hasenherz, hier sind wir
+schon in Sicherheit.
+
+Fanfu.  Nun, Schnecke, streck' den Kopf heraus.
+
+Zitternadel (steckt den Kopf heraus).  Wo sind wir denn?  Ich muss
+erst meine Gliedmassen alle zusamm'suchen.  (steigt aus, die Genien
+helfen ihm.) So, ich dank' untertaenigst, das sind halt Kinderln,
+wie die Tauberln.  Au weh, so ein Erdbeben moecht' ich mir bald
+wieder ausbitten.  Ich schau' beim Fenster hinaus in meiner
+Schuldlositaet, auf einmal fangt's zum krachen an, als wenn die
+ganze Welt ein Schubladkasten waer', der in der Mitte
+voneinanderspringt, und ich stuerz' ueber den siebenten Stock
+hinunter, die zwei Kinderln fangen mich aber auf und fliegen mit
+mir davon.  Kaum sind wir in der Hoeh', macht es einen Plumpser, und
+die ganze Stadt rutscht aus und fallt ins Wasser hinein.  Der arme
+Dichter hat sich eintunkt mit seiner Weisheit.  O ungluecksel'ger Tag!
+ Weil nur ich nicht ins Wasser g'fallen bin, die Schneiderfischeln
+haetten's trieben.  Ueberhaupt, wenn die Fisch' die Zimmer unterm
+Wasser sehn, die werden sich kommod machen.  Wenn so ein Walfisch
+unter einem Himmelbett schlaft, der wird Augen machen.  Zwar dass ein
+Stockfisch auf einem Kanapee liegen kann, das hab' ich an mir
+selber schon bemerkt.  Wenn nur keiner in eine Bibliothek
+hineinschwimmt, denn da kennt sich so ein Vieh nicht aus.  O, du
+lieber Himmel, ich werd' noch selbst ein Fisch aus lauter Durst.
+(Kniet nieder.) Liebe Kinderln, seid's barmherzig, lasst mir etwas
+zufliessen, sonst muss ich verdursten.
+
+Lulu.  Dein Durst ist uns recht lieb, wir haben dich darum hierher
+gebracht, um dich zu waessern.
+
+Simplizius.  So waessert's mich einmal, ich kann's schon nicht
+erwarten.
+
+Lulu.  Trink dort aus jenem See.  Hier hast du eine Muschel.  (Holt
+eine vom Gestade.)
+
+Simplizius.  Der rotkoepfige See?  Aus dem trau' ich mich nicht zu
+trinken.
+
+Lulu und Fanfu (streng).  Du musst.
+
+Simplizius (faellt auf die Knie).  O, meine lieben Kinderln, seid nur
+nicht boes', ich will ja alles tun aus Dankbarkeit.  Ich sauf' wegen
+meiner das ganze rote Meer aus, und das schwarze auch dazu.
+
+Lulu (reicht ihm eine Muschel voll Wasser).  Trink, es scheint nur
+rot zu sein, es ist doch reiner als Kristall.
+
+Simplizius.  So gib nur her.
+
+Fanfu.  Er trinkt, nun wird er blutdurstig werden.
+
+Simplizius (zittert mit der Muschel).  Ich zittr' wie ein
+hundertjaehriger Greis.  (Trinkt.) Ah, das ist ein hitziges Getraenk,
+wie ein Vanili Rosoglio.  (Rollt die Augen.) Was geht denn mit mir
+vor?  Potz Himmel tausend Schwerenot!
+
+Lulu (zu Fanfu).  Siehst du, es wirkt, er wird gleich eine andere
+Sprache fuehren.  (Beide naehern sich ihm sanft.) Was ist dir, lieber
+Zitternadel?
+
+Simplizius (wild).  Still, nichts reden auf mich, Ihr Bagatellen!
+Ich begreif' nicht, was das ist, ich krieg' einen Zorn wie ein
+kalekutischer Hahn, und weiss nicht wegen was.  Wenn ich ihn nur an
+jemand auslassen koennt'.  Bringt mir einen Stock, ich wichs' mich
+selbst herum.
+
+(Die Genien lachen heimlich.)
+
+Simplizius.  Ja, was ist denn das?  Ihr seid ja zwei gottlose Buben
+uebereinander, ihr seid ja in die Haut nichts nutz, euch soll man ja
+haun, so oft man euch anschaut.  Das seh' ich jetzt erst.
+
+Die Genien (nahen sich bittend).  Aber lieber Zitternadel!
+
+Simplizius (reisst einen Baumast ab).  Kommt mir nicht in meine Naeh',
+oder ich massakrier' euch alle zwei.
+
+Lulu.  So hoer' uns doch; du musst nach Kallidalos fliegen, dort
+findest du den Dichter, deinen Freund.
+
+Simplizius.  Nu, der soll mir traun, den hau' ich in Jamben, dass die
+Fuess' herumkugeln.  Jetzt macht fort und schafft mir ein kolerisches
+Pferd, dass ich durch die Luft reiten kann!
+
+Lulu.  Ein kolerisches Pferd?  das wirft dich ja herab.
+
+Simplizius.  So bringt's mir einen Auerstier, der wirft mich wieder
+hinauf.
+
+Lulu.  Nu, wie du willst.  (Er winkt, ein gefluegelter Auerstier
+erscheint in den Wolken.) Ist schon da.
+
+Simplizius.  Ha, da ist mein Araber.  Jetzt wird galoppiert.  Setzt
+euch hinauf, auf die zwei Hoerndl.
+
+Lulu.  Ah, wir getrauen uns nicht.  Reit nur voraus, wir kommen dir
+schon nach.  (Laufen ab.)
+
+Simplizius.  Ha, feige Brut!  (Steigt auf).  Da bin ich ein andrer
+Kerl.  Jetzt kann mir 's Rindfleisch nicht ausgehn, ich bin versorgt.
+ Hotto, Schimmel!  Das versteht er nicht.--Bruaho!  (Der Stier fliegt
+ab.) Jetzt geht's los.
+
+
+
+Vierte Szene.
+Tiefere Felsengegend, in der Ferne Wald, auf der Seite eine
+Waldhuette.  In der Mitte steht Phalarius mit einem goldenen
+Wurfspiess bewaffnet, vor ihm liegt ein Loewe und zittert.
+
+
+Phalarius.  Was zitterst du entnervt, verachtungswuerd'ger Leu,
+Und beugst den Nacken feig vor meiner Krone Glanz?
+Mich ekelt Demut an, weil ich den Kampf nicht scheu',
+Nie schaende meine Stirn solch welker Siegeskranz.
+Wofuer hat Jupiter so reichlich dich begabt?
+Wozu ward dir die Maehn', das Sinnbild hoher Kraft?
+Der stolze Gliederbau, an dem das Aug' sich labt?
+Das drohende Gebiss, vor dem Gewalt erschlafft?
+Der Donner des Gebruells, der Panzer deiner Haut?
+Erhieltst du all die Macht, um maecht'ger zu erbeben?
+Schaem' dich, Natur, die du ihm solchen Thron erbaut,
+Da liegt dein Herrscher nun und zittert fuer sein Leben.
+    (Heftiger)
+Du hast mit Schlangen, Luchs und Panthertier gestritten;
+So reg' dich doch und droh' auch mir mit maecht'ger Klau'.
+Du edelmuet'ges Tier, so lass dich doch erbitten,
+Verteid'ge dich, damit ich Widerstand erschau'.
+Wie kann ein Koenig noch zu einem andern sprechen.
+Mach' mich nicht rasend, denk', du bist zum Streit geboren.
+Doch nicht?  Wohlan!  So will ich euch, ihr Goetter, raechen.
+Er ehrt sein Dasein nicht, drum sei's fuer ihn verloren.
+    (Er toetet ihn, stoesst ins Horn, Jaeger erscheinen und beugen sich
+erschrocken.)
+Bringt mir den Loewen fort, ich kann ihn nicht mehr sehen.
+    (Der Loewe wird fortgebracht, er steht nachdenkend mit
+verschlungenen Armen.)
+Wozu nuetzt mir Gewalt, wenn sie mich so erhebt?
+Koennt' ich die Erde leicht gleich einer Spindel drehen,
+Es waere kein Triumph, weil sie nicht widerstrebt.
+Aspasia tot, durch meiner Krone Dolch entseelt.
+Abscheul'che Hoelle, so erfuellst du mein Begehren?
+Wer war noch gluecklich je, dem Liebe hat gefehlt?
+Die groesste Lust ist Ruhm, doch Lieb' kann sie vermehren,
+Doch meine Lieb' heisst Tod, wer mich umarmt, erblasst.
+Unsel'ges Diadem, dass du mein Aug' entzuecktest,
+Tief quaelendes Geschenk, schon wirst du mir verhasst,
+Ich war noch gluecklicher, als du mich nicht begluecktest!
+Aeol, der oft die Majestaet der Eichen bricht,
+Und so am Haupt des Walds zum Kronenraeuber wird,
+Sag'!  warum sendest du die geile Windsbraut nicht,
+Dass sie die Kron' als gluehnden Braeutigam entfuehrt?
+    (Die Jaeger kommen zurueck, er setzt sich auf einen Fels.)
+Ich wuenschte mich mit etwas Traubensaft zu laben,
+Der eigennuetz'ge Leib will auch befriedigt sein.
+
+Erster Jaeger.  Den kannst du, hoher Fuerst, aus jener Huette haben,
+    (Klopft an)
+He, Alter, komm heraus und bringe Wein.
+
+Phalarius.  Wer ist der Mann, der hier so tief im Walde wohnt?
+
+Erster Jaeger.  Ein Feldherr war er einst, nun lebt er als ein Bauer.
+
+Phalarius.  Welche Erniedrigung, wer hat so schimpflich ihn belohnt?
+
+
+
+Fuenfte Szene.
+Vorige.  Der alte Octavian froehlich aus der Huette, einen Becher Wein
+tragend.
+
+
+Octavian.  Komm schon, ein froh Gemuet ist immer auf der Lauer.
+    (Erblickt die Krone und sinkt nieder.)
+Ha, welch ein Blick umschlaengelt feurig meine Augen?.
+Es krachet mein Gebein und sinket in den Staub.
+
+Phalarius.  Lass sehen, ob dein Wein wird meinem Durste taugen.
+    (Will trinken.)
+Doch sag', warum verbirgst du dich so tief im Laub?
+
+Octavian.  Gewaehr', dass ich den Blick von deiner Krone wende,
+Wenn du willst Wahrheit hoeren, und sie dein Ohr erfreut.
+
+Phalarius.  Ich hasse den Betrug, steh auf und sprich behende.
+
+Octavian (steht auf, doch ohne Phalarius anzusehen--froehlich).
+Mich freut der gruene Wald, beglueckt die Einsamkeit,
+Ich hab' sie selbst gewaehlt, lieb' sie wie einen Sohn.
+Ich bin nicht unbeweibt, mein Herz schlaegt lebenswarm,
+Glueh' fuer mein Vaterland, sprech' seinen Feinden Hohn,
+Und wenn es mein bedarf, weih' ich ihm Kopf und Arm,
+Sonst bau' ich froh mein Feld, ein zweiter Cincinnat.
+
+Phalarius.  Ein kluger Lebensplan, wenn du bloss Landmann waerst,
+Dann bau' nur deine Flur, so dienst du treu dem Staat.
+Als Feldherr hoff' ich, dass zu herrschen du begehrst.
+
+Octavian.  Ich herrsche ja, wer sagt, dass ich nur Diener bin?
+Weisst du denn nicht, dass jedes Ding der Welt ein Herrscher ist?
+Die Goetter herrschen im Olymp mit hohem Sinn,
+Auf Erden Koenige, so weit ihr Land nur misst,
+Der ganze Staat, wie es Gesetz und Fuerst befiehlt,
+Ein jeder dient und hat doch auch sein klein Gebiet.
+Und so wird eines jeden Dieners Lust gestillt.
+Der Saenger herrscht durch edlen Geist in seinem Lied,
+Der Liebende in der Geliebten schwachem Herzen;
+Der Vater wacht im Haus fuer seiner Kinder Heil;
+Der Arzt beherrscht der Krankheit widerspenst'ge Schmerzen;
+Der Fischer seinen Kahn, der Jaeger seinen Pfeil;
+Kurz, jeder hat ein Reich, wo seine Krone blitzt,
+Der Sklave selbst an Algiers Strand, der aermste Mann,
+Der auf der Erde nichts als seine Qual besitzt,
+Hat einen Thron, weil er sich selbst beherrschen kann.
+
+Phalarius (der waehrend der Rede mit Erstaunen gekaempft, schleudert
+den Becher fort).
+Genug, ich trinke nicht den wortvergaellten Wein,
+Nicht Labung reichst du mir, du traenkest mich mit Gift,
+Du waerst vergnuegt und herrschest nicht?  Es kann nicht sein!
+
+Octavian.  Das bin ich, Herr, selbst dann, wenn mich dein Zorn auch
+trifft.
+
+Phalarius.  Unmoeglich, widerruf, dass du dich gluecklich fuehlst,
+Es gibt bei solcher Kraft nicht solchen Seelenfrieden,
+Du weisst nicht, wie du tief mein Inneres durchwuehlst.
+O Goetter, welche Pein erlebe ich hienieden,
+Dass ich nicht froh sein kann und Frohsinn schauen muss.
+Gesteh, du bist kein Held, warst nie auf Ruhm gebettet,
+Du warst nie Feldherr, nein, regiertest stets den Pflug.
+
+Octavian.  Ein Knabe warst du kaum, als ich das Reich errettet.
+Ich bin Octavian.
+
+Phalarius.                    Der einst die Perser schlug?
+
+Octavian.  So ist's.
+
+Phalarius (entsetzt, wie aus einem Traum erwachend, aufschreiend).
+                      Aus meinem Land, verhasstes Meteor!
+Dass meines Ruhmes Licht vor deinem nicht erlischt.
+Du koemmst mir wie ein list'ger Rachedaemon vor,
+Der aus der Rose Schoss als gift'ge Schlange zischt.
+Entfleuch, du bist verbannt, gehoerst dem Land nicht an.
+Dein Glueck ist Heuchelei, es kann sich nicht bewaehren,
+Hinweg aus meinem Reich mit solch verruecktem Wahn,
+Du darfst nicht gluecklich sein, sonst muesst' ich dich verehren.
+
+(Ab, die Jaeger folgen scheu.)
+
+
+
+Sechste Szene.
+
+
+Octavian (allein).
+Da geht er hin, ungluecklicher als der, den er verjagt.
+Du bist verbannt, wie leicht sich doch die Worte sprechen;
+So froehlich erst, und nun so bitter zu beklagen,
+Doch nein, ich bin ein Mann, du sollst mein Herz nicht brechen.
+
+(In die Huette ab.)
+
+
+
+Siebente Szene.
+Romantische Gegend auf Kallidalos.  Auf der einen Seite Haeuser, auf
+der anderen Wald.  Lucina und Ewald, die Krone auf dem Haupte,
+treten auf.
+
+
+Lucina.  Du bist hier aus der kallidal'schen Insel, erhole dich von
+deinem Schreck.
+
+Ewald.  Vergib, dass meine Nerven aengstlich zucken, noch ist die
+Greuelszene nicht aus meinem Hirn entwichen, und nimmer moecht' ich
+solchen Anblick mehr erleben.
+
+Lucina.  Hier wirst du leichteren Kampf bestehn, mein armer Koenig
+ohne Reich.  Nun horch' auf mich: Auf dieser Insel herrscht die
+feine Sitte, dass sich der Koenig und die Edelsten des Volkes am
+ersten Fruehlingstag im Tempel dort versammeln; von allen Maedchen
+dieses Reichs, die zart geputzt dem koeniglichen Aug' sich zeigen,
+ernennet er die Schoenste als des Festes Herrscherin und schmueckt
+das wunderholde Haupt mit einer Rosenkrone.  Dann waehlet er aus
+ruest'ger Juenglingsschar den Tapfersten, der sich nicht weigern darf,
+und schenkt ihm ihre Hand, nachdem er ihn zuvor zu einem Amt
+erhebt.  Das Brautpaar wird sogleich an Cyprias Altar vermaehlt; so
+endet sich das Fest und dieses Tages Jubel.  Du sorgst, dass dieser
+Preis auf einem Haupte ruht, das sechzig Jahre schon des Lebens
+Mueh' getragen.  Doch duerfen es nicht Rosen zieren, ein Myrtendiadem
+muss auf der Stirne prangen, durch Weiber aufgedrueckt, die neidisch
+nach der Krone blicken, nach der sie selbst vergebens ringen.
+Wodurch du dies bezweckst, wirst du wohl leicht erraten, die deine
+leg' nun ab, ich will sie selbst verwahren.  (Ewald kniet sich
+nieder, zwei Genien erscheinen aus der Versenkung, sie nimmt ihm
+die Krone ab.) Sie ziemt nicht deiner Stirn.  (Gibt die Krone den
+Genien.) Bewahrt sie wohl, beherrscht sie auch kein Reich, wird sie
+doch viele Reiche retten.  (Die Genien versinken damit.) Hast du nun
+einen Wunsch, so sprich ihn aus!
+
+Ewald.  Ob mein Begleiter lebt, dies wuensch' ich wohl zu wissen,
+auch seiner Sendung Zweck ist mir ein Raetsel noch.
+
+Lucina.  Er lebt.  Wozu ich ihn bestimmt, wird sich noch heut
+enthuellen, bald siehst du ihn, doch magst du nicht ob der
+Veraendrung staunen, die sein Gemuet erlitten hat, sie waehret nur so
+lang bis so viel Blut durch seine Hand entstroemt, als Wasser er aus
+meinem Zaubersee getrunken.
+
+Ewald.  Wie, einen Moerder werde ich in ihm erblicken?
+
+Lucina.  Sei ruhig nur, ich lenke seinen Arm, befolge du nur mein
+Geheiss und fordre dann den Lohn.  Fuer alles andre lass die hohen
+Goetter sorgen, die oft durch weise Wahl gemeine Mittel adeln, dass
+sie zu hohen Zwecken dienen.  (Ab.)
+
+
+
+Achte Szene.
+
+
+Ewald (allein).  Dies scheinen mir die letzten Haeuser einer grossen
+Stadt zu sein.  Ich will an eine dieser Pforten pochen, vielleicht
+erscheint ein altes Weib, deren Geschwaetzigkeit mir schnellen
+Aufschluss gibt, und das ich gleich zu meinem Plan verwenden kann.
+(Er klopft an die Tuer des ersten Hauses.)
+
+Atritia (sieht zum Fenster heraus).  Wer pocht so ungestuem?  Weisst du
+noch nicht, dass dieses Tor sich keinem Manne oeffnet.
+
+Ewald (fuer sich).  Himmel, welch ein liebenswuerdiger Maedchenkopf.
+
+Atritia.  Dein Staunen ist umsonst.
+
+Ewald (fuer sich).  Sanftmut lauscht in ihrem Auge--
+
+Atritia.  Taeusche dich nicht.
+
+Ewald (fuer sich).  Und zeigt den Weg zu ihrem Herzen.
+
+Atritia.  Es ist zu fest verschlossen.
+
+Ewald (fuer sich).  Ich muss mein Glueck benuetzen.
+
+Atritia.  Du kommst mir nicht herein, das sag' ich dir.
+
+Ewald.  Schoenes Maedchen, eroeffne doch die Pforte, ich will so leise
+ueber ihre Schwelle gleiten, als schlich' ein Seufzer ueber deine
+suessen Lippen.
+
+Atritia.  Er ist ein feiner Mann und hat mich suess genannt, nun kann
+ich ihm denn doch nichts Bittres sagen.  Gern liess' ich dich herein,
+doch darf ich nicht.
+
+Ewald.  Wer hat es dir verboten?
+
+Atritia.  Meine Muhme, sie sagt; du lassest keinen Mann mir ueber
+diese Schwelle treten.  Es ist ein hart Gebot, doch muss ich es
+befolgen, sonst wuerd' ich gern in deiner Naehe sein, denn du
+gefaellst mir wohl.
+
+Ewald.  Nun gut, so komm zu mir heraus.  Hat sie dir denn gesagt, du
+darfst zu keinem Manne ueber diese Schwelle treten?
+
+Atritia (unschuldig).  Das hat sie nicht gesagt.  Jetzt bin ich schon
+zufrieden und komm zu dir hinaus.
+
+
+
+Neunte Szene.
+Ewald und Atritia.
+
+
+Ewald.  Noch nie hat mich der Anblick eines Maedchens so entzueckt.
+
+Atritia (huepft heraus).  Also hier bin ich, was hast du zu fragen?
+
+Ewald.  Ob du mich liebst?
+
+Atritia.  Wie kann ich dich denn lieben, ich weiss ja noch nicht, ob
+du liebenswuerdig bist.
+
+Ewald.  Ja, wenn ich dir das erst erklaeren soll, dann hast du mir
+die Antwort schon gegeben.
+
+Atritia.  Bist du vor allem treu?  Bekleidest du ein Amt?  Bist du
+vielleicht ein Held?  So geh hinaus und kaempfe mit dem Eber, und
+hast du ihn erlegt, so kehr' zurueck und wirb um meine Hand.
+
+Ewald.  Ein Eber ist hier zu bekaempfen?
+
+Atritia.  Ein maechtig grosser noch dazu.  So gross fast wie ein Haus,
+so hat mir meine Angst ihn wenigstens gemalt.
+
+Ewald.  Hast du ihn schon gesehn?
+
+Atritia.  Ei freilich wohl, er naehert sich der Stadt, verwuestet alle
+Fluren und hat ein Maedchen erst zerrissen, das heute als die
+Schoenste waer' gewiss erwaehlt worden.
+
+Ewald.  Ist heut dieses Fest?
+
+Atritia.  Ja, heute soll es sein, der Tempel ist schon reich
+geschmueckt, und alle Maedchen dort versammelt, doch als der Koenig
+eben sich dahin begeben wollte, im feierlichen Zug der Krieger, da
+kam die Nachricht schnell, dass sich der Eber zeigt und auf den
+Feldern wuetet.  Da liess der Koenig alles, was nur Waffen trug, zum
+blut'gen Kampfe gegen den Eber ziehn.  Drum findest du die Strassen
+leer.
+
+Ewald.  Dann ist die hoechste Zeit, dass ich zu Werke schreite.  Ich
+bin ein Mann von Ehre und deiner Liebe wert, doch sag' mir, holdes
+Kind, wo find' ich wohl ein altes Weib mit sechzig Jahren, das noch
+so eitel ist, dass sie fuer schoen sich haelt?
+
+Atritia.  Wo finde ich sie nicht, so solltest du mich fragen, die
+gibt's wohl ueberall, das hab' ich oft gelesen.  Obwohl die Frage
+nicht sehr artig ist, so wirst du gar nicht lange suchen duerfen,
+wenn du noch eine Weile mit mir sprichst, denn meine Muhme wird
+bald nach Hause kommen und dich von ihrer Tuer verjagen.
+
+Ewald.  Ist sie so boese?
+
+Atritia.  Leider ja.  Als meine Mutter starb, ward ich ihr uebergeben
+und vieles Geld dazu.  Sie musste mich erziehen, das tat sie auch,
+doch von dem Gold, was ihr die Mutter hat fuer mich zum Heiratsgut
+vertraut, da will sie gar nichts wissen.  Sie schlaegt mich auch,
+wenn sie oft Langeweile hat, erst gestern noch, weil ich mich zu
+dem Feste schmuecken wollte, das gab sie denn nicht zu, sie sagt,
+mich braucht kein Mann zu sehen.  Das hat mich sehr geschmerzt, ich
+wuensche mir doch einen Mann, und wie soll mich denn einer frein,
+wenn mich nie einer sieht?
+
+Ewald.  Da sprichst du wahr, doch einer hat dich ja gesehn.
+
+Atritia.  Und das bist du.  Doch wann wirst du mich wiedersehn?
+
+Ewald.  Ist es dein Wunsch?
+
+Atritia.  Ei frag' doch nicht, glaubst du, ich waer' zu dir
+herabgekommen, wenn du mir nicht gefallen haettest, du stuendst noch
+lange vor der verschlossnen Tuer, wenn du durch deinen Blick mein
+Herz nicht frueher aufgeschlossen haettest.  Doch jetzt leb' wohl und
+denk' darum nicht arg von mir, weil ich dir sag', dass ich dich
+liebenswuerdig finde.  Dafuer werd' ich's auch keinem andern sagen
+mehr, und hab' es keinem noch gesagt.
+
+Ewald.  Bezauberndes Geschoepf, willst du mich schon verlassen?
+
+Atritia.  Ich muss, such' deine Alte nur, hoerst du, und hast du sie
+gefunden (droht schalkhaft mit dem Finger), vergiss nicht auf die
+Junge!  (Laeuft ins Haus.)
+
+
+
+Zehnte Szene.
+Ewald allein, dann Simplizius.
+
+
+Ewald.  Da laeuft sie hin; Lucina, wenn ich Lohn von dir begehr', so
+ist es dieses Maedchens reizender Besitz.
+
+Simplizius (ruft in der Luft).  Bruaho!
+
+Ewald.  Wer galoppiert da durch die Luft?  Das ist Simplizius auf
+einem Stier!
+
+Simplizius (sinkt nieder).  Halt' Er an!  (Steigt ab.) So, da sind
+wir alle zwei.  Nur wieder nach Hause ins Bureau!  (Der Stier fliegt
+fort, Simplizius ruft nach.) Meine Empfehlung an die andern.
+
+Ewald.  Simplizius, wo nehmen Sie den Mut her, sich so durch die
+Lust zu wagen?
+
+Simplizius.  Geht Ihnen das was an?  Haben Sie sich darum zu
+bekuemmern?  Kann ich nicht reiten, auf was ich will?  Glauben Sie,
+weil Sie vielleicht auf einer flanellenen Schlafhauben
+heruebergeritten sind, so soll ich meine Herkulesnatur verleugnen?
+Ah, da hat es Zeit bei den Preussen!
+
+Ewald.  Aber mit welchem Rechte?
+
+Simplizius.  Was, mit mir reden Sie von einem Recht, da kommen Sie
+an den Unrechten.  Recht?  Wollen Sie vielleicht einen Prozess
+anfangen?  Glauben Sie, ich bin ein Rechtsgelehrter, der sich links
+hinueber drehen laesst?  Da irren Sie sich!
+
+Ewald.  Welch ein Betragen!
+
+Simplizius.  Was Betragen, wer wird sich gegen Sie betragen?  Ich
+betrag' mich gar nicht, um keinen Preis.
+
+Ewald (veraechtlich).  Gemeiner Wicht.
+
+Simplizius.  Keine Beleidigung, junger Mensch, wenn ich nicht
+vergessen soll, wer ich bin.
+
+Ewald (lacht heftig).  Das ist zum Totschiessen.
+
+Simplizius.  Vom Totschiessen reden Sie?  Wollen Sie sich duellieren
+mit mir auf congrevische Raketen, oder sind Ihnen die vielleicht zu
+klein, so nehmen wir ein jeder ein Haus und werfen wir's einer dem
+andern zum Kopf, damit die Sach' ein Gewicht hat.  Wollen Sie?
+
+Ewald.  Beim Himmel, wenn mich Lucina nicht gewarnt haette, ich muesste
+ihn zuechtigen.
+
+Simplizius.  Zuechtigen?  Ha, beim--wie heisst der Kerl?--Ha, beim Zeus,
+jetzt gibt's Pruegel.  (bricht mit dem Fuss einen Baumast entzwei und
+gibt ihm die Haelfte.) Nehmen Sie einen, die andern kommen nach.
+
+Ewald.  Was wollen Sie?
+
+Simplizius.  Satisfaktion will ich, Reimschmied!  (Packt ihn an der
+Brust.)
+
+Ewald.  Welch eine Kraft!  Lassen Sie mich los, Sie wuetender Mensch.
+(Entspringt.)
+
+
+
+Elfte Szene.
+
+
+Simplizius (allein).  Wart', du kommst mir schon unter die Haend'.  Es
+ist erschrecklich, ich kann mir nicht helfen, wie ich nur einen
+Menschen seh', so moecht ich ihn schon in der Mitt' voneinander
+reissen.  Wenn ich nur einen Degen haett' oder ein Stiffilett, oder
+wenn ich wo unter der Hand billige Kanonen zu kaufen bekaem', ich
+erschiesset die ganze Stadt und die Vorstaedt' auch dazu.  Da kommen
+einige, die sollen sich freun.
+
+
+
+Zwoelfte Szene.
+Simplizius.  Olinar und Astrachan.
+
+
+Olinar (ein fetter Mann).  Wer laermt denn hier so auf der Strasse?
+Das ist ja ein ganz fremder Mensch.
+
+Simplizius.  Die Flachsen zieht's mir ordentlich z'sammen, wenn
+einer redt auf mich.
+
+Olinar.  Der sieht ja wie ein Strassenraeuber aus, der Kerl hat nichts
+Gutes im Sinn.
+
+Simplizius.  Ich muss mich noch zurueckhalten, bis ich Waffen hab'.
+Ich werd' mir's erst sondiern.
+
+Astrachan (rauh).  Was tobst du an diesem feierlichen Tag?  Pack'
+dich von hier, du kecker Bursche.
+
+Simplizius (lauernd).  Wie reden Sie mit mir?  Ich frag' Sie nicht
+umsonst.
+
+Astrachan.  Das brauchst du nicht, weil ich die Antwort dir nicht
+schuldig bleiben und sie auf deinen Ruecken legen werde.
+
+Simplizius (erstaunt).  So, nur gleich?  (Fuer sich.) Ist schon gut
+unterdessen.  Der wird schon um'bracht, das ist der erste, den ich
+expedier'.  Ich muss mir nur einen Knopf ins Schnupftuch machen,
+damit ich's nicht vergess'.  (Tut es.)
+
+Astrachan.  Hast du's gehoert, du sollst die Strasse reinigen.  Mach'
+dich fort.
+
+Simplizius.  Ich soll die Strasse hier reinigen?  Er muss mich fuer
+einen Gassenkehrer halten.  Das hat mir niemand zu befehlen, ich
+bleib' hier.  (Setzt sich auf einen Stein.) Und wer nur einen Laut
+von sich gibt--
+
+Astrachan (will auf ihn zu).  Was?
+
+Olinar (haelt ihn furchtsam zurueck).  Behutsam, Freund, er hat ja
+einen Pruegel in der Hand.
+
+Astrachan.  Was kuemmert's mich, du wirst dich doch nicht fuerchten?
+
+Olinar.  Ei bewahre.
+
+Astrachan.  Schaeme dich als eine Gerichtsperson.  Gleich geh hin und
+beweise deinen Mut.
+
+Olinar (zittert).  Wer?  Wer, ich?  Ja, was soll ich denn tun?
+
+Astrachan.  Ihn von hinnen jagen.
+
+Olinar.  Ja, wenn er sich nur jagen laesst, aber du wirst sehn--
+
+Astrachan.  Red' ihn scharf an.
+
+Olinar.  Hochzuverehrender Freund!
+
+Simplizius (springt zornig auf).  Was gibt's?
+
+Olinar (erschrickt heftig).  Da hast du's jetzt, ich hab's ja gleich
+gesagt.
+
+Simplizius.  Was will der Herr?
+
+Astrachan (der Olinar haelt).  Mut, Mut, ich helfe dir schon.
+
+Olinar.  Ja, lass mich nur nicht stecken.  (Nimmt sich zusammen, laut.)
+Er ungezogner Mensch!
+
+Astrachan.  Nur zu, so ist's schon recht.
+
+Olinar.  Wenn Er's noch einmal wagt, in einem solchen Tone zu
+sprechen--
+
+Astrachan (freudig).  Vortrefflich!  Siehst du, wie er zittert?
+
+Olinar.  Du irrst dich, Freund, das bin ja ich.  (Zu Simplizius.) So
+werd' ich Ihm--(Zu Astrachan.) Ja, was werd' ich geschwind?
+
+Astrachan (heimlich).  Die Kehle schnueren, dass Er an mich denken
+soll.
+
+Olinar.  Die Kehle schnueren, dass Er an mich denken soll!  (Wischt
+sich den Schweiss ab.) Ha, das war viel gewagt.
+
+Simplizius.  Die Kehle schnueren?  Das ist ein Schnuermacher.  Nu, den
+koennen wir auch mitnehmen.  (Macht einen Knopf.) Detto!  (Macht die
+Bewegung des Erdolchens.)
+
+Astrachan.  Du hast dich gut gehalten, jetzt lass mich reden.  Hoer',
+Kerl, wenn du jetzt nicht augenblicklich gehst und dich in unserer
+Stadt noch einmal blicken lassest, so wirst du sehen, was unsere
+Gerechtigkeit an einem solchen Lumpenhund fuer ein Exempel statuiert.
+
+
+Simplizius.  Ah, das ist ein hantiger.  Der muss viermal nacheinander
+sterben.
+
+Astrachan.  Ha, gut, dort kommen Abukar und Nimelot.
+
+Olinar.  Das sind zwei verwegene Bursche.
+
+Simplizius.  Verwegene Bursche?  Da mach' ich gleich im voraus Knoepf'.
+(Macht sie.)
+
+
+
+Dreizehnte Szene.
+Vorige.  Abukar und Nimelot, bewaffnet.
+
+
+Abukar.  Was hast du, Astrachan?  Du laermst ja ganz entsetzlich.
+
+Astrachan.  Wir haben unsern Spass mit diesem Burschen da, das ist
+der dreisteste Kerl, den ich noch gesehen habe.
+
+Olinar (keck).  Ja, ja, das ist ein abgefeimter Schurke.  (Fuer sich.)
+Jetzt sind wir unser vier, jetzt soll er mir nur trauen.
+
+Simplizius.  Ich hoer' ihnen nur so zu, auf einmal geh' ich los.
+
+Abukar und Nimelot (stellen sich neben Simplizius und klopfen ihn
+auf die Schulter und lachen.)
+
+Abukar.  Hahaha, der sieht ja wie ein Orang-Utan aus.
+
+Nimelot (lachend).  Die aufgeschlitzte Nase und der breite Mund!
+
+Simplizius.  Bravo, nur zu, sind schon vorgemerkt.  (Deutet auf sein
+Tuch.) Werden schon Exekution halten, bleibt nicht aus.
+
+(Alle lachen.)
+
+Abukar.  Seht ihn nur an, das ist ja die einfaeltigste Miene, die mir
+noch vorgekommen ist.
+
+Simplizius.  Ah, jetzt muss ich doch Rebell schlagen.  (Laut.) Was
+glauben denn Sie so?  Glauben Sie, ich bin Ihr Narr, dass Sie sich
+ueber meine Physiognomie lustig machen.  Was fehlt denn meinem
+Gesicht?  Die Haesslichkeit vielleicht?  Die ist nirgends mehr zu
+finden, weil Sie s' alle auf den Ihrigen haben.
+
+Alle (lachen).  Ein drolliger Kerl!
+
+Simplizius.  Nu, da haben wir's, nicht einmal ordentlich lachen
+koennen s' mit dem G'sicht, da lach' ich mit dem linken Ellbogen
+besser, als die mit dem Maul.  Sagen Sie mir, wer hat Ihnen denn die
+Beleidigung angetan, Ihnen eine solche Physiognomie aufz'binden?
+Die Natur vielleicht?  Die setz' ich ab, wenn sie mir noch einmal
+solche G'sichter macht, das sind Keckheiten von ihr, ich brauch'
+sie nicht, wenn sie so schleuderisch arbeitet.  Was brauchen wir
+eine Natur, die Welt ist lang genug unnatuerlich g'wesen, sie kann's
+noch sein.
+
+Abukar.  Der Bursche muss Hofnarr werden, der macht mich schrecklich
+lachen.
+
+Simplizius.  Hofnarr?  Das ist eine Beleidigung!  Satisfaktion!
+
+Olinar.  Er hat Mut wie ein Loewe.
+
+Simplizius.  Loewe?  Das ist gar eine viechische Beleidigung.  Doppelte
+Satisfaktion!
+
+Astrachan.  Der Kerl ist ueber einen Spartaner.
+
+Simplizius.  Spartaner?  Das wird wieder ein andres Vieh sein.  Ich
+kenn' mich gar nicht mehr vor Zorn.  Heraus, wer Mut hat, einen muss
+ich spiessen.  (Fasst Olinar.) Was ist's mit Ihnen, wollen Sie sich
+mit mir schlagen oder wollen Sie sich schlagen lassen?
+
+Olinar.  Hilfe!  Hilfe!
+
+Abukar (packt Simplizius am Genick und beutelt ihn).  Nun hast du
+Zeit, Bube.
+
+Astrachan.  Ins Gefaengnis, fort mit ihm.
+
+Simplizius (reisst dem Olinar den Saebel aus der Scheide).  Jetzt
+reisst mir die Geduld.  (Haut auf Abukar ein, der ihm die Lanze
+entgegen haelt, welche er ihm aus der Hand schlaegt.) Ihr verdammten
+Kallidalier!  Jetzt wird's Leben wohlfeil werden.  (Er kaempft mit
+allen und jagt sie in die Flucht, einige verlieren ihre Waffen,
+einer den Helm.)
+
+Olinar (im Ablaufen).  Ich hab's voraus gesagt, ihr Goetter, seid uns
+gnaedig.
+
+
+
+Vierzehnte Szene.
+Simplizius (allein).  Ha, Pompei ist erobert, Sieg ueber die Kalmuken!
+Da gibt's Waffen.  (Er setzt sich den Helm auf.) Her da mit dem
+Helm!  (Nimmt das Schwert, steckt es in die Binde und hebt den Spiess
+auf.) Das ganze Zeughaus haeng' ich um.  So, jetzt ist der Stefan
+Faedinger fertig.  Rache, Rache!  Alles muss bluten.  Einen Hass hab' ich,
+ich glaub', es duerft' mich einer spiessen, mir war's nicht moeglich,
+ihn zu kuessen.  Die ganze Welt ist mir zuwider.
+
+
+Lied.
+Wenn s' mir die Welt zu kaufen geb'n,
+Ich weiss nicht, ob ich's nimm;
+Da koennt man ein' Verdruss erleb'n,
+Es wuerd' ein' voellig schlimm.
+Und liess' man's wieder lizitier'n,
+Was koennt' man da viel profitier'n?
+Vors erste ist s' ein alt's Gebaeu',
+Wer weiss, wie lang s' noch steht,
+Das sieht man an Massana glei',
+Dass s' sicher untergeht.
+Und faellt ein' so a Welt ins Meer,
+Wo nimmt man g'schwind a andre her?
+
+Die Voelker steh'n mir auch nicht an,
+D' Kalmuken, d' Hugenotten,
+Und wen ich gar nicht leiden kann,
+Das sind die Hottentotten.
+Da moecht' ich grad' vor Wut vergeh'n,
+Und ich hab' nicht einmal ein' g'seh'n.
+
+Auch ist's ein Elend mit den Tier'n,
+A' blosse Fopperei,
+Was kriechen s' denn auf allen vier'n,
+Ich geh' ja auch auf zwei.
+Die meisten koennen uns nur quael'n,
+Am liebsten sind mir die Sardell'n.
+
+Die Sonn', die ist schon lang mein Tod
+Mit ihrer oeden Pracht,
+Der Mondschein macht sich's gar kommod,
+Der scheint nur bei der Nacht;
+Und dann die miserablen Stern',
+Die weiss man gar nicht, zu was s' g'hoer'n.
+
+Kurzum, ich hass' die ganze Welt,
+Im Sommer wie im Winter,
+Mir liegt sogar nichts an dem Geld,
+Es ist nicht viel dahinter.
+Ein einz'gen Menschen nur allein,
+    (Deutet auf sich.)
+Wuesst' ich--dem ich noch gut koennt' sein.
+    (Ab.)
+
+
+
+
+
+Fuenfzehnte Szene.
+Ewald und Aloe.
+
+
+Aloe (muss von einer jugendlichen Schauspielerin dargestellt werden
+mit grauen Haaren; sie hat den Kopf in ein Tuch gewickelt, wie eine
+griechische Matrone, und geht etwas gebueckt.) Nein, nein, mein
+lieber schmucker Herr, das geht nicht so geschwinde, das Maedchen
+ist zu jung, sie braucht noch keinen Freier.  Ach, du keusche Goettin
+Diana, kaum bin ich eine Stunde aus dem Hause, um die tapferen
+Maenner zu bewundern, so faengt das Maedchen Liebeshaendel an.  Wo habt
+Ihr denn das ungeratene Kind gesprochen?
+
+Ewald.  Am Fenster sprach ich sie.
+
+Aloe.  Seht doch, und glaubt Ihr denn, man heiratet bei uns die
+Maedchen gleich vom Fenster nur herunter, wie man Zitronen pflueckt?
+Lasst Euch den Wunsch vergehen.  Ich sehe fuenfzig Jahre schon zum
+Fenster heraus und hab' mir keinen Mann erschaut, so lange kann sie
+auch noch warten.  Ich kenn' Euch nicht einmal, wer seid Ihr denn?
+
+Ewald.  Ein Fremdling bin ich.
+
+Aloe.  Ei, das seh' ich, denn unsere Maenner kenn' ich alle.  Doch was
+besitzt Ihr in der Fremde?
+
+Ewald.  Ein Gut, das mir kein Unfall rauben kann, ein treu Gemuet und
+kraeftigen Verstand.
+
+Aloe.  Wer sagt Euch, dass Verstand ein sichres Erbteil sei, wie
+koennt' es denn so viele Narren geben?
+
+Ewald.  Und eine Kunst, die alle Kuenste uebertrifft.
+
+Aloe.  Vielleicht die Kunst, mich hinters Licht zu fuehren?
+
+Ewald.  Im Gegenteil, ich moechte Eure Schoenheit gern im hoechsten
+Glanz erscheinen lassen.
+
+Aloe.  Ich hoer's nicht gern, wenn man von meinen Reizen spricht, es
+ist mir nicht mehr neu; Gewohnheit toetet unsre schoensten Freuden.
+Doch weiter nun, ach, mein Gedaechtnis ist so schwach, wovon habt
+Ihr zuletzt gesprochen?
+
+Ewald.  Von Eurer Schoenheit war die Rede, ja.
+
+Aloe.  Ja, ja, das war's, was ich nicht hoeren mochte.  Ihr wolltet
+sie erhoehn?
+
+Ewald.  Zum Venusrang, wenn Ihr mir Eurer Nichte Hand gelobt.
+
+Aloe.  Was faellt Euch ein, Atritia ist ein unbemittelt Kind, um
+keinen Preis!
+
+Ewald.  Auch nicht um den, den heut im Tempel dort der Koenig reicht?
+
+Aloe (erschrocken).  Seid Ihr von Sinnen?  Bin ich erschrocken doch,
+als haett' mich Amors Pfeil getroffen.  Ich bin schon eine
+ausgebluehte Rose, die nicht im Fruehlingsschein mehr glaenzt.
+
+Ewald.  Ich will durch meine Kunst Euch diesen Glanz verleihn.  Vor
+allen Toechtern dieses Reichs sollt Ihr den Schoenheitspreis erringen,
+ doch Eure Nichte ist dann mein, ich fuehr' sie mit mir fort.
+
+Aloe.  Ihr koenntet das, ein Sterblicher, bewirken, wofuer ich mich
+dem Cerberus schon verschrieben haette, wenn er's vermoegen koennte?
+
+Ewald.  Ich geb' Euch darauf mein Wort, und brech' ich es, braucht
+Ihr das Eure nicht zu halten.
+
+Aloe.  Macht mich nicht wahnsinnig.  Ihr wolltet Aloe verjuengen?
+
+Ewald.  Warum denn nicht?  Wenn Aloe, die Pflanze, mit hundert Jahren
+neue Blumen treibt, warum soll Aloe, das Weib, mit sechzig nicht
+erbluehn?
+
+Aloe.  Mit sechzig, ja, da habt Ihr recht, das ist die wahre
+Bluetenzeit.  Mir ist, als blueht' ich schon--fang' schon an zu duften.
+O Himmel, welch ein Glueck, ich fuehle mich schon jung, mich hindern
+bloss die Jahre.
+
+Ewald.  So maessigt Euch, es ist ja noch nicht Zeit.  Erwartet mich im
+Haus, ich muss mich erst dem Koenig zeigen.  Geht nur hinein und sagt
+Atritien, dass sie mein Weib soll werden.
+
+Aloe.  Ja, ja, Ihr sollt Atritien haben, ich schenke sie Euch.  Ach,
+wenn ich eine Herde solcher Maedchen haette, Ihr koenntet alle sie
+nach Eurem Lande treiben.  Nur fort damit, nur fort, die Schoenste
+bleibt zurueck.  Die Schoenste--eine Welt von Wonne liegt in diesem
+Namen.  Und bin die Schoenste ich, wird mir der schoenste Mann.  Der
+schoenste Mann!  Ach, wie viel Welten kommen da zusammen!--(Gegen das
+Haus.) Atritia, Atritia, wir kriegen beide Maenner!  O Goetter, steht
+mir bei, das kostet den Verstand.  (Eilt freudig ab.)
+
+
+
+Sechzehnte Szene.
+
+
+Ewald (allein).
+Wie fuehlt ein Juengling doppelt holder Liebe Wert,
+Wenn er das Alter den Verlust betrauern hoert.
+
+Geschrei (von innen).  Der Eber ist erlegt.  Es leb' der grosse Held!
+
+Ewald.  Der Eber ist erlegt, des Landes borst'ge Plage.  Da koemmt
+Simplizius, und voll Angst.  Ist seine Wut verdampft?
+
+
+
+Siebzehnte Szene.
+Voriger.  Simplizius.
+
+
+Simplizius.  Sind Sie da?
+
+Ewald.  Was bringen Sie, Simplizius?
+
+Simplizius.  Stellen Sie sich vor, ich hab' den Eber umgebracht.
+
+Ewald.  Sie?  Nicht moeglich.
+
+Simplizius.  Nun, sie sagen's alle.
+
+Ewald.  Alle?  Wer?
+
+Simplizius.  Die Voelkerschaften, die mir zugeschaut haben.
+
+Ewald.  Das ist ja ein ungeheures Schwein.
+
+Simplizius.  Versteht sich, ein groessres als wir alle zwei.
+
+Ewald.  Das haben Sie nicht allein erlegt, da muss Ihnen wer geholfen
+haben.
+
+Simplizius.  Jetzt ist's recht, wenn einem einmal was g'rat, so
+sagen Sie, es muss einem einer g'holfen haben.  Er hat ja nur einen
+Stich, das kann man ja doch gleich sehen.
+
+Ewald.  Wie ging es aber zu?
+
+Simplizius.  Ganz kurz, denn wer wird sich mit einem Eber in ein'n
+langen Diskurs einlassen?  Sie wissen, dass heut grosse Jagd auf ihn
+veranstaltet war.  Alles war versammelt drauss' beim gruenen Baum, da
+kommt der Eber alle Tag' zum Fruehstueck hin.  Alle Krieger waren voll
+Feuer, und in mir hat's gar schon gekocht.  Aus einmal wird einer
+totenblass und ruft: Der Eber kommt, jetzt rauft, rauft!  Aber das
+Wort rauft muss in der hiesigen Sprach' eine andre Bedeutung haben
+und muss heissen lauft; denn kaum war das Wort heraus, so sind schon
+alle davong'loff'n.  Kaum waren s' fort, wer kommt?  Der Eber.  Ich
+erseh' ihn kaum, so fasst mich eine Wut, ich stuerz' mich auf ihn los
+und stich ihn auf der unrechten Seiten hinein und auf der rechten
+wieder heraus.
+
+Ewald.  Unerhoert, und wie er fiel, was dann?
+
+Simplizius.  Dann bin ich auch davong'loff'n.  Was weiter g'schehn
+ist, weiss ich nicht, vermutlich haben sie eine Schwein aufgehoben.
+
+Ewald.  Also nach der Tat haben Sie den Mut verloren?
+
+Simplizius.  Versteht sich, das ist ja eben das Grossartige; vorher
+ist's keine Kunst.  Kaum ist der Eber in seinem Blut dagelegen, ist
+er mir noch zwanzigmal groesser vorg'kommen als vorher, so dass ich zu
+zittern ang'fangt hab', und hab' ihn nicht ansehn koennen mehr.
+Alles hat zwar g'schrien; Halt, verweil', du grosser Held!  Aber ich
+hab' mir gedacht, schreit ihr zu, solang ihr wollt, ich bin nicht
+der erste Held, der davon g'loff'n ist, und werd' auch nicht der
+letzte sein--und bin fort.
+
+Geschrei (von innen).  Heil dem groessten aller Helden!
+
+Simplizius.  Hoeren S', sie schrein schon wieder.  Gibt kein' Ruh',
+das Volk.
+
+Ewald.  Simplizius, Sie werden reichen Lohn erhalten.
+
+Simplizius.  Glauben S', dass was herausschaut?  Ich werd' ihnen schon
+einen rechten Konto machen, was ich an Eberarbeit g'liefert hab'.
+Oder sie sollen mich nach dem Pfund bezahlen.  Ich lass' ihn beim
+Wildbrethaendler waegen, was er waegt, das waegt er.  Punktum!  (Aloe
+zeigt sich am Fenster.) Doch sagen Sie mir, wann werden wir denn
+einmal das Reich erretten, wenn immer etwas dazwischen kommt?  Bald
+ein Erdbeben, bald ein Eber.
+
+Ewald.  Dafuer lassen Sie die Goetter sorgen, wir gehorchen nur.  Sehen
+Sie doch nach jenem Fenster.
+
+Simplizius.  Ah, da schau' ich nicht hinauf.
+
+Ewald.  Warum denn nicht?
+
+Simplizius.  Weil eine Alte herausschaut.
+
+Ewald.  Freund, das ist mein Ideal, die muss mir heut noch als die
+groesste Schoenheit glaenzen.
+
+Simplizius.  Die da?  Nun, da duerfen S' schoen politier'n, bis die zum
+glanzen anfangt.
+
+Ewald.  Das wird der Zauberschein der Fackel tun.  Der Koenig muss den
+Preis ihr reichen; drum stellen Sie als Ihren Freund mich bei ihm
+vor, damit er mir Gehoer verstattet.  Sehen Sie nur, dort nahen sich
+die Krieger im feierlichen Marsch, man suchet Sie.
+
+Simplizius.  Ah, sie sollen marschier'n, wohin sie wollen, ich
+brauch' sie nicht.
+
+
+
+Achtzehnte Szene.
+Vorige.  Dardonius.  Hoeflinge.  Dazu Nimelot.  Abukar.  Astrachan.
+Olinar.
+
+
+Chor (der Krieger, welche aus die Buehne ziehen).
+
+Dank dem Helden, den die Goetter
+Mit des Loewen Mut gestaehlt.
+Und den zu des Landes Retter,
+Gnaedig waltend sie erwaehlt.
+
+(Sie bilden einen Kreis.)
+
+Dardonius (in freudiger Begeisterung).  Wo, sagt, wo ist meines
+Landes wunderbarer Retter?
+
+Ein Hoefling.  Hier ist der edle Juengling, hoher Fuerst.
+
+Simplizius (fuer sich).  Meint der mich?
+
+Olinar.  Hat der den Eber erlegt?
+
+Abukar.  Wer hatte das gedacht?
+
+Dardonius.  Lass dich umarmen, Fremdling.  (umarmt ihn.) Nimm des
+Koenigs Dank.
+
+Simplizius.  Ich bitt' recht sehr, machen Sie kein solches Aufsehn,
+es ist ja gar nicht der Mueh' wert, wegen der Kleinigkeit da, wegen
+dem bissel Eber.
+
+Dardonius.  Also du hast dieses Ungetuem erlegt?
+
+Simplizius.  So schmeichl' ich mir.
+
+Krieger.  Wir waren alle Zeugen.
+
+Dardonius.  Heldenmuetiger Mann, sieh hier des Dankes Traenen in den
+Augen meines Volkes.
+
+(Die Hoeflinge weinen.)
+
+Simplizius.  Jetzt weinen die gar wegen einem Schwein, das ist mir
+unbegreiflich.
+
+Dardonius.  Goetter, wie koennen in so schwach gebautem Koerper solche
+Riesenkraefte wohnen?
+
+Simplizius.  Ja, das ist eben das Hasardspiel der Natur, dass ein
+Elefant in einer Nuss logiert.
+
+Dardonius.  Sprich, wie kann ich dich belohnen?
+
+Simplizius.  Ja, ich muesst' da erst einen Ueberschlag machen, das
+dauert zu lang', ich ueberlass' das Ganze der Indiskretion Euer
+Majestaet, wir werden kein' Richter brauchen.
+
+Dardonius (fuer sich).  Dieses Mannes Ausdruecke versteh' ich nicht.
+(Laut.) Ihr Krieger, deren oft bewiesner Mut der Heldenstaerke
+dieses Juenglings weichen muss, sagt selbst, verdient die Tat, dass
+sie ein Lorbeer lohnt?
+
+Alle.  Ja, sie verdient es.
+
+Simplizius.  Sapperment, ein'n Lorbeer geben s' mir gar dafuer, da
+waer' mir schon eine Halbe Heuriger lieber.
+
+Dardonius.  Wohlan, so schmuecket ihn damit.
+
+(Die Krieger brechen einen Lorbeerzweig von den Baeumen und winden
+einen Kranz.)
+
+Simplizius.  Sie, Freund--(zu Ewald) soll ich denn das Gestrauchwerk
+annehmen?  Das ist ja nicht zwei Groschen wert.
+
+Ewald.  Was fuer ein Gestraeuch?
+
+Simplizius.  Ein' Lorbeer wollen s' mir geben, da waer' mir ein
+Spenat noch lieber.  Mir scheint, sie wollen mich prellen, was?
+
+Ewald.  Was faellt Ihnen denn ein, ein Lorbeer ist die hoechste
+Auszeichnung, nach der die groessten Maenner aller Zeiten je gerungen
+haben.
+
+Simplizius.  Nach dem Lorbeer?  Nun der muss schoen herunter kommen
+sein, jetzt nehmen sie ihn schon gar zum Lungenbratl.
+
+Ewald.  Lassen Sie sich doch belehren.  Sie rauben ja der Menschheit
+ihren Adel.
+
+Simplizius.  Ist denn die Menschheit von Adel, das hab' ich auch
+nicht gewusst.
+
+Ewald.  O Vernunft, wie erhoeht der Umgang mit den Tieren deinen Wert.
+
+
+Dardonius.  Habt ihr ihn bereitet?
+
+Erster Hoefling.  Hier ist er.  (Bringt den Kranz mit roten Beeren auf
+einem Schild.)
+
+Simplizius.  So ist's recht, nicht einmal in einer Sauce.
+
+Dardonius.  Nun beug' dein Knie, ich selber will dich kroenen.
+
+Simplizius (kniet).  Das sind Umstaend'.
+
+Olinar.  Ein unbarmherz'ges Glueck.
+
+Dardonius.  In meinem und des ganzen Reiches Namen umwind' ich deine
+Heldenstirn' mit diesem Ehrenkranz.
+
+Simplizius.  Da bin ich versorgt auf mein Lebtag, wenigstens gehn
+mir die Fliegen nicht zu.
+
+Dardonius.  Wie heissest du?
+
+Simplizius.  Simplizius.
+
+Dardonius.  Das ganze Heer lobpreise diesen Namen.
+
+Alle Krieger.  Hoch leb' Simplizius, der Retter unsres Landes!
+
+Dardonius.  Steh auf, der Kranz ist dein.
+
+Simplizius (steht auf).  Die haben mich schoen erwischt, das ist ein
+Undank!  Ich muss aussehn, wie ein Felberbaum.  (Beutelt den Kopf.)
+
+Dardonius.  Und damit du meines hoechsten Dankes Wert erkennst, so
+sollst du Unterfeldherr sein.
+
+Simplizius.  O Spektakel, jetzt nehmen s' mich gar zum Militaer.
+Unterfeldscherer muss ich werden.
+
+Ewald.  Der Mensch bringt mich zur Raserei.
+
+Olinar.  Das ist ein aeusserst dummer Mensch.
+
+Alle.  Heil dir, Simplizius!
+
+Hoefling.  Man bringt den Eber, hoher Fuerst.
+
+Simplizius.  Was?  Nun, den taet' ich mir noch ausbitten, da trifft
+mich gleich der Schlag.
+
+
+
+Neunzehnte Szene.
+Vorige.  Sechs Krieger bringen einen ungeheuren Eber auf einer Trage,
+welche sie in die Mitte der Buehne setzen.
+
+
+Ewald.  Ein sehenswertes Tier.
+
+Simplizius.  Ich schau ihn g'wiss nicht an.
+
+Dardonius.  Bewundre deine Riesentat.
+
+Simplizius.  Ah, das ist schrecklich, er ist schon wieder g'wachsen.
+(Zu Ewald.) Das Tier nimmt gar kein End', schauen Sie ihn nur an,
+mir scheint, er ruehrt sich noch, er ist nicht tot.
+
+Dardonius.  Ergoetze dich an deinem Sieg!
+
+Simplizius.  Sie, halten S' mich, mir wird nicht gut.  Ich verlier'
+meinen Lorbeer noch aus Angst.  Der packt mich an, er hat ein Aug'
+auf mich, sehen Sie ihn nur an.
+
+Ewald.  So fassen Sie sich doch.
+
+Simplizius.  Reden S' nur nicht vom Fassen, sonst ist er gleich da.
+Ich halt's nicht aus.  (Schreit.) Euer Majestaet, schaffen Euer
+Majestaet den Eber fort.
+
+Mehrere Hoeflinge.  Wie, der Koenig?
+
+Simplizius.  Da ist mir alles eins, wegen meiner die Koenigin.  Nur
+fort mit ihm, es g'schieht ein Unglueck sonst.
+
+Dardonius.  Was bebst du so?
+
+Simplizius.  Aus lauter Kraft, das ist der ueberfluess'ge Mut.  Eine
+Lanzen!  (Man reicht ihm eine Lanze--leise.) Dass ich mich halten
+kann, sonst fall' ich z'sammen.  Fort mit ihm, nur fort, ich stech'
+ihn noch einmal z'sammen, den Sapperment, ich kenn' mich nicht vor
+Wut (beiseite) und vor Angst.
+
+Dardonius.  So bringt den Eber fort.  (Fuer sich.) Der Mann ist mir
+ein Raetsel.
+
+Olinar.  Spricht so der Mut sich aus, dann bin ich auch ein Held.
+
+Dardonius.  Ihr seid gewiss, dass er, nur er, den Eber hat erlegt.
+
+Die Krieger.  Wir sind's.
+
+Dardonius.  Das ist mir unbegreiflich.
+
+Simplizius (fuer sich).  Mir schon lang.
+
+Hoefling (leise zum Koenig).  Er ist verstandlos und gemein.
+
+Dardonius.  Gleichviel.  So lohnen wir die Tat, nicht den, der sie
+beging.  Erhebet ihn und tragt ihn im Triumphe nach dem Tempel, dort
+schmueckt ihn, wie die Sitte es erheischt.  Leb' wohl, mein Held, ich
+folge bald.
+
+(Die Krieger bilden mit ihren Schildern eine Treppe.)
+
+Simplizius.  Nein, was sie mir fuer eine Ehr' antun, zuerst tragen s'
+die Wildsau und nachher mich.--Da hinauf?  Ah, das wird ein Triumph
+werden, wenn sie mich da herunterfallen lassen, da werd' ich auf
+meinen Lorbeern ruhn.  (Steigt hinauf.)
+
+Krieger.  Es lebe Simplizius.
+
+Simplizius.  Jetzt heben s' mich auf einen Schild.  Da heisst's beim
+gruenen Kranz.  Eine schoene Aussicht hat man da heroben.  Nur Obacht
+geben, sonst heben wir noch was auf.  (Der Marsch beginnt, man will
+ihn forttragen, er schreit.) He, Sapperment, ich hab' noch was
+vergessen.  Halt, halt, die ganze Armee soll halten!  (Man haelt.)
+Euer Majestaet, ich bitt', auf ein Wort.
+
+Dardonius (tritt naeher).  Was verlangst du?
+
+Simplizius (zu Ewald).  Sie, kommen S' ein bissel her.  Euer Majestaet
+erlauben, dass ich Euer Majestaet bei meinem Freund auffuehr', er
+wuenscht dero Bekanntschaft zu machen, und aus lauter Triumph haett'
+ich bald drauf vergessen.  Ha, ha, ha, empfehl' mich.  (Zu den
+Kriegern.) Nur vorwaerts mit dem Zug.
+
+Chor (der Krieger).
+Dank dem Helden, den die Goetter
+Mit des Loewen Mut gestaehlt,
+Und den zu des Landes Retter
+Gnaedig waltend sie erwaehlt.
+
+(Alles ab, bis auf)
+
+
+
+Zwanzigste Szene.
+Dardonius.  Hoeflinge.  Ewald.  Aloe entfernt sich vom Fenster.
+
+
+Hoeflinge.  Ein sonderbarer Mann, ganz unwert solcher Ehre.
+
+Dardonius.  Du bist des tapfern Mannes Freund?
+
+Ewald (beiseite).  Was soll ich sagen.  (Laut.) Das bin ich, edler
+Fuerst.  (Fuer sich.) Die Schande drueckt mich fast zu Boden, dass ich
+dieses dummen Menschen Freund sein muss.
+
+Dardonius.  Er ist ein Held, wie mir noch keiner vorgekommen ist,
+und hat dem Lande Wichtiges geleistet, drum magst auch du auf die
+Gewaehrung eines Wunsches rechnen.
+
+Ewald.  Es ist ein Wunsch, der sich mit dieses Landes Ehre wohl
+vertraegt.  Ich will dein Aug' auf deines Reiches hoechste Schoenheit
+lenken, die nur bis jetzt in stiller Abgeschiedenheit gelebt.
+
+Dardonius.  Bring' sie zum Fest, verdient sie den Preis, soll er ihr
+nicht entgehen, doch ungerecht darf ich nicht handeln.
+
+Ewald.  So kuehn ist meine Bitte nicht.  Nur magst du sie nicht selbst
+mit einem Kranz von Rosen schmuecken, es muessen edle Frauen deines
+Landes ein Myrtendiadem auf ihren Scheitel druecken.
+
+Dardonius.  Es soll geschehn, find dich nur bald im Tempel ein, denn
+eh' noch Phoebus' Rosse aus Poseidons Fluten trinken, muss unser Fest
+beendet sein; damit die Nacht, die aller Schoenheit Glanz verdunkelt,
+ dem ruhmbeglueckten Tag nicht seinen Sieg entreisst.  (Geht ab, die
+Hoeflinge folgen.)
+
+Ewald (allein).  Es kraenkt mein Herz, dass ich dich, edler Koenig,
+taeuschen muss, weil dir ein kuehner Augenblick erschuetternd zeigen
+wird, wie sechzig unbarmherz'ge Jahre der holden Schoenheit Bild in
+Haesslichkeit verwandeln.  (Geht ab, in Aloes Haus.)
+
+
+
+Einundzwanzigste Szene.
+(Vorhalle in Aloes Wohnung.)
+
+(In der Mitte des Hintergrundes stuetzt ein breiter praktikabler
+Pfeiler das Gewoelbe, sodass sich dadurch zwei Oeffnungen bilden,
+wovon der Eingang zur Rechten durch eine drei Schuh hohe Balustrade,
+welche von der Kulisse bis zum Mittelpfeiler reicht, geschlossen
+ist.  In diese Halle, welche im Dunkel gemalt ist, fuehrt eine
+Seitentuer nach Atritiens Zimmer.  Die Halle links ist licht, weil
+sich auf dieser Seite ein Fenster befindet.)
+
+Aloe tritt ein.
+
+
+Aloe (aus Atritiens Gemach kommend und in dasselbe zurueckrufend).
+Bleib du im Gemache nur (verschliesst die Tuer), er darf dich nicht
+frueher sprechen, bis ich mit meinen Reizen erst in Ordnung bin.
+Vielleicht verliebt er sich dann wie Pygmalion in sein eignes Werk
+und gibt dir einen Korb.  Hier ist er schon, der holde Mann!
+
+
+
+Zweiundzwanzigste Szene.
+Vorige.  Ewald.
+
+
+Ewald.  Nun, hier bin ich, schnell zum Werk.  (Gebieterisch.)
+Bereitet Euch, um schoen zu werden.
+
+Aloe (pathetisch).  Wer waere dazu nicht bereitet, Erwartung spannt
+jede Faser, und Ungeduld zersprengt mir noch das Herz.
+
+Ewald.  Kniet Euch nieder, fleht die Goetter an.
+
+Aloe (kniet).  Goetter, die ihr tausend Himmel ausgeschmueckt mit
+Schoenheit habt, oeffnet eure Vorratskammern und das Fuellhorn ew'ger
+Jugend giesset auf mein Haupt herab!  Alles will ich gern erdulden;
+Werft mich in des Aetna Krater, speit er mich nur schoen heraus; lasst
+mich tief im Meere verschmachten, bis ich mich in Schaum aufloese
+und als Venus neu ersteh'; schenkt mir Millionen Muscheln, wo nur
+eine birgt die Schoenheit, und ich will sie alle oeffnen, bis ich auf
+die rechte komme.  Goetter, lasst euch doch erbitten; denn ich stehe
+nicht mehr auf.  (Breitet die Haende aus.)
+
+Ewald.  Steht wieder auf, jetzt seid Ihr schoen.
+
+Aloe (steht schnell auf).  Wollt Ihr mich zur Naerrin machen, ich
+seh' ja nicht die mindeste Veraenderung an mir.
+
+Ewald.  Weil es hier zu dunkel ist, lasst mich erst die Leuchte
+schwingen.  (Er schwingt die Leuchte und stellt sie in einen Ring
+des Pfeilers, doch so, dass die Halle links beleuchtet wird, die
+andere dunkel bleibt.  Augenblicklich verwandelt sich Aloe in ein
+junges reizendes, rosig gekleidetes griechisches Maedchen, mit
+weissen Rosen geziert.) Nun beseht Euch in dem Spiegel.  (Er haelt ihr
+einen Handspiegel vor, der auf einem Tischchen liegt.)
+
+Aloe.  Nein, unmoeglich, Venus blickt aus diesem Glase.  Schwoert mir,
+dass ich's selber bin.
+
+Ewald.  Ja, Ihr seid's, mein Haupt dafuer.
+
+Aloe (ploetzlich stolz).  Nun, ihr Weiber, die die Welt, blind genug,
+fuer schoen erklaert, wagt es, euch mit mir zu messen, Bettlerinnen
+seid ihr alle.  Ha, so gross ist meine Freude, dass ich dich umarmen
+muss.  (Kuesst ihn.)
+
+Ewald.  Sie gefaellt mir selbst beinah, doch mich kann sie nicht
+verfuehren, denn will ich meine Liebe daempfen, so loesch' ich nur die
+Fackel aus.
+
+Aloe (fuer sich).  Ha, er scheint sich zu verlieben; doch er ist mir
+jetzt zu wenig; nun muss ein Koenig kommen, wenn ich meine Hand
+verschenke.
+
+Ewald.  Bald straft sich dein Uebermut.  (Gezogen.) Hoert mich, schoene
+Aloe.
+
+Aloe (entzueckt).  Was verlangst du, holder Mann?
+
+Ewald.  Haltet nun auch Euer Wort, weil ich meines hab' erfuellt.
+Lasst Atritien mich sprechen.  Ruft sie mir.
+
+Aloe.  Wartet nur, ich hab' sie fest verschlossen.  Na, die wird vor
+Galle bersten, wenn sie meine Schoenheit sieht.  (Sie geht durch die
+lichte Oeffnung des Bogens.  Wie sie hinter den Pfeiler tritt, bleibt
+sie stehen und eine andere von gleicher Groesse, gekleidet wie Aloe
+als Alte war, geht ohne Pause statt ihr zur Seitentuer in der
+dunkeln Halle, schliesst sie auf und geht hinein.  Wie sie die Tuer
+ausschliesst, spricht:)
+
+Ewald (lachend).  Ha, ha, nun ist sie wieder alt, weil sie die
+Fackel nicht bescheint.
+
+Aloe (stuerzt aus dem Gemache, wie sie zu dem Pfeiler kommt,
+wechseln die Gestalten).  Wie geht das zu, dass mich Atritia nicht
+bewundert?
+
+Ewald (fuer sich).  Das glaub' ich gern.  (Laut.) Ihr irrt Euch ja.
+(Ruft.) Atritia, komm heraus!
+
+Atritia (aus dem Gemach, eilt auf Ewald zu, ohne Aloe zu achten).
+Ich komme.  Es ist seine Stimme, sag' Fremdling, ist es wahr, soll
+ich dein Weibchen werden?
+
+Ewald.  So ist's, doch sieh dich um.
+
+Atritia.  Ah, Himmel, was erblick' ich.  Das ist die Goettin Venus
+selbst.  (Faellt auf die Knie.) Nein, solche Schoenheit hab' ich noch
+nie gesehen.
+
+Aloe (triumphierend).  O Labsal, Honig fuer den Stolz.  Da kniet sie
+jetzt, die mich so oft verlacht.
+
+Atritia (haelt die Haende zusammen).  Grosse Goettin, steh uns bei.
+
+Ewald.  Steh auf, es ist nur deine Muhme.
+
+Atritia.  Was sprichst du da?  Die Muhme?
+
+Ewald.  Sie ist's, ich hab' sie so verschoenert.
+
+Atritia (steht auf).  Die alte haessliche Aloe?  Nicht moeglich!
+
+Aloe (bricht los).  Du ungezogenes Kind, du wagst es, mein
+ehemaliges Ich haesslich zu nennen?  Geh mir aus den Augen oder ich
+vergreife mich an dir.  Der Aerger kostet mich das Leben.
+
+Atritia.  Ja, du hast schon recht, sie ist's; so spricht die Goettin
+Venus nicht.  O sag', wirst du mich auch verschoenern?
+
+Ewald.  Du bist mir schoen genug.
+
+Atritia.  Dann will ich auch nicht schoener sein.
+
+Ewald.  Doch nun leb' wohl.  (Kuesst sie.) Kehr' ich zurueck, wirst du
+mein Weib und folgst mir in mein Vaterland.  Lucina, weih' ihr
+deinen Schutz.
+
+Aloe (noch immer zornig).  Mich alt zu nennen, du abscheuliches
+Geschoepf!  (Droht mit der Faust.)
+
+Ewald.  Jetzt maessigt Euch, der Zorn vermindert Eure Schoenheit.  Folgt
+in den Tempel mir.
+
+Aloe (nimmt sich zusammen).  Ja, ich will mich maessigen, denn meine
+Schoenheit geht mir ueber alles.  Ich folge Euch.  (Wieder auffahrend.)
+Aber wenn ich zurueckkomme--(Zu Ewald.) Geht nur voraus, ich bin die
+Sanftmut selbst.  (Wieder auffahrend.) Gottloses Kind, ich--(fasst
+sich) nein, du sollst mich nicht um meine Schoenheit bringen.  Geht
+nur voraus, ich folge sanft, ganz sanft.  (Trippelt steif und wirft
+immer wuetende Seitenblicke auf Atritien.) Mich alt zu nennen!--
+Zittre, wenn ich wiederkomme!--Ganz sanft--ganz sanft!  (Geht ab.)
+
+
+
+Dreiundzwanzigste Szene.
+Atritia, dann Lulu.
+
+
+Atritia (allein).  Ach, mein Geliebter ist ein Zauberer.
+
+(Wolken fallen vor, Lulu steigt aus der Erde.)
+
+Lulu.  Und willst du ihn darum verlassen?
+
+Atritia.  Das tu' ich nicht, er hat auch mich bezaubert.
+
+Lulu.  So folge mir, ich will dich ihm bewahren.  (versinkt mir ihr.)
+
+
+
+Vierundzwanzigste Szene.
+(Tempel der Venus.)
+
+
+An jeder Seite ein Thron, und in der Mitte des Hintergrundes das
+Bild der Goettin auf Wolken schwebend, vor diesem Stufen.  Dardonius,
+Olinar, Astrachan, Abukar, Nimelot, Priesterinnen der Venus mit
+goldenen Fackeln.  Edle Herren und Frauen von Kallidalos sind im
+Tempel versammelt, der Koenig besteigt den Thron.
+
+Kurzer Chor.
+Seht, die Goettin ist uns hold,
+Lieblich strahlt der Locken Gold,
+Und ihr anmutsreicher Blick,
+Kuendet unserm Lande Glueck.
+
+Dardonius.  Die Goettin ist uns hold, sie nahm die Opfer gnaedig auf.
+Nun fuehrt den Helden dieses wicht'gen Tags vor meinen Thron.
+
+
+
+Fuenfundzwanzigste Szene.
+Vorige.  Simplizius mit einem goldenen griechischen Panzer
+geschmueckt und die grosse Eberhaut umhaengend, wird von Edlen
+hereingefuehrt.
+
+
+Simplizius.  Was s' mit mir alles treiben, jetzt naehn s' mich mitten
+im Sommer in eine Eberhaut ein, da moecht' einer doch aus der Haut
+fahren!
+
+Dardonius.  Edle Herren und Frauen von Kallidalos, hier steht der
+kuehnste Jaeger seiner Zeit.
+
+Simplizius.  Ich wollt', ich waer's, ich jaget euch alle davon.
+
+Dardonius.  Ihm ward das Glueck, das Untier zu besiegen, das unser
+Land verwuestet hat.  Nun koennt ihr kuehn den Wald durchstreifen, und
+eurer Felder Saaten sind durch ihn gerettet.
+
+Simplizius.  Aha, deswegen haben s' mich zum Feldscher g'macht.
+
+Dardonius.  Schon ruht auf seiner Stirn das Zeichen hoechsten Ruhmes,
+und seine Schultern deckt des Tieres rauher Panzer.  Nichts gleichet
+seinem Mut.
+
+Simplizius (fuer sich).  Mir steigen schon alle Aengsten auf, ich
+schwitz' mich noch zu Tod.
+
+Dardonius.  Darum ist meines ganzen Volkes Hoffnung nur auf dich
+gerichtet.
+
+Simplizius (fuer sich).  Nun, ich gratuliere.
+
+Dardonius.  Besteige jenen Thron und kuende selbst, wozu ich dich
+ernannt.
+
+Simplizius.  O verflixt, mir verschlagt's die Red', und ich soll
+eine halten.  Ah was, ich red' halt einen unzusammenhaengenden
+Zusammenhang.  Volk ueber alle Voelkerschaften, der Koenig hat mich
+unters Militaer gegeben, und obwohl ich nicht das rechte Mass hab',
+so fuehle ich mich doch ueber alle Massen geruehrt und so ergriffen,
+dass ich mich auf meinen Thron hier niederlassen muss, um alles zu
+verschweigen, was mir meine Bescheidenheit nie zu sagen erlaubt.
+(Setzt sich.)
+
+Dardonius.  Ich hab' zum Unterfeldherrn ihn ernannt.  Du bist ein
+groesserer Held, als du ein Redner bist.  Nun reicht den Fraun das
+Myrtendiadem, wie ich es angeordnet habe, und lasst die Maedchen um
+den Preis der Schoenheit buhlen.
+
+(Schmelzende Tanzmusik.  Zwoelf Maedchen, so gekleidet wie Aloe nach
+ihrer Verwandlung, doch weisse Kleider mit roten Rosen geziert,
+beginnen anmutige Gruppierungen vor dem Thron des Koenigs.  Endlich
+bildet die Gruppe ein Tableau, das in seiner Mitte einen Raum laesst,
+in welchen Aloe tritt, die waehrend den Bewegungen von Ewald mit der
+Fackel hereingefuehrt wurde und die Gruppe schliesst.  Ein Knabe
+bringt den Frauen die Myrtenkrone auf einem Kissen.)
+
+Dardonius (mit Entzuecken).  Jene ist's, die einer diamantnen Rose
+gleich die zarten Perlen ueberschimmert.  (Er steigt vom Thron und
+fuehrt Aloe vor.) Ihr Frauen, kroenet sie, nur ihr gebuehrt der Preis.
+
+Simplizius (fuer sich).  Die Alte hat sich ausg'wachsen, jetzt kauft
+man s' fuer eine Junge.
+
+Dardonius.  Sagt selbst, welch Land hat solch ein Maedchen
+anzuzeigen?
+
+Die Maenner.  Erstaunen fesselt unsre Sinne.
+
+Simplizius (fuer sich).  Das ist der schoenste Betrug, der mir noch
+vorkommen ist.
+
+Dardonius.  Warum zoegert ihr, geehrte Frauen, ist sie nicht eurer
+Krone wert?  (Pause.) Antwortet doch.
+
+Frauen.  Ja, sie ist uns--
+
+Dardonius.  Was ist sie euch?
+
+Simplizius.  Zu schoen ist sie ihnen, das ist die ganze G'schicht'.
+
+Frauen.  Sie ist uns an Schoenheit ueberlegen.
+
+Simplizius.  Das hat was braucht, bis das herauskommen ist.  Morgen
+sind s' alle krank.
+
+Frauen (setzen ihr das Diadem auf).  Du, schoener als wir alle, sei
+des Festes Koenigin.  (Die Frauen fuehren Aloe in den Hintergrund auf
+die Thronstufen und reihen sich zu beiden Seiten.)
+
+Simplizius.  Jetzt kriegt die auch einen Kranz!  Der setzet ich was
+anders auf.
+
+Alle.  Heil der Koenigin des Festes.
+
+Simplizius.  Was die heut schreien, das ganze Volk wird heis'rig
+noch.
+
+Dardonius.  Simplizius, jetzt kann ich erst nach Wuerde dich belohnen;
+nimm dieses Maedchens Hand, sie sei dein Weib.
+
+Simplizius.  Das alte Weib?  Jetzt waer' ich bald vor Schrecken ueber
+den Thron herunter g'fallen.  Die nehm' ich nicht.
+
+Dardonius.  Bist du verwirrt, dies hinreissende Geschoepf?
+
+Simplizius.  Mich reisst sie nicht hin, ich hab' s' in ihrer alten
+Neglige schon g'sehn.
+
+Dardonius.  Du musst sie nehmen, wenn du nicht dein Amt verlieren
+willst.
+
+Simplizius.  Wegen meiner schon.  (Steigt vom Thron--fuer sich) Ich
+will doch lieber die Feldschererei verlieren, als die Schererei mit
+der Alten haben.
+
+Dardonius.  Wie.  du wagst es, dem Gesetz zu widersprechen?
+
+Ewald (leise).  So nehmen Sie sie doch.  Verraten Sie nur nichts, ich
+leih' Ihnen die Fackel.
+
+Simplizius.  Hoeren Sie auf, ich will ein Weib haben, die auch in der
+Finsternis schoen ist, nicht eine, die man erst illuminieren muss.
+(Laut.) Ich nehm' sie nicht.  Will s' vielleicht ein andrer?
+
+Die Maenner.  Wir alle sind bereit, sie zu freien.
+
+Simplizius.  Nun also, reissender geht s' weg.  Das Weibsbild foppt
+das ganze Land.
+
+Dardonius.  Noch nicht genug.  Um zu beweisen, wie man in Kallidalos
+Schoenheit ehrt, erwaehl' ich selbst zu meiner Gattin sie.
+
+Alles.  Es lebe unsre Koenigin!
+
+Simplizius.  Jetzt wird s' gar Koenigin!  Ich fahr' aus der Haut.
+
+Dardonius.  Und augenblicklich lass' ich mich vermaehlen.
+
+Aloe (macht Zeichen des Entzueckens).
+
+Simplizius Der Koenig treibt's.  (Zu Ewald.) So loeschen S' doch die
+Fackel aus, er heirat' ja die Katz' im Sack.
+
+Ewald.  Entsetzliche Verlegenheit, was soll ich nun beginnen?
+
+(Donnerschlag, das Bild der Venus verschwindet.  Lucina ist statt
+ihr in einer Wolkenglorie sichtbar.)
+
+Lucina.  Die Taeuschung geht zu weit, legt ab die Kraenze, die euch
+nicht gebuehren.  (Sie nimmt der unter ihr stehenden Aloe den Kranz
+ab, und Simplizius' Lorbeer fliegt ihr in die Hand.) Nun fort nach
+Agrigent.
+
+(Ewald und Simplizius verschwinden.  Wie die Fackel unsichtbar wird,
+verwandelt sich Aloe in ihre wahre Gestalt.  Das Bild der Venus
+erscheint wieder an der alten Stelle.)
+
+Alle.  Was ist geschehen?
+
+Dardonius.  Die Fremden sind verschwunden?  Wo ist die Braut, die ich
+erwaehlt?
+
+Aloe (auf den Stufen).  Hier bin ich, edelster Gemahl.
+
+Dardonius.  Welch haesslich Weib?  Wie kommst du in den Tempel?
+
+Aloe.  Ich bin ja Aloe, die du erwaehlt.  Ich schwoer's bei meiner
+Jugend.
+
+Alle.  Betrug!
+
+Dardonius.  Zauberei!  Peitscht aus dem Tempel sie.  O Scham,
+vernichte mich.  (Stuerzt ab.)
+
+(Man reisst Aloe von den Stufen.)
+
+Chor.
+Hinaus, hinaus, du Ungetuem,
+Entweih' den Tempel nicht,
+Erzittre vor des Koenigs Grimm,
+Auf, schleppt sie vors Gericht!
+
+(Sie wird hinausgejagt.)
+
+
+
+Sechsundzwanzigste Szene.
+(Der Wald mit der Pforte der Eumeniden, auf welcher die drei Siegel
+gluehen.  Nacht, Mondlicht.)
+
+Lucina mit den Kraenzen.  Kreon.
+
+
+Lucina.  Komm, mein Kreon, der Sieg ist uns gelungen.
+
+Kreon.  So haettest du Unmoegliches errungen?
+
+Lucina.  Bald wird dein Leid die hoechste Freude lohnen,
+Der Orkus ist beschaemt, hier sind die Kronen.
+
+Kreon.  Hell leuchten sie, drei Sonnen, durch die Nacht.
+Wie schnell flieht Schmerz, wenn uns die Hoffnung lacht.
+
+Lucina.  Nun knie' dich hin und senk' dein Aug' zur Erd',
+Dass es der grause Anblick nicht versehrt.
+Denn Rhea aechzet, und die Sterne wimmern,
+Sehn sie den Dolch der Eumeniden schimmern.
+    (Kreon kniet und beugt sein Haupt, Lucina legt die Kraenze auf
+den Opferstein.)
+Drei Kroenen ruhen auf dem kalten Stein!
+Ich opfre sie--
+    (Eine Flamme erscheint und verzehrt scheinbar die Kraenze.)
+                          Nun, Flamme, schliess sie ein.
+Schmelzt, Siegel!  Pforte, oeffne deinen Rachen.
+    (Die Siegel verschwinden, die Pforten springen unter
+schrecklichem Gekrache auf.)
+Herauf, herauf, ihr rachedurst'gen Drachen,
+    (Das Heulen des Windes.)
+Blick' ja nicht auf, es kostet dich das Leben.
+Die Eumeniden nahn, selbst mich ergreift ein Beben.
+
+(Sie beugt ihren Leib gegen die Erde, der Sturmwind heult.  Klagende
+Sturmmusik.  Ein blauer Blitz faehrt aus der Hoehle.)
+
+
+
+Siebenundzwanzigste Szene.
+Vorige.  Tisiphone, Megaere, Alecto, ganz gruen gekleidete Furien, das
+Haupt mit Vipern umwunden, eilen, blaeulichte Fackeln und blinkende
+Dolche schwingend, aus der Pforte.
+
+
+Alle drei (blicken auf den Mond--im tiefen Ton).
+Der Mond, der Mond, er scheint zur rechten Stunde,
+Wacht auf, wacht auf, die Rache haelt die Runde.
+
+(Sie gehen gemessenen Schrittes ueber die Buehne.)
+
+Lucina.  Es ist geschehn, bald ist dein Feind gerichtet,
+Und so der Streit mit banger Welt geschlichtet.
+Nun folg', es harren dein, auf mein Geheiss,
+Die Edlen all im liebverschlungnen Kreis.
+Von tausend Lampen schimmert dein Palast,
+Der kaum den Jubel seiner Gaeste fasst.
+
+(Beide ab.)
+
+
+
+Achtundzwanzigste Szene.
+Die goldgezierte runde Marmorhalle, das Schlafgemach Phalarius',
+durch zwei kerzenreiche Kandelaber erleuchtet.  An der Seite sein
+Lager, neben diesem brennt auf einem Postamente eine Lampe.
+Gegenueber eine Pforte aus Ebenholz.)
+
+Phalarius tritt auf, hinter ihm Androkles tief gebeugt.
+
+
+Phalarius.  Lasst sehn, wie lang mein stolzer Nachbar sich noch
+bruestet,
+Wo sind die Feldherrn?  Ist mein ganzes Heer geruestet?
+
+Androkles.  Es harret mutentbrannt der Krieger ruest'ge Schar.
+
+Phalarius (lachend).
+Vergebens glueht der Mut, vermeidet ihn Gefahr.
+Nun loesch' die Lichter aus, lass Dunkelheit herein,
+Entfern' dich dann (beiseite, mit Grimm)
+und ueberlass mich meiner Pein.
+
+(Androkles loescht die Lichter aus bis auf die Lampe, beugt sich
+tief und geht bangend ab.  Das Gemach wird finster.)
+
+
+
+Neunundzwanzigste Szene.
+
+
+Phalarius (allein).
+Ein kluger Hauswirt schliesst des Nachts die Tuer,
+Ich ahm' es nach.  (Schliesst.) So, nun bin ich allein mit mir.
+    (Erschrickt.)
+Allein?--Ein falsches Wort, wer kann das von sich sagen.
+Schickt nicht die Einsamkeit Gedanken, die uns plagen?
+Was sind Gedanken, die im Aufruhr sich versammeln,
+Das Hirn bedrohn und der Vernunft das Tor verrammeln?
+Gemeiner Tross nur ist's, den man nicht achten muss,
+Der Koenig der Gedanken ist nur der Entschluss.
+Drum hab' ich es auch fest mit Marmorsinn beschlossen,
+Wie Phoebus, gross und hehr, mit feuerspruehnden Rossen
+Des Himmels Reich durchzieht, auf goldnem Strahlenwagen,
+So will ich durch die Erd' das Licht der Krone tragen.
+Die Sonn' am saphirblauen Zelt glaenz' nicht allein,
+Ich will die Zweite auf smaragdnem Grunde sein.
+Von Aethiopiens Sand, wo gluehnder Samum hauset,
+Bis an des Nordpols Eis, wo Boreas erbrauset,
+Muss mein Panier, mit weithinschaundem Stolze prangen.
+Poch ruhiger, mein Herz, gestillt wird dein Verlangen.
+
+(Er legt die Pantherhaut und seine Waffen ab, doch die Krone nicht
+und streckt sich aufs Lager.)
+
+Besuch mich, falscher Schlaf, der selten mein gedenkt,
+Und sich nur gern auf kummerlose Augen senkt.
+Verlisch, o Lampe, lischt doch einst die Sonne aus,
+Dann wird es finster sein im grossen Weltenhaus.
+
+(Er loescht die Lampe aus, augenblicklich sieht man bei seinem
+Haupte drei gluehend rote Geister sitzen, welche unverwandt nach
+seiner Krone blicken, sie sind frueher hinter dem Ruhebett verborgen
+und heben erst setzt zugleich ihre Haeupter.)
+
+Wie eklig still!--Was waer' das Leben ohne Streit?
+Die Scheide ohne Schwert--(schreit auf).
+  Wer da?  (Erblickt die Geister.)
+  Ha ihr, auch heut?
+
+Die drei Geister (zugleich, eintoenig und hohl).
+Wir bewachen die Krone mit Uhusblick,
+Schlaf ruhig, schlaf ruhig, nichts stoere dein Glueck.
+
+Phalarius (laut auflachend).
+Mein Glueck!--Wie bin ich doch so gluecklich nun durch euch,
+Der Wunsch verarmt, ist die Erfuellung ueberreich.
+O Wahn, der ueber Leides Abgrund Bruecken baut,
+Weh dem, der ihren luft'gen Bogen keck vertraut.
+Verzweiflungsvolles Glueck, das selber sich entleibt,
+Du machst mich arm, das mir nichts als die Krone bleibt.
+Die Kron'?  Beim Styx, ich will sie fuerchterlich benuetzen,
+Verderben soll von ihren gluehnden Zacken blitzen,
+Ich raeche meine Qual, wer will mich daran hindern?
+
+(Es pocht an der Pforte.)
+
+Alecto (dumpf).
+Der Eumeniden Dolch.
+
+Megaere.   Vernichtung allen Suendern.
+
+Die drei Geister.
+Die Eumeniden hier, der Orkus hat geendet.
+
+(Verschwinden.)
+
+Phalarius (springt auf).
+Wer pocht so frech, sag' an, wer dich so spaet noch sendet?
+
+(Leises Pochen.)
+
+Alle drei.  Mach' auf, fein Koeniglein, wir wuenschen dich zu sprechen.
+
+
+Phalarius.  Was wollt ihr mir?
+
+(Die Tuer springt mit einem Donnerschlage auf, alle drei treten
+zugleich ein.)
+
+Alle drei.   Wir strafen dein Verbrechen.
+
+Phalarius (entsetzt).
+Ha, die Erynnien!
+
+Alle drei.   Bereu', du musst erbleichen.
+
+Phalarius.  Die furchtbar Raechenden!
+
+Alle drei.   Die jede Tat erreichen.
+
+Phalarius.  Zurueck, verfluchte Furien, mich schuetzt die Kron'.
+
+Alecto.  Sie schuetzt dich nicht, der Orkus schweigt; denk' an Kreon!
+
+Phalarius.  Ich hasse ihn wie euch.
+
+Tissiphone.   Denk' an Aspasien!
+
+Megaere.  An 'n Brand von Agrigent!
+
+Alecto.   Gedenk', du musst vergehn!
+
+(Sie draengen ihn aufs Lager.)
+
+Phalarius.  Ich denke nichts als Blut.
+
+Alecto.   So denke an den See!
+
+(Ein Teil der Kuppel stuerzt ein, sodass sich ein rund ausgebrochenes
+Loch zeigt, durch welches der Vollmond aufs Lager scheint.)
+
+Phalarius.  Weh mir, des Mondes Strahl!
+
+(Die Eumeniden senken ihre Dolche in seine Brust.)
+
+Alle drei.   Vergeh!  Vergeh!  Vergeh!
+
+(Pause--waehrend welcher sie in die Mitte des Theaters treten.)
+
+Der Mond, der Mond, er schien zur rechten Stunde,
+Ihr Suender, bebt, die Rache haelt die Runde.
+
+(Gehen gemessenen Schrittes ab.)
+
+
+
+Dreissigste Szene.
+
+
+Hades (aus der Tiefe, naht sich langsam dem Lager Phalarius').
+    (Feierlich.)
+Gib mir zurueck die Kron', du bleiches Heldenhaupt.
+    (Nimmt sie ihm ab.)
+Da liegt der stolze Baum, zersplittert und entlaubt.
+Hell glaenzt die Kron', nun will die gier'ge Welt ich fragen;
+Wo ist der Kuehne wohl, der sie nach ihm will tragen?
+
+(Versinkt.)
+
+
+
+Einunddreissigste Szene.
+(Reichverzierter beleuchteter Thronsaal.)
+
+Der Thron befindet sich in der Mitte des Hintergrundes.  Durch die
+Saeulen des Saales sieht man in einen reizenden, ebenso beleuchteten
+Garten.  Kreon auf dem Thron.  Alle Edlen seines Reiches umgeben ihn
+jubelnd.  Im Vordergrunde auf der einen Seite Ewald mit der Fackel
+und Simplizius, Lucina, Atritia und zwei Genien, die auf einem
+Kissen eine Krone tragen, auf der entgegengesetzten Seite
+Triumphmusik.
+
+
+Alles.  Dank den Goettern!  Ew'ges Glueck unserm teuern Koenig Kreon!
+
+Kreon.  Heil, meinen edlen Freunden, es stuermt mein Herz, mein Auge
+perlt Freude!  Nehmt eures Koenigs frohen Dank, der sich in eurer
+Mitte uebergluecklich fuehlt.
+
+(Alles kniet in schoenen Gruppen um den Thron.)
+
+Alle.  Heil unserm guten Koenig!
+
+Ewald.  Arme Fackel, deine Macht ist uebertroffen; an diesem Anblick
+kannst du nichts verschoenern.
+
+Simplizius.  Das ist mir der liebste Koenig von allen, die ich heut
+noch g'sehn hab'.
+
+Kreon.  Doch nun lasst uns der hohen Goettin danken, die Thron und
+Reich gerettet hat.
+
+Alles.  Der hehren Goettin Dank!
+
+Lucina.  Sei gluecklich, mein Kreon, Phalarius ist nicht mehr.  (Nimmt
+den Myrtenkranz.)
+Nimm diese Kron', von liebgepaarten Myrten,
+Lass dir die edle Stirne zart umguerten!
+Durch sie wird dein Gemuet nie Leid betrueben,
+Und stets wird dich dein Volk mit Treue lieben.
+
+Kreon.  Verzeih, Lucin', ich darf die Kron' nicht nehmen,
+Nimm sie zurueck, sie wuerde mich beschaemen.
+Es soll auch ohne Zauber mir gelingen,
+Die Liebe meines Volkes zu erringen.
+Und drueckt es Leid in ungluecksvollen Tagen,
+Ist es des Koenigs Pflicht, mit ihm zu klagen.
+
+Lucina (zu Ewald, welchen sie Atritien zufuehrt).
+Nimm sie zum Lohn, Atritiens Hand und Herz sei dein,
+Benuetze klug der Wunderfackel ros'gen Schein,
+Du kannst von deinem Glueck nichts Hoeheres erheischen,
+Die eine liebt dich wahr, die andre wird dich taeuschen.
+
+Simplizius.  Wenn's nicht etwa umgekehrt ausfallt.
+
+Lucina.  Und nun zu dir, Simplizius.
+
+Simplizius.  Jetzt kommt s' auch ueber mich.
+
+Lucina.  Du warst ein willig Werkzeug meiner Macht.
+Dich wird der Koenig hier auch nach Verdienst belohnen.
+
+Simplizius.  Auf d' Letzt setzen s' mir noch einen Lorbeer auf.
+
+Kreon.  Man zahle ihm tausend Goldstuecke aus!
+
+Simplizius (beiseite).  Ich hab's ja gleich g'sagt, dass mir das der
+Liebste ist.  (Laut.) Ich kuess' die Hand, Eure Majestaet.  (beiseite.)
+Jetzt richt' ich eine Schneiderwerkstatt auf und heirat' die Goettin,
+das wird ein himmlisches Leben werden.
+
+Kreon (zu Ewald).  Dich, Fremdling, werde ich stets an meinem Hose
+ehren und durch ein Amt belohnen.
+
+Ewald.  Mein grosser Koenig, Dank!
+
+Lucina.  Moegt ihr doch lange noch verdientes Glueck besitzen,
+Lucina wird euch stets mit Huld und Lieb' beschuetzen.
+
+(Ein rosiges Wolkenlager senkt sich nieder, von Genien umflogen.
+Lucina legt sich in zarter Stellung auf dasselbe und schwebt in die
+Luft.  Kreon besteigt den Thron.  Alles gruppiert sich.  Griechische
+Taenzer und Taenzerinnen fuehren Gruppen aus, von folgendem Chore
+begleitet:)
+
+Chor.
+Schmueckt mit Freude diese Hallen,
+Lasst des Jubels Ruf erschallen,
+Heil Lucina!  Heil Kreon!
+Tugend findet froh den Lohn.
+
+
+(Der Vorhang faellt.)
+
+
+Ende dieses Projekt Gutenberg Etextes Die unheilbringende Krone,
+oder Koenig ohne Reich, Held ohne Mut, Schoenheit ohne Jugend, von
+Ferdinand Raimund.
+
+
+
+
+
+End of Project Gutenberg's Die unheilbringende Krone, by Ferdinand Raimund
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIE UNHEILBRINGENDE KRONE ***
+
+This file should be named 7kron10.txt or 7kron10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7kron11.txt
+VERSIONS based on separate sources get new LETTER, 7kron10a.txt
+
+Produced by Delphine Lettau and Mike Pullen
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

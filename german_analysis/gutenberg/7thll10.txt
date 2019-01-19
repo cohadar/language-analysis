@@ -1,0 +1,2174 @@
+The Project Gutenberg EBook of Othello, by Wilhelm Hauff
+#4 in our series by Wilhelm Hauff
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Othello
+
+Author: Wilhelm Hauff
+
+Release Date: October, 2004 [EBook #6725]
+[Yes, we are more than one year ahead of schedule]
+[Date last updated: September 18, 2004]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-8859-1
+
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK OTHELLO ***
+
+
+
+
+
+This text was produced for Project Gutenberg 
+by Mike Pullen and Delphine Lettau.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+
+
+
+
+Othello
+
+Wilhelm Hauff
+
+Wie? Wann? und Wo? Die Goetter bleiben stumm!
+Du halte dich ans Weil, und frage nicht Warum?
+
+Goethe
+
+
+1.
+
+Das Theater war gedraengt voll; ein neuangeworbener Saenger gab den Don
+Juan.  Das Parterre wogte, von oben gesehen, wie die unruhige See,
+und die Federn und Schleier der Damen tauchten wie schimmernde Fische
+aus den dunkeln Massen.  Die Ranglogen waren reicher als je, denn mit
+dem Anfang der Wintersaison war eine kleine Trauer eingefallen, und
+heute zum erstenmal drangen wieder die schimmernden Farben der
+reichen Turbans, der wehenden Buesche, der bunten Schals an das Licht
+hervor.  Wie glaenzend sich aber auch der reiche Kranz von Damen um
+das Amphitheater zog, das Diadem dieses Kreises schien ein herrliches,
+liebliches Bild zu sein, das aus der fuerstlichen Loge freundlich und
+hold die Welt um und unter sich ueberschaute.  Man war versucht zu
+wuenschen, dieses schoene Kind moechte nicht so hoch geboren sein, denn
+diese frische Farbe, diese heitere Stirne, diese kindlich reinen,
+milden Augen, dieser holde Mund war zur Liebe--nicht zur Verehrung
+aus der Ferne geschaffen.  Und wunderbar, wie wenn Prinzessin Sophie
+diesen frevelhaften Gedanken geahnet haette--auch ihr Anzug entsprach
+diesem Bilde einfacher, natuerlicher Schoenheit; sie schien jeden
+Schmuck, den die Kunst verleiht, dem stolzen Damenkreis ueberlassen zu
+haben.
+
+"Sehen Sie, wie lebendig, wie heiter sie ist", sprach in einer der
+ersten Ranglogen ein fremder Herr zu dem russischen Gesandten, der
+neben ihm stand, und beschaute die Prinzessin durch das Opernglas;
+"wenn sie laechelt, wenn sie das sprechende Auge ein klein wenig
+zudrueckt und dann mit unbeschreiblichem Reiz wieder aufschlaegt, wenn
+sie mit der kleinen niedlichen Hand dazu agiert--man sollte glauben,
+aus so weiter Ferne ihre witzigen Reden, ihre naiven Fragen vernehmen
+zu koennen."
+
+"Es ist erstaunlich!" entgegnete der Gesandte.
+
+"Und dennoch sollte dieser Himmel von Freudigkeit nur Maske sein?
+Sie sollte fuehlen, schmerzlich fuehlen, sie sollte ungluecklich lieben
+und doch so bluehend, so heiter sein?  Gnaedige Frau!" wandte sich der
+Fremde zu der Gemahlin des Gesandten, "gestehen Sie, Sie wollen mich
+mystifizieren, weil ich einiges Interesse an diesem Goetterkinde
+genommen habe."
+
+"Mon dieu!  Baron", sagte diese mit dem Kopfe wackelnd, "Sie glauben
+noch immer nicht?  Auf Ehre, es ist wahr, wie ich Ihnen sagte; sie
+liebt, sie liebt unter ihrem Stande, ich weiss es von einer Dame, der
+nichts dergleichen entgeht.  Und wie? meinen Sie, eine Prinzess, die
+von Jugend auf zur Repraesentation erzogen ist, werde nicht Tournuere
+genug haben, um ein so unschickliches Verhaeltnis den Augen der Welt
+zu verbergen?"
+
+"Ich kann es nicht begreifen", fluesterte der Fremde, indem er wieder
+sinnend nach ihr hinsah; "ich kann es nicht fassen; diese Heiterkeit,
+dieser beinahe mutwillige Scherz--und stille, unglueckliche Liebe?
+Gnaedige Frau, ich kann es nicht begreifen!"
+
+"Ja, warum soll sie denn nicht munter sein, Baron?  Sie ahnet wohl
+nicht, dass jemand etwas von ihrer meschanten Auffuehrung weiss; der
+Amoroso ist in der Naehe--"
+
+"Ist in der Naehe? o bitte, Madame! zeigen sie mir den Gluecklichen,
+wer ist er?"
+
+"Was verlangen Sie!  Das waere ja gegen alle Diskretion, die ich der
+Oberhofmarschallin schuldig bin; mein Freund, daraus wird nichts.
+Sie koennen zwar in Warschau wieder erzaehlen, was Sie hier gesehen und
+gehoert haben, aber Namen?  Nein, Namen zu nennen in solchen Affaeren,
+ist sehr unschicklich; mein Mann kann dergleichen nicht leiden."
+
+Die Ouvertuere war ihrem Ende nahe, die Toene brausten staerker aus dem
+Orchester herauf, die Blicke der Zuschauer waren fest auf den Vorhang
+gerichtet, um den neuen Don Juan bald zu sehen; doch der Fremde in
+der Loge der russischen Gesandtschaft hatte kein Ohr fuer Mozarts Toene,
+kein Auge fuer das Stueck; er sah nur das liebliche, herrliche Kind,
+das ihm um so interessanter war, als diese schoenen Augen, diese suessen,
+freundlichen Lippen heimliche Liebe kennen sollten.  Ihre Umgebungen,
+einige aeltere und juengere Damen, hatten zu sprechen aufgehoert; sie
+lauschten auf die Musik; Sophiens Augen glitten durch das gefuellte
+Haus, sie schienen etwas zu vermissen, zu suchen.  "Ob sie wohl nach
+dem Geliebten ihre Blicke aussendet?" dachte der Fremde; "ob sie die
+Reihen mustert, ihn zu sehen, ihn mit einem verstohlenen Laecheln, mit
+einem leisen Beugen des Hauptes, mit einem jener tausend Zeichen zu
+begruessen, welche stille Liebe erfindet, womit sie ihre Lieblinge
+beglueckt, bezaubert?" Eine schnelle, leichte Roete flog jetzt ueber
+Sophiens Zuege, sie rueckte den Stuhl mehr seitwaerts, sie sah einigemal
+nach der Tuere ihrer Loge; die Tuere ging auf, ein grosser, schoener
+junger Mann trat ein und naeherte sich einer der aelteren Damen; es war
+die Herzogin F., die Mutter der Prinzessin.  Sophie spielte
+gleichgueltig mit der Brille, die sie in der Hand hielt; aber der
+Fremde war Kenner genug, um in ihrem Auge zu lesen, dass dieser und
+kein anderer der Glueckliche sei.
+
+Noch konnte er sein Gesicht nicht sehen; aber die Gestalt, die
+Bewegungen des jungen Mannes hatten etwas Bekanntes fuer ihn; die
+Fuerstin zog ihre Tochter ins Gespraech, sie blickte freundlich auf,
+sie schien etwas Pikantes erwidert zu haben, denn die Mutter laechelte,
+der junge Mann wandte sich um, und--"mein Gott!  Graf Zronievsky!"
+rief der Fremde so laut, so aengstlich, dass der Gesandte an seiner
+Seite heftig erschrak und seine Gemahlin den Gast krampfhaft an der
+Hand fasste und neben sich auf den Stuhl niederriss.
+
+"Um Himmels willen, was machen Sie fuer Skandal", rief die erzuernte
+Dame; "die Leute schauen rechts und links nach uns her; wer wird denn
+so moerderisch schreien?  Es ist nur gut, dass sie da unten gerade
+ebenso moerderisch gegeigt und trompetet haben, sonst haette jedermann
+Ihren Zronievsky hoeren muessen.  Was wollen Sie nur von dem Grafen?
+Sie wissen ja doch, dass wir vermeiden, ihn zu kennen!"
+
+"Kein Wort weiss ich", erwiderte der Fremde; "wie kann ich auch wissen,
+wen Sie kennen und wen nicht, da ich erst seit drei Stunden hier bin.
+Warum vermeiden Sie es, ihn zu sehen?"
+
+"Nun, seine Verhaeltnisse zu unserer Regierung koennen Ihnen nicht
+unbekannt sein", sprach der Gesandte; "er ist verwiesen, und es ist
+mir hoechst fatal, dass er gerade hier und immer nur hier sein will.
+Er hat sich unverschaemterweise bei Hofe praesentieren lassen, und so
+sehe ich ihn auf jedem Schritt und Tritt, und doch wollen es die
+Verhaeltnisse, dass ich ihn ignoriere. Ueberdies macht mir der fatale
+Mensch sonst noch genug zu schaffen; man will hoeheren Orts wissen,
+wovon er lebe und so glaenzend lebe, da doch seine Gueter konfisziert
+sind; und ich weiss es nicht herauszubringen.  Sie kennen ihn, Baron?"
+
+Der Fremde hatte diese Reden nur halb gehoert; er sah unverwandt nach
+der fuerstlichen Loge; er sah, wie Zronievsky mit der Fuerstin und den
+andern Damen sprach, wie nur sein feuriges Auge hin und wieder nach
+Sophien hinglitt, wie sie begierig diesen Strahl auffing und
+zurueckgab.  Der Vorhang flog auf, der Graf trat zurueck und verschwand
+aus der Loge; Leporello hub sein Klagen an.
+
+"Sie kennen ihn, Baron?" fluesterte der Gesandte; "wissen Sie mir
+Naeheres ueber seine Verhaeltnisse--"
+
+"Ich habe mit ihm unter den polnischen Lanciers gedient."
+
+"Ist wahr; er hat in der franzoesischen Armee gedient; sahen Sie sich
+oft? kennen Sie seine Ressourcen?"
+
+"Ich habe ihn nur gesehen", warf der Fremde leicht hin, "wenn es der
+Dienst mit sich brachte; ich weiss nichts von ihm, als dass er ein
+braver Soldat und ein sehr unterrichteter Offizier ist."
+
+Der Gesandte schwieg; sei es, dass er diesen Worten glaubte, sei es,
+dass er zu vorsichtig war, seinem Gast durch weitere Fragen Misstrauen
+zu zeigen.  Auch der Fremde bezeugte keine Lust, das Gespraech weiter
+fortzusetzen; die Oper schien ihn ganz in Anspruch zu nehmen; und
+dennoch war es ein ganz anderer Gegenstand, der seine Seele
+unablaessig beschaeftigte.  "Also hieher hat dich dein unglueckliches
+Geschick endlich getrieben?" sagte er zu sich, "armer Zronievsky!
+Als Knabe wolltest du dem Kosciusko helfen und dein Vaterland
+befreien; Freiheit und Kosciusko sind verklungen und verschwunden.
+Als Juengling warst du fuer den Ruhm der Waffen, fuer die Ehre der Adler,
+denen du folgtest, begeistert, man hat sie zerschlagen; du hattest
+dein Herz so lange vor Liebe bewahrt, sie findet dich endlich als
+Mann, und siehe--die Geliebte steht so furchtbar hoch, dass du
+vergessen oder untergehen musst!"
+
+Das Geschick seines Freundes, denn das war ihm Graf Zronievsky
+gewesen, stimmte den Fremden ernst und truebe, er versank in jenes
+Hinbrueten, das die Welt und alle ihre Verhaeltnisse vergisst, und der
+Gesandte musste ihn, als der erste Akt der Oper zu Ende war, durch
+mehrere Fragen aus seinem Sinnen aufwecken, das nicht einmal durch
+das Klatschen und Bravorufen des Parterres unterbrochen worden war.
+
+"Die Herzogin hat nach Ihnen gefragt", sagte der Gesandte,--"sie
+behauptet, Ihre Familie zu kennen; kommen Sie, wischen Sie diesen
+Ernst, diese Melancholie von Ihrer Stirne; ich will Sie in die Loge
+fuehren und praesentieren."
+
+Der Fremde erroetete; sein Herz pochte, er wusste selbst nicht warum;
+erst als er den Korridor mit dem Gesandten hinging, als er sich der
+fuerstlichen Loge naeherte, fuehlte er, dass es die Freude sei, was sein
+Blut in Bewegung brachte, die Freude, jenem lieblichen Wesen nahe zu
+sein, dessen stille Liebe ihn so sehr anzog.
+
+
+
+2.
+
+Die Herzogin empfing den Fremden mit ausgezeichneter Guete.  Sie
+selbst praesentierte ihn der Prinzessin Sophie, und der Name Larun
+schien in den Ohren des schoenen Kindes bekannt zu klingen; sie
+erroetete fluechtig und sagte, sie glaube gehoert zu haben, dass er
+frueher in der franzoesischen Armee diente.  Es war dem Baron nur zu
+gewiss, dass ihr niemand anders als Zronievsky dies gesagt haben konnte;
+es war ihm um so gewisser, als ihr Auge mit einer gewissen Teilnahme
+auf ihm, wie auf einem Bekannten, ruhte, als sie gerne die Rede an
+ihn zu richten schien.
+
+"Sie sind fremd hier", sagte die Herzogin, "Sie sind keinen Tag in
+diesen Mauern, Sie koennen also noch von niemand bestochen sein; ich
+fordere Sie auf, seien Sie Schiedsrichter; kann es nicht in der Natur
+geheimnisvolle Kraefte geben, die--die, wie soll ich mich nur
+ausdruecken, die, wenn wir sie frevelhaft hervorrufen, uns Unheil
+bringen koennen?"
+
+"Sie sind nicht unparteiisch, Mutter", rief die Prinzessin lebhaft.
+"Sie haben schon durch Ihre Frage, wie Sie sie stellten, die Sinne
+des Barons gefangen genommen.  Sagen Sie einmal, wenn zufaellig im
+Zwischenraum von vielen Jahren von einem Hause nach und nach sechs
+Dachziegel gefallen waeren und einige Leute getoetet haetten, wuerden Sie
+nicht mehr an diesem Hause voruebergehen?"
+
+"Warum nicht? es muessten nur in diesen Ziegeln geheimnisvolle Kraefte
+liegen, welche--"
+
+"Wie mutwillig!" unterbrach ihn die Herzogin, "Sie wollen mich mit
+meinen geheimnisvollen Kraeften nach Hause schicken; aber nur Geduld;
+das Gleichnis, das Sophie vorbrachte, passt doch nicht ganz--"
+
+"Nun, wir wollen gleich sehen, wem der Baron recht gibt", rief jene;
+"die Sache ist so: wir haben hier eine sehr huebsche Oper, man gibt
+alles Moegliche, Altes und Neues durcheinander, nur eines nicht, die
+schoenste, herrlichste Oper, die ich kenne; auf fremdem Boden musste
+ich sie zum erstenmal hoeren; das erste, was ich tat, als ich hieher
+kam, war, dass ich bat, man moechte sie hier geben, und nie wird mir
+mein Wunsch erfuellt!  Und nicht etwa, weil sie zu schwer ist, sie
+geben schwerere Stuecke, nein, der Grund ist eigentlich laecherlich."
+
+"Und wie heisst die Oper?" fragte der Fremde.  "Es ist Othello!"
+
+"Othello?  Gewiss, ein herrliches Kunstwerk; auch mich spricht selten
+eine Musik so an wie diese, und ich fuehle mich auf lange Tage
+feierlich, ich moechte sagen heilig bewegt, wenn ich Desdemonas
+Schwanengesang zur Harfe singen gehoert habe."
+
+"Hoeren Sie es?  Er kommt von Petersburg, von Warschau, von Berlin,
+Gott weiss woher--ich habe ihn nie gesehen, und dennoch schaetzt er
+'Othello' so hoch.  Wir muessen ihn einmal wieder sehen.  Und warum
+soll er nicht wieder gegeben werden?  Wegen eines Maerchens, das
+heutzutage niemand mehr glaubt."
+
+"Freveln Sie nicht", rief die Fuerstin, "es sind mir Tatsachen bekannt,
+die mich schaudern machen, wenn ich nur daran denke; doch wir
+sprechen unserem Schiedsrichter in Raetseln; stellen Sie sich einmal
+vor, ob es nicht schrecklich waere, wenn es jedesmal, so oft 'Othello'
+gegeben wuerde, brennte."
+
+"Auch wieder ein Gleichnis", fiel Sophie ein, "doch es ist noch viel
+toller, das Maerchen selbst!"
+
+"Nein, es soll einmal brennen", fuhr die Mutter fort.  "'Othello'
+wurde zuerst als Drama nach Shakespeare gegeben, schon vor fuenfzig
+Jahren; die Sage ging, man weiss nicht, woher und warum, dass, so oft
+'Othello' gegeben wurde, ein gewisses Evenement erfolgte; nun also
+unser Brennen; es brannte jedesmal nach 'Othello'.  Man machte den
+Versuch, man gab lange Zeit 'Othello' nicht; es kam eine neue
+geistreiche Uebersetzung auf, er wird gegeben--jener ungluecklichste
+Fall ereignete sich wieder.  Ich weiss noch wie heute, als 'Othello',
+zur Oper verwandelt, zum erstenmal gegeben wurde; wir lachten lange
+vorher, dass wir den ungluecklichen Mohren um sein Opfer gebracht haben,
+indem er jetzt musikalisch geworden--Desdemona war gefallen, wenige
+Tage nachher hatte der Schwarze auch sein zweites Opfer.  Der Fall
+trat nachher noch einmal ein, und darum hat man 'Othello' nie wieder
+gegeben; es ist toericht, aber wahr.  Was sagen Sie dazu, Baron? aber
+aufrichtig, was halten Sie von unserem Streit?"
+
+"Durchlaucht haben vollkommen recht", antwortete Larun in einem Ton,
+der zwischen Ernst und Ironie die Mitte hielt; "wenn Sie erlauben,
+werde ich durch ein Beispiel aus meinem eigenen Leben Ihre Behauptung
+bestaetigen.  Ich hatte eine unverheiratete Tante, eine unangenehme,
+mystische Person; wir Kinder hiessen sie nur die Federntante, weil sie
+grosse, schwarze Federn auf dem Hut zu tragen pflegte.  Wie bei Ihrem
+'Othello', so ging auch in unserer Familie eine Sage, so oft die
+Federntante kam, musste nachher eines oder das andere krank werden.
+Es wurde darueber gescherzt und gelacht, aber die Krankheit stellte
+sich immer ein, und wir waren den Spuk schon so gewoehnt, dass, so oft
+die Federntante zu Besuch in den Hof fuhr, alle Zuruestungen fuer die
+kommende Krankheit gemacht und selbst der Doktor geholt wurde."
+
+"Eine koestliche Figur, Ihre Federntante", rief die Prinzessin lachend;
+"ich kann mir sie denken, wie sie den Kopf mit dem Federnhut aus dem
+Wagen streckte, wie die Kinder laufen, als kaeme die Pest, weil keines
+krank werden will, und wie ein Reitknecht zur Stadt sprengen muss, um
+den Doktor zu holen, weil die Federntante erschienen sei.  Da hatten
+Sie ja wahrhaftig eine lebendige weisse Frau in Ihrer Familie!"
+
+"Still von diesen Dingen", unterbrach sie die Fuerstin ernst, beinahe
+unmutig; "man sollte nicht von Dingen so leichthin reden, die man
+nicht leugnen kann und deren Natur dennoch nie erklaert wird.  So ist
+nun einmal auch mein 'Othello'", setzte sie freundlicher hinzu.  "Und
+Sie werden ihn nicht zu sehen bekommen, Baron, und muessen ihr
+Lieblingsstueck schon wo anders aufsuchen."
+
+"Und Sie sollen ihn dennoch sehen", fluesterte Sophie zu ihm hin, "ich
+muss mein Desdemonalied noch einmal hoeren, so recht sehen und hoeren
+auf der Buehne, und sollte ich selbst darueber zum Opfer werden!"
+
+"Sie selbst?" fragte der Fremde betroffen; "ich hoere ja, der
+gespenstische Mohr soll nur brennen, nicht toeten?"
+
+"Ach, das war ja nur das Gleichnis der Mutter!" fluesterte sie noch
+viel leiser, "die Sage ist noch, viel schauriger, noch viel
+gefaehrlicher."
+
+Der Kapellmeister pochte, die Introduktion des zweiten Akts begann,
+und der Fremde stand auf, die fuerstliche Loge zu verlassen.  Die
+Herzogin hatte ihn guetig entlassen, aber vergebens sah er sich nach
+dem Gesandten um, er war wohl laengst in seine Loge zurueckgekehrt.
+Unschluessig, ob er rechts oder links gehen muesse, stand er im
+Korridor, als eine warme Hand sich in die seinige legte; er blickte
+auf, es war der Graf Zronievsky.
+
+
+
+3.
+
+"So habe ich doch recht gesehen?" rief der Graf, "mein Major, mein
+tapferer Major!  Wie lebt alles wieder in mir auf!  Ich werfe diese
+ungluecklichen dreizehn Jahre von mir; ich bin der frohe Lancier wie
+sonst!  Vive Poniatowsky, vive l'emp-"
+
+"Um Gottes willen, Graf!" fiel ihm der Fremde in das Wort; "bedenken
+Sie, wo Sie sind.  Und warum diese Schatten heraufbeschwoeren?  Sie
+sind hinab mit ihrer Zeit, lasset die Toten ruhen."
+
+"Ruhen?" entgegnete jener; "das ist ja gerade, was ich nicht kann; o,
+dass ich unter jenen Toten waere, wie sanft, wie geduldig wollte ich
+ruhen.  Sie schlafen, meine tapfern Polen, und keine Stimme, wie
+maechtig sie auch rufe, schreckt sie auf.  Warum darf ich allein nicht
+rasten?"
+
+Ein duesteres, unstetes Feuer brannte in den Augen des schoenen Mannes;
+seine Lippen schlossen sich schmerzlich; sein Freund betrachtete ihn
+mit besorgter Teilnahme, er sah hier nicht mehr den froehlichen,
+heldenmuetigen Juengling, wie er ihn an der Spitze des Regimentes in
+den Tagen des Glueckes gesehen; das zutrauliche, gewinnende Laecheln,
+das ihn sonst so angezogen, war einem graemlichen, bittern Zuge
+gewichen, das Auge, das sonst voll stolzer Zuversicht, voll freudigen
+Mutes, frei und offen um sich blickte schien misstrauisch jeden
+Gegenstand zu pruefen, durchbohren zu wollen, das matte Rot, das seine
+Wangen bedeckte, war nur der Abglanz jener Jugendbluete, die ihm in
+den Salons von Paris den Namen des schoenen Polen erworben hatte, und
+dennoch, auch nach dieser grossen Veraenderung, welche Zeit und Unglueck
+hervorgebracht hatten, musste man gestehen, dass Prinzessin Sophie sehr
+zu entschuldigen sei.
+
+"Sie sehen mich an, Major?" sagte jener nach einigem Stillschweigen,
+"Sie betrachten mich, als wollten Sie die alten Zeiten aus meinen
+Zuegen herausfinden?  Geben Sie sich nicht vergebliche Muehe, es ist so
+manches anders geworden, sollte nicht der Mensch mit dem Geschick
+sich aendern?"
+
+"Ich finde Sie nicht sehr veraendert", erwiderte der Fremde, "ich
+erkannte Sie bei dem ersten Anblick wieder.  Aber eines finde ich
+nicht mehr wie frueher, aus diesen Augen ist ein gewisses Zutrauen
+verschwunden, das mich sonst so oft beglueckte.  Alexander Zronievsky
+scheint mir nicht mehr zu trauen.  Und doch", setzte er laechelnd
+hinzu, "und dennoch war mein Geist immer bei ihm, ich weiss sogar die
+tiefsten Gedanken seines Herzens."
+
+"Meines armen Herzens!" entgegnete der Graf wehmuetig; "ich wuesste kaum,
+ob ich noch ein Herz habe, wenn es nicht manchmal vor Unmut pochtet.
+Welche Gedanken wollen Sie aufgespart haben, als die unwandelbare
+Freundschaft fuer Sie, Major?  Schelten Sie nicht mein Auge, weil es
+nicht mehr froehlich ist; ich habe mich in mich selbst zurueckgezogen,
+ich habe mein Vertrauen in meine Rechte gelegt, ihr Druck wird Ihnen
+sagen, dass ich noch immer der Alte bin."
+
+"Ich danke; aber wie, ich sollte mich nicht auf die Gedanken Ihres
+Herzens verstehen?  Sie sagen, es pocht nur vor Unmut; was hat denn
+ein gewisses Fuerstenkind getan, dass Ihr Herz so gar unmutig pocht?"
+
+Der Graf erblasste; er presste des Fremden Hand fest in der seinigen:
+"Um Gottes willen, schweigen Sie; nie mehr eine Silbe ueber diesen
+Punkt!  Ich weiss, ich verstehe, was Sie meinen, ich will sogar
+zugeben, dass Sie recht gesehen haben; der Teufel hat Ihre Augen
+gemacht, Major!  Doch warum bitte ich einen Ehrenmann wie Sie, zu
+schweigen?  Es hat noch keiner vom achten Regiment seinen Kameraden
+verraten."
+
+"Sie haben recht, und kein Wort mehr darueber; doch nur dies eine noch;
+vom achten verratet keiner den Kameraden, ob aber der gute Kamerad
+sich selber nicht verraet?"
+
+"Kommen Sie hier auf diese Treppe", fluesterte der Graf, denn es
+nahten sich mehrere Personen; "Jesus Maria, sollte ausser Ihnen jemand
+etwas ahnen?"
+
+"Wenn Sie Vertrauen um Vertrauen geben werden, wohlan, so will ich
+beichten."
+
+"O, foltern Sie mich nicht, Major!  Ich will nachher sagen, was Sie
+haben wollen, nur geschwind, ob jemand ausser Ihnen--"
+
+Der Major von Larun erzaehlte, er sei heute in dieser Stadt angekommen,
+seine Depeschen seien bei dem Gesandten bald in Richtigkeit gewesen,
+man habe ihn in die Oper mitgenommen, und dort, wie er entzueckt die
+Prinzessin aus der Ferne betrachtet, habe ihm die Gesandtin gesagt,
+dass Sophie in ein Verhaeltnis unter ihrem Stande verwickelt sei.  "Sie
+traten ein in die fuerstliche Loge, ein Blick ueberzeugte mich, dass
+niemand als Sie der Geliebte sein koenne."
+
+"Und die Gesandtin?" rief der Graf mit zitternder Stimme.
+
+"Sie hat es bestaetigt.  Wenn ich nicht irre sprach sie auch von einer
+Oberhofmarschallin, von welcher sie die Nachricht habe."
+
+Der Graf schwieg, einige Minuten vor sich hinstarrend; er schien mit
+sich zu ringen, er blickte einige Male den Fremden scheu von der
+Seite an--"Major!" sprach er endlich mit klangloser, matter Stimme;
+"koennen Sie mir hundert Napoleon leihen?"
+
+Der Major war ueberrascht von dieser Frage; er hatte erwartet, sein
+Freund werde etwas Weniges ueber sein Unglueck jammern, wie bei
+dergleichen Szenen gebraeuchlich, er konnte sich daher nicht gleich in
+diese Frage finden und sah den Grafen staunend an.
+
+"Ich bin ein Fluechtling", fuhr dieser fort; "ich glaubte endlich eine
+stille Staette gefunden zu haben, wo ich ein klein wenig rasten koennte,
+da muss ich lieben--muss geliebt werden, Major, wie geliebt werden!"
+Er hatte Traenen in den Augen, doch er bezwang sich und fuhr mit
+fester Stimme fort: "Es ist eine sonderbare Bitte, die ich hier nach
+so langem Wiedersehen an Sie tue, doch ich erroete nicht, zu bitten.
+Kamerad, gedenken Sie des letzten ruhmvollen Tages im Norden,
+gedenken Sie des Tages von Mosjaisk?"
+
+"Ich gedenke!" sagte der Fremde, indem sein Auge glaenzte und seine
+Wangen sich hoeher faerbten.
+
+"Und gedenken Sie, wie die russische Batterie an der Redoute auffuhr,
+wie ihre Kartaetschen in unsere Reihen sausten und der Verraeter
+Piolzky zum Rueckzug blasen liess?"
+
+"Ha!" fiel der Fremde mit droehnender Stimme ein, "und wie Sie ihn
+herabschossen, Oberst, dass er keine Ader mehr zuckte, wie die Husaren
+rechts abschwenkten, wie Sie 'vorwaerts!' riefen, vorwaerts Lanciers
+vom achten, und die Kanonen in fuenf Minuten unser waren!"
+
+"Gedenken Sie?" fluesterte der Graf mit Wehmut; "wohlan! ich
+kommandiere wieder vor der Front.  Es gilt einen Kameraden
+herauszuhauen, werdet Ihr ihn retten?  En avant, Major! vorwaerts,
+tapfrer Lancier! wirst du ihn retten, Kamerad?"
+
+"Ich will ihn retten", rief der Freund, und der Graf Zronievsky
+schlug seinen Arm um ihn, presste ihn heftig an seine Brust und eilte
+dann von ihm weg, den Korridor entlang.
+
+
+
+4.
+
+"Gut, dass ich Sie treffe", rief der Graf Zronievsky, als er am
+naechsten Morgen dem Major auf der Strasse begegnete, "ich wollte eben
+zu Ihnen und Sie um eine kleine Gefaelligkeit ansprechen--"
+
+"Die ich Ihnen schon gestern zusagte", erwiderte jener, "wollen Sie
+mich in mein Hotel begleiten? es liegt laengst fuer Sie bereit."
+
+"Um Gottes willen, jetzt nichts von Geld", fiel der Graf ein, "Sie
+toeten mich durch diese Prosa; ich bin goettlich gelaunt, selig,
+ueberirdisch gestimmt.  O Freund, ich habe es dem Engel gesagt, dass
+man uns bemerkt, ich habe ihr gesagt, dass ich fliehen werde, denn in
+ihrer Naehe zu sein, sie nicht zu sprechen, nicht anzubeten, ist mir
+unmoeglich."
+
+"Und darf ich wissen, was sie sagte?"
+
+"Sie ist ruhig darueber, sie ist groesser als diese schlechten Menschen;
+'was ist es auch'", sagte sie, "man kann uns gewiss nichts Boeses
+nachsagen, und wenn man auch unser Verhaeltnis entdeckte, so will ich
+mir gerne einmal einen dummen Streich vergeben lassen; wo lebt ein
+Mensch, der nicht einmal einen beginge?'"
+
+"Eine gesunde Philosophie", bemerkte der Major; "man kann nicht
+vernuenftiger ueber solche Verhaeltnisse denken; denn gerade die sind
+meist am schlechtesten beraten, die glauben, sie koennen alle Menschen
+blenden.  Doch ist mir noch eine Frage erlaubt? wie es scheint, so
+sehen Sie Ihre Dame allein? Denn was sie mir erzaehlten, wurde
+schwerlich gestern im 'Don Juan' verhandelt."
+
+"Wir sehen uns", fluesterte jener, "ja, wir sehen uns, aber wo, darf
+ich nicht sagen, und so wahr ich lebe, das sollen auch jene Menschen
+nicht ausspaehen.  Aber lange, ich sehe es selbst ein, lange Zeit kann
+es nicht mehr dauern.  Drum bin ich immer auf dem Sprung, Kamerad,
+und Ihre Hilfe soll mich retten, wenn indes meine Gelder nicht
+fluessig werden.  Doch gilt es morgen, so lass uns heut noch schluerfen
+die Neige der koestlichen Zeit'; ich will noch gluecklich, selig sein,
+weil es ja doch bald ein Ende haben muss."
+
+"Und wozu kann ich Ihnen dienen?" fragte der Major, "wenn ich nicht
+irre, wollten Sie mich aufsuchen."
+
+"Richtig, das war es, warum ich kommen wollte", entgegnete jener nach
+einigem Nachsinnen.  "Sophie weiss, dass Sie mein Freund sind, ich habe
+ihr schon frueher von Ihnen erzaehlt, hauptsaechlich die Geschichte von
+der Beresina-Bruecke, wo Sie mich zu sich auf den Rappen nahmen.  Sie
+hat gestern mit Ihnen gesprochen, und von Othello', nicht wahr?  Die
+Fuerstin will nicht zugeben, dass er aufgefuehrt werde, wegen irgend
+einem Maerchen, das ich nicht mehr weiss."
+
+"Sie waren sehr geheimnisvoll damit", unterbrach ihn der Freund, "und
+wie mir schien, wird es die Fuerstin auch nicht zugeben?"
+
+"Und doch, ich habe sie durch ein Wort dahin gebracht.  Die
+Prinzessin bat und flehte, und das kann ich nun einmal nicht sehen,
+ohne dass ich ihr zu Hilfe komme; ich nahm also eine etwas ernste
+Miene an und sagte: 'Sonderbar ist es doch, wenn so etwas ins
+Publikum kommt, ist es wie der Wind in den Gesandtschaften, und kam
+es einmal so weit, so darf man nicht dafuer sorgen, dass es in acht
+Tagen als Chronique scandaleuse an allen Hoefen erzaehlt wird.' Die
+Fuerstin gab mir recht; sie sagte, wiewohl mit sehr bekuemmerter und
+verlegener Miene zu, dass das Stueck gegeben werden solle; doch, als
+sie wegging, rief sie mir noch zu: sie gebe das Spiel dennoch nicht
+verloren, denn wenn auch 'Othello' schon auf dem Zettel stehe, lasse
+sie die Desdemona krank werden."
+
+"Das haben Sie gut gemacht!" rief der Major lachend, "also die Furcht
+vor der Chronique scandaleuse hat die Gespensterfurcht und das Grauen
+vor den Geheimnissen der Natur ueberwunden?"
+
+"Jawohl, Sophie ist ausser sich vor Freude, dass sie ihren Willen hat.
+Ich bin gerade auf dem Weg zum Regisseur der Oper; ich soll ihm
+vierhundert Taler bringen, dass die Auffuehrung auch in pekuniaerer
+Hinsicht keiner Schwierigkeit unterworfen sein moechte, und Sie muessen
+mich zu ihm begleiten."
+
+"Aber wird es nicht auffallen, wenn Sie im Namen der Prinzessin diese
+Summe ueberbringen?"
+
+"Dafuer ist gesorgt; wir bringen es als Kollekt von einigen
+Kunstfreunden; stellen Sie einen Dilettanten oder Enthusiasten vor,
+oder was in unseren Kram passt.  Er wohnt nicht weit von hier und ist
+ein alter, ehrlicher Kauz, den wir schon gewinnen wollen.  Nur hier
+um die Ecke, Freund; sehen Sie dort das kleine gruene Haus mit dem
+Erker."
+
+
+
+5.
+
+Der Regisseur der Oper war ein kleiner, hagerer Mann, er war frueher
+als Saenger beruehmt gewesen und ruhte jetzt im Alter auf seinen
+Lorbeeren.  Er empfing die Freunde mit einer gewissen kuenstlerischen
+Hoheit und Wuerde, welche nur durch seine sonderbare Kleidung etwas
+gestoert wurde; er trug naemlich eine schwarze Florentiner Muetze,
+welche er nur ablegte, wenn er zum Ausgehen die Peruecke auf die
+Glatze setzte.  Auffallend stachen gegen diese bequeme Hauskleidung
+des Alten ein moderner, enge anliegender Frack und weite,
+faltenreiche Beinkleider ab; sie zeigten, dass der Herr Regisseur
+trotz der sechzig Jaehrchen, die er haben mochte, dennoch fuer die
+Eitelkeit der Welt nicht abgestorben sei; an den Fuessen trug er weite,
+ausgetretene Pelzschuhe, auf denen er kuenstlich im Zimmer herumfuhr,
+ohne sichtbar die Beine aufzuheben; den Fremden kam es vor, als fahre
+er auf Schlittschuhen.
+
+"Ist mir bereits angezeigt worden, der allerhoechste Wunsch", sagte
+der Regisseur, als ihn der Graf mit dein Zweck ihres Besuches bekannt
+machte, "weiss bereits um die Sache; an mir soll es nicht fehlen, mein
+einziger Zweck ist ja, die allerhoechsten Ohren auf ergoetzliche Weise
+zu delektieren, aber--aber, ich werde denn doch submissest wagen
+muessen, einige Gegenvorstellungen zu exhibieren."
+
+"Wie?  Sie wollen diese Oper nicht geben?" rief der Graf.
+
+"Gott soll mich behueten, das waere ja ein offenbares Mordattentat auf
+die allerhoechste Familie!  Nein, nein! wenn mein Wort in der Sache
+noch etwas gilt, wird dieses unglueckliche Stueck nie gegeben."
+
+"Haette ich doch nie gedacht", entgegnete der Graf, "dass ein Mann wie
+Sie von Poebelwahn befangen waere.  Mit Staunen und Verwunderung
+vernahm ich schon in meiner fruehesten Jugend in fernen Landen Ihren
+gefeierten Namen; Sie wurden die Krone der Saenger genannt, ich
+brannte vor Begierde, diesen Mann einmal zu sehen.  Ich bitte,
+verkleinern Sie dieses ehrwuerdige Bild nicht durch solchen Aberwitz."
+
+Der Alte schien sich geschmeichelt zu fuehlen, ein anmutiges Laecheln
+zog ueber seine verwitterten Zuege, er steckte die Haende in die Taschen
+und fuhr auf seinen Pelzschuhen einigemal im Zimmer auf und ab.
+"Allzuguetig, allzuviel Ehre!" rief er; "ja wir waren unserer Zeit
+etwas, wir waren ein tuechtiger Tenor! jetzt hat es freilich ein Ende.
+Aberglaube belieben Sie zu sagen; ich wuerde mich schaemen, irgend
+einem Aberglauben nachzuhaengen; aber wo Tatsachen sind, kann von
+Aberglauben nicht die Rede sein."
+
+"Tatsachen?" riefen die Freunde mit einer Stimme.
+
+"O ja, verehrte Messieurs, Tatsachen.  Sie scheinen nicht aus
+hiesiger Stadt und Gegend zu sein, dass Sie solche nicht wissen?"
+"Ich habe allerdings von einem solchen Maerchen gehoert", sagte der
+Major; "es soll, wenn ich nicht irre, jedesmal nach Othello brennen,
+und--"
+
+"Brennen? Dass mir Gott verzeih'; ich wollte lieber, dass es allemal
+brennt; Feuer kann man doch loeschen, man hat Brandassekuranzen, man
+kann endlich noch solch einen Brandschaden zur Not ertragen; aber
+sterben? nein, das ist ein weit gefaehrlicherer Kasus."
+
+"Sterben? sagen Sie, wer soll sterben?"
+
+"Nun, das ist kein Geheimnis", erwiderte der Regisseur; "sooft
+Othello gegeben wird, muss acht Tage nachher jemand aus der
+fuerstlichen Familie sterben."
+
+Die Freunde fuhren erschrocken von ihren Sitzen auf, denn der
+prophetische, richtende Ton, womit der Alte dies sagte, hatte etwas
+Greuliches an sich; doch sogleich setzten sie sich wieder und brachen
+ueber ihren eigenen Schrecken in ein lustiges Gelaechter aus, das
+uebrigens den Saenger nicht aus der Fassung brachte.
+
+"Sie lachen?" sprach er; "ich muss es mir gefallen lassen; wenn es Sie
+uebrigens nicht geniert, will ich Sie die Theaterchronik inspizieren
+lassen, die seit hundertundzwanzig Jahren der jedesmalige Souffleur
+schreibt."
+
+"Die Theaterchronik her, Alter, lassen Sie uns inspizieren", rief der
+Graf, dem die Sache Spass zu machen schien, und der Regisseur rutschte
+mit ausserordentlicher Schnelligkeit in seine Kammer und brachte einen
+in Leder und Messing gebundenen Folianten hervor.
+
+Er setzte eine grosse in Bein gefasste Brille auf und blaetterte in der
+Chronik.  "Bemerken Sie", sagte er, "Wegen des Nachfolgenden,
+erstlich, hier steht: 'Anno 1740 den 8. Dezember ist die Actrice
+Charlotte Fandauerin im hiesigen Theater erstickt worden.  Man fuehrte
+das Trauerspiel Othello, der Mohr von Venedig, von Shakespeare auf.'"
+
+"Wie?" unterbrach ihn der Major, "Anno 1740 sollte man hier
+Shakespeares 'Othello' gegeben haben, und doch war es, wenn ich nicht
+irre, Schroeder, der zuerst und viel spaeter das erste Shakespearesche
+Stueck in Deutschland auffuehren liess?"
+
+"Bitte um Vergebung", erwiderte der Alte.  "Der Herzog sah auf einer
+Reise durch England in London diesen 'Othello' geben, liess ihn, weil
+er ihm ausserordentlich gefiel, uebersetzen und nachher hier oefter
+auffuehren.  Meine Chronik faehrt aber also fort:
+
+'Obgedachte Charlotte Fandauerin hat die Desdemona gegeben und ist
+durch die Bettdecke, womit sie in dem Stuecke selbst getoetet werden
+soll, elendiglich umgekommen.  Gott sei ihrer armen Seele gnaedig!'
+Diesen Mord erzaehlt man sich hier folgendermassen: die Fandauer soll
+sehr schoen gewesen sein; bei Hof ging es damals unter dem Herzog
+Nepomuk sehr lasziv zu; die Fandauer wurde des Herzogs Geliebte.  Sie
+aber soll sich nicht blindlings und unvorsichtig ihm uebergeben haben;
+sie war abgeschreckt durch das Beispiel so vieler, die er nach
+einigen Monaten oder Jaehrchen verstiess und elendiglich herumlaufen
+liess.  Sie soll also ein schreckliches Buendnis mit ihm gemacht und
+erst, nachdem er es beschworen, sich ihm ergeben haben.  Aber wie bei
+den andern, so war es auch bei der Fandauer.  Er hatte sie bald satt
+und wollte sie auf gelinde Art entfernen.  Sie aber drohte ihm, das
+Buendnis, das er mit ihr gemacht, drucken und in ganz Europa
+verbreiten zu lassen, sie zeigte ihm auch, dass sie diese Schrift
+schon in vielen fremden Staedten niedergelegt habe, wo sie auf ihren
+ersten Wink verbreitet wuerde.
+
+Der Herzog war ein grausamer Herr, und sein Zorn kannte keine Grenzen.
+Er soll ihr auf verschiedenen Wegen durch Gift haben beikommen
+wollen, aber sie ass nichts, als was sie selbst gekocht hatte.  Er gab
+daher einem Schauspieler eine grosse Summe Geld und liess den 'Othello'
+auffuehren.  Sie werden sich erinnern, dass in dem Shakespeareschen
+Trauerspiel die Desdemona von dem Mohren im Bette erstickt wird.  Der
+Akteur machte seine Sache nur allzu natuerlich, denn die Fandauerin
+ist nicht mehr erwacht.'"
+
+Der Graf schauderte; "und dies soll wahr sein?" rief er aus.
+
+"Fragen Sie von aelteren Personen in der Stadt wen Sie wollen, Sie
+werden es ueberall so erzaehlen hoeren.  Es wurde nachher von den
+Gerichten eine Untersuchung gegen den Moerder anhaengig gemacht, aber
+der Herzog schlug sie nieder, nahm den Akteur vom Theater in seine
+Dienste und erklaerte, die Fandauerin habe durch Zufall der Schlag
+geruehrt.  Aber acht Tage darauf starb ihm sein einziges Soehnlein, ein
+Prinz von zwoelf Jahren."
+
+"Zufall!" sagte der Major.
+
+"Nennen Sie es immerhin so", versetzte der Alte und blaetterte weiter.
+"Doch hoeren Sie; 'Othello' wurde zwei Jahre lang nicht mehr gegeben,
+denn wegen der Erinnerung an jenen Mord mochte der Herzog dieses
+Trauerspiel nicht leiden.  Aber nach zwei Jahren, in diesem Buch
+steht jedes Lustspiel aufgezeichnet, nach zwei Jahren war er so
+ruchlos, es wieder auffuhren zu lassen.  Hier steht's: 'Den 28.
+September (1742) Othello, der Mohr von Venedig', und hier am Rande
+ist bemerkt: 'Sonderbarlich! am 5. Oktober ist Prinzessin Auguste
+verstorben.  Gerade auch acht Tage nach Othello, wie vor zwei Jahren
+der hoechstselige Prinz Friedrich.' Zufall, meine werten Herren?"
+
+"Allerdings Zufall!" riefen jene.
+
+"Weiter!  'Den 6. Februar 1748, Othello, der Mohr von Venedig.' Ob es
+wohl wieder eintrifft?  Sehen Sie her, meine Herren! das hat der
+Souffleur hergeschrieben, bemerken Sie gefaelligst, es ist dieselbe
+Hand, die hier in margine bemerkt: 'Entsetzlich! die Fandauerin spukt
+wieder, Prinz Alexander den 14. ploetzlich gestorben.  Acht Tage nach
+Othello.'"  Der Alte hielt inne und sah seine Gaeste fragend an, sie
+schwiegen, er blaetterte weiter und las: "'Den 16. Januar 1775, zum
+Benefiz der Mlle. Koller: Othello, der Mohr von Venedig.  Richtig
+wieder!  Arme Prinzessin Elisabeth, hast du muessen so schnell
+versterben?  Gestorben 24. Januar 1775.'"
+
+"Possen!" unterbrach ihn der Major; "ich gebe zu, es ist so; es soll
+einigemal der Eigensinn des Zufalls es wirklich so gefuegt haben;
+geben Sie mir aber nur einen vernuenftigen Grund an zwischen Ursache
+und Wirkung, wenn Sie diese Hoechstseligen am 'Othello' versterben
+lassen wollen!"
+
+"Herr!" antwortete der alte Mann mit tiefem Ernst, "das kann ich
+nicht; aber ich erinnere an die Worte jenes grossen Geistes, von dem
+auch dieser unglueckselige 'Othello' abstammt.--Es gibt viele Dinge
+zwischen Himmel und Erde, wovon sich die Philosophen nichts traeumen
+lassen!'"
+
+"Ich kenne das", sagte der Graf; "aber ich wette, Shakespeare haette
+nie diesen Spruch von sich gegeben, haette er gewusst, wie viel
+Laecherlichkeit sich hinter ihm verbirgt!"
+
+"Es ist moeglich", erwiderte der Saenger; "hoeren Sie aber weiter.  Ich
+komme jetzt an ein etwas neueres Beispiel, dessen ich mich erinnern
+kann, an den Herzog selbst."
+
+"Wie", unterbrach ihn der Major; "eben jener, der die Aktrice
+ermorden liess...?"
+
+"Derselbe 'Othello' war vielleicht zwanzig Jahre nicht mehr gegeben
+worden, da kamen, ich weiss es noch wie heute, fremde Herrschaften zum
+Besuch.  Unser Schauspiel gefiel ihnen, und sonderbarerweise wuenschte
+eine der fremden fuerstlichen Damen 'Othello' zu sehen.  Der Herzog
+ging ungern daran, nicht aus Angst vor den greulichen Umstaenden, die
+diesem Stueck zu folgen pflegten, denn er war ein Freigeist und
+glaubte an nichts dergleichen; aber er war jetzt alt; die Suenden und
+Frevel seiner Jugend fielen ihm schwer aufs Herz, und er hatte
+Abscheu vor diesem Trauerspiel.  Aber sei es, dass er der Dame nichts
+abschlagen mochte, sei es, dass er sich vor dem Publikum schaemte, das
+Stueck musste Hals ueber Kopf einstudiert werden, es wurde auf seinem
+Lustschloss gegeben.  Sehen Sie, hier steht es: 'Othello, den 16.
+Oktober 1793 auf dem Lustschloss H.... aufgefuehrt.'"
+
+"Nun, Alter! und was folgte, geschwind!" riefen die Freunde
+ungeduldig.
+
+"Acht Tage nachher, den 24. Oktober 1793, ist der Herzog gestorben."
+
+"Nicht moeglich", sagte der Major nach einigem Stillschweigen; "lassen
+Sie Ihre Chronik sehen; wo steht denn etwas vom Herzog?  Hier ist
+nichts in margine bemerkt."
+
+"Nein", sagte der Alte und brachte zwei Buecher herbei; "aber hier
+seine Lebensgeschichte, hier seine Trauerrede, wollen Sie gefaelligst
+nachsehen?"
+
+Der Graf nahm ein kleines schwarzes Buch in die Hand und las:
+"Beschreibung der solennen Beisetzung des am 24. Oktober 1793
+hoechstselig verstorbenen Herzogs und Herrn--dummes Zeug!" rief er
+und sprang auf; "das koennte mich um den Verstand bringen.  Zufall!
+Zufall! und nichts anders!  Nun--und wissen Sie noch ein solches
+Histoerchen?"
+
+"Ich koennte Ihnen noch einige auffuehren", erwiderte der Alte mit Ruhe,
+"doch Sie langweilen sich bei dieser sonderbaren Unterhaltung; nur
+aus der neuesten Zeit noch einen Fall.  Rossini schrieb seine
+herrliche Oper 'Othello', worin er, was man bezweifelt hatte, zeigte,
+dass er es verstehe, auch die tieferen, tragischen Saiten der
+menschlichen Brust anzuschlagen.  Er wurde hier hoeheren Orts nicht
+verlangt, daher wurde er auch nicht fuers Theater einstudiert.  Die
+Kapelle aber unternahm es, diese Oper fuer sich zu studieren, es
+wurden einige Szenen in Konzerten ausgefuehrt, und diese wenigen
+Proben entzuendeten im Publikum einen so raschen Eifer fuer die Oper,
+dass man allgemein in Zeitungen, an Wirtstafeln, in Singtees und
+dergleichen von nichts als 'Othello' sprach, nichts als 'Othello'
+verlangte.  Von den grauenvollen Begebenheiten, die das Schauspiel
+'Othello' begleitet hatten, war gar nicht die Rede; es schien, man
+denke sich unter der Oper einen ganz andern 'Othello'.  Endlich bekam
+der damalige Regisseur (ich war noch auf dem Theater und machte den
+Othello), er bekam den Auftrag, sage ich, die Oper in die Szene zu
+setzen.  Das Haus war zum Ersticken voll, Hof und Adel waren da, das
+Orchester strengte sich uebermenschlich an, die Saengerinnen liessen
+nichts zu wuenschen uebrig, aber ich weiss nicht--uns alle wehte ein
+unheimlicher Geist an, als Desdemona ihr Lied zur Harfe spielte, als
+sie sich zum Schlafengehen ruestete, als der Moerder, der abscheuliche
+Mohr, sich nahte.  Es war dasselbe Haus, es waren dieselben Bretter,
+es war dieselbe Szene wie damals, wo ein liebliches Geschoepf in
+derselben Rolle so greulich ihr Leben endete.  Ich muss gestehen,
+trotz der Teufelsnatur meines Othello befiel mich ein leichtes
+Zittern, als der Mord geschah, ich blickte aengstlich nach der
+fuerstlichen Loge, wo so viele bluehende, kraeftige Gestalten auf unser
+Spiel heruebersahen, 'wirst du wohl durch die Toene, die deinen Tod
+begleiten, dich besaenftigen lassen, blutduerstiges Gespenst der
+Gemordeten?' dachte ich.  Es war so; fuenf, sechs Tage hoerte man
+nichts von einer Krankheit im Schlosse; man lachte, dass es nur der
+Einkleidung in eine Oper bedurfte, um jenen Geist gleichsam irre zu
+machen; der siebente Tag verging ruhig, am achten jedoch wurde Prinz
+Ferdinand auf der Jagd erschossen."
+
+"Ich habe davon gehoert", sagte der Major, "aber es war Zufall; die
+Buechse seines Nachbars ging los und--" "Sage ich denn, das Gespenst
+bringe die Hoechstseligen selbst um, druecke ihnen eigenhaendig die
+Kehle zu?  Ich spreche ja nur von einem unerklaerlichen,
+geheimnisvollen Zusammenhang."
+
+"Und haben Sie uns nicht noch zu guter Letzt ein Maerchen erzaehlt; wo
+steht denn geschrieben, dass acht Tage vor jener Jagd 'Othello'
+gegeben wurde?"
+
+"Hier!" erwiderte der Regisseur kaltbluetig, indem er auf eine Stelle
+in seiner Chronik wies; der Graf las: "'Othello', Oper von Rossini,
+den 12. Maerz", und auf dem Rande stand dreimal unterstrichen: "Den 20.
+fiel Prinz Ferdinand auf der Jagd."
+
+Die Maenner sahen einander schweigend einige Augenblicke an; sie
+schienen laecheln zu wollen, und doch hatte sie der Ernst des alten
+Mannes, das sonderbare Zusammentreffen jener furchtbaren Ereignisse
+tiefer ergriffen, als sie sich selbst gestehen mochten.  Der Major
+blaetterte in der Chronik und pfiff vor sich hin, der Graf schien ueber
+etwas nachzusinnen, er hatte Stirne und Augen fest in die Hand
+gestuetzt.  Endlich sprang er auf: "Und dies alles kann Ihnen dennoch
+nicht helfen", rief er, "die Oper muss gegeben werden.  Der Hof, die
+Gesandten wissen es schon, man wuerde sich blamieren, wollte man durch
+diese Zufaelle sich stoeren lassen.  Hier sind vierhundert Taler, mein
+Herr!  Es sind einige Freunde und Liebhaber der Kunst, welche sie
+Ihnen zustellen, um Ihren 'Othello' recht glaenzend auftreten zu
+lassen.  Kaufen Sie davon, was Sie wollen", setzte er laechelnd hinzu,
+"lassen Sie Geisterbanner, Beschwoerer kommen, kaufen Sie einen ganzen
+Hexenapparat kurz, was nur immer noetig ist, um das Gespenst zu
+vertreiben--nur geben Sie uns 'Othello'."
+
+"Meine Herren", sagte der Alte, "es ist moeglich, dass ich in meiner
+Jugend selbst ueber dergleichen gelacht und gescherzt haette; das Alter
+hat mich ruhiger gemacht, ich habe gelernt, dass es Dinge gibt, die
+man nicht geradehin verwerfen muss.  Ich danke fuer Ihr Geschenk, ich
+werde es auf eine wuerdige Weise anzuwenden wissen.  Aber nur auf den
+strengsten Befehl werde ich 'Othello' geben lassen.  Ach Gott und
+Herr!" rief er klaeglich, "wenn ja der Fall wieder eintraete wenn das
+liebe, herzige Kind, Prinzessin Sophie, des Teufels waere!"
+
+"Seien Sie still", rief der Graf erblassend, "wahrhaftig, Ihre
+wahnsinnigen Geschichten sind ansteckend, man koennte sich am hellen
+Tage fuerchten!  Adieu!  Vergessen Sie nicht, dass Othello' auf jeden
+Fall gegeben wird; machen Sie mir keine Kunstgriffe mit Katarrh und
+Fieber, mit Krankwerdenlassen und eingetretenen Hindernissen.  Beim
+Teufel, wenn Sie keine Desdemona hergeben, werde ich das Gespenst der
+Erwuergten heraufrufen, dass es diesmal selbst eine Gastrolle uebernimmt."
+
+Der Alte bekreuzigte sich und fuhr ungeduldig auf seinen Schuhen
+umher; "welche Ruchlosigkeit", jammerte er; "wenn sie nun erschiene,
+wie der steinerne Gast?  Lassen Sie solche Reden, ich bitte Sie, wer
+weiss, wie nahe jedem sein eigenes Verderben ist."
+
+Lachend stiegen die beiden die Treppe hinab, und noch lange diente
+der musikalische Prophet mit der Florentiner Muetze und den
+Pelzschlittschuhen ihrem Witz zur Zielscheibe.
+
+
+
+6.
+
+Es gab Stunden, worin der Major sich durchaus nicht in den Grafen,
+seinen alten Waffenbruder, finden konnte.  War er sonst froehlich,
+lebhaft, von Witz und Laune strahlend, konnte er sonst die
+Gesellschaft durch treffende Anekdoten, durch Erzaehlungen aus seinem
+Leben unterhalten, wusste er sonst jeden, mochte er noch so gering
+sein, auf eine sinnige, feine Weise zu verbinden, so dass er der
+Liebling aller, von vielen angebetet, wurde, so war er in andern
+Momenten gerade das Gegenteil.  Er fing an, trocken und stumm zu
+werden, seine Augen, senkten sich, sein Mund presste sich ein.  Nach
+und nach ward er finster, spielte mit seinen Fingern, antwortete
+muerrisch und ungestuem.  Der Major hatte ihm schon abgemerkt, dass dies
+die Zeit war, wo er aus der Gesellschaft entfernt werden muesse, denn
+jetzt fehlten noch wenige Minuten, so zog er mit leicht aufgeregter
+Empfindlichkeit jedes unschuldige Wort auf sich und fing an zu wueten
+und zu rasen.
+
+Der Major war viel um ihn, er hatte aus frueherer Zeit eine gewisse
+Gewalt und Herrschaft ueber ihn, die er jetzt geltend machte, um ihn
+vor diesen Ausbruechen der Leidenschaft in Gesellschaft zu bewahren;
+desto greulicher brachen sie in seinen Zimmern aus; er tobte, er
+fluchte in allen Sprachen, er klagte sich an, er weinte.  "Bin ich
+nicht ein elender, verworfener Mensch?" sprach er einst in einem
+solchen Anfall; "meine Pflichten mit Fuessen zu treten, die treueste
+Liebe von mir zu stossen, ein Herz zu martern, das mir so innig
+anhaengt!  Leichtsinnig schweife ich in der Welt umher, habe mein
+Glueck verscherzt, weil ich in meinem Unsinn glaubte, ein Kosciusko zu
+sein, und bin nichts als ein Schwachkopf, den man wegwarft Und so
+viele Liebe, diese Aufopferung, diese Treue so zu vergelten!"
+
+Der Major nahm zu allerlei Trostmitteln seine Zuflucht.  "Sie sagen
+ja selbst, dass die Prinzessin Sie zuerst geliebt hat; konnte sie je
+eine andere Liebe, eine andere Treue von Ihnen erwarten als die,
+welche die Verhaeltnisse erlauben?"
+
+"Ha, woran mahnen Sie mich!" rief der Unglueckliche, "wie klagen mich
+Ihre Entschuldigungen selbst an!  Auch sie, auch sie betoert!  Wie
+kindlich, wie unschuldig war sie, als ich Verruchter kam, als ich sie
+sah mit dein lieblichen Schmelz der Unschuld in den Augen!  Da fing
+mein Leichtsinn wieder an; ich vergass alle guten Vorsaetze, ich vergass,
+wem ich allein.gehoeren duerfte; ich stuerzte mich in einen Strudel von
+Lust, ich begrub mein Gewissen in Vergessenheit!" Er fing an zu
+weinen, die Erinnerung schien seine Wut zu besaenftigen.  "Und konnte
+ich", fluesterte er, "konnte ich so von ihr gehen?  Ich fuehlte, ich
+sah es an jeder ihrer Bewegungen, ich las es in ihrem Auge, sie
+liebte mich; sollte ich fliehen, als ich sah, wie diese Morgenroete
+der Liebe in ihren Wangen aufging, wie der erste, leuchtende Strahl
+des Verstaendnisses aus ihrem Auge brach, auf mich niederfiel, mich
+aufzufordern schien, ihn zu erwidern?"
+
+"Ich beklage Sie", sprach der Freund und drueckte seine Hand; "wo lebt
+ein Mann, der so suesser Versuchung widerstanden waere?"
+
+"Und als ich ihr sagen durfte, wie ich sie verehre, als sie mir mit
+stolzer Freude gestand, wie sie mich liebe, als jenes traute,
+entzueckende Spiel der Liebe begann, wo ein Blick, ein fluechtiger
+Druck der Hand mehr sagt, als Worte auszudruecken vermoegen, wo man
+tagelang nur in der freudigen Erwartung eines Abends, einer Stunde,
+einer einsamen Minute lebte, wo man in der Erinnerung dieses seligen
+Augenblicks schwelgte, bis der Abend wieder erschien, bis ich aus dem
+Taumelkelch ihrer suessen Augen aufs neue Vergessenheit trank!  Wie
+reich wusste sie zu geben, wie viel Liebe wusste sie in ein Wort, in
+einen Blick zu legen; und ich sollte fliehen?"
+
+"Und wer verlangt dies?" sagte der Freund geruehrt.  "Es waere grausam
+gewesen, eine so schoene Liebe, die alle Verhaeltnisse zum Opfer
+brachte, zurueckzustossen.  Nur Vorsicht haette ich gewuenscht; ich denke,
+noch ist nicht alles verloren!"
+
+Er schien nicht darauf zu hoeren; seine Traenen stroemten heftiger, sein
+glaenzendes Auge schien tiefer in die Vergangenheit zu tauchen.  "Und
+als sie mir mit holdem Erroeten sagte, wie ich zu ihr gelangen koenne,
+als sie erlaubte, ihre fuerstliche Stirne zu kuessen, als der suesse Mund,
+dessen Wuensche einem Volk Befehle waren, mein gehoerte und die Hoheit
+einer Fuerstin unterging im traulichen Fluestern der Liebe--da, da
+sollte ich sie lassen?"
+
+"Wie gluecklich sind Sie! gerade in dem Geheimnis dieses Verhaeltnisses
+muss ein eigener Reiz liegen; und warum wollen Sie diese Liebe so tief
+verdammen?  Fassen Sie sich.  Das Urteil der Welt kann Ihnen
+gleichgueltig sein, wenn Sie gluecklich sind.  Denn im ganzen traegt ja
+wahrhaftig dies Verhaeltnis nichts so Schwarzes, Schuldiges an sich,
+wie Sie es selbst sich vorstellen!"
+
+Der Graf hatte ihm zugehoert; seine Augen rollten, seine Wangen
+faerbten sich dunkler, er knirschte mit den Zaehnen; "nicht so mild
+muessen Sie mich beurteilen", sagte er mit dumpfer Stimme; "ich
+verdiene es nicht.  Ich bin ein Frevler, vor dem Sie zurueckschaudern
+sollten.  O--dass ich Vergessenheit erkaufen koennte, dass ich Jahre
+ausloeschen koennte aus meinem Gedaechtnis.--Ich will vergessen, ich
+muss vergessen, ich werde wahnsinnig, wenn ich nicht vergesse;
+schaffen Sie Wein, Kamerad! ich will trinken, mich duerstet, es wuetet
+eine Flamme in mir, ich will mein Gedaechtnis, meine Schuld ersaeufen."
+
+Der Major war ein besonnener Mann; er dachte ziemlich ruhig ueber
+diese verzweiflungsvollen Ausbrueche der Reue und Selbstanklage; "er
+ist leichtsinnig, so habe ich ihn von jeher gekannt", sagte er zu
+sich; "solche Menschen kommen leicht von einem Extrem ins andere.  Er
+sieht jetzt grosse Schuld in seiner Liebe, weil sie der Geliebten in
+ihren Verhaeltnissen schaden kann, und im naechsten Augenblick
+berauscht ihn wieder die Wonne der Erinnerung." Der Wein kam, der
+Major goss ein; der Graf stuerzte schnell einige Glaeser hinunter; er
+ging mit schnellen Schritten schweigend im Zimmer auf und nieder,
+blieb vor dem Freunde stehen, trank und ging wieder.  Dieser mochte
+seine stillen Empfindungen nicht unterbrechen; er trank und
+beobachtete ueber das Glas hin aufmerksam die Mienen, die Bewegungen
+seines Freundes.
+
+"Major!" rief dieser endlich und warf sich auf den Stuhl nieder;
+"welches Gefuehl halten Sie fuer das schrecklichste?"
+
+Dieser schluerfte bedaechtig den Wein in kleinen Zuegen, er schien
+nachzusinnen und sagte dann: "Ohne Zweifel das, was das freudigste
+Gefuehl gibt, muss auch das traurigste werden.--Ehre, gekraenkte Ehre."
+
+Der Graf lachte grimmig.  "Lassen Sie sich die Taler wiedergeben,
+Kamerad, die Sie einem schlechten Psychologen fuer seinen Unterricht
+gaben.  Gekraenkte Ehre?!  Also tiefer steigt Ihre Kunst nicht hinab
+in die Seele?  Die gekraenkte Ehre fuehlt sich doch selbst noch; es
+lebt doch ein Gefuehl in des Gekraenkten Brust, das ihn hoch erhebt
+ueber die Kraenkung, er kann die Scharte auswetzen am Beleidiger; er
+hat noch die Moeglichkeit, seine Ehre wieder fleckenlos und rein zu
+waschen, aber tiefer, Herr Bruder", rief er, indem er die Hand des
+Majors krampfhaft fasste, "tiefer hinab in die Seele; welches Gefuehl
+ist noch schrecklicher?"
+
+"Von einem habe ich gehoert", erwiderte jener, "das aber Maenner wie
+wir nicht kennen--es heisst Selbstverachtung."
+
+Der Graf erbleichte und zitterte, er stand schweigend auf und sah den
+Freund lange an.  "Getroffen, Kamerad", sagte er, "das sitzt noch
+tiefer.  Maenner wie wir pflegen es nicht zu kennen, es heisst
+Selbstverachtung.  Aber der Teufel legt auch gar feine Schlingen auf
+die Erde, ehe man sich versieht, ist man gefangen.  Kennen Sie die
+Qual des Wankelmutes, Major?"
+
+"Gottlob, ich habe sie nie erfahren; mein Weg ging immer geradeaus
+aufs Ziel!"
+
+"Geradeaus aufs Ziel?  Wer auch so gluecklich waere!  Erinnern Sie sich
+noch des Morgens, als wir aus den Toren von Warschau ritten?  Unsere
+Gefuehle, unsere Sinne gehoerten jenem grossen Geiste, der sie gefangen
+hielt; aber wem gehoerten die Herzen der polnischen Lanciers?  Unsere
+Trompeten liessen jene Arien aus den 'Krakauern' ertoenen, jene Gesaenge,
+die uns als Knaben bis zur Wut fuer das Vaterland begeistert hatten;
+diese wohlbekannten Klaenge pochten wieder an die Pforte unserer Brust;
+Kamerad, wem gehoerten unsere Herzen?"
+
+"Dem Vaterland!" sagte der Major geruehrt; "ja, damals, damals war ich
+freilich wankelmuetig!"
+
+"Wohl Ihnen, dass Sie es sonst nie waren; der Teufel weiss das recht
+huebsch zu machen, er laesst uns hier empfinden, gluecklich werden, und
+dort spiegelt er noch hoehere Wonne, noch groesseres Glueck uns vor! "
+
+"Moeglich; aber der Mann hat Kraft, dem treu zu bleiben, was er
+gewaehlt hat."
+
+"Das ist es", rief der Graf, wie niedergedonnert durch dies eine Wort;
+"das ist es, und daraus die Selbstverachtung; und warum besser
+scheinen, als ich bin.  Kamerad, Sie sind ein Mann von Ehre, fliehen
+Sie mich wie die Pest, ich bin ein Ehrloser, ein Ehrvergessener, Sie
+sind ein Mann von Kraft, verachten Sie mich, ich muss mich selbst
+verachten, wissen Sie, ich bin--"
+
+
+
+7.
+
+"Bedaure, bedaure unendlich", sprach der Regisseur der Oper und
+rutschte mit tiefen Verbeugungen ins Zimmer, "ich unterbreche
+Hochdieselben?"
+
+"Was bringen Sie uns?" erwiderte der Major, schneller gefasst als der
+unglueckliche Freund; "setzen Sie sich und verschmaehen Sie nicht
+unsern Wein; was fuehrt Sie zu uns?"
+
+"Die traurige Gewissheit, dass 'Othello' doch gegeben wird.  Es hilft
+nichts; alles Bitten ist umsonst.  Ich will Ihnen nur gestehen, ich
+liess die Oper einueben, hatte aber unsere Primadonna schon dahin
+gebracht, dass sie mir feierlich gelobte, heiser zu werden; da fuehrt
+der Satan gestern abend die Saengerin Fanutti in die Stadt; sie kommt
+vom.... ner Theater, bittet die allerhoechste Theaterdirektion um
+Gastrollen, und stellen Sie sich vor, man sagt ihr auf naechsten
+Sonntag 'Othello' zu.  Ich habe beinahe geweint, wie es mir angezeigt
+wurde; jetzt hilft kein Gott mehr dagegen, und doch habe ich
+schreckliche Ahnungen!"
+
+"Alter Herr!" rief der Graf, der indessen Zeit gehabt hatte, sich zu
+sammeln.  "Geben Sie doch einmal Ihren Koehlerglauben auf; ich kann
+Sie versichern, es soll keiner der allerhoechsten Personen ein Haar
+gekruemmt werden; ich gehe hinaus auf den Kirchhof, lasse mir das Grab
+der erwuergten Desdemona zeigen, mache ihr meine Aufwartung und bitte
+sie, diesmal ein Auge zuzudruecken und mich zu erwuergen.  Freilich hat
+sie dann nur einen Grafen und kein fuerstliches Blut; doch einer
+meiner Vorfahren hat auch eine Krone getragen!"
+
+"Freveln Sie nicht so schrecklich", entgegnete der Alte; "wie leicht
+kann Sie das Unglueck mit hinabziehen!  Mit solchen Dingen ist nicht
+zu scherzen.  Ueberdies habe ich heute nacht im Traum einen grossen
+Trauerzug mit Fackeln gesehen, wie man Fuersten zu begraben pflegt."
+
+"Schreckliche Visionen, guter Herr!" lachte der Major.  "Haben Sie
+vielleicht vorher ein Glaeschen zu viel getrunken?  Und was ist
+natuerlicher, als dass Sie solches Zeug traeumen, da Sie den ganzen Tag
+mit Todesgedanken umgehen!"
+
+Der Alte liess sich nicht aus seinem Ernst herausschwatzen.  "Gerade
+Sie, verehrter Herr, sollten nicht Spott damit treiben", sagte er.
+"Ich habe Sie nie gesehen, bis zu jener Stunde, wo Sie mich mit dem
+Herrn Grafen besuchten, und doch gingen wir beide heute nacht
+miteinander dem Sarge nach, Sie weinten heftig."
+
+"Immer koestlicher wie lebhaft Sie traeumen; darum musste ich hieher
+kommen, um mit Ihnen, lieber Mann, im Traume spazieren zu gehen!"
+
+"Brechen wir ab", erwiderte jener, "was kommen muss, wird kommen, und
+wir wuerden vielleicht viel darum geben, haetten wir alles nur getraeumt.
+Ich komme aber hauptsaechlich zu Ihnen, um Sie zur Probe einzuladen.
+Sie haben sich so generoes gegen uns bewiesen, dass ich mir ein
+Vergnuegen daraus mache, Ihnen unser Personal, namentlich die neue
+Saengerin zu zeigen."
+
+Die Freunde nahmen freudig den Vorschlag an.  Der Graf schien wie
+immer seine Heftigkeit zu bereuen, und diese Zerstreuung kam ihm
+erwuenscht; auf dem Major hatten jene Ausbrueche einer Selbstanklage
+schwer und drueckend gelegen; auch er nahm daher mit Dank diesen
+Ausweg an, um einer naehern Erklaerung seines Freundes, die er eher
+fuerchtete als wuenschte, zu entfliehen.
+
+
+
+8.
+
+Und wirklich schien auch seit jener Stunde der Graf diese Saite nicht
+mehr beruehren zu wollen; er schien wohl hin und wieder duester, ja die
+Augenblicke des tiefen Grames kehrten wieder, aber nicht mit ihnen
+das Gestaendnis einer grossen Schuld, das damals schon auf seinen
+Lippen schwebte; er war verschlossener als sonst.  Der Major sah ihn
+sogar einige Tage beinahe gar nicht; die Geschaefte, die ihn in diese
+Stadt gerufen hatten, liessen ihm wenige Stunden uebrig, und diese
+pflegte gerade der Graf dem Theater zu widmen; denn sei es aus Lust
+an der Sache selbst, oder um im Sinne der Geliebten zu handeln und
+ihre Lieblingsoper recht glaenzend erscheinen zu lassen, er war in
+jeder Probe gegenwaertig; sein richtiger Takt, seine ausgebreiteten
+Reisen, sein feiner, in der Welt gebildeter Geschmack verbesserten
+unmerklich manches, was dem Auge und Ohr selbst eines so scharfen
+Kritikers, wie der Regisseur war, entgangen waere; und der alte Mann
+vergass oft stundenlang die schwarzen Ahnungen, die seine Seele
+quaelten, so sehr wusste Graf Zronievsky sein Interesse zu fesseln.
+
+So war 'Othello' zu einer Vollkommenheit fortgeschritten, die man
+anfangs nicht fuer moeglich gehalten haette; die Oper war durch die
+sonderbaren Umstaende, welche ihre Auffuehrung bisher verhindert hatte,
+nicht nur dem Publikum, sondern selbst den Saengern neu geworden; kein
+Wunder, dass sie ihr moeglichstes taten, um so grossen Erwartungen zu
+entsprechen, kein Wunder, dass man mit freudiger Erwartung dem Tag
+entgegensah, der den Mohren von Venedig auf die Bretter rufen sollte.
+
+Es kam aber noch zweierlei hinzu, das Interesse des Publikums zu
+fesseln.  Der Saengerin Fanutti war ein grosser Ruf vorausgegangen, man
+war neugierig, wie sie sich am Theater ausnehme, wie sie Desdemona
+geben werde, eine Rolle, zu der man ausser schoenem Gesang auch ein
+hoeheres tragisches Spiel verlangte.  Hiezu kam das leise Geruecht von
+den sonderbaren Vorfaellen, die jedesmal 'Othello' begleitet hatten;
+die aelteren Leute erzaehlten, die juengeren sprachen es nach,
+zweifelten, vergroesserten, so dass ein grosser Teil des Publikums
+glaubte, der Teufel selbst werde eine Gastrolle im 'Othello'
+uebernehmen.
+
+Der Major von Larun hatte Gelegenheit, an manchen Orten ueber diese
+Dinge sprechen zu hoeren; am auffallendsten war ihm, dass man bei Hof,
+wo er noch einige Abende zubrachte, kein Wort mehr ueber 'Othello'
+sprach; nur Prinzessin Sophie sagte einmal fluechtig und laechelnd zu
+ihm: "'Othello', haetten wir denn doch herausgeschlagen, Ihrer
+Krankheitstante, Baron, und der diplomatischen Drohung des Grafen
+haben wir es zu danken; wie freue ich mich auf Sonntag, auf mein
+Desdemona-Liedchen; wahrlich, wenn ich einmal sterbe, es soll mein
+Schwanengesang werden."
+
+"Gibt es Ahnungen?" dachte der Major bei diesen fluechtig
+hingeworfenen Worten, die ihm unwillkuerlich schwer und bedeutungsvoll
+klangen; "die Sage von der gespenstigen Desdemona, die Furcht des
+alten Regisseurs, seine Traeume vom Trauergeleite und dieser
+Schwanengesang!" Er sah der holden lieblichen Erscheinung nach, wie
+sie froh und freundlich durch die Saele glitt, wie sie, gleich dem
+Maedchen aus der Fremde, jedem eine schoene Gabe, ein Laecheln oder ein
+freundliches Wort darreichte--"wenn der Zufall es wieder wollte",
+dachte er, "wenn sie stuerbe!" Er verlachte sich im naechsten
+Augenblicke selbst, er konnte nicht begreifen, wie ein solcher
+Gedanke in seine vorurteilsfreie Seele kommen koenne--er suchte mit
+Gewalt dieses laecherliche Phantom aus seiner Erinnerung zu verdraengen
+--umsonst!  Dieser Gedanke kehrte immer wieder, ueberraschte ihn
+mitten unter den fremdartigsten Reden und Gegenstaenden, und immer
+noch glaubte er, eine suesse Stimme fluestern zu hoeren: "Wenn ich sterbe
+--sei es mein Schwanengesang."
+
+Der Sonntag kam und mit ihm ein sonderbarer Vorfall.  Der Major war
+nachmittags mit dem Grafen und mehreren Offizieren ausgeritten.  Auf
+dem Heimweg ueberfiel sie ein Regen, der sie bis auf die Haut
+durchnaesste.  Die Wohnung des Grafen lag dem Tore zunaechst, er bat
+daher den Major, sich bei ihm umzukleiden; einen Hut des Freundes auf
+dem Kopf, in einen seiner Ueberroecke gehuellt, trat der Major aus dem
+Hause, um in seine eigene Wohnung zu eilen.  Er mochte einige Strassen
+gegangen sein, und immer war es ihm, als schleiche jemand allen
+seinen Tritten nach.  Er blieb stehen, sah sich um, und dicht hinter
+ihm stand ein hagerer, grosser Mann in einem abgetragenen Rock.  "Dies
+an Sie, Herr!" sagte er mit dumpfer Stimme und durchdringendem Blick,
+drueckte dem Erstaunten ein kleines Billet in die Hand und sprang um
+die naechste Ecke.  Der Major konnte nicht begreifen, woher ihm, in
+der voellig fremden Stadt, solche geheimnisvolle Botschaft kommen
+sollte?  Er betrachtete das Billet von allen Seiten, es war ein
+feines, glaenzendes Papier, in eine Schleife kuenstlich
+zusammengeschlungen, mit einer schoenen Kamee gesiegelt.  Keine
+Aufschrift.  "Vielleicht will man sich einen Scherz mit dir machen",
+dachte er und oeffnete es sorglos noch auf der Strasse; er las und
+wurde aufmerksam, er las weiter und erblasste, er steckte das Papier
+in die Tasche und eilte seiner Wohnung, seinem Zimmer zu.
+
+Es war schon Daemmerung gewesen auf der Strasse, er glaubte nicht recht
+gelesen zu haben, er rief nach Licht.  Aber auch beim hellen Schein
+der Kerzen blieben die unseligen Worte fest und drohend stehen.
+
+"Elender!  Du kannst Dein Weib, Deine kleinen Wuermer im Elend
+schmachten lassen, waehrend Du vor der Welt in Glanz und Pracht
+auftrittst?  Was willst Du in dieser Stadt?  Willst Du ein
+ehrwuerdiges Fuerstenhaus beschimpfen; seine Tochter so ungluecklich
+machen, als Du Dein Weib gemacht hast!  Fliehe; in der Stunde, wo Du
+dieses liesest, weiss Pr.  Sph. das schaendliche Geheimnis Deines
+Betrugs."
+
+Der Major war keinen Augenblick im Zweifel, dass diese Zeilen an den
+Grafen gerichtet, dass sie durch Zufall, vielleicht weil er in des
+Freundes Kleidern ueber die Strasse gegangen, in seine Haende geraten
+seien.  Jetzt wurden ihm auf einmal jene Ausbrueche der Verzweiflung
+klar; es war Reue, Selbstverachtung, die in einzelnen Momenten die
+glaenzende Huelle durchbrochen, womit er sein truegerisches Spiel
+bedeckt hatte.  Laruns Blicke fielen auf die Zeilen, die er noch
+immer in der Hand hielt, jene Chiffern Pr.  Sph. konnten nichts
+anderes bedeuten als den Namen des holden, jetzt so unglueckseligen
+Geschoepfes, das jener gewissenlose Verraeter in sein Netz gezogen
+hatte.  Der Major war ein Mann von kaltem, berechnendem Blick, von
+starkem, konsequentem Geiste; er hatte sich selten oder nie von einem
+Gegenstand ueberraschen oder ausser Fassung setzen lassen, aber in
+diesem Augenblick war er nicht mehr Herr ueber sich; Wut, Grimm,
+Verachtung kaempften wechselweise in seiner Seele.  Er suchte sich zu
+bezwingen, die Sache von einem milderen Gesichtspunkt anzusehen, den
+Grafen durch seinen Charakter, seinen grenzenlosen Leichtsinn zu
+entschuldigen; aber der Gedanke an Sophie, der Blick auf "das Weib
+und die armen kleinen Wuermer" des Elenden verjagten jede mildernde
+Gesinnung, brausten wie ein Sturm durch seine Seele; ja, es gab
+Augenblicke, wo seine Hand krampfhaft nach der Wand hinzuckte, um die
+Pistolen herunterzureissen und den schlechten Mann noch in dieser
+Stunde zu zuechtigen.  Doch die Verachtung gegen ihn bewirkte, was
+mildere Stimmen in seiner Brust nicht bewirken konnten; "er muss fort,
+noch diese Stunde", rief er; "die Unglueckliche, die er betoerte, darf
+um keinen Preis erfahren, welchem Elenden sie ihre erste Liebe
+schenkte.  Sie soll ihn beweinen, vergessen; ihn verachten zu muessen,
+koennte sie toeten." Er warf diese Gedanken schnell aufs Papier, raffte
+eine grosse Summe, mehr als er entbehren konnte, zusammen, legte den
+ungluecklichen Brief bei und schickte alles durch seinen Diener an den
+Grafen.
+
+Es war die Stunde, in die Oper zu fahren; wie gerne haette der Major
+heute keinen Menschen mehr gesehen, und doch glaubte er es der
+Prinzessin schuldig zu sein, sie vor der gedrohten Warnung zu
+bewahren.  Er sann hin und her, wie er dies moeglich machen koenne, es
+blieb ihm nichts uebrig, als sie zu beschwoeren, keinen Brief von
+fremden Haenden anzunehmen.
+
+Er warf den Mantel um und wollte eben das Zimmer verlassen, als sein
+Diener zurueckkam, er hatte das Paket an den Grafen noch in der Hand.
+"Seine Exzellenz sind soeben abgereist", sagte er und legte das Paket
+auf den Tisch.
+
+"Abgereist?" rief der Major, "nicht moeglich!"
+
+"Vor der Tuere ist sein Jaeger, er hat einen Brief an Sie; soll ich ihn
+hereinbringen?"
+
+Der Major winkte, der Diener fuehrte den Jaeger herein, der ihm weinend
+einen Brief uebergab.  Er riss ihn auf "Leben Sie wohl auf ewig!  Der
+Brief, der, wie ich soeben erfahre, vor einer Stunde in Ihre Haende
+kam, wird meine Abreise sans Adieu entschuldigen.  Wird mein Kamerad
+von sechs Feldzuegen einer geliebten Dame den Schmerz ersparen, meinen
+Namen in allen Blaettern aufrufen zu hoeren? wird er die wenigen Posten
+decken, die ich nicht mehr bezahlen kann?"
+
+"Wann ist Euer Herr abgereist?"
+
+"Vor einer Viertelstunde, Herr Major!"
+
+"Wusstet Ihr um seine Reise?"
+
+"Nein, Herr Major!  Ich glaube, Seine Exzellenz wussten es heute
+nachmittag selbst noch nicht; denn sie wollten heute abend ins
+Theater fahren.  Um fuenf Uhr ging der Herr Graf zu Fuss aus und liess
+mich folgen.  Da begegnete ihm an der reformierten Kirche ein grosser,
+hagerer Mann, der bei seinem Anblick sehr erschrak.  Er ging auf
+meinen Herrn zu und fragte, ob er der Graf Zronievsky sei?  Mein Herr
+bejahte es; darauf fragte er, ob er vor einer Viertelstunde ein
+Billet empfangen?  Der Herr Graf verneinte es.
+
+Nun sprach der fremde Mann eine Weile heimlich mit meinem Herrn; er
+muss ihm keine gute Nachricht gegeben haben, denn der Herr Graf wurde
+blass und zitterte; er kehrte um nach Hause, schickte den Kutscher
+nach Postpferden, ich musste schnell zwei Koffer packen; der
+Reisewagen musste vorfahren.  Der Herr Graf verwies mich mit den
+Rechnungen und allem an Sie und fuhr die Strasse hinab zum Sueder Tor
+hinaus.  Er nahm vorher noch Abschied von mir, ich glaube fuer immer."
+
+Der Major hatte schweigend den Bericht des Jaegers angehoert; er befahl
+ihm, den naechsten Morgen wieder zu kommen und fuhr ins Theater.  Die
+Ouvertuere hatte schon begonnen, als er in die Loge trat, er warf sich
+auf einen Stuhl nieder, von wo er die fuerstliche Loge beobachten
+konnte.  In allem Schmuck ihrer natuerlichen Schoenheit und Anmut sass
+Prinzessin Sophie neben ihrer Mutter.  Ihr Auge schien vor Freude zu
+strahlen, eine heitere Ruhe lag auf ihrer Stirne, um den
+feingeschnittenen Mund wehte ein holdes Laecheln.. vielleicht der
+Nachklang eines heiteren Scherzes--sie hatte ja jetzt ihren Willen
+durchgesetzt, 'Othello' war es, der den Saal und die Logen des Hauses
+gefuellt hatte.  Jetzt nahm sie die Lorgnette vor das Auge, wie
+letzthin schien sie eifrig im Hause nach etwas zu suchen--argloses
+Herz; du schlaegst vergebens dem Geliebten entgegen; deine liebevollen
+Blicke werden ihn nicht mehr finden, dein Ohr lauscht vergebens, ob
+nicht sein Schritt im Korridor erschallt, du beugst umsonst den
+schoenen Nacken zurueck, die Tuere will sich nicht oeffnen, seine hohe,
+gebietende Gestalt wird sich dir nicht mehr nahen.
+
+Sie senkte das Glas; ein Woelkchen von getaeuschter Erwartung und
+Trauer lagerte sich unter den blonden Locken, die schoenen Bogen der
+Brauen zogen sich zusammen und liessen ein kaum merkliches Faeltchen
+des Unmuts sehen.  Die feinen seidenen Wimpern senkten sich wie eine
+durchsichtige Gardine herab, sie schien zu sinnen, sie zeichnete mit
+der Lorgnette auf die Bruestung der Loge.--Sind es vielleicht seine
+Chiffern, die sie in Gedanken versunken vor sich hinschreibt?  Wie
+bald wird sie vielleicht dem Namen fluchen, der jetzt ihre Seele
+fuellt!
+
+Dem Major traten unwillkuerlich Traenen in die Augen, als er Sophie
+betrachtete.  "Noch ahnet sie nicht, was ihrer wartet", dachte er,
+"aber nie, nie soll sie erfahren, wie elend der war, den sie liebte."
+Der Gedanke an diesen Elenden bemaechtigte sich seiner aufs neue; er
+drueckte die Augen zu, verfluchte die menschliche Natur, die durch
+Leichtsinn und Schwaeche aus einem erhabenen Geist, aus einem tapfern
+Mann einen ehrvergessenen, treulosen Betrueger machen koenne.
+
+Der Major hat oft gestanden, dass einer der schrecklichsten
+Augenblicke in seinem Leben der gewesen sei, wo er im ersten
+Zwischenakt 'Othellos' in die fuerstliche Loge kam.  Es war ihm zu Mut,
+als habe er selbst an Sophien gefrevelt, als sei er es, der ihr Herz
+brechen muesse.  Der Gedanke war ihm unertraeglich, sie arglos,
+gluecklich, erwartungsvoll vor sich zu sehen und doch zu wissen, welch
+namenloses Unglueck ihrer warte.  Er trat ein; ihre Blicke begegneten
+ihm sogleich; sie hatte wohl oft nach der Tuere gesehen.  Mit hastiger
+Ungeduld uebersah sie einen Prinzen und zwei Generale, die sich ihr
+nahen wollten, sie winkte den Major heran.  "Haben wir jetzt unsern
+'Othello'?" sagte sie; "Sind Sie nicht auch gluecklich,
+erwartungsvoll?--doch einen unserer Othelloverschworenen sehe ich
+nicht", fluesterte sie leiser, indem sie leicht erroetete; "der Graf
+ist sicherlich hinter den Kulissen, um recht warmen Dank zu verdienen,
+wenn er alles recht schoen machen laesst?"
+
+"Verzeihen Euer Hoheit", erwiderte der Major, muehsam nach Fassung
+ringend; "der Graf laesst sich entschuldigen, er ist schnell auf einige
+Tage verreist."
+
+Sophie erbleichte; "verreist, also nicht in der Oper?  Wohin riefen
+ihn denn so schnell seine Geschaefte?  O, das ist gewiss ein Scherz,
+den Sie beide zusammen machen", rief sie, "glauben Sie denn, er werde
+nur so schnell weggehen, ohne sich zu beurlauben?  Nein, nein, das
+gibt irgend einen huebschen Spass.  Jetzt weiss ich auch, woher mir ein
+gewisses Briefchen zukam."
+
+Der Major erschrak, dass er sich an dein naechsten Stuhl halten musste.
+"Ein Briefchen!" fragte er mit bebender Stimme, eine schreckliche
+Ahnung stieg in ihm auf.
+
+"Ja, ein zierliches Billetchen", sagte sie und liess neckend das Ende
+eines Papiers unter dem breiten Bracelet hervorgehen, das ihren
+schoenen Arm umschloss.  "Ein Briefchen, das man recht geheimnisvoll
+mir zugesteckt hat.  Ich sehe es Ihnen an den Augen an, Sie sind im
+Komplott.  Ich habe noch keine Gelegenheit gefunden, es zu oeffnen,
+denn einen solchen Scherz muss man nicht oeffentlich machen, aber
+sobald ich in mein Boudoir komme--"
+
+"Durchlaucht! ich bitte um Gottes willen, geben Sie mir das Billet",
+sagte der Major, von den schrecklichsten Qualen gefoltert; "es ist
+gar nicht einmal an Sie, es ist in ganz unrechte Haende gekommen."
+
+"So? um so besser; das gebe ich um keine Welt heraus, das soll mir
+Aufschluss geben ueber die Geheimnisse gewisser Leute!  An eine Dame
+war es also auf jeden Fall; es ist wirklich huebsch, dass es gerade in
+meine Haende kam."
+
+Der Major wollte noch einmal bitten, beschwoeren, aber der Prinz fuhr
+mit seinem Kopf dazwischen, die beiden Generale fielen mit Fragen und
+Neuigkeiten herein, er musste sich zurueckziehen.  Verfolgt von
+schrecklichen Qualen, ging er zu seiner Loge zurueck, er presste seine
+Augen in die Hand, um die Unglueckliche nicht zu sehen, und immer
+wieder musste er von neuem hinschauen, musste von neuem die Qualen der
+Angst, die Gewissheit des nahenden Ungluecks mit seinen Blicken
+einsaugen.
+
+Die Diamanten am Schlosse ihres Armbandes spielten in tausend
+Lichtern, ihre Strahlen zuckten zu ihm herueber, sie drangen wie
+tausend Pfeile in sein Herz.  "Welchen Jammer verschliessen jene
+Diamanten!  Wenn sie im einsamen Gemach diese Baender oeffnet, oeffnet
+sie nicht zugleich die Pforte eines grauenvollen Frevels?  Ihr Puls
+schlaegt an diese unseligen Zeilen, wie ihr Herz fuer den Geliebten
+pocht; wird es nicht stille stehen, wenn das Siegel springt und das
+ahnungslose Auge auf eine furchtbare Kunde faellt?"
+
+Desdemona stimmte ihre Harfe; ihre wehmuetigen Akkorde zogen fluesternd
+durch das Haus, sie erhob ihre Stimme, sie sang--ihren
+Schwanengesang.  Wie wunderbar, wie maechtig ergriffen diese
+melancholischen Klaenge jedes Herz; so einfach, so kindlich ist dieses
+Lied, und doch von so hohem tragischem Effekt!  Man fuehlt sich bange
+und beengt, man ahnt, welch grauenvolles Schicksal ihrer warte, man
+glaubt den Moerder in der Ferne schleichen zu hoeren, man fuehlt die
+unabwendbare Macht des Schicksals naeher und naeher kommen, es
+umtauscht sie wie die Fittiche des Todes.  Sie ahnet es nicht; sanft,
+arglos wie ein suesse Kind sitzt sie an der Harfe, nur die Schwermut
+zittert in weichen Klaengen aus ihrer Brust hervor, aus diesem vollen,
+liebewarmen Herzen, fuer das der Stahl schon gezueckt ist.  Sie
+fluestert Liebesgruesse in die Ferne nach ihm, der sie zermalmen wird;
+ihre Sehnsucht scheint ihn in ihre Arme zu rufen, er wird kommen--
+sie zu morden; sie betet fuer ihn, Desdemona segnet ihn der ihr den
+Fluch gibt.
+
+Der Major teilte seine Blicke zwischen der Saengerin und Sophien.  Sie
+lauschte in Wehmut versunken auf das Lieblingslied, eine Traene hing
+in ihren Wimpern, sie weinte unbewusst ueber ihr eigenes Geschick; die
+Akkorde der Harfe vorschwebten, Sophie sah sinnend, traeumend vor sich
+hin.  "Wenn ich einst sterbe, soll es mein Schwanengesang sein",
+klang es in der Erinnerung des Majors; "wahrlich! sie hat wahr
+gesagt", sprach er zu sich, "es war der Schwanengesang ihres Glueckes."
+Othello trat auf.  Sophiens Aufmerksamkeit war jetzt nicht mehr auf
+die Oper gerichtet, sie sah herab auf ihr Armband, sie spielte mit
+dem Schloss; ein heiteres Laecheln verdraengte ihre Wehmut, ihre Blicke
+streiften nach der Loge des Majors herueber--er strengte angstvoll
+seine Blicke an--Gott im Himmel, sie schiebt das unglueckselige
+Papier hervor und verbirgt es in ihr Tuch--er glaubt zu sehen, wie
+sie heimlich das Siegel bricht--verzweiflungsvoll stuerzt er aus
+seiner Loge den Korridor entlang.  Er weiss nicht warum, es treibt ihn
+mit unsichtbarer Gewalt der fuerstlichen Loge zu, er ist nur noch
+einige Schritte entfernt--da hoert er ein Geraeusch in dem.  Haus, man
+kommt aus der Loge, Bediente und Kammerfrauen eilen aengstlich an ihm
+vorueber, eine schreckliche Ahnung sagt ihm schon vorher, was es,
+bedeute, er fragt, er erhaelt die Antwort.  "Prinzessin Sophie ist
+ploetzlich in Ohnmacht gesunkenen!"
+
+
+
+9.
+
+Duester, zerrissen in seinem Innern, sass einige Tage nach diesem
+Vorfall der Major Larun in seinem Zimmer.  Seine Stirne ruhte in der
+Hand, sein Gesicht war bleich, seine Augen halb geschlossen, der
+sonst so starke Mann zerdrueckte manche Traene, die sich ueber seine
+Wimpern stehlen wollte.  Er dachte an das schreckliche Geschick, in
+dessen innerstes Gewebe ihn der Zufall geworfen; er sah alle diese
+feinen Faeden, die, wenigen Augen ausser ihm sichtbar, so lose sich
+anknuepften; er sah, wie sie weiter gesponnen, wie sie verknuepft und
+gedoppelt zu einem nur zu festen Netz um ein zartes, unglueckliches
+Herz sich schlangen.  Unbesiegbare Bitterkeit mischte sich in diese
+trueben Erinnerungen; sein alter Waffenfreund, ein so glaenzendes
+Meteor am Horizont der Ehre, ein so braver Soldat und jetzt ein
+Elender, Ehrvergessener, der, ohne nur entfernt einen andern Ausgang
+erwarten zu koennen, mit allen Kuensten der Liebe die unbewachten Sinne
+eines kaum zur Jungfrau erbluehten Kindes betoertet.  In diese Gedanken
+mischte sich das Bild dieses so unendlich leidenden Engels, mischte
+sich die Angst vor einer Szene, welcher er in der naechsten Stunde
+entgegengehen sollte.  Eine angesehene Dame, die Oberhofmeisterin der
+Prinzessin Sophie, hatte ihn diesen Nachmittag zu sich rufen lassen.
+Sie entdeckte ihm ohne Hehl, dass Sophie von einer schweren Krankheit
+befallen sei, dass die Aerzte wenig Hoffnung geben, denn sie nennen
+ihre Krankheit einen Nervenschlag.  Sie sagte ihm weiter, die
+Prinzessin habe ihr alles gesagt, sie habe ihr kein Wort dieses
+strafbaren Verhaeltnisses verschwiegen.  Sie wisse, dass in der
+Residenz nur ein Mensch lebe, der jenen Grafen Zronievsky naeher
+gekannt habe, dies sei der Baron von Larun.  Mit einer Angst, einem
+Verlangen, das an Verzweiflung grenze, dringe die Unglueckliche darauf,
+mit ihm ohne Zeugen zu sprechen.  Die Oberhofmeisterin wuesste wohl,
+wie sehr dies gegen die Vorschriften laufe, welche die Etikette ihr
+auferlegen, aber der Anblick des jammernden Kindes, das nur noch dies
+eine Geschaeft auf der Erde abmachen zu wollen schien, erhob sie ueber
+die Schranken ihrer Verhaeltnisse, sie wagte es, dem Major den
+Vorschlag zu machen, diesen Abend unter ihrer Begleitung heimlich zu
+der Kranken zu gehen.
+
+Der Major hatte nicht nein gesagt.  Er wusste, dass er ihr nichts
+Troestliches sagen koenne, er fuehlte aber, wie in einem so tiefen Gram
+das Verlangen nach Mitteilung unueberwindlich werden muesse.
+
+Aber was sollte er ihr sagen?  Musste er nicht befuerchten, von ihrem
+Anblick, von den trueben Erinnerungen der letzten Tage so bestimmt zu
+werden, dass sein lauter Schmerz sie noch ungluecklicher machte?  Er
+war noch in diese Gedanken versunken, als ihm gemeldet wurde, dass man
+ihn erwarte; die alte Oberhofmeisterin hielt in ihrem Wagen vor dem
+Hause; er setzte sich schweigend neben ihre Seite.
+
+"Sie werden die Prinzessin sehr schlecht finden", sagte diese Dame
+mit Traenen; "ich gebe alle Hoffnung auf.  Ich kann mir nicht denken,
+dass in der Unterredung mit Ihnen, Herr Baron, noch etwas Rettendes
+liegen koenne.  Wenn Sie ihr keinen Trost geben koennen, so verlischt
+sie uns wie eine Lampe, die kein Oel mehr hat, um ihre Flamme zu
+naehren; und wollten Sie ihr Trost, Hoffnung geben, so sind diese
+Gefuehle in ihren Verhaeltnissen von so unnatuerlicher Art, dass ich
+beinahe wuenschen muesste, sie moege eher sterben, als ihrem Hause
+Schande machen."
+
+"Also werde ich ihr den Tod bringen muessen", sagte der Major bitter
+laechelnd;--"weiss man in der Familie um diese Geschichten?  Was denkt
+man von der Krankheit?"
+
+"Wie ich Ihnen sagte, Herr Baron; die Familie, der Hof und die Stadt
+weiss nicht anders, als dass sie sich erkaeltet haben muss; die toerichten
+Leute bringen auch noch die fatale Oper ins Spiel und lassen sie am
+'Othello' sterben.  Was wir beide wissen, weiss sonst niemand; es gibt
+einige Damen, die dieses Verhaeltnis frueher ahnten, aber nicht genau
+wussten."
+
+"Und doch fuerchte ich", entgegnete der Major, indem er seinen
+durchdringenden Blick auf die Dame an seiner Seite heftete, "ich
+fuerchte, sie stirbt an einem sehr gewagten Bubenstueck.  Man hat
+dieses Verhaeltnis geahnt, nachgespuert, es wurde zur Gewissheit, man
+suchte eine Trennung herbeizufuehren, man spuerte die Verhaeltnisse des
+Grafen aus--"
+
+"Glauben Sie?" sagte die Oberhofmeisterin blass und mit bebenden
+Lippen, indem sie umsonst versuchte, den Blick des Majors auszuhalten.
+
+"Man forschte diese Verhaeltnisse aus", fuhr der Major fort; "man
+suchte ihn von hier wegzuschrecken, indem man ihm drohte, der
+Prinzessin zu sagen, dass er verheiratet sei.  Bis hieher war der Plan
+nicht uebel; es gehoerte einem solchen Elenden, dass man nicht gelinder
+mit ihm verfuhr.  Aber man ging weiter; man wollte auch die
+unglueckliche Dame schnell von ihrer Liebe heilen, man machte sie mit
+dem Geheimnis des Grafen bekannt, man glaubte, sie werde alles ueber
+Nacht vergessen.  Und hier war der Plan auf die Nerven eines
+Dragoners berechnet, aber nicht auf das Herz dieses zarten Kindes."
+
+"Ich muss bitten, zu bedenken", entgegnete die Oberhofmeisterin mit
+ihrer frueheren Kaelte, aber mit flehenden Blicken, "dass dieses zarte
+Kind eine Prinzessin des fuerstlichen Hauses ist, dass sie erzogen
+wurde, um mit Anstand ueber solche Missverhaeltnisse wegzugehen.  Sollte
+wirklich irgend ein solcher Plan vorhanden gewesen sein, so kann ich
+die Handelnden nicht tadeln, sie haben wahrhaftig geschickt operiert
+-"
+
+"Sie haben ihren Zweck erreicht, sie wird sterben", unterbrach sie
+der Major.
+
+"Ich haette meinen Zweck erreicht? mein Herr, ich muss bitten--"
+
+"Sie?" sagte Larun mit gleichgueltiger Stimme; "von Ihnen, gnaedige
+Frau, sprach ich nicht, ich sagte: sie, die Handelnden, die
+Operierenden."
+
+Die alte Dame biss sich in die Lippen und schwieg. Wenige Augenblicke
+nachher waren sie an einer Seitenpforte des Palais angelangt.  Ein
+alter Diener fuehrte sie durch ein Labyrinth von Korridoren und
+Treppen.  Endlich wurden die Gaenge breiter, die Beleuchtung auf
+elegantere Art angebracht, der Major bemerkte, dass sie in den
+bewohnteren Fluegel des Schlosses gelangt seien.  Der Alte winkte in
+eine Seitentuere.  Der Weg ging jetzt durch mehrere Gemaecher, bis in
+einen Salon, der wohl zu den Appartements der Prinzessin gehoeren
+mochte, als die Oberhofmeisterin dem Major zufluesterte, er moechte
+einstweilen in einem Fauteuil sich gedulden, bis sie ihn rufen lasse.
+
+Nach einer toedlich langen Viertelstunde erschien sie wieder.  Sie
+sagte ihm, dass nach dem ausdruecklichen Willen der Kranken er allein
+mit ihr sein werde; sie selbst wolle sich als 'Garde de Dame' an die
+Tuere setzen, wo sie gewiss nichts hoeren koenne, wenn man nicht gar zu
+laut spreche.  Uebrigens duerfe er nicht laenger als eine
+Viertelstunde bleiben.  Der Major trat ein.  Das prachtvolle Gemach
+mit seinen schimmernden Tapeten und goldenen Leisten, die reiche
+Draperie der Gardinen, die bunten Farben des tuerkischen Fussteppichs
+taten seinem Auge wehe, denn das Gemuet will ein leidendes Herz, einen
+kranken Koerper nicht mit den Flittern der Hoheit umgeben sehen.  Und
+wie gross war der Kontrast zwischen diesem Glanz der Umgebung und
+diesem zarten, lieblichen Kind, das in einem einfachen, weissen Gewand
+auf einer prachtvollen Ottomane lag.
+
+Der Eindruck, den ihre Zuege, ihre Gestalt, ihr ganzes Wesen zum
+erstenmal auf ihn gemacht hatten, kehrte auch jetzt wieder in die
+Seele des Majors.  Es war ihre einfache, ungeschmueckte Schoenheit,
+ihre stille Groesse, verborgen hinter dem Zauber kindlicher
+Liebenswuerdigkeit, was ihn angezogen hatte.  Wohl blendete ihn damals
+der Glanz der frischen, jugendlichen Farben, die lebhaft strahlenden
+Augen, jenes gewinnende, huldvolle Laecheln, das ihre feinen rosigen
+Lippen umschwebte.  Ein Nachtfrost hatte diese Blueten abgestreift;
+aber gab ihr nicht diese durchsichtige Blaesse, diese stille Trauer in
+dem sinnigen Auge, dieser wehmuetige Zug um den Mund, der nie mehr
+scherzte, eine noch erhabenere Schoenheit, einen noch gefaehrlicheren
+Zauber?  Der Major stand einige Schritte von ihr stille und
+betrachtete sie mit tiefer Ruehrung.  Sie winkte ihm nach einem
+Taburett, das zu ihren Fuessen stand, sie sprach, ihre Stimme hatte
+zwar jenes helle Metall verloren, das sonst ihre heiteren Scherze,
+ihr froehliches Lachen ertoenen liess, aber diese weichen, ruehrenden
+Toene drangen tiefer.--"Es waere toericht von mir, Herr Baron", sprach
+sie, "wollte ich Sie lange in Ungewissheit lassen, warum ich Sie rufen
+liess.  Ich weiss, dass der Graf Sie, als seinen besten Freund, von
+einem Verhaeltnis unterrichtet hat, das nie haette bestehen sollen.--
+Erinnern Sie sich noch des Abends in 'Othello'?  Ich sagte Ihnen von
+einem Billet, das ich bekommen habe, ich erinnere mich, dass Sie mir
+es wiederholt abforderten; warum haben Sie das getan?"
+
+"Warum, fragen Euer Durchlaucht? weil ich den Inhalt ahnte, zu wissen
+glaubte."
+
+"Also doch!" rief sie, und eine Traene drang aus ihrem schoenen Auge;
+"also doch!  Ich hielt Sie, seit dem ersten Augenblick, wo ich Sie
+sah, fuer einen Mann von Ehre; wenn Sie die Verhaeltnisse des Grafen
+wussten, warum haben Sie ihn nicht baelder entfernt, warum mir nicht
+den Schmerz erspart, ihn verachten zu muessen?"
+
+"Ich kann bei allem, was mir heilig ist, bei meiner Ehre schwoeren",
+entgegnete der Major, "dass ich kaum eine Stunde, bevor ich zu Eurer
+Durchlaucht in die Loge trat, diese Verhaeltnisse durch ein Papier
+erfahren habe, das durch Zufall, statt in des Grafen Haende, in die
+meinigen kam.  Als ich den Grafen darueber zur Rede stellen wollte,
+hatte er schon Nachricht davon bekommen und war abgereist.  Ich ahnte
+aus gewissen Winken, die jenes Briefchen enthielt, dass auch Sie nicht
+verschont bleiben wuerden; umsonst versuchte ich das unglueckliche
+Blaettchen Eurer Durchlaucht abzuschwatzen."
+
+"Sie glauben also an diese Erfindung?" fragte Sophie, indem ihre
+Traenen heftiger stroemten; "ach, es ist ja nur ein Kunstgriff gewisser
+Leute, die ihn von uns entfernen wollten.  Lesen Sie dieses Billet,
+es ist dasselbe, das ich erhielt; gestehen Sie selbst, es ist
+Verleumdung!"
+
+Der Major las: "Der Graf v.  Z. ist verheiratet; seine Gemahlin lebt
+in Avignon; drei kleine Kinder weinen um ihren Vater.--Sollte eine
+erlauchte Dame so wenig Ehrgefuehl, so wenig Mitleid besitzen, ihn
+diesen Banden noch laenger zu entziehen?"
+
+Es war dieselbe Handschrift, dasselbe Siegel wie jenes Billets, das
+er selbst bekommen hatte.  Er sah noch immer in diese Zeilen; er
+wagte nicht, aufzuschauen, er wusste nicht zu antworten; denn seine
+strengen Begriffe von Wahrheit erlaubten ihm nicht, gegen seine
+Ueberzeugung zu sprechen; das tiefe Mitleid mit ihrem Schmerz liess ihn
+ihre Hoffnung nicht so grausam niederschlagen.
+
+"Sehen Sie", fuhr sie fort, als er noch immer schwieg "wie ich dieses
+Briefchen arglos, neugierig erbrach, so ueberraschten mich jene
+schrecklichen Worte Gatte, Vater wie eine Stimme des Gerichtes.  Die
+Sinne schwanden mir; ich wurde recht krank und elend; aber so oft ich
+nur eine Stunde mich leichter fuehle, steigt meine Hoffnung wieder;
+ich glaube, Zronievsky kann doch nicht so gar schlecht gewesen sein,
+er kann mich nicht so schrecklich betrogen haben.  Laecheln Sie doch,
+Major, seien Sie freundlich.
+
+--Ich erlaube Ihnen, Sie duerfen mich verspotten, weil ich mich durch
+diese Zeilen so ganz ausser Fassung bringen liess--aber nicht wahr,
+Sie meinen selbst, es ist eine Luege, es ist Verleumdung?"
+
+Der Major war ausser sich; was sollte er ihr sagen?  Sie hing so
+erwartungsvoll an seinen Lippen, es war, als sollte ein Wort von ihm
+sie ins Leben rufen ihr Auge strahlte wieder, jenes holde Laecheln
+erschien wieder auf ihren lieblichen Zuegen--sie lauschte wie auf die
+Botschaft eines guten Engels.
+
+Er antwortete nicht, er sah finster auf den Boden; da verschwand
+allmaehlich die frohe Hoffnung aus ihren Zuegen, das Auge senkte sich,
+der kleine Mund presste sich schmerzlich zusammen, das zarte Rot, das
+noch einmal ihre Wangen gefaerbt hatte, floh; sie senkte ihre Stirne
+in die schoene Hand, sie verbarg ihre weinenden Augen.
+
+"Ich sehe", sagte sie, "Sie sind zu edel, mir mit Hoffnungen zu
+schmeicheln, die nach wenigen Tagen wieder verschwinden muessten.  Ich
+danke Ihnen, auch fuer diese schreckliche Gewissheit.  Sie ist immer
+besser als das ungewisse Schweben zwischen Schmerz und Freude; und
+nun, mein Freund, nehmen Sie dort das Kaestchen, suchen Sie es ihm
+zuzustellen, es enthaelt manches, was mir teuer war--doch nein,
+lassen Sie es mir noch einige Tage, ich schicke es Ihnen, wenn ich es
+nicht mehr brauche.
+
+Es ist mir, als werde ich nicht mehr lange leben", fuhr sie nach
+einigen Augenblicken fort; "ich bin gewiss nicht aberglaeubisch, aber
+warum muss ich gerade nach diesem fatalen 'Othello' krank werden?"
+
+"Ich haette nicht gedacht, dass dieser Gedanke nur einen Augenblick Ew.
+Durchlaucht Sorge machen koennte!" sagte der Major.
+
+"Sie haben recht, es ist toericht von mir; aber in der Nacht, als man
+mich krank aus der Oper brachte, traeumte mir, ich werde sterben.
+Eine ernste, finstere junge Dame kam mit einem Plumeau von roter
+Seide auf mich zu, deckte ihn ueber mich her und presste ihn immer
+staerker auf mich, dass ich beinahe erstickte.  Dann kam ploetzlich mein
+Grossoheim, der Herzog Nepomuk, geradeso, wie er gemalt in der Galerie
+haengt, und befreite mich von dem beengenden Druck, und das
+Sonderbarste ist--"
+
+"Nun?" fragte der Baron laechelnd, "was fing denn der gemalte Herzog
+mit Desdemona an;"
+
+Die Prinzessin staunte.  "Woher wissen Sie denn, dass die Dame
+Desdemona ist?  Ich beschwoere Sie, woher wissen Sie dies?"
+
+Der Major schwieg einen Augenblick verlegen.  "Was ist natuerlicher",
+antwortete er dann, "als dass Sie von Desdemona traeumen?  Sie hatten
+sie ja am Abende zuvor in einem roten Bette verscheiden sehen."
+
+"Sonderbar, dass Sie auch gleich auf den Gedanken kamen.  Das
+Sonderbarste aber ist, ich wachte auf, als der Herzog mich befreite,
+ich wachte in der Tat auf und sah--wie jene Dame mit dem Plumeau
+unter dem Arm langsam zur Tuere hinausging.  Seit dieser Nacht traeume
+ich immer dasselbe, immer beengender wird ihr Druck, immer spaeter
+kommt mir der Herzog zu Hilfe, aber immer sehe ich sie deutlich aus
+dem Zimmer schweben Und als ich gestern abend mir die Harfe bringen
+liess und mein liebes Desdemona-Liedchen spielte, da--spotten Sie
+immer ueber mich! da ging die Tuere auf und jene Dame sah ins Zimmer
+und nickte mir zu."
+
+Sie hatte dieses halb scherzend, halb in Ernst erzaehlt; sie wurde
+ernster; "nicht wahr, Major", sagte sie, "wenn ich sterbe, gedenken
+Sie auch meiner?  Das Andenken eines solchen Mannes ist mir wert."
+"Prinzessin!" rief der Major, indem er vergebens seine Wehmut zu
+bezwingen suchte, "entfernen Sie doch diese Gedanken, die unmoeglich
+zu Ihrer Genesung heilsam sein koennen!"
+
+Die Oberhofmeisterin erschien in der Tuere und gab ein Zeichen, dass
+die Audienz zu Ende sein muesse.  Sophie reichte dem Major die Hand
+zum Kusse, er hat nie mit tieferen Empfindungen von Schmerz, Liebe
+und Ehrfurcht die Hand eines Maedchens gekuesst.  Er erhob sein Auge
+noch einmal zu ihr auf, er begegnete ihren Blicken, die voll Wehmut
+auf ihm ruhten.  Die Oberhofmeisterin trat mit einer Amtsmiene naeher;
+der Major stand auf; wie schwer wurde es ihm, mit kalten
+gesellschaftlichen Formen sich von einem Wesen zu trennen, das ihm in
+wenigen Minuten so teuer geworden war.
+
+"Ich hoffe", sagte er, "Euer Durchlaucht bei der naechsten Cour ganz
+hergestellt wiederzusehen."
+
+"Sie hoffen, Major?" entgegnete sie schmerzlich laechelnd; "leben Sie
+wohl, ich habe zu hoffen aufgehoert."
+
+
+
+10.
+
+Die Residenz war einige Tage mit nichts anderem als der Krankheit der
+geliebten Prinzessin beschaeftigt; man sagte sie bald sehr krank, bald
+gab man wieder Hoffnung; ein Schwanken, das fuer alle, die sie naeher
+kannten, schrecklich war.  An einem Morgen, sehr fruehe, brachte ein
+Diener dem Major ein Kaestchen.  Ein Blick auf dieses wohlbekannte
+Behaeltnis und auf die Trauerkleider des Dieners ueberzeugten ihn, dass
+die Prinzessin nicht mehr sei.  Es war ihm, als sei dieses liebliche
+Wesen ihm, ihm allein gestorben.  Er hatte viel verloren auf der Erde,
+und doch hatte kein Verlust so empfindlich, so tief seine Seele
+beruehrt als dieser.  Es war ihm, als habe er nur noch ein Geschaeft
+auf der Erde, das Vermaechtnis der Verstorbenen an seinen Ort zu
+befoerdern; er wuerde diese Stadt, die so drueckende Erinnerungen fuer
+ihn hatte, sogleich verlassen haben, haette ihn nicht das Verlangen
+zurueckgehalten, ihre sterblichen Reste beisetzen zu sehen.  Als die
+feierlichen Klaenge aller Glocken, als die Trauertoene der Musik und
+die langen Reihen der Fackeltraeger verkuendeten, dass Sophie zu der
+Gruft ihrer Ahnen gefuehrt werde, da verliess er zum erstenmal wieder
+sein Haus und schloss sich dem Zuge an.  Er hoerte nicht auf das
+Gefluester der Menschen, die sich ueber die Ursachen ihrer Krankheit,
+ihres Todes besprachen; er hatte nur einen Gedanken, nur jener
+Augenblick, wo ihr Auge noch einmal auf ihm geruht hatte, wo seine
+Lippen ihre Hand beruehrten, stand vor seiner Seele.  Man nahm die
+Insignien ihrer hohen Geburt von der Bahre, man senkte sie langsam
+hinab zum Staub ihrer Ahnen.  Die Menge verlor sich, die Begleiter
+loeschten ihre Fackeln aus und verliessen die Halle; der Major warf
+noch einen Blick nach der Stelle, wo sie verschwunden war, und ging.
+
+Vor ihm ging mit unsicheren, schleppenden Schritten ein alter Mann,
+der heftig weinte.--Als der Major an seiner Seite war, sah jener
+sich um, es war der Regisseur der Oper.  Der Alte trat naeher zu ihm,
+sah ihn lange an, schien sich auf etwas zu besinnen und sprach dann:
+"Moechten Sie nicht, Herr Baron, wir haetten nur getraeumt, und jenes
+liebliche Kind, das man begraben hat, waere noch am Leben?"
+
+"Warum mahnen Sie mich!" rief der Major mit unwillkuerlichem Grauen;
+"ja, bei Gott, es ist so, wie Sie traeumten; sie ist begraben, und wir
+beide gehen nebeneinander von ihrem Grab."
+
+"Drum soll der Mensch nie mit dem Schicksal scherzen", sagte der Alte
+mit truebem Ernst.  "Ist es heute nicht elf Tage, dass wir 'Othello'
+gaben?  Am achten ist sie gestorben."
+
+"Zufall, Zufall!" rief der Major.  "Wollen Sie Ihren Wahnsinn auch
+jetzt noch fortsetzen? weiss ich nicht nur zu gut, an was sie starb?
+Wohl hat ein Dolch ihre Seele, wie Desdemonas Brust, durchstossen; ein
+Elender, schwaerzer als Ihr Othello, hat ihr Herz gebrochen; aber
+dennoch ist es Aberglauben, Wahnsinn, wenn Sie diesen Tod und Ihre
+Oper zusammenreimen!"
+
+"Unser Streit macht sie nicht wieder lebendig", sagte der Alte mit
+Traenen.  "Glauben Sie, was Sie wollen, Verehrter! ich werde es, wie
+ich es weiss, in meiner Opernchronik notifizieren.  Es hat so kommen
+muessen!"
+
+"Nein!" erwiderte der Major beinahe wuetend, "nein, hat nicht so
+kommen muessen; ein Wort von mir haette sie vielleicht gerettet.
+Bringen Sie mir um Gottes willen Ihren 'Othello' nicht ins Spiel; es
+ist Zufall, Alter; ich will es haben, es ist Zufall!"
+
+"Es gibt, mit Ihrer Erlaubnis, keinen Zufall; es gibt nur Schickung.
+Doch ich habe die Ehre, mich zu empfehlen, denn hier ist meine
+Behausung.  Glauben Sie uebrigens, was Sie wollen", setzte der Alte
+hinzu, indem er die kalte Hand des Majors in der seinigen presste,
+"das Faktum ist da, sie starb--acht Tage nach 'Othello'."
+
+Ende diese Projekt Gutenberg Etextes Othello, von Wilhelm Hauff.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Othello, by Wilhelm Hauff
+
+*** END OF THE PROJECT GUTENBERG EBOOK OTHELLO ***
+
+This file should be named 8thll10.txt or 8thll10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 8thll11.txt
+VERSIONS based on separate sources get new LETTER, 8thll10a.txt
+
+This text was produced for Project Gutenberg 
+by Mike Pullen and Delphine Lettau.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

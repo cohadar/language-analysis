@@ -1,0 +1,2210 @@
+The Project Gutenberg Etext of Die mehreren Wehmueller und ungarischen
+Nationalgesichter, by Clemens Brentano
+#3 in our series by Clemens Brentano
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Die mehreren Wehmueller und ungarischen Nationalgesichter
+
+Author: Clemens Brentano
+
+Release Date: October, 2003 [Etext #4502]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 26, 2002]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+The Project Gutenberg Etext of Die mehreren Wehmueller und ungarischen
+Nationalgesichter, by Clemens Brentano
+*******This file should be named 7wehm10.txt or 7wehm10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7wehm11.txt
+VERSIONS based on separate sources get new LETTER, 7wehm10a.txt
+
+This etext was produced by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer 
+to
+donate.
+
+International donations are accepted, but we don't know ANYTHING 
+about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved 
+by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As 
+fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm 
+etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States 
+copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+
+Die mehreren Wehmueller und ungarischen Nationalgesichter
+
+Clemens Brentano
+
+
+
+Gegen Ende des Sommers, waehrend der Pest in Kroatien, hatte Herr
+Wehmueller, ein reisender Maler, von Wien aus einen Freund besucht,
+der in dieser oestreichischen Provinz als Erzieher auf dem Schlosse
+eines Grafen Giulowitsch lebte.  Die Zeit, welche ihm seine Geschaefte
+zu dem Besuche erlaubten, war vorueber.  Er hatte von seiner jungen
+Frau, welche ihm nach Siebenbuergen vorausgereist war, einen Brief aus
+Stuhlweissenburg erhalten, dass er sie nicht mehr laenger allein lassen
+moege; es erwarte ihn das Offizierkorps des dort liegenden
+hochloeblichen ungarischen Grenadier--und Husarenregiments sehnsuechtig,
+um, von seiner Meisterhand gemalt, sich in dem Andenken
+mannigfaltiger schoener Freundinnen zu erhalten, da ein naher
+Garnisonswechsel manches engverknuepfte Liebes--und Freundschaftsband
+zu zerreissen drohte.  Dieser Brief brachte den Herrn Wehmueller in
+grosse Unruhe, denn er war viermal so lange unterwegs geblieben als
+gewoehnlich und dermassen durch die Quarantaene zerstochen und
+durchraeuchert worden, dass er die ohnedies nicht allzu leserliche Hand
+seiner guten Frau, die mit oft gewaesserter Dinte geschrieben hatte,
+nur mit Muehe lesen konnte.  Er eilte in die Stube seines Freundes
+Lury und sagte zu ihm: "Ich muss gleich auf der Stelle fort nach
+Stuhlweissenburg, denn die hochloeblichen Grenadier--und
+Husarenregimenter sind im Begriff, von dort abzuziehen; lesen Sie,
+der Brief ist an fuenf Wochen alt."  Der Freund verstand ihn nicht,
+nahm aber den Brief und las.  Wehmueller lief sogleich zur Stube
+hinaus und die Treppe hinab in die Hauskapelle, um zu sehen, ob er
+die 39 Nationalgesichter, welche er in oel gemalt und dort zum
+Trocknen aufgehaengt hatte, schon ohne grosse Gefahr des Verwischens
+zusammenrollen koenne.  Ihre Trockenheit uebertraf alle seine Erwartung,
+denn er malte mit Terpentinfirnis, welcher trocken wird, ehe man
+sich umsieht.  Was uebrigens diese 39 Nationalgesichter betrifft,
+hatte es mit ihnen folgende Bewandtnis: Sie waren nichts mehr und
+nichts weniger als 39 Portraets von Ungaren, welche Herr Wehmueller
+gemalt hatte, ehe er sie gesehen.  Er pflegte solcher
+Nationalgesichter immer ein halb Hundert fertig bei sich zu fuehren.
+Kam er in einer Stadt an, wo er Gewinn durch seine Kunst erwartete,
+so pflegte er oeffentlich ausschellen oder austrommeln zu lassen: der
+bekannte Kuenstler, Herr Wehmueller, sei mit einem reichassortierten
+Lager wohlgetroffener Nationalgesichter angelangt und lade diejenigen
+unter einem hochedlen Publikum, welche ihr Portraet wuenschten,
+untertaenigst ein, sich dasselbe, Stueck vor Stueck zu einem Dukaten in
+Gold, selbst auszusuchen.  Er fuegte sodann noch, durch wenige
+Meisterstriche, einige persoenliche Zuege und Ehrennarben oder die
+Individualitaet des Schnurrbartes des Kaeufers unentgeltlich bei; fuer
+die Uniform aber, welche er immer ausgelassen hatte, musste nach
+Massgabe ihres Reichtums nachgezahlt werden.  Er hatte diese
+Verfahrungsart auf seinen Kunstreisen als die befriedigendste fuer
+sich und die Kaeufer gefunden.  Er malte die Leute nach Belieben im
+Winter mit aller Bequemlichkeit zu Haus und brachte sie in der
+schoenen Jahreszeit zu Markte.  So genoss er des grossen Trostes, dass
+keiner ueber Unaehnlichkeit oder langes Sitzen klagen konnte, weil sich
+jeder sein Bildnis fertig nach bestimmtem Preise, wie einen Weck auf
+dem Laden, selbst aussuchte.  Wehmueller hatte seine Gattin
+vorausgeschickt, um seine Ankunft in Stuhlweissenburg vorzubereiten,
+waehrend er seinen Vorrat von Portraets bei seinem Freunde Lury zu der
+gehoerigen Menge brachte; er musste diesmal in vollem Glanze auftreten,
+weil er in einer Zeitung gelesen.  Ein Maler Froschauer aus
+Klagenfurt habe dieselbe Kunstreise vor.  Dieser aber war bisher sein
+Antagonist und Nebenbuhler gewesen, wenn sie sich gleich nicht
+kannten, denn Froschauer war von der entgegengesetzten Schule; er
+hatte naemlich immer alle Uniformen voraus fertig und liess sich fuer
+die Gesichter extra bezahlen.
+
+Schon hatte Wehmueller die 39 Nationalgesichter zusammengerollt in
+eine grosse, weite Blechbuechse gesteckt, in welcher auch seine Farben
+und Pinsel, ein paar Hemden, ein Paar gelbe Stiefelstulpen und eine
+Haarlocke seiner Frau Platz fanden; schon schnallte er sich diese
+Buechse mit zwei Riemen wie einen Tornister auf den Ruecken, als sein
+Freund Lury hereintrat und ihm den Brief mit den Worten zurueckgab:
+"Du kannst nicht reisen; soeben hat ein Bauer hier auf dem Hofe
+erzaehlt, dass er vor einigen Tagen einen Fussreisenden begleitet habe,
+und dass dieser der letzte Mensch gewesen sei, der ueber die Grenze
+gekommen, denn auf seinem Rueckwege hierher habe er, der Bote, schon
+alle Wege vom Pestkordon besetzt gefunden."  Wehmueller aber liess sich
+nicht mehr zurueckhalten, er schob seine Palette unter den
+Wachstuchueberzug auf seinen runden Hut, wie die Baecker in den Zipfel
+ihrer gestrickten spitzen Muetzen eine Semmel zu stecken pflegen, und
+begann seinen Reisestab zusammenzurichten, der ein wahres Wunder der
+Mechanik, wenn ich mich nicht irre, von der Erfindung des Mechanikus
+Eckler in Berlin, war; denn er enthielt erstens: sich selbst, naemlich
+einen Reisestock; zweitens: nochmals sich selbst, einen Malerstock;
+drittens: nochmals sich selbst, einen Messstock; viertens: nochmals
+sich selbst, ein Richtscheit; fuenftens: nochmals sich selbst, ein
+Blaserohr; sechstens: nochmals sich selbst, ein Tabakspfeifenrohr;
+siebentens: nochmals sich selbst, einen Angelstock; darin aber waren
+noch ein Stiefelknecht, ein Barometer, ein Thermometer, ein
+Perspektiv, ein Zeichenstuhl, ein chemisches Feuerzeug, ein Reisszeug,
+ein Bleistift und das Brauchbarste von allem, eine approbierte
+hoelzerne Huehneraugenfeile, angebracht; das Ganze aber war so
+eingerichtet, dass man die Masse des Inhalts durch den Druck einer
+Feder aus diesem Stocke, wie aus einer Windbuechse, seinem Feind auf
+den Leib schiessen konnte.  Waehrend Wehmueller diesen Stock
+zusammenrichtete, machte Lury ihm die lebhaftesten Vorstellungen
+wegen der Gefahr seiner Reise, aber er liess sich nicht halten.  "So
+rede wenigstens mit dem Bauer selbst", sprach Lury; das war Wehmueller
+zufrieden und ging, ganz zum Abmarsche fertig, hinab.  Kaum aber
+waren sie in die Schenke getreten, als der Bauer zu ihm trat und, ihm
+den aermel kuessend, sagte: "Nu, gnaediger Herr, wie kommen wir schon
+wieder zusammen?  Sie hatten ja eine solche Eile nach Stuhlweissenburg,
+dass ich glaubte, Euer Gnaden muessten bald dort sein."  Wehmueller
+verstand den Bauer nicht, der ihm versicherte, dass er ihn, mit
+derselben blechernen Buechse auf dem Ruecken und demselben langen
+Stocke in der Hand, nach der ungarischen Grenze gefuehrt habe, und
+zwar zu rechter Zeit, weil kurz nachher der Weg vom Pestkordon
+geschlossen worden sei, wobei der Mann ihm eine Menge einzelne
+Vorfaelle der Reise erzaehlte, von welchen, wie vom ganzen, Wehmueller
+nichts begriff.  Da aber endlich der Bauer ein kleines Bild hervorzog
+mit den Worten: "Haben Euer Gnaden mir dieses Bildchen, das in Ihrer
+Buechse keinen Platz fand, nicht zu tragen gegeben, und haben es Euer
+Gnaden nicht in der Eile der Reise vergessen?"--ergriff Wehmueller das
+Bild mit Heftigkeit.  Es war das Bild seiner Frau, ganz wie von ihm
+selbst gemalt, ja der Name Wehmueller war unterzeichnet.  Er wusste
+nicht, wo ihm der Kopf stand.  Bald sah er den Bauer, bald Lury, bald
+das Bild an, "Wer gab dir das Bild?" fuhr er den Bauer an.  "Euer
+Gnaden selbst", sagte dieser; "Sie wollten nach Stuhlweissenburg zu
+Ihrer Liebsten, sagten Euer Gnaden, und das Botenlohn sind mir Euer
+Gnaden auch schuldig geblieben."--"Das ist erlogen!" schrie Wehmueller.
+"Es ist die Wahrheit!" sagte der Bauer.  "Es ist nicht die Wahrheit!"
+sagte Lury, "denn dieser Herr ist seit vier Wochen nicht hier
+weggekommen und hat mit mir in einer Stube geschlafen."  Der Bauer
+aber wollte von seiner Behauptung nicht abgehen und drang auf die
+Bezahlung des Botenlohns oder auf die Rueckgabe des Portraets, welches
+sein Pfand sei, und dem er, wenn er nicht bezahle, einen Schimpf
+antun wolle.  Wehmueller ward ausser sich.
+
+"Was?" schrie er, "ich soll fuer einen andern das Botenlohn zahlen
+oder das Portraet meiner Frau beschimpfen lassen?  Das ist entsetzlich!"
+Lury machte endlich den Schiedsrichter und sagte zu dem Bauer:
+"Habt Ihr diesen Herrn ueber die Grenze gebracht?"--"Ja!" sagte der
+Bauer.  "Wie kommt er dann wieder hierher, und wie war er die ganze
+Zeit hier?" erwiderte Lury.  "Ihr muesst ihn daher nicht recht tuechtig
+hinueber gebracht haben und koennt fuer so schlechte Arbeit kein
+Botenlohn begehren; bringt ihn heute nochmals hinueber, aber dermassen,
+dass auch kein Stuempfchen hier in Kroatien bleibt, und lasst Euch
+doppelt bezahlen."  Der Bauer sagte: "Ich bin es zufrieden, aber es
+ist doch eine sehr heillose Sache; wer von den beiden ist nun der
+Teufel, dieser gnaedige Herr oder der andre?  Es koennte mich dieser,
+der viel widerspenstiger scheint, vielleicht gar mit ueber die Grenze
+holen, auch ist der Weg jetzt gesperrt, und der andre war der letzte;
+ich glaube doch, er muss der Teufel gewesen sein, der bei der Pest zu
+tun hat."--"Was", schrie Wehmueller, "der Teufel mit dem Portraet
+meiner Frau!  Ich werde verrueckt; gesperrt oder nicht gesperrt, ich
+muss fort, der scheusslichste Betrug muss entdeckt werden.  Ach, meine
+arme Frau, wie kann sie getaeuscht werden!  Adie, Lury, ich brauche
+keinen Boten, ich will schon allein finden."  Und somit lief er zum
+offnen Hoftore mit solcher Schnelligkeit hinaus, dass ihn weder der
+nachlaufende Bauer noch das Geschrei Lurys einholen konnte.
+
+Nach dieser Szene trat der Graf Giulowitsch, der Prinzipal Lurys, aus
+dem Schlosse, um auf seinen Finkenherd zu fahren.  Lury erzaehlte ihm
+die Geschichte, und der Graf, neugierig, mehr von der Sache zu hoeren,
+bestieg seinen Wurstwagen und fuhr dem Maler in vollem Trabe nach;
+das leichte Fuhrwerk, mit zwei raschen Pferden bespannt, flog ueber
+die Stoppelfelder, welche einen festeren Boden als die moorichte
+Landstrasse darboten.  Bald war der Maler eingeholt, der Graf bat ihn,
+aufzusitzen, mit dem Anerbieten, ihn einige Meilen bis an die Grenze
+seiner Gueter zu bringen, wo er noch eine halbe Stunde nach dem
+letzten Grenzdorf habe.  Wehmueller, der schon viel Grund und Boden an
+seinen Stiefeln haengen hatte, nahm den Vorschlag mit untertaenigstem
+Dank an.  Er musste einige Zuege alten Slibowitz aus des Grafen
+Jagdflasche tun und fand dadurch schon etwas mehr Mut, sich selbst
+auf der eignen Faehrte zu seiner Frau nachzueilen.  Der Graf fragte
+ihn, ob er denn niemand kenne, der ihm so aehnlich sei und so malen
+koenne wie er.  Wehmueller sagte nein, und das Portraet aengstige ihn am
+meisten, denn dadurch zeige sich eine Beziehung des falschen
+Wehmuellers auf seine Frau, welche ihm besonders fatal werden koenne.
+Der Graf sagte ihm, der falsche Wehmueller sei wohl nur eine Strafe
+Gottes fuer den echten Wehmueller, weil dieser alle Ungarn ueber einen
+Leisten male; so gaebe es jetzt auch mehrere Wehmueller ueber einen
+Leisten.  Wehmueller meinte, alles sei ihm einerlei, aber seine Frau,
+seine Frau, wenn die sich nur nicht irre.  Der Graf stellte ihm
+nochmals vor, er moege lieber mit ihm auf seinen Finkenherd und dann
+zurueckfahren; er gefaehrde, wenn er auch hoechst unwahrscheinlich den
+Pestkordon durchschleichen sollte, jenseits an der Pest zu sterben.
+Wehmueller aber meinte: "Ein zweiter Wehmueller, der zu meiner Frau
+reist, ist auch eine Pest, an der man sterben kann", und er wolle so
+wenig als die Schneegaense, welche schreiend ueber ihnen hinstrichen,
+den Pestkordon respektieren; er habe keine Ruhe, bis er bei seiner
+Tonerl sei.  So kamen sie bis auf die Grenze der Giulowitschschen
+Gueter, und der Graf schenkte Wehmuellern noch eine Flasche Tokaier mit
+den Worten: "Wenn Sie diese ausstechen, lieber Wehmueller, werden Sie
+sich nicht wundern, dass man Sie doppelt gesehn, denn Sie selbst
+werden alles doppelt sehn; geben Sie uns so bald als moeglich Bericht
+von Ihrem Abenteuer, und moege Ihre Gemahlin anders sehen, als der
+Bauer gesehen hat.  Leben Sie wohl!"
+
+Nun eilte Wehmueller, so schnell er konnte, nach dem naechsten Dorf,
+und kaum war er in die kleine, dumpfichte Schenke eingetreten, als
+die alte Wirtin, in Husarenuniform, ihm entgegenschrie: "Ha, ha! da
+sind der Herr wieder zurueck, ich hab es gleich gesagt, dass Sie nicht
+durch den Kordon wuerden hinuebergelassen werden."  Wehmueller sagte,
+dass er hier niemals gewesen, und dass er gleich jetzt erst versuchen
+wolle, durch den Kordon zu kommen.  Da lachte Frau Tschermack und ihr
+Gesinde ihm ins Gesicht und behaupteten steif und fest, er sei vor
+einigen Tagen hier durchpassiert, von einem Giulowitscher Bauer
+begleitet, dem er das Botenlohn zu zahlen vergessen; er habe ja hier
+gefruehstueckt und erzaehlt, dass er nach Stuhlweissenburg zu seiner Frau
+Tonerl wolle, um dort das hochloebliche Offizierkorps zu malen.
+Wehmueller kam durch diese neue Bestaetigung, dass er doppelt in der
+Welt herumreise, beinahe in Verzweiflung.  Er sagte der Wirtin mit
+kurzen Worten seine ganze Lage, sie wusste nicht, was sie glauben
+sollte, und sah ihn sehr kurios an.  Es war ihr nicht allzu heimlich
+bei ihm.  Aber er wartete alle ihre Skrupel nicht ab und lief wie
+toll und blind zum Dorfe hinaus und dem Pestkordon zu.  Als er eine
+Viertelmeile auf der Landstrasse gelaufen war, sah er auf dem
+Stoppelfeld eine Reihe von Rauchsaeulen aufsteigen, und ein angenehmer
+Wacholdergeruch dampfte ihm entgegen.  Er sah bald eine Reihe von
+Erdhuetten und Soldaten, welche kochten und sangen; es war ein
+Hauptbivouac des Pestkordons.  Als er sich der Schildwache naeherte,
+rief sie ihm ein schreckliches "Halt!" entgegen und schlug sogleich
+ihr Gewehr auf ihn an.  Wehmueller stand wie angewurzelt.  Die
+Schildwache rief den Unteroffizier, und nach einigen Minuten sprengte
+ein Szekler-Husar gegen ihn heran und schrie aus der Ferne: "Wos
+willstu, quid vis?  Wo kommst her, unde venis?  An welchen Ort willst
+du, ad quem locum vis?  Bist du nicht vorige Woche hier durchpassiert,
+es tu non altera hebdomada hic perpassatus?"  Er fragte ihn so auf
+deutsch und husarenlateinisch zugleich, weil er nicht wusste, ob er
+ein Deutscher oder ein Ungar sei.  Wehmueller musste aus den letzten
+Worten des Husaren abermals hoeren, dass er hier schon durchgereist sei,
+welche Nachricht ihm eiskalt ueber den Ruecken lief.  Er schrie sich
+beinah die Kehle aus, dass er grade von dem Grafen Giulowitsch komme,
+dass er in seinem Leben nicht hier gewesen.  Der Husar aber lachte und
+sprach: "Du luegst, mentiris!  Hast du nicht dem Herrn Chirurg sein
+Bild gegeben, non dedidisti Domino Chirurgo suam imaginem!--dass er
+durch die Finger gesehen und dich passieren lassen, ut vidit per
+digitos et te fecit passare!  Du bist zurueckgekehrt aus den
+Pestoertern, es returnatus ex pestiferatis locis!"  Wehmueller sank auf
+die Knie nieder und bat, man moege den Chirurgen doch herbeirufen.
+
+Waehrend diesem Gespraech waren mehrere Soldaten um den Husaren herum
+getreten, zuzuhoeren; endlich kam der Chirurg auch, und nachdem er
+Wehmuellers Klagen angehoert, der sich die Lunge fast weggeschrien,
+befahl er ihm, sich einem der Feuer von Wacholderholz zu naehern, so
+dass es zwischen ihnen beiden sei, dann wolle er mit ihm reden.
+Wehmueller tat dies und erzaehlte ihm die ganze Aussage ueber einen
+zweiten Wehmueller, der hier durchgereist sei, und seine grosse Sorge,
+dass ihn dieser um all sein Glueck betruegen koenne, und bot dem
+Chirurgen alles an, was er besitze, er moege ihm nur durchhelfen.  Der
+Chirurg holte nun eine Rolle Wachsleinwand aus seiner Erdhuette, und
+Wehmueller erblickte auf derselben eines der ungarischen
+Nationalgesichter, grade wie er sie selbst zu malen pflegte, auch
+sein Name stand drunter, und da der Chirurg sagte, ob er dies Bild
+nicht gemalt und ihm neulich geschenkt habe, weil er ihn passieren
+lassen, gestand Wehmueller, er wuerde nie dies Bild von den seinigen
+unterscheiden koennen, aber durchpassiert sei er hier nie und habe nie
+die Gelegenheit gehabt, den Herren Chirurgen zu sprechen.  Da sagte
+der Chirurg: "Hatten Sie nicht heftiges Zahnweh?  Habe ich Ihnen
+nicht noch einen Zahn ausgezogen fuer das Bild?"--"Nein, Herr Chirurg",
+erwiderte Wehmueller, "ich habe alle meine Zaehne frisch und gesund,
+wenn Sie zuschauen wollen."  Nun fasste der Feldscher einigen Mut;
+Wehmueller sperrte das Maul auf, er sah nach und gestand ihm zu, dass
+er ganz ein andrer Mensch sei; denn jetzt, da er ihn weder aus der
+Ferne noch von Rauch getruebt ansehe, muesse er ihm gestehen, dass der
+andre Wehmueller viel glatter und auch etwas fetter sei, ja dass sie
+beide, wenn sie nebeneinander staenden, kaum verwechselt werden
+koennten; aber durchpassieren lassen koenne er ihn jetzt doch nicht.
+Es habe zuviel Aufsehens bei der Wache gemacht, und er koenne Verdruss
+haben; morgen frueh werde aber der Kordonkommandant mit einer
+Patrouille bei der Visitation hieher kommen, und da liesse sich sehen,
+was er fuer ihn tun koenne; er moege bis dahin nach der Schenke des
+Dorfs zurueckkehren, er wolle ihn rufen lassen, wenn es Zeit sei; er
+solle auch das Bild mitnehmen und ihm den Schnauzbart etwas spitzer
+malen, damit es ganz aehnlich werde.  Wehmueller bat, in seiner
+Erdhuette einen Brief an sein Tonerl schreiben zu duerfen und ihm den
+Brief hinueber zu besorgen.  Der Chirurg war es zufrieden.  Wehmueller
+schrieb seiner Frau, erzaehlte ihr sein Unglueck, bat sie um Gottes
+willen, nicht den falschen Wehmueller mit ihm zu verwechseln und
+lieber sogleich ihm entgegen zu reisen.  Der Chirurg besorgte den
+Brief und gab Wehmuellern noch ein Attestat, dass seine Person eine
+ganz andre sei als die des ersten Wehmuellers, und nun kehrte unser
+Maler, durchgeraeuchert wie ein Quarantaenebrief, nach der Dorfschenke
+zurueck.
+
+Hier war die Gesellschaft vermehrt, die Erzaehlung von dem doppelten
+Wehmueller hatte sich im Dorfe und auf einem benachbarten Edelhof
+ausgebreitet, und es waren allerlei Leute bei der Wirtin
+zusammengekommen, um sich wegen der Geschichte zu befragen.  Unter
+dieser Gesellschaft waren ein alter invalider Feuerwerker und ein
+Franzose die Hauptpersonen.  Der Feuerwerker, ein Venetianer von
+Geburt, hiess Baciochi und war ein Allesinallem bei dem Edelmanne, der
+einen Buechsenschuss von dem Dorfe wohnte.  Der Franzose war ein
+Monsieur Devillier, der, von einer alten reichen Ungarin gefesselt,
+in Ungarn sitzen geblieben war; seine Goennerin starb und hinterliess
+ihm ein kleines Guetchen, auf welchem er lebte und sich bei seinen
+Nachbarn umher mit der Jagd und allerlei Liebeshaendeln die Zeit
+vertrieb.  Er hatte gerade eine Kammerjungfer auf dem Edelhofe
+besucht, der er Sprachunterricht gab, und diese hatte ihn mit dem
+Hofmeister des jungen Edelmanns auf seinem Rueckwege in die Schenke
+begleitet, um ihrer Herrschaft von dem doppelten Wehmueller Bericht zu
+erstatten.  Die Kammerjungfer hiess Nanny, und der Hofmeister war ein
+geborner Wiener mit Namen Lindpeindler, ein zartfuehlender Dichter,
+der oft verkannt worden ist.  Die beruehmteste Person von allen war
+aber der Violinspieler Michaly, ein Zigeuner von etwa dreissig Jahren,
+von eigentuemlicher Schoenheit und Kuehnheit, der wegen seinem grossen
+Talent, alle moeglichen Taenze ununterbrochen auf seiner Violine zu
+erfinden und zu variieren, bei allen grossen Hochzeiten im Lande
+allein spielen musste.  Er war hieher gereist, um seine Schwester zu
+erwarten, die bis jetzt bei einer verstorbenen Grossmutter gelebt und
+nun auf der Reise zu ihm durch den Pestkordon von ihm getrennt war.
+Zu diesen Personen fuegte sich noch ein alter kroatischer Edelmann,
+der einen einsamen Hof in der Naehe der tuerkischen Grenze besass; er
+uebernachtete hier, von einem Kreistage zurueckkehrend.  Ein Tiroler
+Teppichkraemer und sein Reisegeselle, ein Savoyardenjunge, dem sein
+Murmeltier gestorben war, und der sich nach Hause bettelte, machten
+die Gesellschaft voll, ausser der alten Wirtin, die Tabak rauchte und
+in ihrer Jugend als Amazone unter den Wurmserschen Husaren gedient
+hatte.  Sie trug noch den Dolman und die Muetze, die Haare in einen
+Zopf am Nacken und zwei kleine Zoepfe an den Schlaefen geknuepft, und
+hatte hinter ihrem Spinnrad ein martialisches Ansehen.  Diese bunte
+Versammlung sass in der Stube, welche zugleich die Kueche und der Stall
+fuer zwei Bueffelkuehe war, um den lodernden, niedern Feuerherd und war
+im vollen Gespraech ueber den doppelten Wehmueller, als dieser in der
+Daemmerung an der verschlossenen Haustuere pochte.  Die Wirtin fragte
+zum Fenster hinaus, und als sie Wehmueller sah, rief sie: "Gott steh
+uns bei!  Da ist noch ein dritter Wehmueller; ich mache die Tuere nicht
+eher auf, bis sie alle drei zusammen kommen!"
+
+Ein lautes Gelaechter und Geschrei des Verwunderns aus der Stube
+unterbrach des armen Malers Bitte um Einlass.  Er nahte sich dem
+Fenster und hoerte eine lebhafte Beratschlagung ueber sich an.  Der
+kroatische Edelmann behauptete, er koenne sehr leicht ein Vampyr sein
+oder die Leiche des ersten an der Pest verstorbenen Wehmuellers, die
+hier den Leuten das Blut aussaugen wolle; der Feuerwerker meinte, er
+koenne die Pest bringen, er habe wahrscheinlich den Kordon
+ueberschritten und sei wieder zurueckgeschlichen; der Tiroler bewies,
+er wuerde niemand fressen; die Kammerjungfer verkroch sich hinter dem
+Franzosen, der, nebst dem Hofmeister, die Gastfreiheit und
+Menschlichkeit verteidigte.  Devillier sagte, er koenne nicht erwarten,
+dass eine so auserwaehlte Gesellschaft, in der er sich befaende, jemals
+aus Furcht und Aberglauben die Rechte der Menschheit so sehr
+verletzen werde, einen Fremden wegen einer blossen Grille auszusperren,
+er wolle mit dem Manne reden; der Zigeuner aber ergriff in dem
+allgemeinen, ziemlich lauten Wortwechsel seine Violine und machte ein
+wunderbares Schariwari dazu, und da die ungarischen Bauern nicht
+leicht eine Fiedel hoeren, ohne den Tanzkrampf in den Fuessen zu fuehlen,
+so versammelte sich bald Horia und Klotzka vor der Schenke--was so
+viel heisst als Hinz und Kunz bei uns zulande--die Maedchen wurden aus
+den Betten getrieben und vor die Schenke gezogen, und sie begannen zu
+jauchzen und zu tanzen.
+
+Durch den Laerm ward der Vizegespan, des Orts Obrigkeit, herbeigelockt,
+und Wehmueller brachte ihm seine Klagen und das Attestat des
+Chirurgen vor, versprach ihm auch, sein Portraet unter den
+Nationalgesichtern sich aussuchen zu lassen, wenn er ihm ein ruhiges
+Nachtquartier verschaffe und seine Persoenlichkeit in der Schenke
+attestiere.  Der Vizegespan liess sich nun die Schenke oeffnen und las
+drinnen das Attestat des Herren Chirurgen, das er allen Anwesenden
+zur Beruhigung mitteilte.  Durch seine Autoritaet brachte er es dahin,
+dass Wehmueller endlich hereingelassen wurde, und er nahm, um der Sache
+mehr Ansehen zu geben, ein Protokoll ueber ihn auf, an dem nichts
+merkwuerdig war, als dass es mit dem Worte "sondern" anfing.  Indessen
+hatten die Bauern den musikalischen Zigeuner herausgezerrt und waren
+mit ihm unter die Linde des Dorfs gezogen, der Tiroler zog
+hintendrein und joudelte aus der Fistel, der Savoyarde gurgelte sein
+"Escoutta Gianetta" und klapperte mit dem Deckel seines leeren
+Kastens den Takt dazu bis unter die Linde.  Monsieur Devillier
+forderte die Kammerjungfer zu einem Taenzchen auf, und Herr
+Lindpeindler gab der schoenen Herbstnacht und dem romantischen
+Eindruck nach.  So war die Stube ziemlich leer geworden; Wehmueller
+holte seine Nationalgesichter aus der Blechbuechse, und der Vizegespan
+hatte bald sein Portraet gefunden, versprach auch dem Maler ins Ohr,
+dass er ihm morgen ueber den Kordon helfen wolle, wenn er ihm heute
+nacht noch eine Reihe Knoepfe mehr auf die Jacke male.  Wehmueller
+dankte ihm herzlich und begann sogleich bei einer Kienfackel seine
+Arbeit.  Der Feuerwerker und der kroatische Edelmann rueckten zu dem
+Tisch, auf welchem Wehmueller seine Flasche Tokaier preisgab; die
+Herren drehten sich die Schnauzbaerte, steckten sich die Pfeifen an
+und liessen es sich wohlschmecken.  Der Vizegespan sprach von der
+Jagdzeit, die am St. Egiditag, da der Hirsch in die Brunst gehe,
+begonnen habe, und dass er morgen frueh nach einem Vierzehnender
+ausgehen wolle, der ihm grossen Schaden in seinem Weinberge getan;
+zugleich lud er Herrn Wehmueller ein, mitzugehen, wobei er ihm auf den
+Fuss trat.  Wehmueller verstand, dass dies ein Wink sei, wie er ihm ueber
+den Kordon helfen wolle, und wenn ihm gleich nicht so zumute war,
+gern von Hirschgeweihen zu hoeren, nahm er doch das Anerbieten mit
+Dank an, nur bat er sich die Erlaubnis aus, nach der Rueckkehr das
+Bild des Herrn Vizegespans in seinem Hause fertig malen zu duerfen.
+Der kroatische Edelmann und der Feuerwerker sprachen nun noch
+mancherlei von der Jagd, und wie der Wein so vortrefflich stehe,
+darum sei das Volk auch so lustig; wenn der unbequeme Pestkordon nur
+erst aufgeloest sei; aller Verkehr sei durch ihn gestoert, und der
+Kordon sei eigentlich aerger als die Pest selbst.  "Es wird bald aus
+sein mit dem Kordon", sagte der Kroate, "die Kaelte ist der beste
+Doktor, und ich habe heute an den Eicheln gesehen, dass es einen
+strengen Winter geben wird; denn die Eicheln kamen heuer frueh und
+viel, und es heisst von den Eicheln im September:
+
+
+Haben sie Spinnen, so koemmt ein boes Jahr,
+Haben sie Fliegen, koemmt Mittelzeit zwar,
+Haben sie Maden, so wird das Jahr gut,
+Ist nichts darin, so haelt der Tod die Hut,
+Sind die Eicheln frueh und sehr viel,
+So schau, was der Winter anrichten will:
+Mit vielem Schnee koemmt er vor Weihnachten,
+Darnach magst du grosse Kaelte betrachten.
+Sind die Eicheln schoen innerlich,
+Folgt ein schoener Sommer, glaub sicherlich;
+Auch wird dieselbe Zeit wachsen schoen Korn,
+Also ist Mueh und Arbeit nicht verlorn.
+Werden sie innerlich nass befunden,
+Tuts uns einen nassen Sommer bekunden;
+Sind sie mager, wird der Sommer heiss,
+Das sei dir gesagt mit allem Fleiss.
+
+
+Diesen September waren sie aber so frueh und haeufig, dass es gewiss bald
+kalt und der Frost die Pest schon vertilgen wird."--"Ganz recht",
+sagte der Vizegespan, "wir werden einen fruehen Winter und einen
+schoenen Herbst haben, denn tritt der Hirsch an einem schoenen Egiditag
+in Brunst, so tritt er auch an einem schoenen Tag heraus, und wenn er
+frueh eintritt, wie dieses Jahr, so naht der Winter auch frueh."
+
+UEber diesen Wetterbetrachtungen kamen sie auf kalte Winter zu
+sprechen, und der Kroate erzaehlte folgende Geschichte, die ihm vor
+einigen Jahren im kalten Winter in der Christnacht geschehen sein
+sollte, und er beschwor sie hoch und teuer.  Aber eben, als er
+beginnen wollte, schallte ein grosser Spektakel von der Linde her.
+Lindpeindler und die Kammerjungfer stuerzten mit dem Geschrei in die
+Stube, auf dem Tanzplatz sei wieder ein Wehmueller erschienen.  "Ach",
+schrie die Kammerjungfer, "er hat mich wie ein Gespenst angepackt und
+ist mit mir so entsetzlich unter der Linde herumgetanzt, dass mir die
+Haube in den Zweigen blieb."  Auf diese Aussage sprangen alle vom
+Tisch auf und wollten hinausstuerzen.  Der Vizegespan aber gebot dem
+Maler, sitzen zu bleiben, bis man wisse, ob er oder der andere es sei.
+Da naeherte sich das Spektakel, und bald trat der Zigeuner, lustig
+fiedelnd, von den kraehenden Bauern begleitet, mit dem neuen Wehmueller
+vor die Schenke.  Da klaerte sich denn bald der Scherz auf.  Devillier
+hatte den grauen Reisekittel und den Hut Wehmuellers im Hinausgehen
+aufgesetzt und ein blechernes Ofenrohr, das in einem Winkel lag,
+umgehaengt, die furchtsame Kammerjungfer zu erschrecken.  Nanny ward
+sehr ausgelacht, und der Vizegespan befahl nun den Leuten, zu Bette
+zu gehen; da aber einige noch tanzen wollten und grob wurden, rief er
+nach seinen Heiducken, setzte selbst eine Bank vor die Tuere, legte
+eigenhaendig einen frechen Burschen ueber und liess ihm fuenf aufzaehlen,
+auf welche kleine Erfrischung die ganze Ballgesellschaft mit einem
+lauten "Vivat noster Dominus Vicegespannus!" jubelnd nach Haus zog.
+Nun ordnete sich die uebrige Gesellschaft in der engen Stube, wie es
+gehen wollte, um Tisch und Herd, auf Kuebeln und Tonnen und den zur
+Nachtstreue von der Wirtin angeschleppten Strohbuendeln.  Devillier
+liess einige Kruege Wein bringen, und der erschrockenen Kammerjungfer
+wurde auf den Schreck wacker zugetrunken.  Man bat dann den Kroaten,
+seine versprochene Geschichte zu erzaehlen, welcher, waehrend Wehmueller
+in schweren Gedanken an sein Tonerl Knoepfe malte, also begann.
+
+
+
+Das Pickenick des Katers Mores
+Erzaehlung des kroatischen Edelmanns
+
+Mein Freihof liegt einsam, eine halbe Stunde von der tuerkischen
+Grenze, in einem sumpfichten Wald, wo alles im herrlichsten und
+fatalsten ueberfluss ist, zum Beispiel die Nachtigallen, die einen
+immer vor Tag aus dem Schlafe wecken, und im letzten Sommer pfiffen
+die Bestien so unverschaemt nah und in solcher Menge vor meinem
+Fenster, dass ich einmal im groessten Zorne den Nachttopf nach ihnen
+warf.  Aber ich kriegte bald einen Hausgenossen, der ihnen auf den
+Dienst passte und mich von dem Ungeziefer befreite.  Heut sind es drei
+Jahre, als ich morgens auf meinen Finkenherd ging, mit einem Pallasch,
+einer guten Doppelbuechse und einem Paar doppelten Pistolen versehen,
+denn ich hatte einen tuerkischen Wildpretdieb und Haendler auf dem Korn,
+der mir seit einiger Zeit grossen Wildschaden angetan und mir, da ich
+ihn gewarnt hatte, trotzig hatte sagen lassen, er stoere sich nicht an
+mir und wolle unter meinen Augen in meinem Wald jagen.  Als ich nach
+dem Finkenherd kam, fand ich alle meine ausgestellten Dohnen und
+Schlingen ausgeleert und merkte, dass der Spitzbube musste da gewesen
+sein.  Erbittert stellte ich meinen Fang wieder auf, da strich ein
+grosser schwarzer Kater aus dem Gestraeuch murrend zu mir her und
+machte sich so zutulich, dass ich seinen Pelz mit Wohlgefallen ansah
+und ihn liebkoste mit der Hoffnung, ihn an mich zu gewoehnen und mir
+etwa aus seinen Winterhaaren eine Muetze zu machen.  Ich habe immer so
+eine lebendige Wintergarderobe im Sommer in meinem Revier, ich
+brauche darum kein Geld zum Kuerschner zu tragen, es kommen mir auch
+keine Motten in mein Pelzwerk.  Vier Paar tuechtige lederne Hosen
+laufen immer als lebendige Boecke auf meinem Hofe, und mitten unter
+ihnen ein herrlicher Dudelsack, der sich jetzt als lebendiger Bock
+schon so musikalisch zeigt, dass die zu einzelnen Hosenbeinen
+bestimmten Kandidaten, sobald er meckernd unter sie tritt, zu tanzen
+und gegeneinander zu stutzen anfangen, als fuehlten sie jetzt schon
+ihre Bestimmung, einst mit meinen Beinen nach diesem Dudelsack
+ungarisch zu tanzen.  So habe ich auch einen neuen Reisekoffer als
+Wildsau in meinem Forste herumlaufen, ein praechtiger Wolfspelz hat
+mir im letzten Winter in der Gestalt von sechs tuechtigen Woelfen schon
+auf den Leib gewollt; die Bestien hatten mir ein tuechtiges Loch in
+die Kammertuere genagt, da fuhr ich einem nach dem andern durch ein
+Loch ueber der Tuere mit einem Pinsel voll oelfarbe ueber den Ruecken und
+erwarte sie naechstens wieder, um ihnen das Fell ueber die Ohren zu
+ziehen.
+
+Aus solchen Gesichtspunkten sah ich auch den schwarzen Kater an und
+gab ihm, teils weil er schwarz wie ein Mohr war, teils weil er gar
+vortreffliche Mores oder Sitten hatte, den Namen Mores.  Der Kater
+folgte mir nach Hause und wusste sich so vortrefflich durch
+Maeusefangen und Vertraeglichkeit mit meinen Hunden auszuzeichnen, dass
+ich den Gedanken, ihn aus seinem Pelz zu vertreiben, bald aufgegeben
+hatte.  Mores war mein steter Begleiter, und nachts schlief er auf
+einem ledernen Stuhl neben meinem Bette.  Merkwuerdig war es mir
+besonders an dem Tiere, dass es, als ich ihm scherzhaft bei Tage
+einigemal Wein aus meinem Glase zu trinken anbot, sich gewaltig
+dagegen straeubte und ich es doch einst im Keller erwischte, wie es
+den Schwanz ins Spundloch haengte und dann mit dem groessten Appetit
+ableckte.  Auch zeichnete sich Mores vor allen Katzen durch seine
+Neigung, sich zu waschen, aus, da doch sonst sein Geschlecht eine
+Feindschaft gegen das Wasser hat.  Alle diese Absonderlichkeiten
+hatten den Mores in meiner Nachbarschaft sehr beruehmt gemacht, und
+ich liess ihn ruhig bei mir aus und ein gehen, er jagte auf seine
+eigne Hand und kostete mich nichts als Kaffee, den er ueber die Massen
+gern soff.  So hatte ich meinen Gesellen bis gegen Weihnachten immer
+als Schlafkameraden gehabt, als ich ihn die zwei letzten Tage und
+Naechte vor dem Christtag ausbleiben sah.  Ich war schon an den
+Gedanken gewoehnt, dass ihn irgendein Wildschuetze, vielleicht gar mein
+tuerkischer Grenznachbar, moege weggeschossen oder gefangen haben, und
+sendete deswegen einen Knecht hinueber zu dem Wildhaendler, um etwas
+von dem Mores auszukundschaften.  Aber der Knecht kam mit der
+Nachricht zurueck, dass der Wildhaendler von meinem Kater nichts wisse,
+dass er eben von einer Reise von Stambul zurueckgekommen sei und seiner
+Frau eine Menge schoener Katzen mitgebracht habe; uebrigens sei es ihm
+lieb, dass er von meinem trefflichen Kater gehoert, und wolle er auf
+alle Weise suchen, ihn in seine Gewalt zu bringen, da ihm ein
+tuechtiger Bassa fuer sein Serail fehle.  Diese Nachricht erhielt ich
+mit Verdruss am Weihnachtsabend und sehnte mich um so mehr nach meinem
+Mores, weil ich ihn dem tuerkischen Schelm nicht goennte.  Ich legte
+mich an diesem Abend frueh zu Bette, weil ich in der Mitternacht eine
+Stunde Weges nach der Kirche in die Metten gehen wollte.  Mein Knecht
+weckte mich zur gehoerigen Zeit; ich legte meine Waffen an und haengte
+meine Doppelbuechse, mit dem groebsten Schrote geladen, um.  So machte
+ich mich auf den Weg, in der kaeltesten Winternacht, die ich je erlebt;
+ich war eingehuellt wie ein Pelznickel, die brennende Tabakspfeife
+fror mir einigemal ein, der Pelz um meinen Hals starrte von meinem
+gefrornen Hauch wie ein Stachelschwein, der feste Schnee knarrte
+unter meinen Stiefeln, die Woelfe heulten rings um meinen Hof, und ich
+befahl meinen Knechten, Jagd auf sie zu machen.
+
+So war ich bei sternheller Nacht auf das freie Feld hinaus gekommen
+und sah schon in der Ferne eine Eiche, die auf einer kleinen Insel
+mitten in einem zugefrornen Teiche stand und etwa die Haelfte des
+Weges bezeichnete, den ich zum Kirchdorf hatte.  Da hoerte ich eine
+wunderbare Musik und glaubte anfangs, es sei etwa ein Zug Bauern, der
+mit einem Dudelsack sich den Weg zur Kirche verkuerzte, und so schritt
+ich derber zu, um mich an diese Leute anzuschliessen.  Aber je naeher
+ich kam, je toller war die kuriose Musik, sie loeste sich in ein
+Gewimmer auf, und, schon dem Baume nah, hoerte ich, dass die Musik von
+demselben herunter schallte.  Ich nahm mein Gewehr in die Hand,
+spannte den Hahn und schlich ueber den festen Teich auf die Eiche los;
+was sah ich, was hoerte ich?  Das Haar stand mir zu Berge; der ganze
+Baum sass voll schrecklich heulender Katzen, und in der Krone thronte
+mein Herr Mores mit krummem Buckel und blies ganz erbaermlich auf
+einem Dudelsack, wozu die Katzen unter gewaltigem Geschrei um ihn her
+durch die Zweige tanzten.  Ich war anfangs vor Entsetzen wie
+versteinert, bald aber zwickte mich der Klang des Dudelsacks so
+sonderbar in den Beinen, dass ich selbst anfing zu tanzen und beinahe
+in eine von Fischern gehauene Eisoeffnung fiel; da toente aber die
+Mettenglocke durch die helle Nacht, ich kam zu Sinnen und schoss die
+volle Schrotladung meiner Doppelbuechse in den vermaledeiten Tanzchor
+hinein, und in demselben Augenblick fegte die ganze Tanzgesellschaft
+wie ein Hagelwetter von der Eiche herunter und wie ein Bienenschwarm
+ueber mich weg, so dass ich auf dem Eise ausglitt und platt
+niederstuerzte.  Als ich mich aufraffte, war das Feld leer, und ich
+wunderte mich, dass ich auch keine einzige von den Katzen getroffen
+unter dem Baume fand.  Der ganze Handel hatte mich so erschreckt und
+so wunderlich gemacht, dass ich es aufgab, nach der Kirche zu gehen;
+ich eilte nach meinem Hofe zurueck und schoss meine Pistolen mehrere
+Male ab, um meine Knechte herbeizurufen.  Sie nahten mir bald auf
+dieses verabredete Zeichen; ich erzaehlte ihnen mein Abenteuer, und
+der eine, ein alter, erfahrener Kerl, sagte: "Sei'n Ihr Gnaden nur
+ruhig, wir werden die Katzen bald finden, die Ihr Gnaden geschossen
+haben."  Ich machte mir allerlei Gedanken und legte mich zu Hause,
+nachdem ich auf den Schreck einen warmen Wein getrunken hatte, zu
+Bett.
+
+Als ich gegen Morgen ein Geraeusch vernahm, erwachte ich aus dem
+unruhigen Schlaf, und sieh da: mein vermaledeiter Mores lag--mit
+versengtem Pelz--wie gewoehnlich neben mir auf dem Lederstuhl.  Es
+lief mir ein grimmiger Zorn durch alle Glieder;
+"Passaveanelkiteremtete!" schrie ich, "vermaledelte Zauberkanaille!
+bist du wieder da?" und griff nach einer neuen Mistgabel, die neben
+meinem Bette stand; aber die Bestie stuerzte mir an die Kehle und
+wuergte mich; ich schrie Zetermordio.  Meine Knechte eilten herbei mit
+gezogenen Saebeln und fegten nicht schlecht ueber meinen Mores her, der
+an allen Waenden hinauf fuhr, endlich das Fenster zerstiess und dem
+Walde zustuerzte, wo es vergebens war, das Untier zu verfolgen; doch
+waren wir gewiss, dass Herr Mores seinen Teil Saebelhiebe weghabe, um
+nie wieder auf dem Dudelsack zu blasen.  Ich war schaendlich zerkratzt,
+und der Hals und das Gesicht schwoll mir graesslich an.  Ich liess nach
+einer slavonischen Viehmagd rufen, die bei mir diente, um mir einen
+Umschlag von ihr kochen zu lassen, aber sie war nirgends zu finden,
+und ich musste nach dem Kirchdorf fahren, wo ein Feldscher wohnte.
+Als wir an die Eiche kamen, wo das naechtliche Konzert gewesen war,
+sahen wir einen Menschen darauf sitzen, der uns erbaermlich um Huelfe
+anflehte.  Ich erkannte bald Mladka, die slavonische Magd; sie hing
+halb erfroren mit den Roecken in den Baumaesten verwickelt, und das
+Blut rann von ihr nieder in den Schnee; auch sahen wir blutige Spuren
+von da her, wo mich die Katzen ueber den Haufen geworfen, nach dem
+Walde zu.  Ich wusste nun, wie es mit der Slavonierin beschaffen war,
+liess sie schwebend, dass sie die Erde nicht beruehrte, auf den
+Wurstwagen tragen und festbinden und fuhr eilend mit der Hexe nach
+dem Dorfe.  Als ich bei dem Chirurg ankam, wurde gleich der
+Vizegespan und der Pfarrer des Orts gerufen, alles zu Protokoll
+genommen, und die Magd Mladka ward ins Gefaengnis geworfen; sie ist zu
+ihrem Glueck an dem Schuss, den sie im Leibe hatte, gestorben, sonst
+waere sie gewiss auf den Scheiterhaufen gekommen.  Sie war ein
+wunderschoenes Weibsbild, und ihr Skelett ist nach Pest ins
+Naturalienkabinett als ein Muster schoenen Wachstums gekommen; sie hat
+sich auch herzlich bekehrt und ist unter vielen Traenen gestorben.
+Auf ihre Aussagen sollten verschiedene andere Weibspersonen in der
+Gegend gefangengenommen werden, aber man fand zwei tot in ihren
+Betten, die anderen waren entflohen.
+
+Als ich wiederhergestellt war, musste ich mit einer Kreiskommission
+ueber die tuerkische Grenze reisen; wir meldeten uns bei der Obrigkeit
+mit unserer Anzeige gegen den Wildhaendler, aber da kamen wir schier
+in eine noch schlimmere Suppe; es wurde uns erklaert, dass der
+Wildhaendler nebst seiner Frau und mehreren tuerkischen, serbischen und
+slavonischen Maegden und Sklavinnen von Schrotschuessen und Saebelhieben
+verwundet zu Hause angekommen, und dass der Wildhaendler gestorben sei
+mit der Angabe: er sei, von einer Hochzeit kommend, auf der Grenze
+von mir ueberfallen und so zugerichtet worden.  Waehrend dies angezeigt
+wurde, versammelte sich eine Menge Volks, und die Frau des
+Wildhaendlers mit mehreren Weibern und Maegden, verbunden und
+bepflastert, erhoben ein moerderliches Geschrei gegen uns.  Der
+Richter sagte: er koenne uns nicht schuetzen, wir moechten sehen, dass
+wir fortkaemen; da eilten wir nach dem Hof, sprangen zu Pferde, nahmen
+den Kreiskommissaer in die Mitte, ich setzte mich an die Spitze der
+sechs Szekler-Husaren, die uns begleitet hatten, und so sprengten wir,
+Saebel und Pistole in der Hand, frueh genug zum Orte hinaus, um nicht
+mehr zu erleiden als einige Steinwuerfe und blinde Schuesse, eine Menge
+tuerkischer Flueche mit eingerechnet.  Die Tuerken verfolgten uns bis
+ueber die Grenze, wurden aber von den Szeklern, die sich im Walde
+setzten, so zugerichtet, dass wenigstens ein paar von ihnen dem
+Wildhaendler in Mahomeds Paradies Nachricht von dem Erfolg werden
+gegeben haben.  Als ich nach Haus kam, war das erste, dass ich meinen
+Dudelsack visitierte, den ich auch mit drei Schroten durchloechert
+hinter meinem Bette liegen fand.  Mores hatte also auf meinem eigenen
+Dudelsack geblasen und war von ihm gegen meinen Schuss gedeckt worden.
+Ich hatte mit der unseligen Geschichte noch viele Schererei, ich
+wurde weitlaeufig zu Protokoll vernommen, es kam eine Kommission nach
+der andern auf meinen Hof und liess sich tuechtig aufwarten; die Tuerken
+klagten wegen Grenzverletzung, und ich musste es mir am Ende noch
+mehrere Stuecke Wild und ein ziemliches Geld kosten lassen, dass die
+Gerichtsplackerei endlich einschlief, nachdem ich und meine Knechte
+vereidigt worden waren.  Trotzdem wurde ich mehrmals vom
+Kreisphysikus untersucht, ob ich auch voellig bei Verstand sei, und
+dieser kam nicht eher zur voelligen Gewissheit darueber, bis ich ihm ein
+Paar doppelte Pistolen und seiner Frau eine Verbraemung von schwarzem
+Fuchspelz und mehrere tuechtige Wildbraten zugeschickt hatte.  So
+wurde die Sache endlich stille; um aber in etwas auf meine Kosten zu
+kommen, legte ich eine Schenke unter der Eiche auf der Insel in dem
+Teiche an, wo seither die Bauern und Grenznachbarn aus der Gegend
+sich sonntags im Sommer viel einstellen und den ledernen Stuhl,
+worauf Mores geschlafen, und an den ich ein Stueck seines Schweifs,
+das ihm die Knechte in der Nacht abgehauen, genagelt habe, besehen;
+den Dudelsack habe ich flicken lassen, und mein Knecht, der den Wirt
+dort macht, pflegt oben in der Eiche, wo Mores gesessen, darauf den
+Gaesten, die um den Baum tanzen, vorzuspielen.  Ich habe schon ein
+schoenes Geld da eingenommen, und wenn mich die Herrschaften einmal
+dort besuchen wollen, so sollen sie gewiss gut bedient werden.
+
+Diese Erzaehlung, welche der Kroat mit dem ganzen Ausdruck der
+Wahrheit vorgebracht hatte, wirkte auf die verschiedenste Weise in
+der Gesellschaft.  Der Vizegespan, der Tiroler und die Wirtin hatten
+keinen Zweifel und der Savoyarde zeigte seine Freude, dass man noch
+kein Beispiel gehabt habe: ein Murmeltier sei eine Hexe gewesen.
+Lindpeindler aeusserte: es moege an der Geschichte wahr sein, was da
+wolle, so habe sie doch eine hoehere poetische Wahrheit; sie sei in
+jedem Falle wahr, insofern sie den Charakter der Einsamkeit, Wildnis
+und der tuerkischen Barbarei ausdruecke; sie sei durchaus fuer den Ort,
+auf welchem sie spiele, scharf bezeichnend und mythisch und darum
+dort wahrer als irgendeine Lafontainesche Familiengeschichte.  Aber
+es verstand keiner der Anwesenden, was Lindpeindler sagen wollte, und
+Devillier leugnete ihm grade ins Gesicht, dass Lafontaine irgendeine
+seiner Fabeln jemals fuer eine wahre Familiengeschichte ausgegeben
+habe; Lindpeindler schwieg und wurde verkannt.
+
+Nun aber wendete sich der Franzose zu der Kammerjungfer, welche sich
+mit stillem Schauer in einen Winkel gedrueckt hatte, sprechend: "Und
+Sie, schoene Nanny, sind ja so stille, als fuehlten Sie sich bei der
+Geschichte getroffen."--"Wieso getroffen?" fragte Nanny.  "Nun, ich
+meine", erwiderte Devillier laechelnd, "von einem Schrote des
+kroatischen Herrn.  Sollte das artigste Kammerkaetzchen der Gegend
+nicht zu dem Teedansant eingeladen gewesen sein?--Das waere ein Fehler
+des Herrn Mores gegen die Galanterie, wegen welchem er die Rache
+seines Herrn allein schon verdient haette."  Alle lachten, Nanny aber
+gab dem Franzosen eine ziemliche Ohrfeige und erwiderte: "Sie sind
+der Mann dazu, einen in den Ruf zu bringen, dass man geschossen sei,
+denn Sie haben selbst einen Schuss!" und dabei zeigte sie ihm von
+neuem die fuenf Finger; worauf Devillier sagte: "Erhebt das nicht den
+Verdacht, sind das nicht Katzenmanieren?  Sie waren gewiss dabei!
+Frau Tschermack, die Wirtin, wird es uns sagen koennen, denn die hat
+gewiss nicht gefehlt; ich glaube, dass sie die Blessur in der Huefte
+eher bei solcher Gelegenheit als bei den Wurmserschen Husaren
+erhalten."  Alles lachte von neuem, und der Zigeuner sagte: "Ich will
+sie fragen."
+
+Der Kroate fand sich ueber die Unglaeubigkeit Devilliers gekraenkt und
+fing an, seine Geschichte nochmals zu beteuern, indem er seine
+pferdehaarne steife Halsbinde abloeste, um die Narben von den Klauen
+des Mores zu zeigen.  Nanny drueckte die Augen zu, und indessen
+brachte der Zigeuner die Nachricht.  Frau Tschermack meine, Mores
+muesse es selbst am besten wissen.  Er setzte mit diesen Worten die
+grosse schwarze Katze der Wirtin, welche er vor der Tuere gefangen
+hatte, der Kammerjungfer in den Schoss, welche mit einem heftigen
+Schrei des Entsetzens auffuhr.--"Eingestanden!" rief Devillier; aber
+der Spass war dumm, denn Nanny kam einer Ohnmacht nah, die Katze
+sprang auf den Tisch, warf das Licht um und fuhr dem armen Wehmueller
+ueber seine nassen Farben; der Vizegespan riss das Fenster auf und
+entliess die Katze, aber alles war rebellisch geworden; die Bueffelkuehe
+im Hintergrund der Stube zerrten an den Ketten, und jeder draengte
+nach der Tuere.  Wehmueller und Lindpeindler sprangen auf den Tisch und
+stiessen mit dem Tiroler zusammen, der es auch in demselben Augenblick
+tat und mit seinen naegelbeschlagenen Schuhen mehr Knopfloecher in das
+Portraet des Vizegespans trat, als Knoepfe darauf waren.  Devillier
+trug Nanny hinaus; der Kroate schrie immer: "Da haben wir es, das
+koemmt vom Unglauben!"  Frau Tschermack aber, welche mit einem vollen
+Weinkrug in die Verstoerung trat, fluchte stark und beruhigte die Kuehe;
+der Zigeuner griff wie ein zweiter Orpheus nach seiner Violine, und
+als Monsieur Devillier mit Nanny, die er am Brunnen erfrischt hatte,
+wieder hereintrat, kniete der kecke Bursche vor ihr nieder und sang
+und spielte eine so ruehrende Weise auf seinem Instrument, dass niemand
+widerstehen konnte und bald alles stille ward.  Es war dies ein altes
+zigeunerisches Schlachtlied, wobei der Zigeuner endlich in Traenen
+zerfloss, und Nanny konnte ihm nicht widerstehen, sie weinte auch und
+reichte ihm die Hand; Lindpeindler aber sprang auf den Saenger zu und
+umarmte ihn mit den Worten: "O, das ist gross, das ist urspruenglich!
+Bester Michaly, wollen Sie mir Ihr Lied wohl in die Feder
+diktieren?"--"Nimmermehr!" sagte der Zigeuner, "so was diktiert sich
+nicht, ich wuesste es auch jetzt nicht mehr, und wenn Sie mir den Hals
+abschnitten; wenn ich einmal wieder eine schoene Jungfer betruebt habe,
+wird es mir auch wieder einfallen."
+
+Da lachte die ganze Gesellschaft, und Michaly begann so tolle
+Melodien aus seiner Geige herauszulocken, dass die Froehlichkeit bald
+wieder hergestellt wurde und Devillier den Kroaten fragte, ob Mores
+nicht diesen Tanz aufgespielt haette; Herr Lindpeindler notierte sich
+wenigstens den Inhalt des extemporierten Liedes; es war die Wehklage
+ueber den Tod von tausend Zigeunern.  Im Jahr 1537 wurde in den
+Zapolischen Unruhen das Kastell Nagy-Ida in der Abanywarer
+Gespanschaft mit Belagerung von kaiserlichen Truppen bedroht.  Franz
+von Perecey, der das Kastell verteidigte, stutzte, aus Truppenmangel,
+tausend Zigeuner in der Eile zu Soldaten und legte sie unter reichen
+Versprechungen von Geld und Freiheiten auf Kindeskinder, wenn sie
+sich wacker hielten, gegen den ersten Anlauf in die aeusseren Schanzen.
+Auf diese vertrauend hielten sich diese Helden auch ganz
+vortrefflich, sie empfingen die Belagerer mit einem heftigen Feuer,
+so dass sie umwendeten.  Aber nun krochen die Helden uebermuetig aus
+ihren Loechern und schrien den Fliehenden nach: "Geht zum Henker, ihr
+Lumpen, haetten wir noch Pulver und Blei, so wollten wir euch anders
+zwiebeln."  Da sahen sich die Abziehenden um, und als sie statt
+regulierter Truppen einen frechen Zigeunerschwarm auf den Waellen
+merkten, ergriff sie der Zorn, sie drangen in die Schanze und
+saebelten die armen Helden bis auf den letzten Mann nieder.  Diese
+Niederlage, eine der traurigsten Erinnerungen der Zigeuner in jener
+Gegend, hatte Michaly in der Klage einer Mutter um ihren Sohn und
+einer Braut um ihren gefallenen Geliebten besungen.  Devillier sagte
+nun zu dem Kroaten: "Damit Sie nicht laenger meinen Glauben an den
+Hexenmeister Mores in Katzengestalt bezweifeln, will ich Ihnen eine
+Geschichte erzaehlen, bei welcher ich selbst geholfen habe, ein paar
+hundert solcher Zauberer zu toeten."--Ein paar hundert!" riefen
+mehrere in der Gesellschaft.  "Ja!" erwiderte Devillier, "und das
+will ich ebenso getrost beschwoeren als unser Freund den musizierenden
+Katzenkongress."
+
+
+
+Devilliers Erzaehlung von den Hexen auf dem Austerfelsen
+
+Vor mehreren Jahren, da ich als Lieutenant zu Duenkirchen in Garnison
+lag, genoss ich der vertrauten Freundschaft meines Majors, eines alten
+Gascogners.  Er war ein grosser Liebhaber von Austern, und zu seiner
+Majorschaft gehoerte der Genuss von einem grossen Austerfelsen, der
+hinter einem Lustwaeldchen einen halben Buechsenschuss weit vom Ufer in
+der See lag, so dass man ihn bei der Ebbe trocknen Fusses erreichen
+konnte, um die frischen Austern vom Felsen zu schlagen.  Da der Major
+eine Zeit her bemerkt hatte, dass in den meisten zutage liegenden
+Austern nichts drinnen war, konnte er sich gar nicht denken, wer ihm
+die Austern aus den Schalen hinwegstehle, und er bat mich, ihn in
+einer Nacht, mit Schiessgewehr bewaffnet, nach dem Austerfelsen zu
+begleiten, um den Dieb zu belauern.  Wir hatten kaum das kleine
+Gehoelz betreten, als uns ein schreckliches Katzengeheul nach der See
+hin rief, und wie gross war unser Erstaunen, als wir den Felsen mit
+einer Unzahl von Katzen besetzt fanden, die, ohne sich von der Stelle
+zu bewegen, das durchdringendste Jammergeschrei ausstiessen.  Ich
+wollte unter sie schiessen, aber mein Freund warnte mich, indem es
+gewiss eine Gesellschaft von Zauberern und Hexen sei und ich durch den
+Schuss ihre Rache auf uns ziehen koennte.  Ich lachte und lief mit
+gezogenem Saebel nach dem Felsen hin; aber wie ward mir zumute, da ich
+unter die Bestien hieb und sich doch keine einzige von der Stelle
+bewegte!  Ich warf meinen Mantel ueber eine, um sie ungekratzt von der
+Erde aufheben zu koennen, aber es war unmoeglich, sie von der Stelle zu
+bringen, sie war wie angewurzelt.  Da lief es mir eiskalt ueber den
+Ruecken, und ich eilte, zu meinem Freunde zurueckzukommen, der mich
+wegen meiner tollkuehnen Expedition tuechtig ausschmaelte.  Wir standen
+noch, bis die Flut eintrat, um zu sehen, wie sich die Hexenmeister
+betragen wuerden, wenn das Wasser ueber sie her stroemte; aber da ging
+es uns wie unserem kroatischen Freunde, als die Kirchglocke das
+Katzenpickenick auf der Eiche unterbrach.  Kaum rollte die erste
+Welle ueber den Felsen, als die ganze Hexengesellschaft mit solchem
+Ungestuem gegen das Ufer und auf uns los stuerzte, dass wir in der
+groessten Eile Reissaus nahmen.  Am andern Morgen begab sich der alte
+Major zum Gouverneur der Festung und zeigte ihm an: wie die ganze
+Festung voll Hexen und Zauberern sei, deren Versammlung er auf seinem
+Austerfelsen entdeckt habe.  Der Gouverneur lachte ihn anfangs aus
+und begann, als er ernsthaft Truppen begehrte, diese Zauberer in der
+naechsten Nacht niederschiessen zu lassen, an seinem Verstande zu
+zweifeln.  Der Major stellte mich als Zeugen auf, und ich bestaetigte,
+was ich gesehen, und die wunderbare Erscheinung von Unbeweglichkeit
+der Katzen.  Dem Gouverneur war die Sache unbegreiflich, und er
+versprach, in der naechsten Nacht selbst zu untersuchen.  Er liess
+allen Wachen andeuten, ehe er in der Nacht mit uns und hundert Mann
+Voltigeurs ausmarschierte, keine Ruecksicht darauf zu nehmen, wenn sie
+schiessen hoerten.
+
+Als wir dem Gehoelz nahten, toente dasselbe Katzengeschrei, und wir
+hatten vom Ufer dasselbe eigentuemlich-schauerliche Schauspiel: den
+lebendigen heulenden Felsen im Mondschein ueber der weiten,
+unbegrenzten Meeresflaeche.  Der Gouverneur stutzte, er wollte hin,
+aber der Major hielt ihn mit aengstlicher Sorge zurueck; nun liess der
+Gouverneur die hundert Mann von der Landseite den Felsen umgeben und
+zwei volle Ladungen unter die Hexenmeister geben, aber es wich keiner
+von der Stelle, wenngleich eine Menge Stimmen unter ihnen zu
+schweigen begannen.  Hierueber verwundert liess sich der Gouverneur
+nicht laenger halten, er ging nach dem Felsen, und wir folgten ihm; er
+versuchte, eine der Katzen wegzunehmen, aber sie waren alle wie
+angewachsen; da entdeckte ich, dass sie alle mit einer oder mehreren
+Pfoten, manche auch mit dem Schwanz in die fest geschlossenen Austern
+eingeklemmt waren.  Als ich dies angezeigt, mussten die Soldaten heran
+und sie saemtlich erlegen.  Da aber die Flut nahte, zogen wir uns ans
+Land zurueck, und die ganze Katzenversammlung, welche gestern so
+lebhaft vor der ersten Woge geflohen war, wurde jetzt von der Flut
+mausetot ans Ufer gespuelt, worauf wir, den guten Major herzlich mit
+seinen Hexen auslachend, nach Hause marschierten.  Die Sache aber war
+folgende: Die Katzen, welche die Austern ueber alles lieben, zogen sie
+mit den Pfoten aus den Schalen, und das gelang nicht laenger, als bis
+sie von den sich schliessenden Muscheln festgeklemmt wurden, wo sie
+sich dann so lange mit Wehklagen unterhielten, bis die Austern, von
+der Flut ueberschwemmt, sich wieder oeffneten und ihre Gefangenen
+entliessen; und ich glaube, bei strenger Untersuchung und weniger
+Phantasie wuerde unser Freund bei seinem Katzenabenteuer ebenso gut
+lauter Fischdiebe, wie wir Austerdiebe, entdeckt haben.  Baciochis
+Erzaehlung vom wilden Jaeger
+
+Nachdem die Aufklaerung dieses Ereignisses die Erzaehlung des Kroaten
+in ihrer Schauerlichkeit sehr gemildert hatte, kam man auf allerlei
+Jagdgespenster zu sprechen, und Lindpeindler fragte: ob einer in der
+Gesellschaft vielleicht je den wilden Jaeger gesehen oder gehoert habe?
+Da sagte der Feuerwerker: "Mir kam er schon so nahe, dass ich das
+Blanke in den Augen sah, und wenn die Jungfer Nanny sich tapfer
+halten und die ganze ehrsame Gesellschaft wenigstens so lange daran
+glauben will, bis die Geschichte zu Ende ist, so will ich sie
+erzaehlen."  Nanny erwiderte: "Erzaehle nur, Baciochi, du kennst mein
+Temperament und wirst es nicht zu arg machen."--"Erzaehlen Sie", fiel
+Devillier ein; "wenn wir die Geschichte auch am Ende fuer eine Luege
+erklaeren, so soll Ihnen bis dahin geglaubt werden."  Und bald waren
+alle Stimmen vereint, den Feuerwerker einzuladen, welcher alle
+aufforderte, sich an ihre Plaetze zu setzen, und seiner Erzaehlung
+einen eigentuemlichen theatralischen Charakter zu geben wusste.  Alle
+sassen an Ort und Stelle, er machte eine Pause, steckte sich eine
+Pfeife Tabak an und schlug mit der Faust so unerwartet heftig auf den
+Tisch, dass die Lichter verloeschten und alle laut aufschrien.
+
+"Meine Feuerwerke fangen immer mit einem Kanonenschuss an", sagte er,
+"erschrecken Sie nicht!" und in demselben Augenblick brannte er
+mehrere Spruehkegel an, die er aus Pulver und vergossnem Weine in der
+Stille geknetet hatte, und sagte: "Stellen Sie sich vor, Sie waeren
+bei meinem grossen Feuerwerke in Venedig, welches ich am Kroenungstage
+Napoleons dort abbrannte.  Es mussten mir einige Koerner prophetischen
+Schiesspulvers in die Masse gekommen sein; kurz gesagt: als der Thron
+und die Krone und das grosse Notabene, NB, Napoleon Bonapartes
+Namenszug, im vollen Brillantfeuer, von hunderttausend Schwaermern und
+Raketen umzischt, kaum eine Viertelstunde von einer hohen Generalitaet
+und dem verehrten Publikum beklatscht worden waren, fing mein
+Feuerwerk an, ein wenig zu froesteln; es platzte und zischte manches
+zu frueh und zu spaet ab, eine gute Partie einzelner Sonnen und Raeder
+brannten mir in einer Scheune nieder, die dabei das Dach verlor.  Das
+Schauspiel war so grandios angelegt, dass man diesen ganzen kunstlosen
+Scheunenbrand fuer seinen Triumph hielt, man klatschte, und ich paukte
+und trompetete; schnell liess ich alle meine uebrigen Stuecke in die
+Luecken stellen und von neuem losfigurieren.  Aber der Satan fuhr mir
+mit dem Schwanz drueber, und die ganze Pastete flog mit einem grossen
+Geprassel auf einmal in die Luft, die Menschen fuhren graesslich
+auseinander, Gerueste brachen ein, alle Einzaeunungen wurden
+niedergerissen, die Menge stuerzte nach den Gondeln, die Gondelfuehrer
+wehrten ab, die Buerger pruegelten sich mit den franzoesischen Soldaten,
+meine Kasse wurde gepluendert; es war eine Verwirrung, als sei der
+Teufel in die Schweine gefahren und diese stuerzten dem Meer zu.
+Unsereins kennt sein Handwerk, man ist auf dergleichen gefasst, mein
+persoenlicher Rueckzug war gedeckt.  Ich liess nichts zurueck als alle
+meine Schulden, meine Reputation und meinen halben Daumen.  Meine
+selige Frau, welcher der Rock am Leibe brannte, riss mich in die
+Gondel ihres Bruders, eines Schiffers, und der brachte mich an einen
+Zufluchtsort, worauf wir am folgenden Morgen die Stadt verliessen.
+Als wir das Gebirg erreichten, nahten wir uns auf Abwegen einer
+Kapelle, bei welcher ich mit meinem liebsten Gesellen Martino
+verabredet hatte, wieder zusammenzutreffen, wenn wir durch irgendein
+Unglueck auseinander gesprengt werden sollten.  Mein gutes Weib hatte
+ein Stueck von einer Wachsfackel, die bei der Leiche unsers seligen
+Toechterleins gebrannt hatte, in der Tasche und pflegte, wenn sie
+naehte, ihren Zwirn damit zu wichsen; aus diesem Wachs hatte sie
+waehrend unseres Weges die Figur eines Daumens geknetet und haengte
+dieselbe, nebst einem Rosenkranz von roten und schwarzen Beeren, den
+sie auch sehr artig eingefaedelt hatte, dem kleinen Jesulein auf dem
+Schosse der Mutter Gottes in der Kapelle als ein Opfer an das Haendchen,
+und wir beteten beide von Herzen, dass mein Daumen heilen und wir
+gluecklich ueber die Grenze in das oesterreichische kommen moechten.  Wir
+lagen noch auf den Knien, als ich die Stimme Martinos rufen hoerte:
+"Sia benedetto il San Marco!"; da schrie ich wieder: "E la Santissima
+Vergine Maria!", wie wir verabredet hatten, und lief mit meinem Weibe
+vor die Kapelle.  Da trat uns Martino in einem tollen Aufzug entgegen.
+Er hatte bei dem Feuerwerk den Meergott Neptun vorgestellt und in
+seinem vollen Kostuem Reissaus genommen; er hatte den Schilfguertel noch
+um den Leib, einen Wams von Seemuscheln an und eine Binsenperuecke auf,
+sein langer Bart war von Seegras, auf der Schulter trug er den
+Dreizack, auf welchem er ein tuechtiges Bauernbrot und drei fette
+Schnepfen, die er mitsamt dem Neste erwischte, gespiesst hatte.  Nach
+herzlicher Umarmung erzaehlte er uns: wie ihn seine Kleidung gluecklich
+gerettet habe; die Strickreiter seien ihm auf der Spur gewesen, da
+habe er sich in das Schilf eines Sumpfes versteckt, und sein
+Schilfguertel machte ihn da nicht bemerkbar.  Als er stille liegend
+sie vorueberreiten lassen, haetten sich die drei Schnepfen sorglos
+neben ihm in ihr Nest niedergelassen, und er habe sie mit der Hand
+alle drei ergriffen.  Das Brot hatte er von einem Contrebandier um
+einige Pfennige gekauft, der ihm zugleich die naechste Herberge auf
+der Hoehe des Gebirges beschrieben, aber nicht eben allzu vorteilhaft:
+denn der ganze Wald sei nicht recht geheuer, der wilde Jaeger ziehe
+darin um und pflege grade in dieser Herberge sein Nachtquartier zu
+halten.  "Wohlauf denn!" sagte ich, "so haben wir heute nacht gute
+Gesellschaft; ich haette den Kerl lange gern einmal gesehen, um seinen
+Jagdzug recht natuerlich in einem Feuerwerk darstellen zu koennen."
+Mein Weib Marinina aber, welche, um ja nichts zu versaeumen, alles
+miteinander glaubte, machte ein saures Gesicht zu der Herberge.  Das
+konnte aber nichts helfen, wir mussten den Weg waehlen; er war ganz
+entlegen und sicher und ein Schleichweg der Contrebandiers, mit
+welchen Martino einige Bekanntschaft hatte.  Die Nacht brach herein,
+es nahte ein Gewitter, und wir mussten uns auf den Weg machen.
+Martino machte unsere Wanderschaft etwas lustiger, er uebergab meiner
+Marinina die Schnepfen und sagte: "Rupft sie unterwegs, damit wir in
+der Herberge dem wilden Jaeger bald einen Braten vorsetzen koennen",
+und nun marschierte er mit tausend Spaessen in seinem tollen Habit, wie
+ein vazierender Waldteufel, voraus.  Ich folgte ihm auf dem schmalen
+Waldpfade und hatte meinen halben Daumen, der mich nicht wenig
+schmerzte, meistens in dem Munde, und hinter mir zog--dass Gott erbarm!
+--meine selige Marinina und rupfte die Schnepfen unter Singen und
+Beten. ueber der rechten Huefte war ihr ein ziemliches Loch in den Rock
+gebrannt, und sie schaemte sich, vorauszugehen, dass Martino, der
+seinen Witz in allen Nestern auszubrueten pflegte, an ihrer Bloesse
+nicht aergernis nehmen moechte.  Der Weg war steil, unheimlich und
+beschwerlich; der Sturm sauste durch den Wald, es blitzte in der
+Ferne, Marinina schlug ein Kreuz ueber das andre.  Aber die Muedigkeit
+vertrieb ihre Furcht vor dem wilden Jaeger immer mehr, von welchem
+Martino die tollsten Geschichten vorbrachte.  "Es ist gut", sagte er,
+"dass wir selbst Proviant bei uns haben, denn wenn wir mit ihm essen
+muessten, duerften wir leicht mit dem Schenkel eines Gehaengten oder mit
+einem immarinierten Pferdekopf bewirtet werden.  Fasset Mut, Frau
+Marinina, schaut mich nur an, aerger kann er nicht aussehen!"
+
+Unter solchen Gespraechen hatten wir die Gebirgshoehe erstiegen und
+waren ein ziemlich Stueck Wegs in den wilden, finstern Wald
+geschritten, da hoerten wir ein abscheuliches Katzengeheul und kamen
+bald an eine Huette, mit Stroh und Reisern gedeckt; alte Lumpen hingen
+auf dem Zaun, und an einer Stange war ein grosses Stachelschwein ueber
+der Tuere herausgesteckt als Schild.  "Da sind wir", sagte Martino;
+"wie glaubt ihr, dass dies vornehme Gasthaus heisse?"--"Zum
+Stachelschwein!" sagte ich.-"Nein!" erwiderte Martino, "es hat
+mehrere Namen; einige nennen es des Teufels Zahnbuerste, andre des
+Teufels Pelzmuetze, andre gar seinen Hosenknopf."  Wir lachten ueber
+die naerrischen Namen.  Die Katze sass vor der Tuere auf einem
+zerbrochenen Huehnerkorb, machte einen Buckel gegen uns und ein Paar
+feurige Augen und hoerte nicht auf zu solfeggieren.  In dem Hause aber
+rumpelte es wie in einem Raspelhause und leeren Magen.  Nun schlug
+Martino mit der Faust gegen die Tuere und schrie: "Holla, Frau Susanna,
+fuer Geld und gute Worte Einlass und Herberge; Eure Katze will auch
+hinein."  Da kraehte eine Stimme heraus: "Wer seid ihr Schalksknechte
+zu nachtschlafender Zeit?"  Und Martino, der in Reimen wie ein
+Improvisatore schwatzen konnte, schrie: "Ich bin ja der Rechte und
+komme von weit!"  Nun keifte die Stimme wieder: "Wenn die Katze nicht
+draussen waer, ich liess Euch nimmermehr ein!"  Und Martino sagte: "Ihr
+denket so zaertlich ungefaehr wie Euer Schild, das Stachelschwein."
+Marinina war in tausend aengsten; sie bat immer den Martino, die alte
+Wirtin nicht zu schelten, sie sei gewiss eine Hexe und werde uns
+nichts Gutes antun.  Da ging die Tuer auf, ein schwarzbraunes,
+zerlumptes, sonst glattes und huebsches Maegdlein, glaenzend und schlank
+wie ein brauner Aal, leuchtete uns aus der Kueche mit einer Kienfackel
+ins Gesicht und war nicht wenig erschrocken, als Martino in seinem
+wilden Aufzug ihr rasch entgegenschritt und, indem er draengend sie
+verhinderte, die Tuere wieder zuzuschlagen, ihr sagte: "Brauner Schatz,
+mach uns Platz!  Menschen sind wir, schoenes Kind, hier: hast zum
+Zeichen diesen Schmatz!" und somit kuesste er sie herzlich; wir drangen
+indessen hinein.  Die kleine Braune aber sagte: "Und wenn du auch
+nicht der Satan selbst bist, so koennt ihr heute hier doch nicht
+bleiben; meine Grossmutter ist sehr brummig, sie fuerchtet, das
+Waldgespenst komme heut nacht, und da nimmt sie keine Gaeste, um die
+Herberge nicht in boesen Ruf zu bringen; unsre Kammer, wo wir schlafen,
+ist eng, und sie rueckt schon allen Hausrat vor ihr Bett, um das
+Gespenst nicht zu sehen, welches oft quer durch unsre Huette zieht."
+Martino aber erwiderte: "Eben in dieser Kammer wollen wir schlafen,
+und eben dieses Waldgespenst wollen wir mit gebratenen Schnepfen
+bewirten; wir sind des wilden Jaegers Kuechengesinde!"  Und somit
+packte er ein Bund Stroh auf, das in der Ecke lag, und marschierte in
+die Kammer; wir kamen nach, trotz allen Zeremonien, welche die
+nussbraune Jungfer machen wollte.
+
+Es war gar keine alte Grossmutter in der Huette; das Maedchen log uns
+etwas vor.  Martino breitete das Stroh an die Erde, und Marinina,
+furchtsam und muede, legte sich gleich, mit dem Gesicht, ueber das sie
+noch ihre Schuerze deckte, gegen die Wand gekehrt, nieder und ruehrte
+sich nicht.  Martino begab sich mit den Schnepfen wieder in die Kueche,
+in welcher die braune Jungfer schmollend und brummend
+zurueckgeblieben war, und ich sah mich einstweilen in der Stube um.
+Eine Kienfackel brannte in der Mitte; sie war in einen Kuerbis
+festgesteckt, der neben schmutzigen Spielkarten auf einem breiten
+Eichenstumpf lag, welcher als Tisch und Hackstock diente und fest
+genug stand, denn er steckte noch mit allen seinen Wurzeln in der
+Erde, welche ungedielt der ganzen Huette ihren Grund und Boden gab.
+Ein paar Bretter, auf eingepfaehlte Stoecke befestigt, waren die
+unbeweglichen Sitze; die Waende bestanden aus Flechtwerk, mit Lehm und
+Erde verstrichen, und einzelne hereinragende aeste bildeten mancherlei
+Wandhaken, an denen zerloecherte Koerbe, Lumpen, Zwiebelbuendel, Hasen-,
+Hunde-, Katzen--und Dachsfelle hingen, auch einige zerbrochene
+Gartenwerkzeuge.  Auf einem derselben aber sass ein greuliches Tier,
+eine ungeheure Ohreule, welche gegen die Kienfackel mit den Augen
+blinzte und sich in die Schultern warf wie ein alter Professor, der
+soeben den Theriak erfunden hat.  In einem ausgebauten Winkel der
+Stube lag, auf zwei Baumstuecken, die Bettstelle der Grossmutter, die
+sehr dauerhaft in einer ausgehoehlten Eiche bestand, an der die Rinde
+noch sass.  Sonst war das Bett wohl bedacht, denn seine schmutzigen
+Federkissen lagen so hoch aufgebauscht, dass die niedre Huettendecke,
+aus der das Stroh herabhing, weder hoch noch hart gefallen waere, wenn
+sie einstuerzte; aber, sich noch zu besinnen, schien sie
+unentschlossen hin und her zu schwanken.  Der Hausrat, von welchem
+das Maedchen gelogen hatte: dass die Grossmutter ihn vor das Bett ruecke,
+bestand in einer zerbrochenen Tuere und einer alten Tonne, mit welcher
+wahrscheinlich der Laerm gemacht worden war, den wir in der Huette
+hoerten.  Sie waren beide vor den Bettrog der Grossmutter gerueckt.
+Ausser allem diesen sah man nichts als eine sehr baufaellige Leiter,
+die an einem Loche in der Ecke lehnte, durch welches ich einige
+Huehner oben gackern hoerte, die das Geraeusch unsrer Ankunft erweckt
+hatte, die Katze nicht zu vergessen, welche auf einer alten Trommel
+hinter der Tuere schlief.  Eine Geige, ein Triangel und ein Tambourin
+hingen an der Wand, und neben ihnen ein zerrissener bunter Tiroler
+Teppich.
+
+Ich hatte kaum alle diese Herrlichkeiten betrachtet, als Martino
+hereintrat und zu mir sagte: "Meister, ich habe alle Schwierigkeiten
+geebnet und weiss, wo wir sind.  Wir hausen bei einer alten Zigeunerin,
+welche ausser ihren Privatgeschaeften: der Wahrsagerei, Hexerei,
+Dieberei, Viehdoktorei, auch eine Hehlerin der Contrebandiers macht;
+die Kleine draussen ist ihr Tochterkind, das auf der hohen Schule bei
+ihr ist und der Grossmutter Tod abwarten soll, um hinter einen Topf
+von Gold zu kommen, von dem sie immer spricht, ohne doch je zu sagen,
+wo sie ihn hin versteckt hat.  Das hat mir das Maedchen alles
+anvertraut; ich habe ihr Herzchen geruehrt, sie ist kirre wie ein
+Zeisig, und wenn wir wollen, laesst sie die Grossmutter und den Goldtopf
+im Stich, laeuft morgen mit uns und verdient uns das Brot mit
+Burzelbaeumen, deren sie ganz wunderbare schlagen kann.  Fuer all dies
+Vertrauen habe ich ihr versprechen muessen, zu glauben: dass der wilde
+Jaeger heute nacht wirklich durch die Huette zieht; wir sollen uns nur
+um Gottes willen ruhig halten.  Die Grossmutter wird in kurzer Zeit
+zurueckkommen; sie ist mit Lebensmitteln zu einem Zug Schleichhaendler
+gegangen, der ueber das Gebirge zieht.  Der wilde Jaeger, sagt sie,
+treibe um Mitternacht durch die Stube, und wenn wir uns ruhig hielten,
+werde er uns kein Haar kruemmen, sonst aber riskieren wir Leib und
+Leben; ich denke aber, wir wollen es mit ihm versuchen."  Nun legte
+er meinen Pruegel und seinen Dreizack neben uns auf das Stroh nieder
+und fuhr fort: "Es ist beinahe eilf Uhr, die Kleine hat es an ihrer
+Sanduhr gesehen; die Schnepfen weiss sie nicht am Spiess zu braten, sie
+hat sie mit Zwiebeln gefuellt in einen Topf gesteckt, und wenn wir die
+Schnepfensuppe gegessen, sollen wir das Fleisch mit Essig und
+Olivenoel als Salat verzehren; Wein muss hier in der Kammer ein
+Schlauch voll sein."  Da suchte Martino herum und fand unter einigen
+alten Brettern ein tiefes Loch in der Erde, das, als Keller, einen
+alten Dudelsack voll Wein enthielt.  Er zog ihn heraus, wir setzten
+die zwei Pfeifen an den Mund und drueckten den vollen Sack so zaertlich
+an das Herz, dass uns der suesse Wein in die Kehle stieg. Nie hat ein
+Dudelsack so liebliche Musik gemacht.  Wir labten uns herzlich; ich
+weckte meine Marinina, und sie musste auch eins drauf spielen; dazu
+verzehrten wir unser Brot und einige Zwiebeln aus dem Vorrat, der an
+der Wand hing, und streckten uns, in der Erwartung des weiteren, zur
+Ruhe auf das Stroh.  Marinina schlief fest ein.  Ich betete mit
+Martino noch eine Litanei; dann legten wir uns neben unsere Waffen
+bequem, und Martino sagte: "Lasst uns nun ruhen; mir ist so rund und
+so wohl, dass mir das Blut in den Adern flimmert; wer den wilden Jaeger
+zuerst sieht, stoesst den andern, dann springen wir mit unseren
+Troestern ueber ihn her und schlagen den Kerl zu Brei; ich habe noch
+einen Schwaermer in der Tasche, den will ich dem Schelm unter die Nase
+brennen."  Ich freute mich an seinem frischen Herzen; wir empfahlen
+uns dem Schutz des heiligen Markus und lauschten dem Schlafe entgegen,
+der uns den Ruecken hinaufkroch und uns schon hinter den Ohren
+krabbelte.  Nun ward alles maeuschenstill; der Donner rollte fern, der
+Sturm hatte sich in den Waldwipfeln schlafen gelegt, die ihn mit
+leisem Rauschen einwiegten.  Die Kienfackel knisterte, Grillen sangen,
+die Katze schnurrte auf der Trommel, welche, von dem Tone
+erschuettert, das ferne Donnern zu begleiten schien; Marinina pfiff
+durch die Nase, denn sie hatte sich einen Schnupfen geholt, in der
+Kueche knackte das gruene Holz im Feuer, die Schnepfensuppe sauste im
+Topf, und unsere braune Koechin sang mit einer klaren und starken
+Stimme, wie ich noch keine Primadonna gehoert, folgendes Lied:
+
+
+Mitidika!  Mitidika!
+Wien ueng quatsch,
+Ba nu, Ba nu n'am tsche fatsch,
+Waja, Waja, Kur libu,
+Ich bin ich und du bist du;
+Ich spricht Stolz,
+Du spricht Lieb!
+Wer sich scheut vor Galgenholz,
+Wird im gruenen Wald zum Dieb.
+
+Mitidika!  Mitidika!
+Wien ueng quatsch,
+Ba nu, Ba nu n'am tsche fatsch,
+Singt die Magd, so kocht der Brei,
+Singt das Huhn, so legts ein Ei;
+Er spricht Schimpf,
+Sie spricht Fremd;
+Fehlen mir gleich Schuh und Struempf,
+Hab ich doch ein buntes Hemd.
+
+Mitidika!  Mitidika!
+Wien ueng quatsch,
+Ba nu, Ba nu n'am tsche fatsch,
+Hoer, was pocht dort an der Tuer?
+Draussen schrein sie nach Quartier.
+Ists der Er?
+Ists der Sie?
+Mach ich auf wohl nimmermehr,
+Nur du Lieber, du schlaefst hie.
+
+Mitidika!  Mitidika!
+Wien ueng quatsch,
+Ba nu, Ba nu n'am tsche fatsch,
+Waja, Waja, Kur libu,
+In dem Topf hats nimmer Ruh;
+Saus und Braus
+'rab und 'rauf,
+Kuechenteufel drinnen haus:
+Dass es mir nicht ueberlauf!"
+
+
+Als der Feuerwerker den Anfang dieses Liedes: "Mitidika!  Mitidika!"
+gesagt, nahm der Zigeuner Michaly seine Violine und sang es unter den
+lieblichsten Variationen der Gesellschaft vor; alle dankten ihm, der
+Feuerwerker aber sagte: "Michaly, du sangst das naemliche Lied, wie
+die kleine Braune, und hast eine aehnlichkeit mit ihr in der Stimme.
+"--"Kann sein", sagte Michaly laechelnd, "aber erzaehl nur weiter, ich
+bin auf den wilden Jaeger sehr begierig."--"Ich hob a a Schneid uf den
+soakrische Schlankl!" sagte der Tiroler; alle drangen auf die weitere
+Erzaehlung, und der Feuerwerker fuhr fort:
+
+"Als die Kleine das Lied sang, ward sie von einem Schlag gegen die
+Tuere unterbrochen: "Mitidika!" rief es draussen mit einer rauhen,
+heiseren Stimme.  "Gleich, Grossmutter!" antwortete sie, oeffnete die
+Tuere und erzaehlte ihr von den Gaesten; die Grossmutter brummte allerlei,
+was ich nicht verstand, und trat sodann zu uns in die Stube.  Ihr
+Schatten sah aus wie der Teufel, der sich ueber die Leiden der
+Verdammten bucklicht gelacht, und waere er nicht vor ihr her in die
+Stube gefallen, um einen ein wenig vorzubereiten, ich haette geglaubt,
+der Alp komme, mich zu wuergen, als sie eintrat.  Sie war von oben und
+rings herum eine Borste, ein Pelz und eine Quaste und sah darin aus
+wie der Oberpriester der Stachelschweine.  Sie ging nicht, lief nicht,
+huepfte nicht, kroch nicht, schwebte nicht, sie rutschte, als haette
+sie Rollen unter den Beinen wie grosser Herren Studierstuehle.  Wie die
+kleine flinke Braune hinter ihr drein und um sie her schluepfte, um
+sie zu bedienen, dachte ich: so mag des Erzfeinds Grossmutter aussehen
+und die Schlange, ihre Kammerjungfer.
+
+"Mache mir das Bett, Mitidika!" sagte sie, "und wenn ich ruhe, kannst
+du die Gaeste besorgen."  Waehrend das Maedchen die Kissen aufschuettelte,
+begann die Alte sich zu entkleiden, und ich weiss nicht zu sagen, ob
+ihre Kleidung oder ihr Bett aus mehreren Stuecken bestand.  Sie zog
+einen Schreckenswams, eine Schauderjacke und Zauberkapuze um die
+andre aus, und die ganze Wand, an der sie die Schalen aufhaengte, ward
+eine Art Zeughaus; ich dachte alle Augenblick: noch eine Huelse
+herunter, so liegt ein bisschen Lung und Leber an der Erde, das frisst
+die Katze auf, und die Grossmutter ist all; keine Zwiebel haeutet sich
+so oft.  Bei jedem Kissen, welches die Kleine ins Bett legte und
+aufschuettelte, brummte die Alte und legte es anders, befahl ihr dann,
+es ganz sein zu lassen und ihr ein Rauchbad zu geben, sie muesse in
+einen Ameisenhaufen getreten haben; das Gewitter mache alles Vieh
+lebendig.  Da setzte sich die Alte auf die zerbrochene Leiter und
+haengte die Tiroler Decke ueber sich, und die junge zuendete Kraeuter
+unter ihr an und machte einen scheusslichen Qualm, den sie uns, da sie
+von neuem anfing, die Federbetten hin und her zu werfen, in dicken
+Wolken auf den Leib jagte, als gehoerten wir auch zu den Ameisen, die
+vertrieben werden sollten.  Es sah ziemlich aus, als wenn man eine
+Hexe verbrennte oder einen ungeheuren Taschenkrebs raeuchre, als die
+Alte so ueber dem Dampf wie eine Mumie, in den bunten Tiroler Teppich
+gehuellt, auf der Leiter sass."
+
+"Da sieht man, Wastl", sprach der Zigeuner zu dem Tiroler, "wozu ihr
+die Teppiche fabriziert: um die Hexen darin zu raeuchern."--"Potz
+Schlakri", erwiderte Wastl, "wonn's daine sakrische ziganerische
+Grossmuetta is, so loss i's poassiera; i bin gawis, es moega a Legion
+Spodifankerl aus ihr raussi floga sein, un du bist a ains dervo."
+Die Gesellschaft lachte ueber Wastls Antwort, und die Kammerjungfer
+wie auch Lindpeindler baten den Feuerwerker: er moege machen, dass die
+Alte ins Bett komme, die Schnepfen koennten uebergar werden.  "Ganz
+recht", sagte Baciochi, "das meinte Martino auch; denn als der sie in
+der Decke zappeln sah wie Hunde und Katzen, die in einen Sack
+gesteckt sind, und der Rauch zu dick zu werden begann, sprang er vom
+Stroh auf, trat vor die Alte hin und sagte: "Hochverehrte Frau Wirtin,
+ich versichere Euch im Namen Eurer Gaeste, dass wir kein Rauchfleisch
+zu essen bestellt haben, und dass wir auch von keinem verpesteten Orte
+kommen, um eines so kostbaren Rauchkerzchens zu beduerfen; seid so
+guetig, dem Wohlgeruch ein Ende zu machen, wir muessen sonst mit all
+den Ameisen, die Euch plagen, davonlaufen."  Da fing die Alte eine
+weitlaeufige Gegenrede an und sagte: "Schicksalen und Verhaeltnissen
+haben mich so weit gebracht."  Martino aber nahm keine Vernunft an,
+packte die Alte mit beiden Haenden und warf sie von der Leiter in ihre
+Federbetten; sie zappelte wie eine Meerspinne, aber er waelzte ein
+Federbett ueber sie und sang ihr ein Wiegenlied mit so viel gutem
+Humor vor, indem er sie mit beiden Haenden festhielt, dass sie endlich
+selbst mit lachte und sagte: "Nun, legt Euch nur wieder nieder, haette
+ich doch nicht gedacht, heute von einem so lustigen Gesellen zu Bette
+gebracht zu werden.  Mitidika, gib den Kavalieren zu essen!"  Und
+somit kriegte sie den Martino beim Kopf und gab ihm unter grossem
+Gelaechter einen Kuss.
+
+"Profiziat!" sprach dieser, "schlaf wohl, du allerschoenster Schatz!"
+
+und legte sich mit einem sauern Gesichte wieder neben mich.  "Gott
+sei Dank, Martino, dass sie weg ist!" fluesterte ich.
+
+"Hast du gewacht, Meister?" sprach der Schelm.
+
+"Leider Gottes!" erwiderte ich, "du hast ein Kunststueck gemacht; sie
+rauchte wie ein nasses Feuerwerk; fuer einen Hutmacher waere sie ein
+sauberes Gestell, alle seine Muetzen daran aufzuhaengen, er brauchte
+keinen Nagel einzuschlagen."-"Ich werde mich wohl haeuten muessen, da
+sie mich gekuesst hat", sagte Martino.
+
+"Warum?" fragte ich.
+
+"Ei", entgegnete er, "ich werde sonst die Augen nie wieder zukriegen
+koennen und die Zaehne immer blecken wie ein Mops; die Haut ist mir vor
+Schrecken zu kurz geworden."--Unter diesen Scherzreden hoerten wir die
+Alte einschnarchen, und Mitidika ging ab und zu und verbaute leise
+das Bett der Alten mit der Tonne und der alten Tuere, die Kuechentuere
+liess sie auf, dass der Dampf hinauszog.  Dann zupfte sie den Martino
+bei den Haaren und fluesterte.  "Komm hinaus, deine Schnepfen sind gar,
+ich habe die Bruehe abgegossen, ich muss das Feuer loeschen, die
+zwoelfte Stunde naht; denn faehrt der wilde Jaeger mir durch das Feuer,
+steckt er uns die ganze Huette an."  Martino ging hinaus, und ich
+streckte den Kopf nach der Tuere und hoerte ihre Scherzreden.  Mitidika
+sagte: "Ich habe dir deine Voegel trefflich gekocht und dir auch
+Kraeuter an die Suppe getan; was gibst du mir nun?"-"Geben?" sagte
+Martino, "ich will dich mit der Muenze bezahlen, welche hier zu gelten
+scheint, und in der mich deine Grossmutter zahlte; einen Kuss will ich
+dir geben."--"Das laesst sich hoeren", erwiderte sie; "aber die
+Grossmutter gab dir ein altes Schaustueck, das kann ich nicht brauchen,
+die Muenze ist verschlagen."--"Auch du bist verschlagen, Schelm!"
+erwiderte Martino, "ich will dir kleine Muenze geben, wenn du
+herausgeben und wechseln kannst; waerst du nur nicht so schwarz!
+"--"Und du nicht so weiss", sagte sie; "ich werde dir einen Schein
+geben, einen Wechsel schwarz auf weiss, aber gib mir keine
+Scheidemuenze!" sagte sie.  "Die kriegst du morgen frueh beim Abschied",
+erwiderte Martino, fasste sie beim Kopf, kuesste sie herzlich und sagte:
+"Ich habe dich lieb und bleibe dir treu."--"Ei so luege, dass du
+schwarz wirst!" sprach sie.  "Dann waere ich deinesgleichen, und es
+koennte etwas daraus werden", sprach Martino und schenkte ihr eine
+Nadelbuechse von Elfenbein und Ebenholz, die er bei sich trug.
+
+Das Maedchen dankte und sprach: "Sieh, wie artig schwarz und weiss
+zusammen aussehn; bleib bei uns; wenn die Alte stirbt, finden wir den
+Goldtopf und contrebandieren."--"Ja, auf die Galeere!" sprach Martino.
+"Ich gehe mit auf die Galeere!" sagte sie; "pitsch, patsch! geht
+das Ruder, und ich singe dir dazu."--"Das wollen wir ueberlegen",
+meinte Martino, "es ist eine zu glaenzende Aussicht um Mitternacht."
+Da traten sie mit der Suppe und den Schnepfen herein und stellten sie
+auf den Eichenblock; die Suppe tranken wir aus dem Topf, ich wollte
+meine Marinina nicht wecken und liess ihr Teil in die warme Asche
+setzen, die Voegel wollten wir morgen frueh verzehren.  Nun begann sich
+der Sturm in dem Walde wieder zu heben, und das Gewitter zog mit
+Macht heran.  "Ach Gott", sagte Mitidika, "lege dich nieder, Martino,
+und schlafe ein!  Hoerst du das Wetter?  Der Jaeger blaest sein Horn, er
+wird gewiss bald kommen; lege dich nieder, gleich, gleich!"  Dabei sah
+sie aengstlich in der Stube umher.  "Nun, nun, was fehlt dir?" fragte
+Martino, und sie sagte: "Schlafen sollst du und das Angesicht von mir
+kehren, denn ich muss mich entkleiden und schlafen gehn, und das
+sollst du nicht sehen; ach, dreh dich um, Blanker!"-"Bravo!" sagte
+Martino; "es freut mich, dass du so auf Zucht haeltst, putze nur den
+Kien aus, bei der Nacht sind alle Kuehe schwarz, selbst die
+schwatzen"-"Ja", sagte sie, "auch die blanken Esel!  Dreh dich um,
+ich bitte dich, ich will den Kien schon loeschen, wenn es Zeit ist."
+Da drehte sich der ehrliche Martino um.  "Gute Nacht, Mitidika!"
+sagte er.--"Gute Nacht, Martino!" sprach sie.
+
+Nun breitete sie sich eine bunte wollene Decke an die Erde aus neben
+dem Eichenblock, stellte einen halben Kuerbis voll Wasser darauf,
+holte einen kleinen, zierlichen Kasten gar heimlich unter der Trommel
+hervor und setzte ihn neben sich auf die Bank, wobei sie sich
+aengstlich nach uns umsah.  Ich blinzte durch die Augen und schnarchte,
+als laege ich im tiefsten Schlaf.  Mitidika traute und schloss das
+Kaestchen leise auf, musterte alle die Herrlichkeiten, die darin waren,
+und suchte sich einen Raum aus, die Nadelbuechse des Martino bequem
+hineinzulegen.  Ihr koennt euch meine Verwunderung nicht denken, als
+ich, in dieser wuesten Zigeunerherberge, die Kleine auf einmal in
+einem so zierlichen und reichgefuellten Schmuckkaestchen kramen sah.
+Es sah nicht ganz so aus, als sei ein Affe hinter die Toilette seiner
+Herrschaft geraten, auch nicht, als richte der Satan einen
+Juwelenkasten ein, um einem unschuldigen Maedchen die Augen zu blenden;
+aber eine indianische Prinzessin, welche die Geschenke eines
+englischen Gouverneurs mustert, mag wohl so aussehn.  Als sie so die
+Perlen--und Korallenschnuere, die brillantenen Ohrringe und die
+Zitternadeln durch die schwarzen Haende laufen liess, konnte ich vor
+Augenlust gar nicht denken, dass dies gestohlnes Gut sein muesse.  Nun
+stellte sie mehrere Kristallflaeschchen mit Wohlgeruechen und Salben
+aus dem Kaestchen auf den Block, zog feine Kaemme und Zahnbuersten
+hervor und begann sich zu putzen und zu schmuecken, wie die Nacht, die
+mit dem Monde Hochzeit machen will.  Sie nahm die kleine, von buntem
+Stroh geflochtene Muetze von ihrem Kopf, und ein Strom von schwarzen
+Haaren stuerzte ihr ueber die Schultern; sie gewann dadurch ein
+reizendes und wildes Ansehn, wenn ihre weissen Augaepfel und die
+blanken Zaehne aus den schwarzen Maehnen hervorfunkelten.  Sie kaemmte
+sich, schlaengelte sich goldene Schnuere in die Zoepfe, die sie flocht
+und kunstreich wie eine Krone um das schoene runde Koepfchen legte.
+Sie wusch sich das Gesicht und die Haende, putzte die Zaehne, beschnitt
+sich die Naegel und tat alles mit so unbegreiflicher Zierlichkeit,
+Anmut und hinreissender Schnelligkeit der Bewegungen, dass es mir vor
+den Augen zitterte und bebte.  Als sie die brillantenen Ohrringe in
+die kleinen schwarzen Muscheloehrchen befestigte und die glitzernden
+Zitternadeln in den Flechtenkranz steckte und die Korallen--und
+Bernsteinschnuere um das braune Haelschen legte und dabei hin und her
+zuckte wie ein Wunderwerkchen, gingen mir die Augen ueber.  Sie begoss
+sich mit Wohlgeruechen, rieb sich die schwarzen Patschchen mit
+duftendem oel und steckte sich ein blitzendes Ringlein um das andere
+an die schlanken Fingerchen.  Nun stellte sie einen Spiegel auf und
+bleckte die Zaehnchen so artig hinein, es ist nicht zu beschreiben.
+Und bei allem dem donnerte und blitzte es draussen, und ihre Eile ward
+immer groesser; ich verstehe mich auf Lichtwirkungen in der Nacht, aber
+ich habe mein Lebtag kein solches Feuerwerk gesehen, kein Blitzen auf
+so schoenem dunkeln Grund als das Spiel der Diamanten und Perlen auf
+ihr; denn sie war ein wunderschoenes, frei, kuehn, scheu und zuechtig
+bewegtes Menschenbild.
+
+Fluechtig packte sie nun alle Geraete wieder in das Kaestchen, steckte
+noch eine Handvoll weisses Zuckerwerk in das Maeulchen und knupperte
+wie eine Maus, waehrend sie das Kaestchen mit scheuen Blicken um sich
+her: ob wir auch schliefen, wieder unter die alte Trommel stellte.
+Die schwarze Katze, die auf derselben schlief, erhob sich dabei und
+machte einen hohen Buckel, als verwundere sie sich ueber sie, da sie
+ihr mit den funkelnden Haenden ueber den Ruecken strich.  Nun brachte
+sie ein feines Hemd von weisser Seide, legte es ueber den Arm und fing
+an, ihr Mieder aufzuschnueren, wobei sie uns den Ruecken kehrte; es sah
+aus, als werfe sie Kusshaendchen aus, wenn sie die Nestel zog; nun aber
+schluepfte sie in die Kueche und trat in wenigen Minuten wieder herein
+in einem schneeweissen Roeckchen und einem Mieder von rotem
+venetianischen Samt.  So stand sie mitten auf der Decke und
+betrachtete ihren Staat mit kindischem Wohlgefallen; der Donner
+rollte heftiger, Martino wachte auf, Mitidika fasste den Teppich mit
+beiden Haenden ueber die Schultern, stiess mit dem Fuss die Kienfackel
+aus, wickelte sich schnell ein wie eine Schmetterlingslarve, ein
+heller Blitz erleuchtete die Kammer, sie schoss wie eine Schlange an
+die Erde nieder und kruemmte sich zusammen.  Martino hatte sie im
+Leuchten des Blitzes noch gesehen, aber er wusste nicht, was es war;
+er sprach: "Meister, saht Ihr etwas?"  Ich war aber so erstaunt, dass
+ich stumm blieb; da sprach er: "Mitidika, schlaefst du?", aber sie
+schwieg; Martino drehte sich um und schlief auch wieder.  Meine
+Gedanken ueber das, was ich gesehen, liessen mich nicht ruhen, der
+wunderbare Schmuck in dem Besitz der kleinen braunen Bettlerin, und
+dass sie ihn jetzt so sorgsam und heimlich angelegt, befremdete mich
+ungemein; alles kam mir wie Zauberei vor.  Sie erwartet ein
+Waldgespenst und schmueckt sich wie eine Braut.  War dies gestohlnes
+Gut?  Ist sie eine verkleidete, versteckte Prinzessin?  Warum geht
+sie in dieser Pracht schlafen, und warum wickelt sie sich mit all der
+Herrlichkeit in den alten Teppich ein?  Sollte alles dies geheim sein,
+wie war es moeglich, da wir sie morgen frueh doch in ihrem Putz finden
+mussten?  So lag ich nachsinnend; das Gewitter war in vollem Grimme
+ueber uns, und das Licht der zuckenden Blitze zeigte mir oefters das
+Bild der Mitidika, welche, wie eine Mumie in den Teppich gehuellt, an
+der Erde ausgestreckt lag.  Als ich aber durch das wilde Wetter ein
+Horn schallen hoerte, stiess ich Martino an und fluesterte ihm zu:
+"Halte dich bereit, ich glaube, der wilde Jaeger ist im Anzug."  Wir
+hoerten das Horn nochmals und Pferdegetrapp und Gewieher, und ich
+bemerkte, dass Mitidika aufstand; ich kroch aber quer vor die offene
+Kuechentuere, und als sie mit dem Fusse an mich anstiess, glaubte sie
+umgegangen zu sein und wendete sich nach einer andern Seite.  Martino
+stand auf, die Haustuere oeffnete sich, und es trat eine Gestalt mit
+raschem Schritt durch die Kueche auf uns zu; ich fasste sie bei den
+Beinen, dass sie niederschlug, und Martino drosch so gewaltig auf ihn
+los, dass der wilde Jaeger Zetermordio zu schreien begann.  "Mitidika,
+Huelfe, Huelfe! man mordet mich!" schrie er.-"Ha ha!  Herr wilder
+Jaeger", schrie nun Martino, "wir haben dich!" und so zerrten wir ihn
+in die Stube herein und machten die Tuere zu.  Der Laerm ward allgemein;
+der Kerl wehrte sich verzweifelt.  Meine Marinina erwachte und
+schrie: "Jesus, Maria, Joseph!  Licht her, Licht her!  Was ist das, o
+Baciochi, Martino!"  Die Alte fuhr aus ihren Betten auf, warf die
+alten Bretter um, die vor ihr standen, und schrie: "Moerder, Huelfe,
+Mitidika!"  Dabei wurden die Huehner auf dem Boden rebellisch, die
+Trommel kollerte brummend durch die Stube; Mitidika allein liess sich
+nicht hoeren.  "Martino, schlage Feuer!" rief ich und drueckte meinen
+fremden Gast fest in die Gurgel, dass er sich nicht ruehren konnte.  Da
+stiess Martino einen Schwaermer in die gluehende Asche des Herds, der
+leuchtend durch die Kammer zischte und dem ganzen Spektakel ein noch
+tolleres Ansehen gab.  Mein Gefangener fing von neuem an zu ringen,
+und indem ich ihn gegen die Wand drueckte, trat ich gegen einige
+Bretter, die auswichen--ich warf ihn nieder.  Ein grosser Bock, der
+hinter den Brettern geruht hatte, sprang auf und fing nicht schlecht
+an zu stossen, und ich warf meinen wilden Jaeger so kraeftig zur Erde,
+dass er keinen Laut mehr von sich gab.  Martino brachte nun eine
+brennende Kienfackel herein, und wir sahen die ganze Verwirrung.  Der
+wilde Jaeger war ein schoener, schlanker Kerl in galanter Jagduniform.
+Er ruehrte sich nicht; der Gedanke, dass ich ihn gar totgedrueckt haette,
+fuhr mir unheimlich durch die Glieder, ich stuerzte zur Kueche nach
+Wasser; Martino fasste die Alte, die fluchend und schreiend aus dem
+Bett gesprungen war, und warf sie wieder in die Federn mit den Worten:
+"Schweig still, Drache!  Wir wollen dir kein Haar kruemmen; wir haben
+nur den wilden Jaeger abgefangen."  Nun trat ich mit einem Eimer
+Wasser hinein und goss ihn pratsch! ueber den leblosen wilden Jaeger; da
+sprang er wie eine nasse Katze in die Hoehe--."
+
+"Das Wasser, das kalte Wasser", schrie hier Devillier aufspringend,
+"war das Allerfatalste!" und die ganze Gesellschaft sah ihn
+verwundert an.  "Nun, was schauen Sie", fuhr er fort, "soll ich
+laenger schweigen?  Habe ich nicht schrecklich ausgehalten und mich
+hier in der Erzaehlung nochmals misshandeln lassen?"  Baciochi wusste
+nicht, was er vor Erstaunen sagen sollte ueber Devilliers
+Unterbrechung; dieser aber sprach heiter: "Ja, Herr Baciochi, ich war
+der wilde Jaeger, mich habt Ihr so kraeftig zugedeckt, ich habe es von
+Anfang der Geschichte gewusst und haette gern geschwiegen, aber das
+kalte Wasser lief mir wieder erweckend ueber den Ruecken."  Da ward die
+ganze Gesellschaft vergnuegt, der Feuerwerker reichte Devillier die
+Hand, und dieser sagte: "Es freut mich, Euch wiederzusehen; alles ist
+laengst vergessen, nur Mitidika nicht!"--"Das will ich hoffen", meinte
+der Zigeuner ernsthaft, "ich bitte mir das Ende der Geschichte aus."
+Da tranken alle lustig herum, und Devillier trank die Gesundheit der
+Mitidika, wozu Michaly einen Tusch geigte und Lindpeindler das
+hochpoetische freie Leben der Zigeuner pries; der Vizegespan meinte
+jedoch: sie haetten nicht die reinsten Haende.  Die Kammerjungfer aber
+fragte: "Wo hat sie nur den Schmuck hergehabt?"  Der Tiroler sagte:
+"Den wilda Jaaga hobt's maisterli zuagdeckt!" und alle drangen,
+Devillier moege weiter erzaehlen.
+
+"Wohlan!" sagte dieser: "Ich hatte damals Geschaefte mit der
+Contrebande und manche andere politische Beruehrungen diesseits und
+jenseits auf der Grenze.  Ich dirigierte den ganzen Schleichhandel
+und forschte auf hoehere Veranlassung dem Orden der Carbonari nach.
+Auf meinen Streifereien hatte ich Mitidika kennengelernt und mich
+leidenschaftlich in dies schoene, unschuldige und geistvolle wilde
+Naturkind verliebt.  In bestimmten Naechten besuchte ich sie; der
+Schmuck, den Ihr, Baciochi, sie anlegen sahet, war ein Geschenk von
+mir.  Sie hatte den Glauben der Alten an den wilden Jaeger benutzt, um
+sich unentdeckt einige Stunden von mir unterhalten zu lassen.  Wenn
+ich kommen sollte, schmueckte sie sich immer wie eine Zauberin; ich
+setzte sie dann mit auf mein Pferd und brachte sie nach einer Hoehle,
+eine Viertelstunde von ihrer Huette, welche das Warenlager meines
+Schleichhandels war; da sass sie in einem mit dem feinsten englischen
+bunten Kattun ausgeschlagenen Raum mit mir und ergoetzte mich und
+einen verstorbenen Freund mit Tanz, Gesang und freundlicher Rede.
+Gegen Morgen ging sie zurueck, einen Buendel Holz in die Kueche tragend,
+und wurde von der Grossmutter wegen ihrem Fleiss gelobt.  Ich liebte
+sie unaussprechlich um ihrer Tugend und Schoenheit, und ihr ganzes
+Wesen war so wunderbar und bei allem Mutwillen und aller kindlichen
+Ergebenheit so gebieterisch, dass ich nie daran denken konnte, ihre
+Unschuld auch nur mit einem Gedanken zu verletzen.  O, sie war gar
+nicht mehr wie ein Mensch, sie war wie eine Zauberin, wie ein
+Berggeist, wenn sie in dem Edelsteinschmuck vor uns tanzte, sang,
+lachte und weinte; ich kann sie nie vergessen.  In der Nacht, wo Ihr
+und Martino mich so haesslich zerpruegeltet, ging die ganze Herrlichkeit
+zu Ende.  Anfangs hielt ich meine Angreifer fuer italienische
+Gendarmen, die mir auf die Spur kamen; als wir uns aber erklaert
+hatten, nahm mir die Entdeckung vom Gegenteil allen Zorn hinweg, und
+unsere erste Sorge war: wo Mitidika hingekommen sei.  Die alte
+Zigeunerin jammerte auch nach ihr, wir suchten alle Winkel aus und
+fanden sie nicht, bis die Alte die Leiter vermisste.  Baciochi sagte:
+zur Tuere koenne sie nicht hinausgekommen sein, er habe davorgelegen;
+da machte uns der Regen, der durch das Loch in der Decke
+hereinstroemte, aufmerksam; Martino kletterte auf den Schultern
+Baciochis hinan und fand die Leiter, aber Mitidika, welche die Leiter
+nach sich gezogen, war durch das Strohdach hinaus geklettert und
+nirgends zu finden.  Ich eilte nach der Tuere und vermisste mein Pferd;
+nun war ich gewiss, dass sie nach meinem Schlupfwinkel entflohen sein
+muesse, und war ruhig.  Ich durfte diesen weder an Baciochi noch an
+die Zigeunerin, die nichts von meinem Verhaeltnisse mit Mitidika wusste,
+verraten und suchte deshalb noch lange mit.  Das Wetter war aber so
+abscheulich, dass wir bald wieder zurueckkehrten, und die Alte jammerte
+nicht mehr lange; da hoerten wir Hufschlag, und Mitidika stuerzte in
+ihrem ganzen Schmuck mit wilder Gebaerde in die Stube auf mich zu:
+"Geschwind, fort, geflohen!" schrie sie, "die italienischen Gendarmen
+streifen in der Naehe, Euren Freund haben sie mit einem ganzen Zug
+Schleichhaendler gefangen; es ist ein Glueck, dass hier der Spektakel
+losging, ich bin aus Angst durch das Dach geschluepft, dadurch habe
+ich die nahe Gefahr entdeckt; geschwind fort!"--"Wohin?" schrie ich,
+und Baciochi, Martino und Marinina, die sich auch vor der Entdeckung
+fuerchteten, folgten alle mit mir der treibenden Mitidika zur Tuere
+hinaus.  Sie schwang sich auf mein Pferd, ich hinter sie, und so
+sprengten wir beide nach unserem Schlupfwinkel, unbekuemmert um Euch,
+Herr Baciochi, und die Eurigen."
+
+"Ja", sagte der Feuerwerker, "Ihr rittet nicht schlecht, und wir
+hatten in dem wilden Wetter uebles Nachsehen; uebrigens war es Euch
+nicht zu verargen, dass Ihr uns nicht eingeladen, mitzugehen; wir
+hatten Euch schlecht bewillkommt.  Ich will mein Lebtag an den
+Mordweg denken.  Meine Marinina ward krank und starb zwei Monate
+nachher in Kroatien; Gott habe sie selig!  Martino liess sich bei der
+oesterreichischen Artillerie anwerben und war neulich mit in Neapel,
+wenn er noch lebt.  Ich fand mein Brot--Gott sei gelobt!--bei unserm
+gnaedigen Herrn.  Es freut mich, dass Ihr so gut davongekommen; aber
+was ist denn aus der braunen Mitidika geworden?"
+
+"Ja, wer das wuesste!" sagte Devillier; "wir kamen vor der Hoehle an und
+zogen das Pferd herein.  Sie war voll Sorge um mich, wusch mir meine
+Kopfwunden und Beulen mit Wein und bewies mir unendliche Liebe.  So
+brachten wir die Nacht in steter Angst und Sorge zu.  Gegen Morgen
+hatte sie keine Ruhe mehr, sie verlangte nach der alten Mutter; sie
+beschwor mich, sogleich die Hoehle zu verlassen und zu fliehen.  Das
+Schicksal meines Freundes erschuetterte mich tief, ich war
+entschlossen, ihn aufzusuchen.  Sie schwur mir ewige Treue; ich
+versprach ihr, wenn ich sie nach einiger Zeit hier wieder faende, sie
+zu meiner Frau zu machen; sie lachte und meinte: sie wolle nie einen
+Mann, der kein Zigeuner sei, und nun auch keinen Zigeuner, sie wolle
+gar keinen Mann.  Dabei scherzte und weinte sie, tanzte und sang noch
+einmal vor mir, und als ich sie umarmen wollte, schlug sie mich ins
+Gesicht und floh zur Hoehle hinaus.  Ich verliess den Ort gegen Abend.
+Als ich vom Tode meines Freundes gehoert hatte und zu Mitidika
+zurueckkehrte, war ihre Huette abgebrannt; ich ging nach der Hoehle, sie
+war ausgepluendert.  Auf der Wand aber fand ich mit Kohle geschrieben:
+"Wie gewonnen, so zerronnen!  Ich behalte dich lieb, tue, was du
+kannst, ich will tun, was ich muss."  Ich habe das holdselige Geschoepf
+durch ganz Ungarn aufgesucht, aber leider nicht wiedergefunden;
+hundert Mitidikas sind mir vorgestellt worden, aber keine war die
+rechte."
+
+"Es gibt auch nur eine", sagte hier Michaly, "und wird alle tausend
+Jahre nur eine geboren."--"Kennt Ihr sie?" sprach Devillier heftig.
+"Was geht es Euch an", erwiderte Michaly, "ob ich sie kenne?  Habt
+Ihr nicht die Ehe ihr versprochen und doch eine Ungarin geheiratet?
+Sie hat Euch Treue gehalten bis jetzt, sie ist meine Schwester, und
+ich wollte sie abholen, da die Grossmutter in Siebenbuergen gestorben,
+wo sie sich mit Goldwaschen ernaehrten; der Pestkordon hat mir aber
+den Weg abgeschnitten."  Da ward Devillier aeusserst bewegt; er sagte:
+"Ich habe sie lange gesucht und nicht gefunden, sie hatte mir
+ausdruecklich gesagt, sie werde nie einem Blanken die Hand reichen und
+nun auch keinem Zigeuner; nur in der Hoffnung, sie wiederzusehen,
+blieb ich bis jetzt in Ungarn, und ich wuerde nicht die Mittel gehabt
+haben, hier zu bleiben, wenn ich die alte Dame nicht geheiratet haette,
+die mir jetzt mein schoenes Guetchen zurueckgelassen.  Koennt Ihr mich
+mit Mitidika wieder zusammenbringen, so will ich sie gern heiraten
+und ihr alles lassen, was ich habe."--"Das ist ein nicht zu
+verachtender Vorschlag, Michaly", sagte der Vizegespan, "schlagt das
+nicht so in den Wind, Ihr habt Zeugen!"  Michaly aber lachte und
+sprach: "Mitidika wird nicht an dem Stueckchen Erde kleben, sie wird
+nicht in einem gemauerten Hause gefangen sein wollen und sich um
+Abgaben und Zinsen zerquaelen.  Wer nichts hat, hat alles; es war
+immer ihr Spruechwort: "Der Himmel ist mein Hut; die Erde ist mein
+Schuh; das heilige Kreuz ist mein Schwert; wer mich sieht, hat mich
+lieb und wert.""-"Das ist echt zigeunerisch gesprochen", sagte der
+Vizegespan, "drum bleibt ihr auch immer vogelfreies Gesindel."
+Michaly nahm da seine Geige und wollte ein Lied auf die Freiheit
+singen, aber der Nachtwaechter blies zwoelf Uhr und mahnte die
+Gesellschaft zur Ruhe.  Lindpeindler hatte sich mit dem Feuerwerker
+und der Kammerjungfer, welche durch die erwachte Neigung Devilliers
+fuer Mitidika sehr gekraenkt worden war (denn sie spitzte sich selbst
+auf ihn), noch eine Viertelstunde nach dem Edelhof begeben.  Als sie
+sich der Gesellschaft empfahlen, bot Devillier der Zofe seine
+Begleitung an; sie sagte aber: "Ich danke, ich moechte das werte
+Andenken an die unbeschreibliche Mitidika nicht stoeren."  Damit
+machte sie einen hoehnischen Knicks und verliess die Stube mit
+Lindpeindler, der diese Nacht als eine der romantischsten seines
+Lebens pries.
+
+Der Kroate, der Tiroler und der Savoyarde waren bereits
+eingeschlummert, und der Vizegespan lud Wehmuellern, der mit seiner
+Arbeit ziemlich fertig war, wie auch den Zigeuner und Devillier zu
+sich in sein Haus ein.  Sie nahmen es mit Freuden an, da sie dort
+doch ein Bett zu erwarten hatten.  Frau Tschermack, die Wirtin, ward
+bezahlt und schloss die Tuere mit der Bitte: wenn sie laenger hier
+blieben, nochmals eine so schoene Gesellschaft bei ihr zu halten.  Vor
+Schlafengehen wussten Devillier und der Zigeuner den Vizegespan zu
+bereden, am andern Morgen den Kordon mit durchschleichen zu duerfen,
+denn Michaly und Devillier sehnten sich ebenso sehr nach Mitidika,
+die jenseits war, als Wehmueller nach seiner Tonerl.  Sie schliefen
+bis zwei Uhr, da packte der Vizegespan jedem eine Jagdflinte auf, und
+sie zogen, als Jaeger, einem Waldruecken zu; aber kaum waren sie
+hundert Schritt vor dem Dorf, als sie seitwaerts bei den
+Kordonpiketten verwirrtes Laermen und Schiessen hoerten und bald einen
+Husaren, dem das Pferd erschossen war, querfeldein laufen sahen,
+welcher auf das Anrufen des Vizegespans schrie: "Cordonus est ruptus
+cum armes in manibus a pestiferatis loci vicini, der Kordon ist mit
+bewaffneter Hand von den Pestkranken des benachbarten Ortes
+durchbrochen."  Als der Vizegespan dies hoerte, liess er seine
+Gesellschaft im Stich und lief ueber Hals und Kopf nach dem Dorfe
+zurueck, um seine Bauern unter die Waffen zu bringen.  Wehmueller und
+der Zigeuner schrien: "Gott sei Dank, nun lasst uns eilen!"  Devillier
+besann sich auch nicht lange, und sie liefen spornstreichs nach dem
+verlassenen Pikettfeuer hin, wo sie Bauern beschaeftigt fanden, unter
+grossem Geschrei das Brot und die anderen Vorraete zu teilen, welche
+das Pikett zurueckgelassen hatte.  Als sie sich naeherten, kam ihnen
+ein Reiter entgegen und schrie: "Steht, oder ich schiesse euch nieder!"
+Sie standen und warfen die Waffen hinweg. Sie wurden gefragt, wer
+sie seien? und als sie erklaert: sie wollten ueber den Kordon, und der
+Reiter ihre Stimmen vernommen, stuerzte er vom Pferde und fiel dem
+Zigeuner und Devillier wechselsweise um den Hals und schrie immer:
+"Michaly!  Devillier!  Ich bin Mitidika."
+
+Vor Freude des Wiedersehens ganz zitternd, riss das Maedchen sie in die
+Erdhuette des Piketts, wo sie dieselbe in maennlicher Kleidung, mit
+Saebel und Pistole bewaffnet, erkannten, und sie wollte eben zu
+erzaehlen anfangen, als sie Wehmuellern scharf ansah und zu ihm sprach:
+"Bist du noch immer hier, Betrueger?  Ich meinte, du seist gestern zu
+deiner angeblichen Frau nach Stuhlweissenburg gereist."  Alle sahen
+bei diesen Worten auf den bestuerzten Wehmueller; dieser sperrte das
+Maul auf vor Verwunderung.
+
+"Ich?" fragte er endlich, "ich, gestern zu meiner angeblichen
+Frau?"-"Ja, du!" sagte Mitidika, "du, der du dich Wehmueller nennst
+und es nicht bist, du, der du deine Frau nicht einmal kennst."-"O,
+das ist um rasend zu werden!" schrie Wehmueller, "welche tolle
+Beschuldigungen, und das von einer wildfremden Person, die ich
+niemals gesehen!"-"Unverschaemter Gesell!" schrie Mitidika; "du
+kenntest mich nicht!  Hast du mir nicht seit mehreren Tagen mit
+deinen Liebesversicherungen zugesetzt?  Hat der wirkliche Wehmueller
+dir nicht deswegen schon ins Gesicht bewiesen: dass du Wehmueller nicht
+sein koennest, weil der rechte Wehmueller an niemand denkt als an sein
+liebes Tonerl?"--"Der rechte Wehmueller?" schrie nun Wehmueller, "wo
+haben Sie den je gesehen?  Er wenigstens kennt Sie nicht."--"Kennt
+mich nicht?" erwiderte Mitidika, "und reist mit mir?"--"Ich werde
+verrueckt!" schrie Wehmueller, "nun ist gar noch ein dritter auf dem
+Tapet; wo sind die zwei andern?  Geschwind, ich will sie sehn, ich
+will sie erwuergen!"--"Den dritten luegst du hinzu", versetzte Mitidika;
+"der echte wird nicht weit von hier sein, ich will ihn holen, da
+sollst du beschaemt werden!"  Nun lief sie schnell zur Huette hinaus.
+
+Dieser Wortwechsel war so schnell und heftig und die Veranlassung so
+wunderbar, dass Michaly und Devillier nicht Zeit hatten, dem
+verbluefften Maler zu bezeugen: dass er seit gestern in ihrer
+Gesellschaft sei und unmoeglich der sein koenne, welchen Mitidika
+kannte.  Sie waren eben noch beschaeftigt, den weinenden Wehmueller zu
+troesten, als eine ganz aehnliche Figur wie er selbst in die Huette trat;
+bei dem erloschenen Feuer war es unmoeglich, jemand bestimmter zu
+erkennen.  Kaum hatte Wehmueller sein Ebenbild in derselben Gestalt
+und Kleidung erkannt, als er wie eine Furie darauf losstuerzte; der
+andre tat ein gleiches, und beide schrien: "Ha, ertappe ich dich bei
+deiner Buhlerei unter meinem ehrlichen Namen!"  Sie rissen sich wie
+zwei Haehne herum.  Devillier und Michaly brachten sie mit Gewalt
+auseinander, und Mitidika fuehrte den dritten Wehmueller herein.  Wie
+gross war die Bestuerzung aller, da nun wirklich drei Wehmueller zugegen
+waren.  "Nein, das ist zum Verzweifeln!" rief der Wehmueller, den
+Mitidika mitgebracht hatte, "da ist noch einer!"--"Herr Jesus!"
+schrie nun unser Wehmueller, "Tonerl, bist du es, bist du hier,
+Tonerl?"--"Franzerl, lieber Franzerl!" schrie der andere, und sie
+sanken sich als Mann und Frau in die Arme.  Da wurde es dem einen
+Wehmueller, den Devillier festhielt, nicht recht wohl, und er sank vor
+Schreck zur Erde.  Michaly schuerte nun das Feuer wieder an, dass man
+sehen konnte, und Mitidika bezeugte die groesste Freude, dass Tonerl,
+die in einem ganz aehnlichen Kleide wie ihr Mann von Stuhlweissenburg
+mit ihr diesem entgegengereist war, ihn endlich gefunden habe,
+nachdem sie zu ihrem grossen Schrecken von dem falschen Wehmueller in
+dem Dorfe, das man wegen Pestverdacht eingeschlossen, sehr geplagt
+worden war, ohne sich ihm als Wehmuellers Weib zu entdecken, denn sie
+war auf einen alten Pass ihres Mannes gereist.
+
+Sie hatten sich kaum von der ersten Freude erholt, als Mitidika sagte:
+"Wir muessen doch den falschen Wehmueller, der die Sprache verloren
+hat, wieder zu sich bringen."  Da aber ihr Ruetteln und Schuetteln ganz
+vergeblich war, sagte sie: "Ich habe ein untrueglich Mittel von der
+seligen Grossmutter gelernt; das Herz ist ihm gefallen, wir wollen es
+ihm wieder heraufziehen."  Da nahm sie ein Schoppenglas und gab es
+Michaly nebst einem Endchen Licht--das sie am Feuer anzuendete--und
+einem Scheibchen Brot.  "Aha, ich weiss schon!" sagte Michaly und
+oeffnete dem Ohnmaechtigen die Weste ueber dem Magen, setzte ihm das
+Licht, auf der Brotscheibe befestigt, auf den Leib und stuelpte das
+Glas darueber.  Das brennende Licht, welches die Luft unter dem Glas
+verzehrte, machte ihm den Leib wie in einem Schroepfkopf in das Glas
+aufsteigen.  Die ganze Gesellschaft lachte ueber dieses zigeunerische
+Kunststueck, und der falsche Wehmueller kam bald zu Sinnen; der echte
+ging auf ihn zu und sprach: "Wer sind Sie, der auf eine so
+unverschaemte Weise meinen Namen missbrauchte?"  Da antwortete der
+Patient, welchen Devillier und Michaly an der Erde festhielten: "Was
+Guckuck habe ich auf dem Leib?  Es ist, als wollten Sie mir den Magen
+herausreissen; tun Sie mir die vermaledeite Laterne vom Leibe, eher
+sage ich kein Wort; ich bin Wehmueller und bleibe Wehmueller!"--"Gut",
+sagte Mitidika, "wenn du noch nicht bei Sinnen bist, wollen wir dir
+etwas Suesses eingeben."-"Recht", sagte Michaly, "Katzenkot mit Honig,
+Zigeunertheriak."  Auf dieses Rezept bekam der Patient andere
+Gesinnung und sprach: "Um Gottes willen, lasst mich aufstehen, ich
+will alles bekennen!  Ich bin der Maler Froschauer von Klagenfurt.
+"-"Das habe ich gleich gedacht", sagte Wehmueller, "jetzt habe ich Sie
+in meinen Haenden, ich kann Sie als einen Falsarius bei der Obrigkeit
+angeben, aber ich will grossmuetig sein, wenn Sie mir einen
+koerperlichen Eid schwoeren: dass Sie auf ewige Tage resignieren,
+ungarische Nationalgesichter in meiner Manier zu malen."-"Das ist
+sehr hart", sagte Froschauer, "denn ich habe ganz darauf studiert und
+muesste verhungern; den Eid kann ich nicht schwoeren."--"Er ist noch
+hartnaeckig!" sagte Michaly; "geschwind den Zigeunertheriak her!"  Und
+da Mitidika sich stellte, als wolle sie ihm etwas eingeben, entschloss
+er sich kurz und schwor alles, was man haben wollte, worauf sie ihn
+losliessen und ihm die Laterne vom Leib nahmen.
+
+Die Freude und der Mutwille ward nun allgemein; aber der Tag naeherte
+sich, und Mitidika rief eben die Kordonbrecher zusammen, um mit ihrem
+erbeuteten Proviant sich dahin zurueckzuziehen, wo sie hergekommen
+waren.  Aber der Vizegespan kam mit dem Kroaten, dem Feuerwerker, dem
+Gutsbesitzer und einigen Heiducken und Panduren herbei und brachte
+die freudige Nachricht, dass sie gar nicht noetig haetten, sich
+zurueckzuziehen, denn der Kordonkommandant habe soeben bekanntgemacht:
+nur durch Missverstaendnis sei das Dorf, in dem sie vierzehn Tage
+blockiert waren, in den Kordon eingeschlossen worden.  Es solle ihnen
+deshalb verziehen sein, dass sie den Kordon durchbrachen, wenn sie
+dagegen auch keine Klage ueber den Irrtum erheben wollten; der Kordon
+habe sich schon nach einer andern Richtung bewegt.  Der Gutsbesitzer
+bestaetigte dies und lud die Gesellschaft, von der ihm Baciochi, Nanny
+und Lindpeindler so viel Interessantes erzaehlten, saemtlich nach
+seinem Edelhofe ein.
+
+Die Bauern und Zigeuner, die unter der Anfuehrung Mitidikas den Kordon
+durchbrochen hatten, waren hoch erfreut ueber diese Nachricht, dankten
+ihrer Anfuehrerin herzlich und kehrten singend nach ihrer Heimat
+zurueck.  Michaly aber nahm seine Violine und spielte lustig vor der
+Gesellschaft her, die dem Edelmanne folgte.  Unterwegs gab es viele
+Aufklaerungen und Herzensergiessungen.  Devillier und Mitidika hatten
+ihre Neigung bald zaertlich erneuert und gingen Arm in Arm; dann aber
+folgten die drei Wehmueller, Tonerl in der Mitte, und die andern
+gingen hintendrein ueber das Stoppelfeld.  Mitidika sagte, dass sie
+Tonerl in Stuhlweissenburg kennengelernt, die, sehr bekuemmert ueber das
+Ausbleiben ihres Mannes, eine Reisegesellschaft nach Kroatien gesucht,
+und da sie selbst, nach dem Tode ihrer Grossmutter, zu ihrem Bruder
+Michaly habe ziehen wollen, haetten sie sich entschlossen, zusammen zu
+reisen in maennlicher Kleidung.  Frau Tonerl sei in einem Habit ihres
+Mannes und sie als ungarischer Arzneihaendler gereist, bis sie in dem
+Dorfe ploetzlich von dem Kordon eingeschlossen worden seien, wo sie
+auch Froschauer unter dem Namen Wehmueller ganz in derselben Kleidung
+vorgefunden, was die arme Tonerl nicht wenig erschreckt habe.  Nach
+vierzehn Tagen sei die Ungeduld und der Mangel der Einwohner, die
+wohl Hunger, aber keine Pest gehabt, ueber alle Grenzen gestiegen, und
+so habe sie sich an ihre Spitze gesetzt und den Kordon durchbrochen;
+das sei ihr aber gar leicht geworden, denn die Kordonisten waeren, aus
+Furcht, angesteckt zu werden, gleich ausgerissen, als sie mit ihrem
+Haufen unter ihnen erschien.
+
+Nun musste Froschauer erzaehlen; er war eigentlich ein guter Schelm und
+sagte: "Lieber Herr Wehmueller, ich will Ihnen die Wahrheit sagen; der
+Spass kostet mich fuenfundzwanzig Dukaten und meine Braut.  Ich bin der
+Maler Froschauer von Klagenfurt und liebe die Tochter eines
+Fleischhauers; das Maedchen aber waehlte immer zwischen mir und einem
+wohlhabenden Siebmacher, der auch um sie freite.  Er setzte dem Vater
+des Maedchens in den Kopf: es sei in den kaiserlichen Erblanden kein
+Maler, der eine Frau ernaehren koenne, und der ueberhaupt Genie habe,
+als der Wehmueller in Wien, der die ungarischen Nationalgesichter male,
+und der so und so gekleidet gehe; dabei hoerte er nicht auf, von
+Ihnen und Ihrer Arbeit zu reden, so dass der alte Fleischhauer und
+seine Tochter mir endlich erklaerten: sie wuerden den Siebmacher
+vorziehen, wenn ich Ihnen in Ungarn den Rang nicht abliefe, und nun
+wettete ich mit dem Siebmacher: dass ich ihm in Jahr und Tag das
+Maedchen abtreten und noch fuenfundzwanzig Dukaten dazu geben wollte,
+wenn ich Ihnen den Rang nicht ablaufen koenne.  Ich reiste nach Wien
+und nach Ungarn, forschte nach allen Ihren Bildern und warf mich so
+in Ihre Manier, dass man unsre Bilder nicht mehr unterscheiden konnte.
+Da ich nun erfuhr, dass Sie die Reise nach Stuhlweissenburg machen
+wuerden, wo Sie noch nicht gewesen, und sich auf dem Gute des Grafen
+Giulowitsch vorbereiteten, benutzte ich die Gelegenheit, Ihnen
+zuvorzukommen, denn ich wusste durch einen Freund bei der
+Hofkriegskanzelei, dass die dortigen Regimenter verlegt werden wuerden.
+Mit einem Vorrate von Nationalgesichtern in einer Blechbuechse und
+ganz gekleidet wie Sie, machte ich mich nun als neuer Wehmueller auf,
+und als ich auf der Grenze an der Maut ein Paeckchen liegen sah, an
+Herrn Wehmueller, wenn er durchreist, ueberschrieben, ward es mir von
+dem Mautbeamten ausgeliefert.  Es war dies das Bild Ihrer Gemahlin,
+welches sie auf ihrer Reise in einem Posthause hatte liegen lassen;
+ich nahm es mit, um es ihr einhaendigen zu lassen, habe es aber
+vergessen dem Boten abzunehmen, der es trug, als er mich durch den
+Kordon brachte; denn meine Eile war gross, und ich triumphierte schon,
+dass ich, indem der Kordon Sie aussperrte, Ihnen gewiss zuvorkommen
+wuerde.  Aber wie war mir zumute, da ich mich mit Ihrer Frau, als
+einem zweiten Wehmueller, den ich auch nicht fuer den echten erkannte,
+weil er von der Malerei gar nichts verstand, eingesperrt sah; bald
+ward ich aber von der Kuehnheit und Schoenheit Mitidikas, die es kein
+Hehl hatte, dass sie eine verkleidete Jungfer sei, so hingerissen, dass
+ich gern auf meine Braut und Wehmuellerschaft resigniert und alles
+gleich eingestanden haette; aber Ehrgeiz und die fuenfundzwanzig
+Dukaten hielten mich zurueck.  Ihr Erscheinen fuhr mir aber so durch
+alle Glieder, dass ich die Besinnung verlor; die fatale Laterne auf
+dem Magen und der angedrohte Theriak haben mich gaenzlich hergestellt,
+und nun bleibt mir nichts uebrig, als Sie herzlich um Verzeihung zu
+bitten, mit dem Vorschlag: mich in Ihren Unternehmungen zum Kompagnon
+zu machen; Sie koennen meine Arbeiten untersuchen, und gehen Sie den
+Vorschlag ein, so glaube ich, dass wir einen solchen Vorrat von
+Nationalgesichtern anfertigen, dass unser Glueck begruendet ist, wenn
+wir redlich teilen."--"Das laesst sich hoeren!" sagte Wehmueller, "die
+ganze Geschichte macht mir jetzt Spass, und wenn ich meine Tonerl
+nicht so lieb haette, so moechte ich, um es Ihnen wettzumachen, nach
+Klagenfurt reisen und Ihre Fleischerstochter und die fuenfundzwanzig
+Dukaten Ihnen wegschnappen, aber so geht es nicht."  Da umarmte er
+Tonerl herzlich und ward mit Froschauer eins: dass er ihm, wenn er
+seine Arbeiten untersucht, ein eigenhaendiges Attest schreiben wolle:
+dass er ihn in allem sich gleich achte; gewaenne er dann seine Wette,
+so koenne er sein Maedchen heiraten und sich mit ihm auf gleichen
+Vorteil vereinigen.  "Ja", sagte Tonerl, "da habe ich doch eine
+Gesellschaft an Frau Froschauer, wenn ihr herumzieht."
+
+So ward der Friede gestiftet, und sie kamen auf dem Edelhofe an.  Die
+Kammerjungfer und Lindpeindler standen unter der Tuere und waren in
+grossem Erstaunen ueber die drei Wehmueller, noch mehr aber ueber
+Mitidika; schnell liefen sie, der gnaedigen Frau und dem jungen Baron
+die interessante Gesellschaft anzukuendigen, und diese trat, von dem
+Edelmann gefuehrt, in eine geraeumige Weinlaube, wo die Hausfrau bald
+mit einem guten Fruehstueck erschien und alle die Abenteuer nochmals
+berichtet werden mussten; der Tiroler und der Savoyarde stellten sich
+auch ein, und der Edelmann bat alle, bei der Weinlese ihm behilflich
+zu sein, was zugesagt wurde.
+
+Am Abend, als noch viel ueber die drei Wehmueller gescherzt worden war,
+wollte Devillier der Gesellschaft eine Geschichte erzaehlen, die er
+selbst erlebt, und bei welcher die Verwechselung zweier Personen noch
+viel unterhaltender war, als der Graf Giulowitsch und Lury, sein
+Hofmeister, mit seinen Eleven bei dem Edelmann zum Besuch kamen; sie
+freuten sich ungemein, den guten Wehmueller zu finden und die
+Aufklaerung seines Abenteuers zu hoeren.  Die Erzaehlung Devilliers ward
+aufgeschoben, aber nach dem Abendessen musste die schoene Mitidika all
+ihren Schmuck, den sie einst von Devillier empfing, anlegen; die
+Edeldame half ihr selbst bei ihrer Toilette, denn Nanny, die
+Kammerjungfer, wurde unpaesslich.  So geschmueckt trat das braune
+Maedchen wie eine Zauberin vor die Gesellschaft; der Tiroler breitete
+seine Teppiche aus, und das reizende Geschoepf tanzte, schlug das
+Tambourin und sang--wozu Michaly sie begleitete--so ganz wunderbar
+hinreissend, dass alles vor Erstaunen versteinert war.  Sie schloss
+ihren Tanz damit, dass sie den Teppich ploetzlich erfasste, sich schnell
+in ihn einpuppte und an die Erde niederstreckte, wie damals in der
+Huette.  Ein lebhaftes Beifallklatschen rauschte durch den Saal;
+Devillier aber kniete vor ihr, weinte wie ein Kind und wurde
+ausgelacht; so schied die Gesellschaft fuer diesen Abend auseinander.
+
+Die Erzaehlung, welche Devillier versprochen, eine andere des Tirolers
+und eine des Savoyarden unterhielten an den folgenden Tagen, und ich
+werde sie mitteilen, wenn ich Lust dazu habe.
+
+
+
+Ende dieses Project Gutenberg Etextes von Die mehreren Wehmueller und
+ungarischen Nationalgesichter, Clemens Brentano.
+
+

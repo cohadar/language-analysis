@@ -1,0 +1,2510 @@
+The Project Gutenberg Etext of Mutter und Kind, by Friedrich Hebbel
+#3 in our series by Friedrich Hebbel
+
+This Etext is provided in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission. The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Mutter und Kind.
+
+Author: Friedrich Hebbel
+
+Release Date: May, 2003  [Etext #4083]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 11/13/01]
+
+Edition: 10
+
+Language: German
+
+Character Set: 7-bit ASCII
+
+****The Project Gutenberg Etext of Mutter und Kind, by Hebbel****
+*******This file should be named 7mutt10.txt or 7mutt10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7mutt11.txt
+VERSIONS based on separate sources get new LETTER, 7mutt10a.txt
+
+This etext was produced by Michael Pullen, globaltraveler5565@yahoo.com
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included. Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month. A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work. The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc. This
+projected audience is one hundred million readers. If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of 10/17/01 contributions are only being solicited from people in:
+Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan, Missouri,
+Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York,
+North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island,
+South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,
+Washington, Wisconsin, and Wyoming
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states. Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states. If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS). Donations are tax-deductible to the maximum
+extent permitted by law. As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause: [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1] Only give exact copies of it. Among other things, this
+requires that you do not remove, alter or modify the
+etext or this "small print!" statement. You may however,
+if you wish, distribute this etext in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+*EITHER*:
+
+[*] The etext, when displayed, is clearly readable, and
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+
+[*] The etext may be readily converted by the reader at
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the etext (as is
+the case, for instance, with most word processors);
+OR
+
+[*] You provide, or agree to also provide on request at
+no additional cost, fee or expense, a copy of the
+etext in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+
+[2] Honor the etext refund and replacement provisions of this
+"Small Print!" statement.
+
+[3] Pay a trademark license fee to the Foundation of 20% of the
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes. If you
+don't derive profits, no royalty is due. Royalties are
+payable to "Project Gutenberg Literary Archive Foundation"
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return. Please contact us beforehand to
+let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by Michael Pullen.
+
+
+
+
+
+Mutter und Kind
+Friedrich Hebbel
+
+Ein Gedicht in sieben Gesaengen.
+1859
+
+
+Erster Gesang.
+
+Eben grauet der Morgen.  Noch stehen die zitternden Sterne
+An der Woelbung des Himmels, die kaum am Rande zu blauen
+Anfaengt, waehrend die Mitte noch schwarz, wie die Erde, herabhaengt.
+Frierend kriechen die Waechter mit Spiess und Knarre nach Hause,
+Doch sie erloeste die Uhr und nicht die steigende Sonne,
+Denn noch ruhen die Buerger der Stadt und beduerfen des Schutzes
+Gegen den schleichenden Dieb, den spaehende Augen gewaehren.
+Wie der Hahn auch rufe, und wie vom Turme herunter
+Auch der hungrige Geier mit ewig brennendem Magen
+Nach dem Fruehstueck kraechze, es kuemmert nicht Mensch noch Tiere.
+Nur in den Staellen, die hinter die stattlichen Haeuser versteckt sind,
+Wird's allmaehlich lebendig, es scharren und stampfen die Pferde,
+Und es bruellen die Kuehe, allein die Knechte und Maegde
+Schwoeren sich bloss, zur Nacht die Raufen noch voller zu stopfen,
+Als es gestern geschah, und schlafen weiter in Frieden.
+Nun, man muesste sie loben, wofern sie sich rascher erhueben,
+Aber, wer koennte sie tadeln, dass sie sich noch einmal herumdrehn?
+Ist doch die Kaelte zu gross!  Der Fuss, dem die Decke entgleitet,
+Schrickt zurueck vor der Luft, als ob er in Wasser geriete,
+Welches sich eben beeist, auch darf man den Winter nicht schelten,
+Weihnachts-Abend ist da, wie sollt' er nicht grimmig sich zeigen!
+Dennoch lehnt schon am Pfahl der still vergluehnden Laterne
+Eine dunkle Gestalt.  Im Licht des flackernden Dochtes,
+Welcher sich selbst verzehrt, des OEls allmaehlich ermangelnd,
+Kann man den Juengling erkennen, der unbeweglich hinueber
+Schaut nach dem Erdgeschoss des Hauses ueber der Strasse.
+Wahrlich, es muessen die Pulse ihm heiss und fieberisch huepfen,
+Dass er um diese Stunde, die selbst im Sommer die Zaehne
+Oft zum Klappern bringt und alle Glieder zum Schaudern,
+Hier so ruhig steht, als waer' er in Eisen gegossen.
+Schneidend und scharf, wie ein Messer, zerteilt der Hauch nun die Luefte,
+Welcher die Sonne meldet: den sollen die Fische im Wasser
+Spueren und mitempfinden, er aber regt sich auch jetzt nicht.
+Doch, da schreitet er vor und naht sich dem Hause.  Was gibt ihm
+Denn so ploetzlich Gefuehl und macht ihn lebendig?  Ein Schimmer
+Ward da drunten sichtbar, den eine getragene Lampe
+Zu verbreiten scheint.  Er bueckt sich nieder, zu lauschen,
+Spricht: sie ist's!  und tickt mit leisem Finger ans Fenster.
+Drinnen taucht ein Kopf empor.  Die klarste der Scheiben
+Suchend, er findet sie schwer, die meisten sind blind und belaufen,
+Lugt er schuechtern hindurch.  Es ist ein bluehendes Maedchen,
+Welches sich selber beleuchtet, indem es, die Lampe erhebend,
+Nach dem Klopfenden spaeht.  Er ruft: mach' auf, Magdalena!
+Und enteilt in das Gaesschen, das links am Hause sich hinzieht.
+Bald auch oeffnet sich seitwaerts das Dienerpfoertchen, doch halb nur,
+Und den Fuss in der Tuer, beim Licht noch einmal ihn pruefend,
+Spricht sie: Christian, du?  Was kannst du so zeitig nur wollen?
+Lass uns hinein--versetzt er--du wuerdest draussen erfrieren,
+Und wir sind ja noch sicher!  Sie sperrt ihm noch immer den Eingang,
+Doch er haelt ihr den Pelz entgegen, in den er gehuellt ist,
+Und nun tritt sie zurueck und geht voran in die Kueche,
+Waehrend er auf den Zehen ihr folgt.  Schon brennt auf dem Herde
+Hell und lustig ein Feuer.  Sie stellt den Kessel mit Wasser
+Jetzt darueber und setzt sich an einer Seite daneben,
+An der anderen er.  Die roetliche Flamme vergoldet
+Spielend beider Gesichter, und gegen sein dunkel gebraeuntes
+Sticht ihr lilienweisses, mit blonden Locken bekraenztes,
+Fein und angenehm ab.  So musst du--beginnt sie--schon wieder
+Auf die Strasse hinaus, und das am heiligen Abend?
+Wer dem Fuhrmann dient,–-entgegnet er--feiert die Feste
+Selten gemaechlich zu Hause, denn immer mangelt dem Kaufmann
+Dies und das im Gewoelb', und da die Kunden nicht warten,
+Wartet er selbst auch nicht!  Doch du--erwidert sie leise,
+Fast in Vorwurfes Ton--du koenntest es lange schon besser
+Haben, wenn du nur wolltest!–-Du meinst, ich koennte beim Kaufmann
+Selber, koennte bei euch sein--versetzt er mit Laecheln--und freilich
+Haett ich's bequemer und duerfte, man sieht's ja, zu Tode mich schlafen.
+Aber, das taete nicht gut!–-Er springt empor, und die Kueche
+Stumm und sinnend durchschreitend und dann ich ploetzlicher Wendung
+Vor das Maedchen tretend und ihre Schoenheit betrachtend,
+Ruft er aus: Nein, nein, sie soll mir nicht hungern und frieren!
+Voll Verwunderung schaut sie auf und merkt es nun endlich,
+Dass er bewegt ist, wie nie.  Was hast du? fragt sie ihn aengstlich,
+Und er streichelt sie sanft und spricht die bedaechtigen Worte:
+Wem ein altes Weib fuer seinen Groschen das Schicksal
+Aus den Karten verkuendigt, der mag noch zweifeln und lachen,
+Aber, wem es der Herr im liebsten Freunde und Bruder
+Dicht vor die Augen stellt, dem ziemt es, sich warnen zu lassen!
+Haette der AErmste mich in solchem Elend gesehen,
+Wie ich gestern ihn, er waere wohl ledig geblieben,
+Und sein Beispiel soll--dies wird, so meint er, ihn troesten-–
+Nicht verloren sein fuer seinen Jugendgenossen!
+Geht es den beiden so schlecht--versetzt sie erschreckend–-ich habe
+Anna nicht wieder erblickt, sie ist nicht weiter gekommen,
+Und ich kann das Haus nur selten auf Stunden verlassen,
+Und da hab' ich zu tun und rechne mit Schuster und Schneider.
+Ging's mir anders mit Wilhelm--erwidert er traurig--ich hatte
+Ihn so gut wie verloren, denn aengstlich, wie Suende und Schande,
+Pflegen sich Armut und Not in Ecken und Winkeln zu bergen.
+Seinen eigenen Vetter vermocht' ich nicht zu ihm zu fuehren,
+Als er nach Hamburg kam, um Anna endlich zu sehen,
+Und erst gestern zur Nacht bin ich ihm wieder begegnet,
+Aber in welcher Gestalt!  Wie gaenzlich veraendert!  Du kannst es
+Dir nicht denken!  Ich glaubte zuerst, es waere sein Vater,
+Der noch lebt auf dem Dorf, um seinen Jammer zu mehren,
+Weil er den Greis nicht fuerder ernaehren kann, wie so lange!
+Als ich ihn dann erkannte in seinem gebrochenen Wesen,
+Wollte er mir nicht stehn, wie einer, der giftige Blattern
+Zu verbreiten fuerchtet, ich aber blieb ihm zur Seite
+Und so nahm er mich mit zum kranken Weib und den Kindern.
+Nun, die dienten zusammen!--Das Maedchen erhebt sich und schliesst ihn
+Innig und fest an die Brust.--Sie wohnen im feuchtesten Keller
+Welchen ich jemals sah.  Dem Totengraeber gehoerig,
+Hat er die nassen Waende mit Brettern von Saergen beschlagen,
+Wie sie der Kirchhof ihm aus wieder eroeffneten Graebern
+Fett und modrig liefert.  Die dunsten, dass, wer hereintritt,
+Fast erstickt, doch die Miete ist billig, auch jagt sie der Hausherr
+Nicht so leicht heraus, es fehlt am zweiten Bewerber,
+Darum bleiben sie sitzen.  Sie sollen vom Fieber genesen,
+Wo's ein Gesunder bekommt.  Da macht's natuerlich die Runde,
+Springt von ihm zu ihr, von einem Kinde zum andern
+Und verlaesst sie nicht mehr!  Du weinst schon bittere Traenen,
+Nun, ich rede nicht weiter!--Sie trocknet sich ploetzlich die Augen,
+Welche ihr laengst schon stroemten, und spricht mit krampfhaftem Lachen,
+Ihn bei der Hand ergreifend und ueber und ueber ergluehend:
+Christian, weisst du was?  Es ist der heilige Abend,
+Und es wird uns beschert: da wollen wir wieder bescheren!
+Meinen ganzen Weihnacht, und reichlich gibt ihn die Herrschaft,
+Kleider und Tuecher und Geld, und was noch etwa hinzukommt,
+Alles trag' ich zu Anna, du machst es auch so mit Wilhelm,
+Und sie koennen den Keller verlassen und wieder gesunden!
+Kind--versetzt er darauf--ich tat zwar gleich, was ich konnte,
+Und der Weihnacht1) ist die Haelfte des Lohnes in Hamburg,
+Aber es sei darum!  Denn, wie kein Engel im Himmel,
+Hat mich Wilhelm gestern fuer ewige Zeiten gesegnet,
+Und ich dank' es ihm gern!  Zwar war sie bitter, die Lehre,
+Die ich empfing, als ich sah, dass trockenes Brot ihm, wie Kuchen,
+Schmeckte, Kaese wie Fleisch, doch werd' ich sie nimmer vergessen.
+Ja, ich hab' es erkannt, und werd' es im Herzen bewahren:
+Wenn der Arme es wagt, nur Gatte und Vater zu werden,
+Ist es suendlich, als daechte der Reiche auf Kaiser und Koenig,
+Und es straft sich noch haerter.  So bin ich denn fest auch entschlossen,
+Endlich den Schritt zu tun, auf den ich schon lange gesonnen,
+Denn das Leben ist kurz, und einmal will ich doch wuerfeln!--
+Sie erschrickt, doch bald zerschmilzt in freudigem Laecheln
+Ihre Angst, denn er zieht zu ihrem hoechsten Erstaunen
+Einen goldenen Ring hervor--er ist in den Handschuh
+Eingewickelt, den sie vermisst und den er entwandte,
+Um ihr Mass zu haben--und reicht ihr das funkelnde Kleinod.
+Nimm ihn an von mir--so spricht er--und trag' ihn zu Ehren,
+Gottes, des Vaters, des Sohnes, sowie des Heiligen Geistes
+In Geduld drei Jahre, du wirst nicht darueber ergrauen,
+Und das Glueck hat Zeit, mir einen Finger zu reichen!
+In Geduld drei Jahre!--versetzt sie--und das noch zu Ehren
+Gottes, des Vaters, des Sohnes, sowie des Heiligen Geistes?
+Nein, in Liebe und Treue das ganze Leben und keinem
+Mehr zurueck Ehren, als dir, du Bravster unter den Braven!
+Kind, ich nehm' es nicht an--entgegnet er ernst--denn es wuerde
+Mir das Gewissen belasten, du bist nicht laenger gebunden,
+Wenn die Frist verlief, auch ist sie voellig genuegend,
+Und wenn ich dich nicht loese, so magst du selber dich loesen!
+Aber--ruft sie--was koennen so wenige Jahre dir bringen,
+Wenn du das Heil nicht von Alt'na erwartest oder von Wandsbeck2),
+Und du bist wohl der letzte, dein Haus aufs Lotto zu bauen!
+Darauf schwoere nur nicht--versetzt er--du wuerdest dich taeuschen,
+Denn ich rechne aufs Lotto, doch setz' ich nicht Heller und Groschen,
+Nein, ich setze mich selbst.  Ich geh' im Fruehling zu Schiffe.
+Schlage nicht gleich die Haende zusammen und halte die Schuerze
+Vor die Augen!  Ich hab' es lange bedacht und erwogen,
+Gestern kam's zum Entschluss!  Die Welt ist anders geworden,
+Als mein Vater sie kannte, und seine goldenen Regeln
+Passen nicht mehr hinein!  Wer bliebe nicht gerne im Lande
+Und ernaehrte sich redlich!  Ich sehne mich nicht nach dem Weltteil,
+Wo man Loewen und Affen und Papageien umsonst sieht,
+Nein, ich will das Plaesier mit Freuden noch laenger bezahlen,
+Wenn wir ueber den Berg3) nach Altona gehn zur Erholung!
+Aber, wer kann, was er moechte!  Wofuer mein Vater das Haeuschen
+Kaufte, miet' ich mir kaum, die Stube, und was fuer den Ochsen
+Einst der Schlachter gab, das gibt fuer die Haut jetzt der Gerber!
+Sprich, wo waere da Hoffnung!  Es sind der Menschen zu viele
+UEber die Erde versaet, und statt, wie einst, sich zu helfen,
+Draengen sie sich und stossen und suchen sich neidisch die Bissen
+Aus den Haenden zu reissen.  Drum sind auch die schrecklichen Tiere
+Losgelassen, von denen die Offenbarung Johannis
+Prophezeite, sie sollen den Haufen lichten und sichten.
+Bonaparte voran als Tod mit der blinkenden Sense,
+Jetzt die neue Pest, die Cholera, wie sie sie heissen,
+Und die Hungersnot wird folgen, sie guckt um die Ecke.
+Fault nicht schon die Kartoffel?  So sagte der Alte aus Bremen,
+Den sie den Mystikus nennen, und der uns Knechten und Maegden
+Seine Gesichte verkuendigt, und wahrlich: er hat nicht gefaselt!
+Hoere den Orgeldreher, wer will!  Doch sieh wie dein Kessel
+Siedet!  Auch haben die Pferde in meinem Stall wohl gefressen,
+Und je eher daran, je eher davon.  Bis zum Abend
+Bin ich morgen zurueck und bringe Wilhelm das Seine,
+Denn du wuerdest den Gang, geschweige den Keller nicht finden,
+Duerftest dich auch nicht hineinbegeben, er wimmelt von Schiffern
+Und von allerlei Volk, und was sie da suchen, das weisst du.
+Heute ist er versehn!--Er reicht ihr die Hand hin zum Abschied,
+Aber sie haelt ihn fest, sie schaut ihm ins Auge und schuettelt
+Kindlich den lockigen Kopf, im Anfang leise und schuechtern,
+Dann geschwind und geschwinder, und da er noch immer nicht redet,
+Zieht sie den Hochgewachsnen zu sich hernieder und bietet
+Ihm, wie zum Danke, den Mund.  Er aber weigert sich laechelnd,
+Diesen Kuss zu nehmen und spricht: Das waer' ein Geloebnis,
+Hier zu bleiben, und dies vermag ich dir nicht mehr zu geben,
+Denn habe den Dienst schon aufgesagt, und ich gehe
+Mit den Gefaehrten, dem Schmied und dem Tischler, die lange schon draengten,
+Wenn die Stoerche kommen, damit wir endlich erfahren,
+Welche Reise sie machen.  Das wenige, was ich ersparte,
+Reicht schon aus fuer das Schiff, und warum gingen nur wir nicht,
+Unser Glueck zu versuchen!  Zu Tausenden ziehn sie hinueber,
+Um nach Gold zu graben im kalifornischen Boden!
+Waere der Himmel geoeffnet und wuerde am Tore gelaeutet,
+Wie des Abends bei uns zur Zeit der Sperre4), es gaebe
+Schier kein groessres Getuemmel, kein aergeres Rennen und Laufen:
+Musikanten verkaufen die Fiedel, Gelehrte die Bibel,
+Schuster und Schneider den Pfriem und die Nadel und eilen nach Bremen.
+Von dem Bette des Kranken entweicht der gierige Doktor,
+Und sein Koch ist voraus, es stosse im Moerser, wer Lust hat,
+Advokaten und Schreiber verachten auf einmal die Zunge,
+Die sie so lange ernaehrte, und rechnen auf Arme und Beine,
+Der Senator bedenkt sich's, ob er denn wirklich zu dick ist,
+Und der Prediger kaum haelt's aus bei seiner Gemeinde.
+Sollte der AErmste da fehlen?  Ich daechte doch, diesem vor allen
+Waere der Segen beschert, nur muss er sich freilich auch ruehren,
+Denn Sankt Nikolaus schenkt zwar die Kuh, doch nicht auch den Halfter.
+Darum weine mir nicht!  Ich bin ja nicht, wie die andern,
+Unersaettlich, und werfe das Brot, das ich habe, zu Boden,
+Um nach dem Kuchen zu schnappen, ich will ja nicht mehr, als ich brauche,
+Um dich mit gutem Gewissen zur Kirche fuehren zu koennen,
+Und du bist es wohl wert, dass mir dies wenige werde.
+Haett' ich den Dampfer auch schon bestiegen, und wuerde ihn willig
+Wieder verlassen, wenn hier noch ein maessiges Glueck sich mir zeigte,
+Aber ebenso sicher vollbring' ich auch, was ich beschlossen,
+Wenn kein Wunder geschieht und an die Heimat mich fesselt.
+Knarrt nicht die Treppe?  Jawohl!  Man kommt!  So trockne die Augen,
+Dass sie nicht glauben, wir zankten!  Da rollt schon der Wagen des Nachbars!
+Nun, ich hol' ihn noch ein, denn meine Pferde sind besser.
+Lebe denn wohl!  Sie bringen in Holstein den Pudding nicht fertig,
+Wenn ich nicht mache, es fehlt an frischen Rosinen und Mandeln,
+Und hier brauchen wir Schinken und wohlgeraeucherte Zungen!
+Heller Tag!  Wie die Zeit verstrichen ist!  Gluecklicherweise
+Hat mein Alter die Gicht!  Da schlaeft er hinein in den Morgen,
+Weil sie ihn zwickt bei der Nacht fuers fleissige Schnapsen von frueher,
+Sonst erging' es mir uebel!  Es hat ihn nicht wenig verdrossen,
+Dass ich nicht bleiben will und, selbst nicht offen und ehrlich,
+Glaubt er, ich will den Dienst nur wechseln und nicht mit dem Spaten
+Wirklich die Zuegel vertauschen!  Ei nun, er wird es erfahren!
+Keinen Kuss?  Doch die Hand!  Auch die nicht?  Du sollst mich noch loben!--
+Damit eilt er hinweg. Sie setzt sich, um Kaffee zu mahlen,
+Doch ihr rinnen die Traenen von neuem, es kann sie nicht troesten,
+Dass die Raben noch kraechzen und nicht die Stoerche schon klappern,
+Denn sie weiss: Was er sagt, das tut er!  Sie kennt ihn zu lange.
+
+
+Zweiter Gesang.
+
+Waehrend dies in der Kueche geschah, ist alles im Hause
+Nacheinander lebendig geworden, das fleissige Maedchen
+Hatte zuerst sich erhoben, in ihrer laendlichen Weise
+Nach der Kaelte nicht fragend, nur nach der Stunde, verdriesslich
+Ist ihr nach langer Pause, mit offenen Ohren verdaemmert,
+Dann die zweite gefolgt und hat Kamine und OEfen
+Bis zum Zerspringen geheizt, vom Schlaf erst voellig ermuntert,
+Als ihr auf einmal die Haube zu glimmen begann und ein Loeckchen
+Sich entzuendete, rasch, wie Hanf, am Feuer verflackernd,
+Und die Augenbraunen, ja selbst die Wimpern ihr sengend.
+Noch viel spaeter schluepfte der Kutscher in seine Pantoffeln:
+Diesen weckt zwar gewoehnlich die Kaffeemuehle, doch huetet
+Er sich, aufzustehn, bevor sie wieder verstummt ist,
+Denn er kaeme zu frueh, noch waere das Brot nicht geroestet
+Oder die Sahne gesotten, das hat er laengst schon berechnet,
+Und ein verstaendiger Mann verachtet nie die Erfahrung.
+Jetzt sogar bleibt ihm noch Zeit, den Thermometer am Fenster
+Um den Grad zu befragen, doch ist's ihm freilich nicht moeglich,
+Auch nach der Uhr zu sehn, die ihm zu Haeupten am Bett haengt,
+Denn es wird ihm da unten zu still, sie sind schon beim Trinken.
+Endlich huscht auch die Zofe hinab, das Prasseln im Ofen
+Hat sie herausgetrieben, doch sind ihr die Augen noch immer
+Matt, und gleichen den Lichtern, die, nachts in der Kaelte beschlagen,
+Oder mit Wasser bespritzt, nicht brennen wollen am Morgen.
+Darum bemerkt sie's auch nicht, dass Magdalena schon weinte,
+Sondern erkundigt sich bloss, ob keiner ihr Traumbuch gesehn hat.
+Nur der Bediente fehlt, der muss die Klingel erst hoeren,
+Aber er ruehmt sich der Kunst, so flink in die Kleider zu kommen,
+Dass er, wie schwach sie der Herr auch ziehn mag, immer schon fertig
+In das Zimmer tritt, bevor noch die Glocke verhallte:
+Und da darf er's schon wagen, die Nachricht1) im Bette zu lesen.
+Dennoch irrt er gewaltig, indem er das Knattern des Bodens,
+Welches er ueber sich hoert, allein dem Springen der Bretter
+Zuschreibt, wenn sie auch maechtig im klingenden Winter sich kruemmen,
+Denn schon lange wandelt der Kaufherr sinnend und schweigend
+In den Gemaechern herum, die koeniglich weit und geschmueckt sind,
+Aber nicht mit Stolz, man sieht es ihm an, und Behagen.
+Vor dem Spiegel flammen in schweren silbernen Leuchtern
+Noch die Kerzen, sie sind zwar nicht mehr noetig, doch mag er,
+Wie er sie angezuendet, sie nicht auch selber noch loeschen,
+Und noch weniger scheint er den Diener schon rufen zu wollen.
+Jetzt beschaut er die Blumen und fremden Gewaechse, sie fuellen
+Fast ein ganzes Gemach, und alle Teile der Erde
+Haben ihr Schoenstes geliefert, doch fesseln die schwellenden Knospen,
+Die er sonst wohl mustert, als waer' er in Holland geboren
+Und ein Buerger der Zeit, wo Zwiebeln die Wechsel vertraten,
+Diesmal ihn nur wenig, ja selbst die geoeffneten Kelche
+Hauchen ihm heute vergebens die heissen Duefte entgegen,
+Welche den Papagei, er schliesst vor Behagen die Augen
+Und ist betaeubt und berauscht, zurueck in die Heimat versetzen.
+Jetzt betrachtet er sich die neue chinesische Vase:
+Altoum selbst, der Drachen und Schlangen erlauchter Gebieter,
+Hat sie in Peking nicht reicher, mit Gold gefuellt bis zum Rande
+Waere sie kaum bezahlt, so selten und rein ist die Mischung
+Und so brennend die Farbe!  Man stellte in jedem Museum
+Einen Waechter daneben, doch er, in ploetzlicher Wendung
+Gegen ein Bild an der Wand, der Morgen beleuchtet's gerade,
+Stoesst sie vom Tisch herunter, und wenn er erschrickt, so geschieht es
+Bloss des Geprassels wegen, das dennoch der tuerkische Teppich
+Maechtig daempft, denn er horcht, anstatt die Scherben zu sammeln
+Oder auch nur zu beachten, mit angehaltenem Odem
+Nach der linken Seite hinueber, wo ihm die Gattin
+Schlummert im Bett von Damast, und da's dort still, wie zuvor, bleibt,
+Spricht er laechelnd: so war denn doch noch ein Glueck bei dem Unglueck!
+Und, als haette er nur die Kaffeetasse zerbrochen,
+Tritt er gelassen und ruhig, nicht einmal den fegenden Schlafrock
+Erst um den Leib sich guertend und weiteren Schaden verhuetend,
+Vor das Gemaelde hin.  Es ist von Rahl2), und es zeigt uns
+Marius unter den Cimbern im grimmigen Wuergen.  Kein Koenig
+Hat es beim Meister bestellt, nicht einmal der Koenig der Juden,
+Auch kein reicher Praelat, kein Julius oder ein Bembo,
+Noch viel minder ein Junker, was kuemmern sie Kuenstler und Dichter,
+Aber der Handelsherr, obgleich zum Patron nicht geboren,
+Und von manchen bespoettelt, die mit ihm rechnen und tauschen,
+Rief's ins Leben, sobald er in Wien die Skizze erblickte,
+Denn er sucht in Venedig und nicht in Karthago sein Vorbild.
+
+Freilich haelt ihn auch dies, so sehr er es schaetzt und bewundert,
+Heute nicht lange fest.  Er nickt zwar, erstaunend, wie immer,
+Dem gewaltigen Stier, der eben den Roemer gespiesst hat,
+Und der entsetzlichen Mutter, die ihren eigenen Saeugling
+Unter die Feinde schleudert, doch greift er nicht nach der Kerze,
+Um es heller zu sehn, obgleich das goldene Tagslicht
+Wieder verduestert ward durch jenes graue Geriesel,
+Welches nicht Nebel bleibt und auch nicht zu Schnee sich verdichtet
+Und die Finsternis mehrt, die Kaelte aber nicht mindert.
+Nein, er schreitet aufs neue von Zimmer zu Zimmer und heftet
+Bald auf die Nipse den Blick, die Tische und Schraenke ihm zieren,
+Bald auf Figuren und Buesten und bald auf Stiche und Buecher.
+Alles besieht er und prueft's, er spaeht begierig nach Luecken,
+Aber er findet sie nicht, und wenn sich die Lust des Besitzes
+Auch in seinem Gesicht nicht eben spiegelt, so zeigt es
+Doch auch keinen Verdruss.  Da faellt sein schweifendes Auge
+Auf die Dresdner Madonna, mit ihrem lieblichsten Knaben,
+Und den reizenden Engeln, die Raphael malte, und eilig
+Wendet er's wieder ab, als saehe er, was ihn nicht freute,
+Und sein ruhiger Ernst verwandelt in Schmerz sich und Trauer.
+Waer' nur das Stueck kein Geschenk, ich wuerd' es noch heute entfernen,
+Spricht er, aber ich darf's nicht wagen, und dennoch vergoss sie
+Oft schon Traenen davor, sie kann in der Fuerstin des Himmels
+Nur noch die glueckliche Mutter erblicken und liesse ihr willig
+Fuer den fluechtigsten Kuss des Kindes die ewige Krone.
+Waer' doch der Tag erst vorueber, besonders der Abend!  Die Domzeit3)
+Macht sie fast immer krank.  Was schelt' ich den goettlichen Kuenstler
+Und sein koestliches Blatt!  Die quiekendste Weihnachtstrompete,
+In der schmutzigsten Twiete4) vom garstigsten Rangen geblasen,
+Tut ihr ja eben so weh!  Die bunten, beleuchteten Buden,
+Welche den Gaensemarkt den ganzen Advent so beleben,
+Schneiden ihr tief in das Herz.  Sogar die Juden am Steinweg
+Mit den Karren voll Tand entlocken ihr seltner das Laecheln
+Halber Ergoetzung, nach dem ich oft Wochen vergebens mich sehne,
+Als den Seufzer des Grams.  Denn neben den scharfen Gesichtern,
+Die das haessliche Schreien verzerrt, bemerkt sie noch immer
+Auch die OEchslein und Esel von Zinn, mit denen sie troedeln,
+Und um die sich begierig die Knaben und Maedchen versammeln,
+Und da kehren sogleich die bittren Gefuehle ihr wieder.
+Nun, es geht ja zu Ende!  Wenn nur nicht heute gerade
+Alles so uebel sich traefe!  Der Affe ist nicht gekommen,
+Weil das Schiff, das ihn trug, verschlagen wurde, die Voegel
+Freilich sind eingetroffen, doch scheinen sie krank, und ich werde
+Schon zufrieden sein, wenn sie nur leben bis Neujahr.
+Waere die Blumenuhr nicht da, ich muesste verzweifeln,
+Denn hier fehlt es an nichts, und alles ist dreifach vorhanden,
+Aber es wird sie zerstreun, es wird sie vielleicht gar erfreuen,
+Wenn ihr die persische Rose, bis auf die letzte Minute
+Fest geschlossen, den Mittag, die tuerkische Tulpe den Abend,
+und der Jasmin von Athos die Mitternachtsstunde verkuendigt,
+Ja, es wird sie erfreun, die Schritte des Tages an Dueften
+Abzuzaehlen und Farben, die alle Wunder der Ferne
+Vor die Seele ihr ruecken!  Er wiederholt es und klingelt
+Endlich dem Diener: ihm folgt sogleich auf dem Fusse der Doktor,
+Welcher, des Hauses Freund und alter Vertrauter, sein Vorrecht
+Braucht, und das um so eher, als er schon lange gewartet.
+
+Ei, da sind Sie ja--ruft ihm der Kaufherr freundlich entgegen--
+Ich bin auch schon bereit, hier liegen in Gold und in Silber
+Ihre Summen, und wollen Sie mehr, so kommen Sie wieder!
+Nun verschonen Sie mich mit Ihren Berichten, ich mag nicht
+Wissen, wo Sie es lassen, ich mag die Perlen nicht sammeln,
+Welche aus Freudentraenen bestehen sollen, ich muesste
+Sonst auch den AErger verwinden, wenn unser Pfenning nicht wuchert,
+Wie er wohl koennte.  Sie laecheln?  Sie glauben, dass ich nur scherze
+Oder mich selbst verleumde, weil jede Erfahrung mir mangelt?
+Freund, ich habe sie nicht aus Grille gemieden!  Sie zweifeln?
+Kennen Sie wirklich das Herz des Menschen so wenig?  Die Baeume,
+Welche er pflanzt und begiesst und saeubert von Raupen und Wuermern,
+Werden ihm nimmer zu gruen, doch leicht die Armen zu froehlich,
+Und ein Heiliger wird nicht jeder durch Essen und Trinken,
+Welche ein Maertyrer ist durch Hungern und Dursten und Frieren;
+Wen man aber beschaemt, den wird man zugleich auch erbittern.
+Darum soll man die Kluft, die zwischen dem Geber und Nehmer
+Einmal besteht, durch Milde nicht fuellen wollen, man kann's nicht,
+Nein, man soll sie mit Nacht, mit heiligem Dunkel bedecken,
+Und, wie der Ewige selbst, ins tiefste Geheimnis sich huellen.
+Denn es ist nicht genug, dass bloss die Rechte nicht wisse,
+Was die Linke tut, sie soll es auch selber vergessen;
+Reiche den Becher und wende dich ab, so wirst du erquicken!
+Sie verhalten's darnach--entgegnet der Doktor mit Ruehrung--
+Sie entkleiden die Pflicht des einzigen Reizes und ueben
+Jede um Gottes willen, nur nicht die Stirne gerunzelt,
+Heute muessen Sie's hoeren, ich heisse seit Jahren das letzte
+Unglueck aller Heroen, und meine verrufene Zunge
+Schont auch so wenig den Caesar, als Bonaparte und Friedrich,
+Oder die hohen Poeten, die immer mit Worten bezahlen,
+Aber wenn ich das Grosse in Voelkerwuergern und Kuenstlern,
+Wie sie auf Ihren Gesimsen zu Hunderten prunken im Lorbeer,
+Auch nur selten entdecke, das Edle vermag ich zu schaetzen,
+Und, wer nie noch geschmeichelt, der scheint mir berufen, zu loben.
+Waeren Sie nur auch so gluecklich, als gut!  Wie ging es denn gestern?--
+Aber der Kaufherr seufzt und spricht mit stockender Stimme:
+Nun, Sie wissen's am besten, wie sehr die Woche der Kinder
+Ihr die Hoelle im Busen entzuendet, das Schlimmste ist aber,
+Dass mit jeglichem Jahre die Qualen sich steigern und mehren.
+Ehmals lenkte sie selbst vom Weihnachtszimmer das Auge
+Auf die Krankenstube, vom Tannenbaum mit den Kerzen
+Auf die Trauerweide hinueber und fand sich getroestet:
+Jetzt erblickt sie nur noch die festlichen Raeume des Jubels,
+Aber der Kirchhof rueckt in immer weitere Ferne,
+Und doch stehen die Saerge so nah an den Wiegen und werden,
+Wie wir es selbst schon erlebt, an teuren Verwandten und Freunden,
+Oft aus dem naemlichen Baum vom naemlichen Meister gehobelt,
+Ja, ich fuerchte fuer sie, ich will es nicht laenger verhehlen,
+Und Sie fuerchten sich auch, obgleich Sie's mir nicht bekennen,
+Und so mag es wohl kommen, dass sich der letzte der Bettler,
+Welchen ich heute beschenke, noch gluecklicher fuehlt, wie ich selber,
+Denn sie ist mir der Mund, mit dem ich esse und trinke.
+Ihrethalben koennte ich wuenschen, wir waeren katholisch,
+Wenn ich sie hoch auch ehre, die protestantische Freiheit,
+Und ihr goettliches Recht auf jeglichen wahren Gedanken,
+Wie es der zwoelfte Apostel, denn Judas hat sich gestrichen,
+Wie es der eiserne Luther mit feuriger Zunge erkaempfte.
+Denn da duerft' ich mit ihr von einem Orte der Gnade
+Zu dem anderen pilgern, und erst am heiligen Grabe
+Zu Jerusalem wuerde die Hoffnung voellig erloeschen,
+Aber da waere zugleich doch auch das Leben zu Ende.
+Was mich selber betrifft, so fand ich mich laengst in mein Schicksal,
+Denn ich hab's nicht verschuldet, es ward mir von oben gesendet,
+Und ich glaube den Finger des Ewigen deutlich zu sehen.
+Sie verwundern sich, Doktor?  Vernehmen Sie, wie ich es meine.
+Wissen Sie, was mich zumeist am grossen Brande entsetzte,
+Welcher ein Fuenftel der Stadt in Asche legte vor Jahren?
+Nicht die flammenden Strassen mit ihren donnernden Haeusern,
+Welche vor dem Minieren gen Himmel flogen und barsten;
+Nicht der tueckische Wind, der, wie ein daemonisches Wesen,
+Immer sich drehte, sobald die Spritzen Meister geworden;
+Nicht die lodernde Boerse mit all den Kaisergestalten,
+Die das roemische Reich, doch auch uns Buerger bevogtet;
+Nicht die gruenlichen Flammen der Tuerme, welche von Kupfer
+Sich ernaehrten und Blei und graesslichen Regen verspritzten;
+Nicht der endliche Sturz von Nikolai und Petri5),
+Fast so entsetzlich fuer uns, als braeche die Erde zusammen;
+Nicht einmal das Geheul der Feuerglocken, die alles
+UEberwimmerten, selbst die Stunden-Uhren, so dass man
+Keine einzige hoerte, als waeren die Zeiten vollendet,
+Und als muesste der Richter nun gleich in den Wolken erscheinen:
+Alles dieses verschwand mir gegen die Hungergesichter,
+Welche mit Ratten und Maeusen verschuechtert zutage sich draengten,
+Ja, sie kamen mir vor, als sollten sie klagen und zeugen
+Und erwarteten nur noch den Engel mit seiner Posaune.
+Welche ein Elend erblickt' ich!  Und tief, wie unter der Erde,
+War es verborgen gewesen, und stahl sich, als waere es Suende
+Gegen die gluecklichen Brueder, auch jetzt noch zoegernd und aengstlich,
+Und vom draeuenden Tode gejagt, hervor aus den Loechern!
+Maenner, Weiber und Kinder!  Und das im christlichen Hamburg,
+Welches der Armen und Kranken doch wahrlich nie noch vergessen.
+Fast mit Grausen gedacht' ich der eigenen Gueter und schaemte
+Mich des eigenen Kummers!  Allein nicht lange verharrt' ich
+In dem stumpfen Entsetzen: mir schien auf einmal das Raetsel
+Meines Lebens geloest.  Fuer diese stroemen die Schaetze
+So zusammen bei dir, und wenn es am Erben dir mangelt,
+Ist's der Verzweifelten wegen!  So rief's in mir, und so ruft es
+Bis zur Stunde noch fort!  Ich moechte, wie Fugger in Augsburg6),
+Ein Asyl begruenden, in welchem es nimmer an Mitteln,
+Eher an Duerftigen fehlte.  Man spricht von roten Gespenstern,
+Die man mit Pulver und Blei verscheuchen muesse.  Sie sind wohl
+Noch viel leichter zu bannen: man gebe ihnen zu essen,
+Und, anstatt die Erde in unersaettlicher Goldgier
+Auszuschmelzen und dann als Schlacke liegen zu lassen,
+Wie es ein Rothschild tut, bestelle man Wuesten und weise
+Ihnen die AEcker an!  Das heisst, sich selber beschuetzen,
+Denn wir besitzen die Habe noch nicht, wie Arme und Beine,
+Die wir freilich mit keinem zu teilen vermoegen, und sollen
+Nicht vergessen, was Moses gebot und Christus voraussetzt:
+Fuerchterlich koennt' es sich raechen!  Ich wuerde mit Freuden beginnen,
+Und mir waer' es genug fuers Leben und sicher fuers Sterben,
+Wenn ich mir sagen duerfte: Du wirst bis ans Ende der Zeiten
+Hier die Hungrigen speisen und so den heiligen Frieden,
+Denn ihn bricht nur die Not, auf ewig im Innern besiegeln!
+Ja, mir waer' es genug!  Doch sie ist anders geschaffen,
+Sie entbehrt die Tochter, wenn ich auch den Sohn nicht vermisse,
+Und der heimliche Gram verzehrt ihr leise die Kraefte.
+Anfangs freute ich mich, dass sie am heutigen Morgen
+Nicht so frueh, wie gewoehnlich, erwachte, aber es waehrt mir
+Jetzt schon wieder zu lange: sie hat die Nacht nicht geschlafen,
+Und ein trauriger Tag wird folgen!  Sie kommen doch abends?
+Sicher!--versetzte der Doktor--und einen eignen Gedanken
+Bringe ich mit: Sie moegen ihn nun als toericht verwerfen
+Oder, wie ich, als troestlich mit einiger Freude begruessen,
+Immer verdient er die Pruefung.  Ich war vorhin in der Kueche,
+Und da fand ich das Maedchen vom Lande in bitteren Traenen,
+Das gesunde und frische, das ich dem Hause empfohlen.
+Sie eroeffnete mir ihr Herz, denn seit ich vom Fieber
+Sie befreite, vertraut sie mir, als waer' ich ihr Vater.
+Ei, wie bunt ist die Welt!  Hier oben fehlt es an einem
+Und dort unten am andern!  Es waere vielleicht noch zu helfen,
+Wenn man die Haende sich boete.  Denn: Alles beruht ja auf Mischung!
+Sagt Apotheker Franz, der Helgolaender, und kaemen
+Mit den Kraeutern des Berges die Kraeuter des Tals nicht zusammen,
+Wuerde kein UEbel geheilt!  Ei nun, wir wollen's versuchen.
+Nur nicht zu frueh erwarten Sie mich.  Ein gluecklicher Schneider,
+Dem sie unter die Arme gegriffen haben, erlaubt sich
+Mit den Seinigen heute den ersten Pudding.  Er lud mich,
+Und ich moechte wirklich das kleine Fest nicht versaeumen,
+Denn nicht lieber seh' ich den Regenbogen am Himmel
+Als im Menschengesicht die wiedererwachende Freude.
+
+
+Dritter Gesang.
+
+Rasch entfernt sich der Doktor, denn viel noch hat er zu schaffen,
+Auch den Kaufherrn ruft gar manches ab, doch verwundert
+Schaut er dem Alten nach und denkt: was mag er nur meinen?
+Ploetzlich fuehlt er von hinten sich innig umschlungen, die Gattin
+Hat sich ihm leise genaehert, und wie er sich wendet, erstaunt er
+UEber den klaren Blick des reinen Auges und freut sich,
+Sie so ruhig zu finden.  Sie kuesst ihn herzlich und drueckt ihn
+Mehrmals gegen die Brust, als waere der Morgen der Hochzeit
+Wiedergekehrt, an dem sie, dem Kreise der Schwestern entschluepfend,
+Die nach in ihr schmueckten, und ueber die trennende Schwelle
+Ihm entgegenhuepfend, an welcher er schuechtern und lauschend
+Stehen geblieben war, dem fast Erschreckten bewiesen,
+Dass sie nur darum so lange das kargste der Maedchen gewesen,
+Um als reichste der Braeute noch in der letzten der Stunden
+Fuer die erduldete Strenge ihm ueberschwenglich zu lohnen.
+Denn, wie mancher Baum, zu dessen Fuessen die Veilchen
+Schon ihr Leben verhauchen und den die mildesten Luefte
+Unermuedlich umschmeicheln, nicht eine einzige Knospe
+OEffnet, bevor der Mai den Fruehling goettlich besiegelt:
+Also hatte auch sie sogar dem Verlobten noch vieles
+Abgeschlagen, was selbst die sproedeste Sitte gestattet
+Und die sorglichste Mutter nicht ruegt, und still sich bescheidend
+Hatt' er's ertragen, obgleich nicht ohne quaelende Zweifel.
+Aber, wie solch ein Baum zuletzt die innere Fuelle
+Auch in heisseren Dueften und volleren Blueten entbindet,
+Als die uebrigen alle, die nichts zusammengehalten:
+Also hatte auch sie auf diese einzige Stunde,
+Die mit Geben beginnt, um nicht mit Fordern zu enden,
+Alle Wonnen gehaeuft und ihn im Tiefsten beschwichtigt.
+Unvergesslich war ihm der Morgen, doch ward er nur selten
+Wieder an ihn erinnert, und heute am wenigsten haett' er
+Dieses Zeichen der Liebe von ihrer Seite erwartet.
+Feurig erwidert er's ihr, und als sie sich endlich ihm weigert,
+Spricht er: wir stritten uns oft, ob fallende Fruechte am besten
+Schmeckten, oder gepflueckte, ich hatte soeben von beiden,
+Und ich finde sie gleich.  Du aber sag' mir zuletzt noch,
+Was mir den innigen Gruss verschafft hat, den ich so zaertlich
+Nicht erhielt, seitdem ich von Philadelphia kehrte,
+Und auch da wohl nur, weil eine verlogene Zeitung,
+Sei sie noch jetzt mir gepriesen, mich scheitern liess und versinken,
+Als ich die Elbe bereits mit guenstigem Winde hinauftrieb.
+Sanft erroetend versetzt sie: Du warst mir wieder gestorben,
+Und so sehr ich den Traum auch hasse, weil er ein Nichts ist
+Und mich dennoch beaengstigt: fuer diesen koennte ich danken!
+Lass mich schweigen, ich habe gelobt, nicht wieder zu weinen,
+Und ich muesste vielleicht, wenn ich noch weiter erzaehlte,
+Aber, du sollst schon sehn.  Jetzt kenn' ich die OEde, jetzt weiss ich,
+Was es bedeutet, allein in weiten Gemaechern zu sitzen,
+Alle Stunden des Tages zu zaehlen und doch sich bei keiner
+Sagen zu duerfen: nun tritt er herein, nun prueft er die Mienen
+Deines Gesichtes und beut, sobald sie ihm traurig erscheinen,
+Dir die Rechte als Freund, sobald sie ermunternd ihm laecheln,
+Dir die Lippe als Gatte!  Jetzt hab' ich's in Wahrheit empfunden,
+Nicht aus Grille bloss mir eingebildet!  Drum will ich
+Dir in allem auch folgen!  Es gibt der Waisen so viele
+In dem grossen Hause, das jeglicher segnet1), der Reigen,
+Welcher zu Pfingsten die Strassen durchzieht, dass er Buerger erfahre,
+Wie man sie kleidet und naehrt, ist jaehrlich noch immer gewachsen:
+Nehmen wir eine heraus!  Wir koennten heute noch waehlen,
+Wenn du denkst, wie bisher!  Ein Knabe oder ein Maedchen,
+Was dir gefaellt, ist mir recht!  Wir machen einen auf Erden,
+Zweie im Himmel gluecklich!  Ich werde dich selber begleiten.
+Wiederhol' es mir morgen--versetzt er mit Laecheln--so wollen
+Wir es weiter bereden.  Ich denke es anders zu machen,
+Wenn es dein Wille bleibt.  Warum der sterbenden Mutter
+Nicht sogleich aus den Armen den Saeugling nehmen und, gaenzlich
+UEber sein Schicksal beruhigt, ins Grab sie senden, warum ihn
+Erst von Fremden empfangen?  Doch alles dieses auf morgen!
+Denn wie sehr ich mich auch der schoenen Wallung erfreue,
+Welche dich heute bewegt, ich werde sie nimmer missbrauchen,
+Und sie kommt mir zu rasch, als dass ich ihr voellig vertraue!
+Damit geht er von hinnen, denn lange schon warteten seiner
+Ungeduldig die Schreiber.  Doch kann er's nicht lassen, noch einmal
+An der Tuer sich zu wenden.  Mir lobe noch einer die Maedchen!
+Ruft er dann und enteilt.  Und wahrlich, er durfte es wagen,
+Denn die hohe Gestalt im weissen Morgengewande
+Mit den gluehenden Augen und reichlich wallenden Locken
+Ist vollendet zu nennen in stolzer Erscheinung, es deutet
+Nichts zurueck auf die Jugend, das unentwickelt und unreif
+Nicht zu zeitigen waere, und nichts hinein in das Alter,
+Das sich zu voll schon zeigte, es ist die reizende Mitte
+Zwischen Bluete und Frucht, der koestliche Gipfel des Lebens,
+Wo in holdester Pause die endlich gesaettigten Kraefte
+Ihren Sabbat feiern und nur mit sich selber noch spielen.
+Tief, wie nie noch, ergriffen von ihrer Macht, zu begluecken,
+Sieht sie dem Eilenden nach.  Ein eigener Schauder erfasst sie,
+Als sein treues Gesicht, das freilich derb, wie ein Holzschnitt
+Aus den aeltesten Zeiten, nur krampfhaft lachen und weinen,
+Aber nicht laecheln kann, mit froehlichem Nicken verschwindet
+Und die Tuere sich schliesst.  Denn diese hat sie im Traume
+Immer vor sich gehabt und alle Schrammen und Ritzen,
+Welche sogar Magdalenen beim emsigsten Bohnen entgingen,
+Deutlich sich eingepraegt.  Er sollte kommen und kam nicht,
+Aber statt seiner erschien nach langem aengstlichen Harren,
+Waehrend es die Minuten vorueberkrochen, wie Stunden,
+Schwarz gekleidet der Schneider und fragte mit ernsten Gebaerden,
+Ob es ihr jetzt gefalle, die Trauer zu waehlen, es warte
+Draussen auch schon der Zeichner mit einem Modell zu dem Denkmal,
+Den sie bestellt, wie ihn selbst, das Werk sei herrlich geraten,
+Ganz besonders die Bueste des Abgeschiednen, nicht treuer
+Haenge sein Bild an der Wand vor ihren eigenen Augen,
+Als es sich ueber dem Grabe zur groesste Zierde des Kirchhofs
+Bald, in Eisen gegossen, erheben werde!  Da war sie
+Vor Entsetzen erwacht und mit unendlicher Ruehrung
+Hatte sie durch das Spiel der Glocken hindurch2), wieder es stuendlich
+Von den Tuermen erschallt in frommen Choralmelodien,
+Seine Stimme vernommen und rasch und still sich erhoben.
+Tief war das Herz ihr beklemmt.  Der Fluch des ganzen Geschlechtes,
+Dass es nicht schaetzt, was es hat, und ueberschaetzt, was es nicht hat,
+Drueckte sie so darnieder, als waere nur sie ihm erlegen,
+Waehrend doch alle zusammen den Duft der lockenden Fruechte
+Gleich beim Pfluecken verwischen, und weil sich zwischen den Fingern
+Freilich das Gold nicht findet, das auf den Zweigen so reizte,
+Neu verlangend den Baum erklettern, um aber und aber
+Ihn zu pluendern und sich zu taeuschen!  Der bittre Gedanke,
+Ihrem Gatten wohl oft durch ihr verduestertes Wesen
+Stille Freude getruebt und edel verheimlichten Kummer,
+Statt ihn zu lindern, erhoeht zu haben, verliess sie nicht wieder:
+All die kleinen Momente, an denen das Leben so reich ist,
+Wo ein freundlicher Blick mit einem finstern erwidert
+Wurde, ein herzliches Wort mit einem kalten und leeren,
+Traten in greller Beleuchtung vor ihre geaengstigte Seele,
+Und sie fand nicht den Mut, ihm guten Morgen zu sagen,
+Eh' sei ein stilles Geluebde im tiefsten Gemuete beschworen.
+Fest auch steht ihr Entschluss, es unverbruechlich zu halten,
+Ja, sie wiederholt's, indem sie der Tuere den Ruecken
+Wendet, die ihr den Traum so klar ins Gedaechtnis gerufen,
+Dass sie ihr Auge bisher, wie magisch, an sich gefesselt.
+Als sie ins eigne Gemach zurueckkehrt, trifft sie die Zofe
+Eben vorm Spiegel: sie moechte von Magdalenen berichten,
+Die sich bei ihr erkundigt, ob Kalifornien weit ist
+Und ob wirklich die Strasse mit Totengerippen gepflastert,
+Wie sie auf aengstliches Fragen bei Hoffmann und Campe erfahren.
+Aber die Toerin erroetet und schleicht sich davon, als sie ploetzlich
+Ihre Herrin, anstatt auf sie zu hoeren, die Nadel
+Greifen sieht, um vor Nacht noch die laengst begonnene Arbeit,
+Welche schon aufgegeben erschien, fuer den Herrn zu vollenden.
+Denn die Neugier will's durch taetige Busse beweisen,
+Dass sie verwandelst ist, und wirklich wird sie noch fertig,
+Wenn auch im Laufe der Stunden gar manche ihrer Bekannten
+Prunkend und prahlend erscheinen, gehuellt in die neuesten Roben,
+Welche Paris geliefert, und brennend, Neid zu erregen,
+Oder zum wenigsten doch in stiller Bewundrung zu schwelgen.
+Ja, sie werden sogar, obgleich sie nur stoeren und hindern,
+Besser empfangen, wie sonst, und finden offnere Ohren,
+Fuer ihr erstaunliches Glueck, das Mode-Journal zu beschaemen.
+Denn es will ihr duenken, als haetten sie, taendelnd und gaukelnd
+Und die schillernden Flitter aus kindischer Freude am Wechsel,
+Wie die Voegel sich mausern, vertauschend und wieder vertauschend,
+Sich vor Schlimmrem bewahrt, sie schaut nicht mehr mit Verachtung
+Auf die Schwestern herunter, es scheint ihr doch besser, zu spielen,
+Als bestaendig zu brueten, den Liebsten aber zu quaelen.
+So vergeht ihr der Tag in furchtbar-ernster Betrachtung,
+Welche sie ueber sich selbst im Geist erhebt und sie kraeftigt,
+Waehrend im zierlichen Fleiss der Finger das Herz sich erleichtert.
+Und es naht sich der Abend.  Nun gilt's noch, die Gaben zu ordnen,
+Die sie bestimmt fuers Haus--seit Jahren tat es die Zofe--
+Dann, sich festlich zu schmuecken, und beides dauert so lange,
+Dass der Doktor erscheint, bevor sie noch selber gekommen.
+UEbergluecklich begruesst der Kaufherr ihn und erzaehlt ihm,
+Was am Morgen geschehn, und wie es weiter gegangen.
+Doch der Alte erwidert als Pruefer der Herzen und Nieren:
+Einer Genesenden gleicht sie, und alle Genesenden fuehlen,
+Wenn sie das UEbel verliess, sich frei von Wunsch und Verlangen,
+Denn sie haben das Mass des Menschlichen wieder gewonnen,
+Das die Begierde zerbrach, und wollen nur leben und atmen.
+Aber das aendert sich wieder.  Drum muss man die Pause benutzen,
+Und so fatal mir der Pastor mit Sakrament und Ermahnung
+Auch in der Krisis ist, so gern doch seh' ich ihn nahen,
+Wenn ich selbst mich entferne, denn rein ist der Boden von Unkraut,
+Und der goettliche Same mag Wurzel fassen und treiben.
+Also wollen wir's auch mit ihr verhalten, und hat sie
+Selbst den Entschluss gefasst, der einzig hilft auf die Laenge,
+Denn, was Juden als Fluch, gilt Christen noch immer als Unglueck,
+Und die bittre Empfindung wird wieder und wieder sich regen,
+Nun, so muessen wir sorgen, ihn rasch in die Tat zu verwandeln,
+Und es trifft sich besonders!--Da oeffnet sich ploetzlich die Tuere
+Und im seltensten Putz, sie weiss, wie sehr es ihm schmeichelt,
+Wenn sie die eigenen Reize erhoeht durch seine Geschenke,
+Tritt die Gattin herein.  Er eilt ihr entgegen, der Alte
+Folgt ihm aber sogleich, und zwischen sie tretend und beide
+An den Haenden fassend, beginnt er eifrig von neuem:
+Unten verbringt das Maedchen, das ich dem Hause empfohlen,
+Weinend den ganzen Tag, weil ihr Verlobter im Fruehling
+Nach Amerika will, um dort entweder zu sterben,
+Oder so viel zu erwerben, als noetig ist fuer die Heirat;
+Hier vermisst Ihr das Kind, das jetzt mit leuchtenden Augen
+Und mit gluehenden Wangen von einem Tische zum andern
+Huepfen sollte und Euch durch Haendeklatschen und Jubeln
+In die Jugend zurueckversetzen!  Da moecht' ich doch raten:
+Gebt das Paar zusammen und macht den Erstling zum Erben!
+Edel sind sie und brav, Ihr werdet es nimmer bereuen,
+Wenn das Wort sich bewaehrt, das alte, vom Stamm und vom Apfel,
+Und so sicher Ihr selbst das Kind ins Leben gerufen,
+Ebenso sicher auch werdet Ihr's inniger lieben, wie eines,
+Denn Ihr waehlt's Euch nicht aus, Ihr fragt nicht nach Augen und Haaren,
+Wie es doch sonst wohl geschaehe, es wird Euch von oben gesendet,
+Wie den Eltern, auch seid Ihr so heilig, wie diese, gebunden
+Und Ihr heisst es vielleicht, als waer' es ein eignes, willkommen.
+Ja, es koennte sogar fuer Euer eigenes gelten,
+Wenn Ihr wolltet, Ihr naehmet die Mutter mit auf die Reise,
+Welche Ihr jaehrlich macht, und kaemet ohne sie wieder:
+Sie vergaess' es ueber das zweite und faende sich gluecklich
+Ander Seite des Gatten in Huelle und Fuelle des Wohlstands,
+Aber es wuerde bei Euch auf einmal lebendig und froehlich,
+Denn was die Pendel den Uhren, das sind die Kinder den Haeusern!
+Sie erwidert dem Alten mit Hast und fiebrisch erroetend:
+Dieses waere das Beste, und also muss es auch werden!
+Was sie auch immer verlangen, so werden sie alles erhalten,
+Aber bevor noch der Saeugling den Mutter-Namen gestammelt,
+Muss sie sich trennen von ihm, denn mich nur darf er so nennen!
+Da entgegnet der Doktor: So sprech' ich denn gleich mit dem Maedchen!
+Und er verlaesst das Gemach.  Sie eilt ihm nach bis zur Tuere,
+Unwillkuerlich gedraengt, ihn umzurufen, doch haelt sie
+Auf der Schwelle noch ein und sagt, zum Gatten gewendet,
+Der sie verfolgt mit dem Blick: Nicht wahr, wir duerfen es nehmen,
+Wenn sie selber es geben?  Er holt sie zurueck und erwidert:
+Dieses gelt' uns als Zeichen!  Doch, wie sie auch immer sich fassen:
+Wir vereinigen sie!  Das hab' ich schon still mir geschworen.
+Was auch siege im Kampf: der Wunsch, ihr Kind zu behalten,
+Oder es gluecklich zu wissen, und gluecklich koennen wir's machen,
+Ruhig warten wir's ab, denn wahrlich, ich will sie belohnen.
+Abraham wurde geprueft, er sollte den Isaak schlachten,
+Und er fand sich bereit.  Doch nicht, als er trauernden Herzens,
+Aber mit laechelnden Mienen, der Sarah den Liebling entfuehrte;
+Auch nicht, als er den Berg mit zitternden Knieen hinanstieg,
+Oder den Opfer-Altar mit bebenden Haenden erbaute;
+Nicht einmal, als er schaudernd dem Knaben das Haelschen entbloesste,
+Erst, als das Messer schon blinkte, erschien ihm der rettende Engel!
+Diese brauchen nur Nein zu sagen, so ist es bestanden.
+Darum fuerchte dich nicht der Suende in deinem Gewissen:
+Denn sie gewinnen das Leben und setzen sich selbst die Bedingung.
+Aber nun sieh dich doch um, betrachte die Voegel und Blumen,
+Die dich so freundlich begruessen und sage mir, ob ich's getroffen?
+Sie entgegnet: ich habe da drueben fuer dich auch ein Tischchen,
+Wenig zwar liegt nur darauf, allein du bist ja genuegsam,
+Und ich kam, dich zu rufen!--Doch viel zu bewegt sind sie beide,
+Um hinueber zu gehn, sie scheinen's nicht einmal zu merken,
+Dass die tuerkische Tulpe vor ihren Augen sich oeffnet,
+Ja, sie wuerden nicht horchen, wenn ploetzlich die Sterne erklaengen.
+Bald auch kehrt der Doktor zurueck mit vergnuegtem Gesichte,
+Ihn begleitet das Maedchen.  Sie ist, wie zum Tode, erblichen,
+Aber sie laechelt dabei.  Sie moechte reden und danken,
+Doch sie versucht es umsonst; so sinkt sie der Herrin zu Fuessen.
+Diese erhebt sie und kuesst sie.  Da schallen Hoerner und Zinken
+Fromm von der Strasse herauf.  Nun wirft sie sich abermals nieder,
+Aber sie faltet die Haende und blickt gen Himmel.  Die Gatten
+Knieen neben ihr ihn, und also schliesst sich die Weihnacht.
+
+
+Vierter Gesang.
+
+Abend ward es und Nacht, eh' Christian kehrte aus Holstein,
+Denn die grimmige Kaelte war umgeschlagen, es hatte
+Tuechtig geschneit und die Wege verschuettet, da galt es, zu schaufeln,
+Aber das tut der Bauer allein fuer die Posten des Koenigs.
+Endlich rollt ein Wagen, er ist gar leicht zu erkennen
+An dem muntern Geklingel der schellenbehangenen Pferde,
+Vor dem Hause vorbei, und Magdalena, die laengst schon
+Ungeduldig geharrt und gespaeht durch das niedrige Fenster,
+Ruft ihm, mit hastigen Haenden das eingefrorene oeffnend,
+UEber die Strasse entgegen: Ich muss dich heute noch sprechen!
+Mit der Peitsche knallt er ihr lustig die Antwort herunter,
+Und, durch diese Bewegung die Kruste vom Leibe sich schuettelnd,
+Wird er wieder zum Menschen; bis dahin war er ein Schneemann.
+Jetzt auch waehrt es noch lange, bevor er kommt, denn die Tiere
+Wollen das Ihrige haben, und nicht dem eignen Besitzer
+Wuerd' er sie anvertrauen, er muss sie selber besorgen.
+Aber, nachdem er sie alle mit waermenden Decken behangen
+Und in die reinlichen Troege den goldenen Hafer geschuettet,
+Auch den Wallach, er ist es gewohnt, mit Kuemmel erquickt hat,
+Wechselt er rasch die Kleider und eilt, bevor er die Kammer
+Mit dem Weihnachtsgeschenk auch nur betreten, hinueber,
+Denn es ist ihm zu neu, sein Maedchen rufen zu hoeren,
+Um nicht zu brennen, sogleich den Grund zu erfahren.  Er trifft sie
+Ganz allein in der Kueche bei ihrer Lampe, die andern
+Sind zum Tanz und die Zofe ist gar, wie sie's nennt, in Visite,
+Und er verwundert sich sehr, sie unbeschaeftigt zu finden,
+Denn er sieht nicht die Schere und auch nicht die Nadel und dennoch
+Kann sie, das weiss er, nicht atmen, so lange die Finger ihr ruhen,
+Und sie beklagt es noch immer, im Hause nicht spinnen zu duerfen.
+Aber, wie waechst sein Erstaunen, als sie, die Schaemige, Scheue,
+Gleich an den Hals ihm fliegt, und wieder und wieder ihn drueckend,
+Spricht: Du darfst mir nicht fort, dich sollen die Baeren nicht fressen!
+O, ich weiss es gar wohl, was ueber dem Meer dich erwartet,
+Wenn du auch Wellen und Winden entgehst, die manchen verschlingen,
+Und den Menschenverkaeufern, die schlauer, wie ehmals die Werber,
+Ihre Netze zu stellen verstehn, ich hab' es erkundet,
+Denn noch nie ist das Herz mir bedraengt gewesen, wie gestern,
+Und so nahm ich mir Zeit.  Zu Tausenden liegen die Toten
+An der Strasse und weisen dich stumm zurueck in die Heimat,
+Wenn du sie aber verachtest, die schweigenden Warner, wie viele,
+Und nur Zeichen des Weges in ihnen erblickst, die man ruhig
+Hinter sich laesst, wie bei uns die Meilensteine, so wirst du
+Endlich selber zu einem.  Und kaemst du auch wirklich ins Goldland,
+Ohne vorher zu verhungern, und waerst so gluecklich, die Ader
+In der Erde zu treffen und auszubeuten, so wirst du,
+Eh' du ein Schiff noch erreichst, von Dieben und Raeubern erschlagen,
+Denn der Teufel regiert, und einer toetet den andern,
+Um nicht graben zu muessen und dennoch Schaetze zu haeufen!
+Lache, so lange du willst, du machst mich wahrhaftig nicht irre:
+Kalifornien ist der offene Rachen der Hoelle,
+Welcher sich ploetzlich geoeffnet, um Seele und Leib zu verderben,
+Doch, was red' ich, du bleibst, und so ist alles vorueber!
+Christian aber erwidert, sich ihren Armen entwindend:
+Immer hab' ich dich sonst gefasst und besonnen gefunden,
+Hat denn deine Natur auf einmal sich voellig veraendert?
+Gehen werd' ich gewiss, doch haett' ich dir's gern noch verborgen,
+Um dir das Fest nicht zu trueben, allein der Schmied und der Tischler
+Haben geplaudert, da waer' es dir dennoch zu Ohren gekommen
+Und du haettest am Ende geglaubt, ich wollte dich taeuschen,
+Darum musste ich's sagen.  Nun aber rede nicht weiter,
+Monde noch nennen wir unser, warum sie suendlich verjammern?
+Nein, wir wollen sie ruhig in Frieden und Freude verbringen
+Und in der Stunde der Trennung dem Vater im Himmel vertrauen,
+Deinetwegen allein wird dieser mich segnen und schirmen!
+Aber sie laechelt und spricht: Du brauchst nicht die Reise zu machen,
+Um es bestaetigt zu finden, es hat sich schon jetzt so erwiesen!
+Siehe, ich flehte ihn an, die Pruefung, wenn auch nicht gaenzlich
+Mir vom Haupte zu nehmen, so doch in Gnaden zu wenden,
+Und er hat mich erhoert.  Was sollte ich nun nicht ertragen,
+Da du mir bleibst und mir hilfst!  Es komme, was wolle, ich werde
+Sicher nicht murren und klagen!  Doch diesem waer' ich erlegen.
+Aber du weisst ja noch nicht!  Vernimm's und erstaune!  Die Herrschaft
+Steuert mich aus, und sie gibt auch dir ein reichliches Erbe.
+Schuettle nur nicht mit dem Kopf, es ist so, wie ich dir sage,
+Haus und Hof sind unser, sobald wir wollen, man wartet
+Oben schon lange auf dich, so geh und hoere das Weitre!
+Aber der Juengling versetzt, am Tische sich lehnend, wie schwindelnd:
+Sind denn wirklich die Engel noch nicht von der Erde verschwunden,
+Und was hab' ich getan, dass sie um mich sich bekuemmern?
+Doch, was frage ich noch!  Nur deinethalben geschah es!
+Soll ich denn alles in allem dir schuldig werden?  Wie vieles
+Hab' ich dir laengst zu verdanken!  Ich fuehl' mich nicht besser, wie andre,
+Und ich wuerde vielleicht, wie sie, im Taumel mich drehen,
+Bis ich mich selber verloere, wenn du nicht waerest!  Fuer alles
+Kommt der Tag der Versuchung.  Das taegliche Leben und Treiben
+Widert jeden, sobald ihn die Hoffnung verlaesst, und sie wechselt
+Gern, wie der huepfende Vogel, den Baum.  Da greift er zum Glase,
+Um sich selbst zu betaeuben, und hatten die Karten so lange
+Feurige Raender fuer ihn, die an den Teufel ihn mahnten,
+Der sie zuerst gemalt und herumgegeben, so scheinen
+Sie ihm ploetzlich vergoldet und locken durch alle Figuren.
+Siehe, da ist er geliefert, wenn nur noch Gottes Gebote
+Ihm die Strasse zur Hoelle versperren, wenn Vater und Mutter
+Ruhig im Grabe ihm schlummern, und noch kein sorgliches Maedchen
+An die Stelle der beiden trat.  Die Sterne des Himmels
+Zittert der nicht, zu verfinstern, und wenn sie zu schrecklich ihm funkeln,
+Schaut er nimmer hinauf, allein das Auge der Liebe
+Ist gar leicht zu trueben und seinen aengstlichen Blicken
+Kann sich keiner entziehn, da fuehlt sich der Mensch denn gehalten!
+So erging's mir mit dir.  Ich hatte die Eltern verloren,
+Und nun war ich gezwungen, an mich zu denken.  Das hatte
+Ich bisher nicht getan, es war mir genug, mit den Segen
+Zu verdienen, mit dem ich als Knabe ihr Huettchen verlassen,
+Um dem Bauern das Vieh zu hueten, zuerst nur die Gaense,
+Dann die Schweine und Schaft, und endlich die Ochsen und Kuehe,
+Und ich fuehlte mich gluecklich, fuer sie zu sorgen, auch hielt ich
+Ihnen die Not von der Tuer.  Da raffte die tueckische Seuche
+Sie hinweg, und auf einmal war alles anders.  Die Groschen
+Blieben mir zwar, und ich konnte allmaehlich manches mir schaffen,
+Was ich lange entbehrt, doch boten die Uhr und die Pfeife
+Keinen Ersatz fuer das Laecheln der Mutter, womit sie mir's lohnte,
+Wenn ich ihr gegen den Winter mit Bohnen und Erbsen die Truhe
+Fuellte, oder im Fruehling zur Mastung ein Ferkelchen brachte.
+Da begann ich zu rechnen, und leider musst' ich's bejahen,
+Wenn die Genossen mir sagten, mein Sparen bringe mich einzig
+Um die Freuden der Jugend, und sichre mir doch nicht das Alter,
+Hoechstens koennt' ich den Doktor aus eigenem Saeckel bezahlen,
+Wenn ich einmal erkrankte, allein das danke mir keiner,
+Den besolde die Stadt.  So warf ich denn wirklich mein Flickzeug
+Eines Sonntags beiseite, denn Sonntags flickte ich wieder,
+Was ich zerriss in der Woche, und mischte mich unter die andern,
+Um, wie diese es nannten, doch auch mal den Herrn zu probieren.
+Wohl gekaemmt und gebuerstet, und blank in der Tasche den Taler,
+Prunkt' ich daher, auch gefiel's mir, zuerst den Hafen zu sehen,
+Wo die Masten so eng und so dicht zusammen sich draengen,
+Wie die Spitzen des Schilfs bei uns in Graeben und Suempfen,
+Dann an dem Ufer der Elbe hinab zu spazieren nach Flottbeck1)
+Und die Schiffe zu zaehlen, die eben kommen und gehen,
+Oder die Gaerten, die bunt sich am breiten Flusse dahinziehn.
+Gern bezahlt' ich auch mittags mein Essen, obgleich ich's zu Hause
+Besser und billiger hatte, ich liess mir's sogar noch gefallen,
+Dass wir auch Kaffee tranken, ich wollte den Maekler nicht machen.
+Aber, als sie nun riefen: jetzt muessen wir karten und kegeln
+Und den guten Likoer daneben versuchen, da sprach ich:
+Weiter halt' ich nicht mit!  und ging, wie sehr sie auch hoehnten,
+Denn oft sagte mein Vater, es wuerde keiner die erste
+Schenke betreten, der ahnte, in welcher Gestalt er die letzte
+Einst nach Jahren und Monden verlassen wuerde, auch schluepfte
+Selbst der Gesunkenste schwerlich des Morgens hinein, wenn er wuesste,
+Wie er sich abends entfernte, und dieses klang mir im Ohre.
+Nicke mir nicht so freundlich, es waer' wohl noch anders gekommen,
+Denn der Grund, der mich trug, ich fuehl' es noch heute mit Schaudern,
+Wankte mir unter den Fuessen, und Taumelnde koennen auch fallen,
+Doch, ich erblickte dich!--Und wurdest--versetzt sie--mein Retter,
+Als ich mich vor dem Verfolger nicht laenger zu schuetzen vermochte.
+Mich auch hatte der Spott, wie dich, vom Hause getrieben,
+Denn ich fuehlte mich gluecklich, daheim zu sitzen, ich hatte
+Angst vor der grossen Stadt, und wuenschte mich ebensowenig
+In den Strudel der Menschen, wie in den Strudel der Elbe,
+Wenn sie flutet, hinein.  Da aber hiess es bestaendig:
+Diese ist wohl in Sachsen vom Baum heruntergefallen,
+Dass sie keiner besucht, es kommt nicht Bruder noch Schwester,
+Oder Onkel und Tante, auch hat sie ja keinen Geburtstag,
+Denn ihr wird nicht geschrieben!  Da ging ich denn endlich, als waer' es
+Zu Verwandten und Freunden, allein ich kannte nicht einen
+Von den Tausenden, welche hier wohnen, und all mein Vergnuegen
+War, die Stunden zu zaehlen, mein Kleid im Gedraenge zu schuetzen
+Und mir die Strassen zu merken, um abends den Rueckweg zu finden.
+So gelangt' ich vors Tor.  Da aber gesellte sich ploetzlich
+Ein Begleiter zu mir.  Ich hatte ihn niemals gesehen,
+Lang und schmal, wie er war, und prangend in Ketten und Ringen,
+Aber er wollte mich kennen, und gruesste von Vater und Mutter.
+Als ich ihm sagte, er irre, die laegen schon lange im Grabe,
+Sprach er, er meine die seinen, und blieb mir ruhig zur Seite.
+So gewiss ich auch wusste, dass keiner mich kannte, so wollt' ich
+Dennoch ersticken vor Scham, als wenn es mir mitten im Dorfe
+Unter den Meinen geschaehe, und suchte ihm rasch zu entkommen.
+Aber, wie ich auch lief, und wie ich mich drehte und wandte:
+Nichts gewann ich ihm ab, und spoettisch rief er am Ende:
+Dirne, ich bin ja der Wind, du willst doch dem Wind nicht entlaufen?
+Nun begann er sogar, von haesslichen Dingen zu reden,
+Und je stiller es wurde, je mehr die Menschen verschwanden,
+Um so kecker erging sich seine verworfene Zunge.
+Rennen konnt' ich nicht mehr, und mag man die Augen verschliessen:
+Offen bleiben die Ohren, und herzlich begann ich zu weinen.
+Aber er hoerte nicht auf, es wurde je laenger, je aerger
+Und zugleich auch die Gegend verlassner und wilder und wilder.
+Da vernahm ich von ferne ein Pfeifen, das froehlich und mutig
+Klang und mir Hilfe verhiess, ich schrie, so laut ich's vermochte,
+Und es waehrte nicht lange, so wurdest du sichtbar, dich hatte
+Nur ein Knick2) noch verborgen.  Du eiltest herbei, doch der andre
+Lief nicht davon, er besah dich mit seinem vergoldeten Glase,
+Welches an schwarzem Bande ihm baumelte ueber der Weste,
+Sprach, er sei kein Raeuber, doch ich das albernste Gaenschen,
+Und erkundigte sich nach Bauers Garten.--Du aber,
+Mit den Augen mich pruefend und ueber und ueber ergluehend,
+Tratest ihm ernst in den Weg und riefst mit donnernder Stimme:
+Herr, das Kind hat geweint, und ich, ich bin aus dem Lande,
+Wo man die zinnernen Kruege vor Zeiten, wie lederne Schlaeuche,
+So mit den grimmigen Faeusten zusammendrueckte und quetschte,
+Dass das verschuechterte Bier die Decke bespritzte und Loecher
+Machte, als kaem's aus der Buechse!  Er lachte hoehnisch und sagte,
+Leicht in die Tasche greifend und klingelnd mit Gold und mit Silber:
+Hier ist ein Taler, mein Freund, nun fuehr' Er die Liebste zu Ahrens,
+Dort wird abends getanzt!  Doch du--Ich mag es nicht denken,
+Aber der Juengling erwidert, die hangenden Locken ihr scheitelnd:
+Kind, ich haette mich selbst des Zorns nicht faehig gehalten,
+Der mich so ploetzlich ergriff, und keiner meiner Genossen,
+Denn ich galt fuer ein Lamm.  Auch waer' ihm gewiss nichts geschehen,
+Haett' er nur mich beschimpft, die seidenen Kleider allein schon
+Haetten ihn sichergestellt, ich haett' mich im stillen geaergert,
+Auch vor dir mich geschaemt, und doch wohl albern gelaechelt,
+Denn noch erblickt' ich den Herrn in jedem, welcher den feinern
+Rock auf dem Leibe trug, und liess mich drillen und haenseln.
+Aber, wie ich dich sah und alles, was er geredet,
+Von der brennenden Wange dir ablas, ward ich ein andrer,
+Als ich mich je noch gefuehlt im ganzen Leben, und eher
+Haett' ich dich selber verletzt, du wichst zwar bald auf die Seite,
+Aber du faltetest doch die Haende und schienst mich zu bitten,
+Ihn zu verschonen, als ihm die buendige Probe erlassen,
+Dass die Faeuste noch immer in Wesselburen gedeihen3).
+Nun, es sei ihm verziehn!  Er wird es nicht wieder versuchen,
+Und ich hab' es am Ende doch ihm allein zu verdanken,
+Dass ich dich kennen gelernt, wie haett' ich dich sonst wohl getroffen?
+Und du waerst auch vor mir vielleicht so aengstlich gelaufen,
+Wie nur immer vor ihm, drum wuensch' ich ihm nicht einmal Narben.
+Aber, nun sprich, was es gibt!  Mir dreht sich der Kopf noch im Wirbel!
+Muss ich gewiss nicht zu Schiff?  Ich geh' ja nicht gerne, obgleich ich
+Hart am Meere erwuchs!  Ich lieb' es den Wagen zu lenken,
+Oder die Pferde zu tummeln, auch mag ich pfluegen und dreschen,
+Aber das Wasser war mir stets zuwider, und nie noch
+Hab' ich den Fischer begleitet, so gern ich dem streifenden Jaeger
+Mich gesellte, wenn's ging!  Wie ist nicht das eine schon graesslich,
+Dass man darin nicht bloss ertrinken, sondern darauf auch
+Schmaehlich verdursten kann!  Mir ward es hinter den Deichen
+Immer schon eigen zu Mut, die gegen Stuerme und Fluten
+Uns das Laendchen beschirmen.  Das Schrillen und Kreischen der Voegel
+Mit den langen Haelsen und oft noch laengeren Schnaebeln,
+Welche im warmen Sande die bunt gesprenkelten Eier
+Hinterlassen, die Muscheln und selbst die fettigen Kraeuter
+Mit den wolligen Blumen erfuellten mich immer mit Grausen,
+Und ich brauchte nicht erst auf Toten-Gebeine zu stossen,
+Wie sie aus Schiffer-Graebern vergilbt und vermorscht wohl hervorschaun,
+Um das Knabengeluest nach Bernstein niederzukaempfen
+Und von dannen zu fliehn.  Da magst du dir denken, wie leicht mir's
+Ward, den Entschluss zu fassen, mich dennoch der See zu vertrauen!
+Aber ich war es dir schuldig, und waer' es mir uebel ergangen,
+Und ich erwartete nicht, ich darf es dir jetzt ja bekennen,
+Was der Schmied und der Tischler erwarten, so waere ich drueben
+Bis an mein Ende geblieben, und waer's auch als Sklave gewesen,
+Um dein Glueck nicht zu hindern und andern den Weg zu vertreten.
+Du verfaerbst dich?  Was hast du?  O, haette ich Narr doch geschwiegen,
+Diese erzaehlte mir Traeume, und ich, ich nahm sie fuer Wahrheit!
+Aber das Maedchen erwidert: Man schaudert wohl auch bei Gefahren,
+Die man erst voellig erkennt, nachdem sie voruebergegangen!
+Also hatt' ich doch recht, sogleich das AErgste zu fuerchten
+Und mich nicht zu besinnen!  Nun mache nur du es nicht schlimmer,
+Frage nicht, eile hinauf, und wenn ich selbst nur nicht Nein sprach,
+Weil es zu ploetzlich kam und mich verwirrte, so zeige
+Du dich dafuer als Mann, und gib dein entschlossenes Jawort!
+Haus und Hof sind unser, sobald wir es selber nur wuenschen,
+Und wir sollen dafuer--– ich weiss nicht, ob ich's verstanden,
+Aber dort kommt er selbst, er wird dir's deutlicher sagen!
+Und dem Kaufherrn, welcher die Tuer soeben geoeffnet,
+Tritt der Juengling entgegen und spricht: Ich habe das Maedchen
+Nie als toericht gekannt, und dennoch kann ich's nicht glauben,
+Dass ich mir wirklich ihr Stottern und Stammeln richtig gedeutet.
+Wenn es aber so waere, wie sie verkuendet, so koennt' ich
+Nur das einzige sagen: ich kenn' und liebe die Wirtschaft,
+Und der juengre Verwalter hat das voraus vor dem aeltern,
+Dass er sich selbst nicht schont, und nicht mit der Zunge bloss ackert.
+Wenn Sie mir also vertrauen, obgleich die Erfahrung mir mangelt,
+Werden Sie, was ich verseh', an Knechten und Pferden ersparen.
+Wahrlich, ich werd' es an Fleiss nicht fehlen lassen, ich stehe
+Jetzt schon der erste auf und bin der letzte zu Bette,
+Und was einer dem Boden nur abzwingt, sei's an Getreide,
+Sei's an Obst und an Vieh, das werden auch wir schon gewinnen!
+Aber der Kaufherr spricht: Ihr saeet und erntet euch selber,
+Ich bin hoechstens noch da, wenn UEberschwemmung und Misswachs,
+Brand, Viehsterben und Krieg euch wider Verhoffen betreffen,
+Um euch helfen zu koennen, im uebrigen seid ihr die Eigner,
+Und verpflichtet euch bloss, nicht wiederzukehren nach Hamburg,
+Denn das Gut, das ich meine, liegt fern am Fusse des Brockens,
+Und uns das Kind zu lassen, damit wir es christlich erziehen
+Und es zum Traeger des Namens, sowie zum Erben ernennen.
+Christian, erst so erstaunt, als wuerd' er belehnt mit der Erde,
+Denn er hatte nicht einmal an Pacht, geschweige an Herrschaft
+Sich zu denken getraut bei ihren verworrenen Worten,
+Faehrt zusammen und schaut auf Magdalena, doch diese
+Ruft: So ist's!  Wir geloben's! und haengt mit aengstlichen Blicken
+An dem Munde des Juenglings.  Er schweigt noch lange, doch endlich
+Sagt er: Was du versprichst, das kann ich halten! und bietet
+Nun dem Kaufherrn fest zum Pfand und zum Siegel die Rechte.
+
+
+Fuenfter Gesang.
+
+O, wie schoen ist die Zeit, wenn schalkhaft hinter dem Winter
+Schon der Lenz sich versteckt, wenn frueh am Morgen die Lerche
+Wirbelt, als haette sie laengst das Veilchen gesehen, und dennoch
+Abends gern mit dem Spatz sich unter dem Balken verkroeche,
+Wo er im Neste kauert, und wenn die erste der Primeln
+Durch den naemlichen Tropfen, an dem sie sich mittags erquickte,
+Waehrend die Sonne so brannte, vor Nacht ihr Ende noch findet,
+Weil er gefriert und sie knickt!  Wie ist sie in Ahnung und Hoffnung
+Jener spaetern voraus, wo schleichend hinter dem Sommer
+So der Herbst sich verbirgt!  Die Schauer von Hitze und Kaelte
+Wechseln zwar ganz, wie jetzt, allein es ziehen die Schwalben
+Und es kommen die Raben, die einen nicht laenger gefesselt
+Von der Waerme, die andern nicht laenger geschreckt, auch erblickt man
+Schon die Erstlingsglieder der traurigen Kette von Blumen,
+Welche, den Duft und die Farbe zugleich allmaehlich verlierend,
+Schliesst in der strohigten Aster, die selbst der Sturm nicht entblaettert,
+Sondern der Schnee begraebt!--Die schoene Zeit ist gekommen,
+Und ein glueckliches Paar, vom kurzen Tage ermuedet,
+Weil es die spaerliche Frist, die zwischen den Nebeln der Fruehe
+Liegt und den Nebeln des Abends, durch Fleiss zu verdoppeln gewohnt ist,
+Setzt sich beim Scheine der Lampe behaglich zur dampfenden Suppe
+Und verzehrt sie mit Lust, doch still und ohne zu reden,
+Wie es der Landmann macht, um sich den Genuss nicht zu schmaelern.
+Dann hebt Christian an: Ich habe die AEcker und Wiesen
+Heute wieder gemustert und kann es noch immer nicht fassen,
+Dass ich auf eigenem Boden mich muede gelaufen.  Er ist zwar
+Nicht so fett, wie bei uns, auch hat man in muessigen Stunden
+Steine genug zu sammeln, und wird sie sobald nicht vertilgen,
+Weil, wie die Bauern hier sagen, der Teufel sie immer von neuem
+Fallen laesst, wenn er nachts mit vollen Saecken vom Blocksberg
+Abfaehrt, um sich dafuer in Holstein Seelen zu kaufen,
+Aber, wie dehnt sich das aus!  Sogar das Eckchen am Berge
+Ist noch unser, ich fragte!  Und Magdalena erwidert,
+Waehrend sie einige AEpfel als unerwarteten Nachtisch
+Bringt und laechelnd verteilt: Ich habe dagegen den Garten
+Naeher besehen und kann dir von jeglichem Baume vermelden,
+Welche Fruechte er traegt, wieviele, und wann er gesetzt ist.
+Spare die Frage, du Schalk, ich hab's den Rinden der Staemme
+Nicht entnommen, mir hat's der alte Pfarrer verkuendet,
+Welcher vorueber kam.  Er kann sich der Zeit noch erinnern,
+Wo das Haus nicht stand, und hat den hintersten Birnbaum,
+Den uns der Mond jetzt zeigt, am Tage, wo man's gerichtet,
+Eigenhaendig gepflanzt.  Den wollte er eben besuchen,
+Weil er ihn liebt, und ich denke, wir schicken ihm jaehrlich ein Koerbchen,
+Ganz bis oben gefuellt mit allen Sorten zur Labung,
+Wie es die andern getan, obgleich er uns schwerlich die Rede
+Halten wird, wenn wir sterben!  Du glaubst nicht, die edelsten Arten,
+Wie sie der Gaertner nur hat, dabei dem Wind, wie entzogen,
+Weil die Huegel uns decken, die lang geschweift sich dahinziehn,
+Und gesucht auf dem Markt, wie keine!  Es waere Verschwendung,
+Selbst davon zu kosten, als Weihnachts-Abend.  Was horchst du?
+Christian tritt zum Fenster und spricht, indem er es oeffnet:
+Regte die Kuh sich nicht?  Ich lege mich heute nicht nieder,
+Denn ich traue nicht recht.  Es ist zwar nach dem Kalender
+Auf der Tuere am Stall noch eine Woche, doch weiss ich,
+Dass sich die Knechte verrechnen, indem sie der Striche zu viele
+Oder zu wenige machen, und habe ich, ohne zu murren,
+Oder auch nur aufs Geheiss zu warten und Kaffee zu fordern,
+Fremdes Vieh bewacht, wie sollt' ich das eigne vergessen!
+Lachst du nicht mit?  Das eigne!  Ich glaube noch immer zu traeumen.
+Magdalena versetzte: Ich hoere nicht auf, mich zu wundern,
+Wenn ich so alles bedenke, am meisten aber erstaun' ich
+UEber die Trauung selbst.  In stattlicher Kutsche zu fahren,
+Waehrend Vater und Mutter zu Fusse gingen und triefend
+Vor dem Pastor erschienen, die angesehene Herrschaft
+Und den Doktor als Zeugen zu haben, waehrend die Eltern
+Hirt und Waechter dienten und muerrisch das Wetter verfluchten,
+Und am Abend der Schmaus: es war, um den Kopf zu verlieren!
+Waere dir nicht der Hut heruntergefallen, indem du
+Gar zu eilig den Wagen besteigen wolltest, und haette
+Ich nicht die Locken zerdrueckt und Kranz und Baender verschoben,
+Als ich zur Seite rueckte: es waere zu praechtig gegangen,
+Und man haett' uns zu stark beneidet, vielleicht gar beredet;
+Aber nun gab's fuer die andern in Huelle und Fuelle zu lachen,
+Und wir beide kamen nicht eher aus dem Erroeten
+Wieder heraus, als im Dom, wo neue Sorgen begannen,
+Oder erging es dir besser?  Ich zitterte kindisch, zu zeitig
+Oder zu spaet mit dem Ja zu kommen, obgleich ich als Kind schon,
+Hinter den Stuehlen der Kirche mich mit den Gespielen versteckend,
+Um vom brummenden Kuester nicht fortgetrieben zu werden,
+Manche Trauung gesehn und alles gehoerig beachtet,
+Was den Braeuten geziemt!  Da ist es mir anders gegangen!--
+Sagte Christian jetzt--Sobald ich die Orgel vernehme
+Und den gekreuzigten Heiland mit seinen Wunden erblicke,
+Hab' ich die Welt im Ruecken und koennte Koenigen selber
+Fest in die Augen schaun!  So recht, noch einige Kloetze
+In den Ofen geschoben, damit ich nicht friere.  Wie emsig
+Bist du aber gewesen!  Wie blinken Tiegel und Pfannen,
+Nun sie die Flamme beleuchtet!  So ist der Kessel von Kupfer,
+Statt von Messing?  Wie glaenzt er!  Den Spiegel wirst du nicht brauchen,
+Jedes Geschirr ersetzt ihn, wir koennten ihn wieder verkaufen,
+Wenn mein Bart nicht waere, und diesen lasse ich wachsen,
+Wie sie's hier alle tun, die Hirten sogar und die Fischer.
+Was wir aber behalten, das sind die heiligen Bilder
+Von dem verlorenen Sohn.  Mit diesem hab' ich als Knabe
+Oft zu Mittag gegessen.  Mein Vater pflegte zu sagen,
+Wenn es an allem gebracht, sogar an Salz und Kartoffeln,
+Wie sich's im Winter zuweilen begab, wenn Fasnacht vorbei war:
+Heute sind wir bei dem zu Gast gebeten! und zeigte
+Auf die lustige Tafel, sie hing vergilbt und verraeuchert
+UEber dem Ofen und hatte gewiss schon den zehnten Besitzer,
+War auch nicht zu verkaufen und galt nicht einmal als Pfandstueck,
+Wo der Wuestling schwelgt und wo ihn die Dirnen bestehlen.
+Trunken hebt er das Glas, den Wein verschuettend, zu Fuessen
+Liegt ihm ein leckeres Brot, vom Arm heruntergestossen,
+Welches ein Hund beschnueffelt, indes er, wenn er sich wendet
+In dem geschaukelten Stuhl, es augenblicklich zertreten
+Oder beschmutzen muss, und dies muss einig geschehen,
+Wenn er nicht stuerzen will.  Der Tisch ist reichlich beladen
+Mit den erlesensten Speisen und ausgewaehlten Getraenken,
+Aber ich wuenschte mir nichts vom ganzen glaenzenden Gastmahl
+Fuer den brennenden Hunger, als dieses Brot, und ich hab' es
+Tausendmal in Gedanken verzehrt und werde auf Erden
+Niemand wieder beneiden, wie diesen Hund, der so satt ist,
+Dass er es kaum beriecht.  Nun geh mir aber zu Bette!
+Wenn sich der Wind noch mehr erhebt, so will ich mich freuen,
+Dass ich mein Feuer schuere und nicht mit dem Schmied und dem Tischler
+Auf dem Ozean schiffe, du aber traeume geschickter
+Wie in der letzten Nacht, von Wilhelm und Anne, sie haben's
+Jetzt so gut, wie die meisten, der Weihnacht hat sie gekraeftigt!--
+
+So verstreichen dem Paar die Stunden, die Tage und Wochen,
+Eine der anderen gleich und keine besser und schlechter,
+Wie im himmlischen Reich; sie sprechen zu keiner: verweise!
+Oder: entferne dich rascher!  Denn alle bringen dasselbe.
+Nur die Arbeit wechselt.  Der Pflug geht heute zu Felde,
+Morgen wackelt die Egge ihm nach und ebnet die Furchen,
+Welche er zog in der Erde, und wenn die beiden im Schuppen
+Wieder ruhen, versucht sich die laengst gedengelte Sense
+Schon am ersten Grase.  Indessen folgte der Primel
+Mit dem froehlichen Spatz, der selbst im Winter noch Trotz beut,
+Still das liebliche Veilchen, von Fink und Lerche begleitet,
+Und der heisse Hollunder, dem Maiengloeckchen verschwistert,
+Welcher die Nachtigall durch seine betaeubenden Duefte
+Aus dem Schlummer erweckt.  Wer schwitzt, der sieht in der Sonne
+Nur noch die Uhr, nicht den Stern, und alle Blumen und Voegel
+Sind fuer den Ackrer nicht da.  Doch Samstags bueckt er sich gerne,
+Wenn er am Abend die Ochsen zu Hause treibt, um ein Straeusschen
+Mitzubringen, so gut er's eben findet, das Sonntags,
+Vor den Busen gesteckt, die Liebste ziere zum Kirchgang.
+Dies tat Christian auch, und Magdalena bedankte
+Sich am folgenden Tag durch irgendein neues Gemuese,
+Welches der Garten gebracht, sei's nun das zarte Radieschen
+Oder der frische Spinat, und was die guetige Erde
+Weiter bietet.  So sind die froehlichen Pfingsten gekommen,
+Und mit dunkelnder Nacht, es war noch so vieles zu ordnen,
+Um die festliche Rast mit Ruhe geniessen zu koennen,
+Tritt er singend ins Haus und bringt ihr den ersten Hollunder.
+Stumm am Herde beschaeftigt und gegen die Tuere den Ruecken
+Kehrend, scheint sie ihn nicht zu hoeren, da tickt er ihr leise
+Mit den tauigen Blumen auf ihren gluehenden Nacken,
+Dessen Tuch sich verschob.  Sie faehrt ein wenig zusammen
+Vor der ploetzlichen Kaelte, wie wird ihm aber zumute,
+Als sie, statt sich zu freuen und ihm nach ihrer Gewohnheit
+Aus der dampfenden Pfanne den ersten Bissen zu reichen,
+Dass er koste und lobe, den Strauss in wilder Bewegung
+Aus den Haenden ihm reisst und in die Flammen ihn schleudert.
+AEngstlich sieht er sie an, doch eh' er die Lippen noch oeffnet,
+Stuerzt sie ihm an die Brust und weint, als haette sie eben
+Himmel und Erde gekraenkt und koenne sich nimmer verzeihen.
+Sie zu beschwichtigen, will ihm lange durchaus nicht gelingen,
+Denn sie bebt vor sich selbst, und er fragt umsonst nach dem Grunde
+Dieser heftigen Wallung.  Sie hatte ihn freilich ein Stuendchen
+Frueher erwartet zum Essen, und alles war ihr verbraten,
+Doch erklaerte das nichts.  Da tritt, um Feuer zu zuenden,
+Eine Alte herein, die sie verwundert betrachtet,
+Als sie die Traenen erblickt, die immer noch rollen, und der sie
+Hastig erzaehlt, was geschehn, damit sie zu Christians Nachteil
+Nicht das Verkehrte glaube.  Die fuehrt sie schmunzelnd beiseite,
+Fragt sie manches und lacht.  Dann spricht sie, indem sie sich wendet:
+Ruft mich herueber, sobald sich die ersten Halme vergolden,
+Laenger wir's wohl nicht waehren, und sorgt indes fuer die Hemden.
+Was den Suender betrifft, wo muss er geduldig sich fassen,
+Wenn's auch noch aerger kommt, und denken, es zanke sein Kindlein,
+Du gebrauche dein Recht, du darfst jetzt kratzen und beissen.
+Als sie sich humpelnd entfernt, will Christian tanzen und jubeln,
+Magdalena jedoch bedeckt ihr Gesicht mit den Haenden,
+Wie am Hochzeitsabend, als alle neckend den Erstling
+Leben liessen, und nicht aus Scham allein und Verwirrung.
+Da besinnt er sich schnell und sagt, um ihre Gedanken
+Abzuleiten: Mich hungert! und als sie essen und trinken,
+Fuegt er hinzu: Nun musst du mir morgen gewiss auf den Brocken,
+Wie du mir's Ostern versprochen, denn wenn wir's wieder verpassen,
+Wird dir das Steigen zu schwer, und immer waer' es doch schade,
+Wenn der Sommer verginge, bevor wir mit eigenen Augen
+Urians Sitz uns besehn, um nicht zu sehr zu erschrecken,
+Wenn es im kommenden Herbst rumort zu unseren Haeupten!
+So beschwichtigt er sie und heiter verstreichen die Pfingsten,
+Denn, vom herrlichsten Wetter beguenstigt, erklimmen sie wirklich
+Den verrufenen Berg, vor dem sie als Kinder schon bebten,
+Wenn die Mutter, im Winter, beim Schein der erloeschenden Lampe
+Sie entkleidend, die Taten des Besenstieles erzaehlte,
+Und der Vater zum Schluss des feurigen Drachen noch dachte,
+Waehrend sie, schaudernd vor Angst, wie vor Frost, in die Kissen sich wuehlten.
+Seltsam starrt er sie an mit seinen Stollen und Schachten,
+Die zur Hoelle hinunterzufuehren scheinen, und haetten
+Sie's auch nie gehoert, dass alle Daemonen hier hausen,
+Wuerden sie dennoch zittern, dem Teufel hier zu begegnen,
+Wenn die dunkelnde Nacht sie unter den Fratzengestalten
+All der Felsen beschliche, die ringsum drohen und aeffen
+Und vielleicht um die Stunde der Geister zum Leben erwachen,
+Um durch die Luefte als Jaeger auf gluehenden Rossen zu stuermen,
+Oder als Gnome zu spuken und waschende Maegde zu plagen.
+Drum beeilen sie sich, zurueck in die Taeler zu kommen,
+Die er nur dann betritt, wenn ein entsetzlicher Frevel
+Ihm den heiligen Kreis der schirmenden Engel geoeffnet,
+Und beim Sinken der Sonne ihr Doerfchen wieder erreichend,
+Wo das Gelaeut gerade verhallt, geloben sich beide,
+Halb den Schwindel vor Augen und halb die empfundenen Schauer,
+Auch in den Gliedern gelaehmt, wie nie, und verlacht von den Nachbarn,
+Keinen Festtag wieder auf diese Weise zu feiern.
+Ihr verbietet sich's auch von selbst, denn ganz, wie's die Alte
+Prophezeite, geschieht's.  So wie die Rosen ergluehen,
+Werden die Wangen ihr bleich, und als die Levkojen sich fuellen,
+Kann sie sich kaum noch buecken, sie abzupfluecken.  Nur eines
+Trifft nicht zu, sie wird nicht launisch, wie andre, die erste
+Heftige Wallung ist zugleich auf die letzte gewesen,
+Aber unendliche Trauer bemaechtigt sich ihrer und stuendlich
+Gehen die Augen ihr ueber.  Er sucht umsonst zu erfahren,
+Was sie drueckt, doch er kann sich genau des Tags noch erinnern,
+Ja, der Stunde sogar, wo ihr in ploetzlicher Zuckung
+So die ersten Traenen entschossen.  Sie hatte soeben
+Leise gebetet, wie's schien, und hielt die flehenden Haende
+Noch gefaltet, wie er, durchs Fenster lauschend, bemerkte,
+Denn er kam zum Essen.  Da fuhr sie auf einmal zusammen
+Und begrub ihr Gesicht im Schoss.  Er nahte sich hastig,
+Weil er dachte, sie sei vielleicht von Schmerzen befallen,
+Doch sie erhob das Haupt und suchte zu laecheln.  Verwundert
+Sah er sie an.  Da begann sie zu schluchzen und ging in die Kueche,
+Um sich auszuweinen.  Er folgte ihr, aber vergebens
+Fragte er, was ihr sei.  Indessen verdraengte den Sommer
+Schon der ergiebige Herbst, und selten noch strotzte sein Fuellhorn
+So von allem zugleich, was fuer den traurigen Winter
+Keller und Boeden uns fuellt.  Denn meistens bringt er das eine
+Reichlich, um mit dem andern zu kargen, da Hitze und Kaelte,
+Nasses und trockenes Wetter fast nie so guenstig gemischt sind,
+Dass auf jegliche Frucht nach Art und Mass und Beduerfnis
+Immer das Rechte kaeme, und keine im Wechsel erfroere
+Oder erstickte.  Die Baeume im Garten drohen zu brechen,
+Denn die naechtlichen Froeste des Mais vertilgten die Raupen
+So erbarmungslos, dass neben Hummeln und Bienen
+Fast der lustigste Schwaermer, der farbige Schmetterling, fehlte,
+Als sie den Raubzug hielten im Reiche der Blumen und Blueten,
+Und die AEhren sind schwer, als truegen sie goldene Koerner
+Und zerknicken die Halme, bevor noch die Sichel gewetzt ist.
+Nun gibt's drinnen und draussen zu tun.  Das Obst zu besorgen,
+Fuehlt sie sich noch imstand, wenn er's des Abends nur schuettelt,
+Was sie selbst nicht vermag.  Sie schlichtet am Tage die Haufen,
+Nimmt das Erquetschte fuer sich, wie frueher das Wuermergestochne,
+Schickt das wenig Verletzte, das UEbermuerbe und Weiche
+Auf den Markt zum Verkauf und legt das Beste beiseite,
+Um es, wenn Mangel entsteht, zu hoeherem Preis zu versilbern.
+Er dagegen ist fleissig im Felde und macht die Erfahrung,
+Dass der Taetigste selbst fuer sich die Kraefte noch immer
+Anders braucht, als fuer Fremde, denn hat er frueher fuer zweie
+Schaffen koennen, so kann er's jetzt fuer dreie und fuehlt sich
+Doch zur Nacht nicht zu muede, um mit im Hause zu helfen.
+Schon sind Roggen und Weizen in sicherer Scheuer geborgen,
+Und so hat denn der Mensch sein Teil, nicht minder die Gerste,
+Welche dem Mastvieh Mark und Fett und schweres Gewicht gibt,
+Und es spritzte von oben nicht eine Wolke!  Es fehlt jetzt
+Nur noch der Hafer des Pferdes, so ist bis auf die Kartoffel,
+Die dem Tier mit dem Menschen gemein ist, die Ernte vollendet.
+Heut soll dieser daran, indes im Garten die Quitten,
+Welche allein noch haengen, den luftigen Platz auf den Zweigen
+Mit der dumpferen Kammer, wo auf der reinlichen Schuette
+Schwestern und Brueder schon lagern, vertauschen muessen: die Garben
+Fliegen lustig hinauf zum Wagen, da sieht man den Nachbar
+Hastig nahen und winken mit ausgezogener Weste,
+Weil's ihm am Tuch gebricht.  Mit halb beladener Fuhre
+Jagt ihm Christian gleich entgegen.  Was trifft er zu Hause?
+Eine glueckliche Mutter, die unter Lachen und Weinen,
+Rot und weiss zugleich, wie Apfelbluete, ein Knaeblein
+Trinken laesst.  Sie ist nur kaum ins Bette getragen,
+Denn sie hat es im Gruenen geboren, als sie sich bueckte,
+Eine vergessene Birne emporzuheben, die gelblich
+Blinkte unter dem Grase.  Er kuesst sie leise und fluestert:
+Siehst du, dass man nicht stirbt?  Nun trockne denn eilig die Traenen,
+Sie mich so lange geaengstigt.  Sie aber erwidert mit Seufzen:
+Ach, das habe ich nie gefuerchtet!  Ich hatte gebetet,
+Dass es nicht kommen moechte, doch eh' ich das Amen gesprochen,
+Huepfte es mir zur Strafe im eigenen Schosse entgegen!
+
+
+Sechster Gesang.
+
+Unterdessen erwartet der Kaufherr, welcher die Gattin
+Nach Italien fuehrte, in Rom das stille Ereignis,
+Denn es sollte so sein, als haette sie selber geboren.
+Endlich erhaelt er den Brief, von aussen schon leicht zu erkennen
+An den eisernen Zuegen der dennoch zittrigen Handschrift,
+Welcher die Meldung bringt.  Er traegt ihn, ohne zu oeffnen,
+Gleich hinueber zu ihr und spricht: Es hat sich entschieden,
+Aber nun frage dich eins, bevor das Siegel geloest wird:
+Ist dir jegliches Kind willkommen?  Die wirkliche Mutter
+Unterscheidet nicht zwischen dem einen und zwischen dem andern,
+Ja, es ist so bestimmt durch Gottes ewige Fuegung,
+Und den Zug der Natur, dass ihr das gebrechliche Wesen
+UEber das kraeftige geht, das kraenkliche uebers gesunde,
+Aber die Fremde erschrickt vor einem verwachsnen Gebilde,
+Und sie findet das Weinen und Schreien des Buckels abscheulich,
+Was sie dem Engelskoepfchen verzeiht und gelassen erduldet.
+Sie erwidert: Das habe ich alles bedacht und erwogen
+Und bin meiner gewiss.  Was Gott uns sendet, das werde
+Ich mit Liebe begruessen.  Und waere das Schicksal der Sarah
+Mir noch am Ende bestimmt, ich machte sie nimmer zur Hagar,
+Nein, ich fuehlte mich doppelt beglueckt und doppelt gesegnet,
+Und man sollte nicht ahnen, dass ich nur eines von beiden
+Unter dem Herzen getragen, so redlich wuerde ich teilen,
+Was im Busen mir wohnt, das kann ich dir heilig beteuern.
+Aber erbrich nur den Brief, damit ich vor allem erfahre,
+Wie es ihr selber ergangen, ich habe schon lange gezittert.
+Rasch durchfliegt er den Brief und spricht mit Laecheln: wie Eva!
+Und das Kind ist gesund und wohl gebildet.  Da treten
+Ihr die Traenen ins Auge, und erst zum Himmel die Haende
+Hebend, dann den Gemahl umarmend, vergeht sie in Ruehrung.
+Aber er selber sagt: Ich darf den nackenden Knaben
+Ruhig zum Erben ernennen, mir lebt kein einz'ger Verwandter,
+Welcher mir naeher stuende, und heut noch schreib' ich nach Hamburg
+Und bestelle die Taufe zum Mai.  Ich werd' ihn erziehen,
+Dass er in jeglichem Armen den Bruder sieht und ihn troestet,
+Und so sorg' ich durch ihn, den Sohn des Volkes, noch immer
+UEber das Grab hinaus fuers Volk und gebe ein Beispiel,
+Wie man Gespenster beschwoert und doch nicht die Kugeln verteuert.
+Denn dies liegt mir am Herzen.  Es wanken im innersten Grunde
+Alle Staaten der Erde, und wenig wird nur gebessert,
+Ob die Rotten des Poebels den Diener des Fuersten erschlagen
+Und die blutige Tat auch blutig buessen und suehnen,
+Oder noch schlechtere Junker den Mann des Gesetzes erschiessen
+Und, dem Richter entzogen, der AEchtung des Dichters verfallen.
+Alles lebt nur von heute auf morgen, besonders Parteien,
+Und so gewaltig die Kaempfe auch sind, so schrecklich die Siege,
+Die sie im wechselnden Spiel des Kriegs einander entreissen:
+Immer muss ich der Knaben am Flusse gedenken, die schaudern,
+Wenn er, von allen Gewaessern der ragenden Berge geschwollen,
+Rauscht und sich schaeumend ergiesst, und jubeln, wenn sie ihn endlich
+Wieder gefrieren sehn.  Wer wird sich des Kahns noch erinnern,
+Wenn er den Schlittschuh braucht, und wer des rostigen Schlittschuhs,
+Wenn er im Kahne faehrt?  Warum den einen verzimmern
+Oder den anderen putzen?  Jetzt dauert's ja immer und ewig!
+Geht es fort wie bisher, so werden Staende die Staende,
+Voelker die Voelker vertilgen, und in die schweigende OEde
+Kehren die Tiere zurueck, die einst dem Menschen gewichen.
+Aber du weisst, wie ich denke, nun eil' ich und schreibe dem Doktor!--
+Also geschah's.  Doch nie erschien ein Winter ihr laenger,
+Als der jetzige, welchen sie unter den Myrten verlebte,
+Denn das muntre Gewimmel der bunten roemischen Feste
+Oder der heitere Chor der ewig laechelnden Musen,
+Welche den zweiten Olymp hier fanden, vom ersten vertrieben,
+War fuer sie nicht vorhanden, und wenn sie die Rosen erblickte,
+Die, vom gemilderten Hauch der afrikanischen Wueste
+Angeblasen, noch immer die frischen Gaerten verzierten,
+Konnte sie's kaum begreifen, dass ihre Schwestern in Deutschland
+Nur in Kuebeln und Toepfen die eingeschlafene Triebkraft
+Fristen sollten, indes des Nordpols wuetendste Stuerme
+Eisig sausten, und Schnee und Regen sich grimmig bekaempften.
+Endlich wird es in Rom so heiss, dass jeder des Landes
+Hinter den Alpen mit Sehnen gedenkt, denn ploetzlich erscheint hier
+Immer der Sommer, der wird nicht sanft vom lieblichen Fruehling
+Eingefuehrt, er ist da, und gleich verschrumpfen die Wiesen,
+Deren erquickliches Gruen im Norden sich ewig erneuert.
+Aber der Kaufherr spricht: Jetzt haengt man die Pelze in Hamburg
+An den Nagel und sucht in Harvstehude1) sich Primeln,
+Darum mein' ich, wir lassen den Knaben allmaehlich entwoehnen
+Und begeben uns dann, dem Veilchen folgend, verweilend,
+Wo es eben erblueht, und scheidend, wo es vertrocknet,
+Auf den Weg nach Hause.  Und also ward es geordnet.
+Aber das junge Paar im Harz verbrachte den Winter
+Froh, wie keinen vorher.  Wer zaehlt die Freuden der Eltern
+An der Wiege des Kindes, und wer die Wonnen der Mutter,
+Wenn sie noch alles in allem ihm sein darf, waehrend der Vater
+Ihm noch ferne steht, wie Himmel und Erde, und einzig
+Durch die Sorge fuer sie, die beide vertritt, wie ihn selber,
+Seine Liebe zu ihm betaetigt!  Wer nennt uns die Sprossen
+Dieser goldenen Leiter der reinsten Gefuehle, auf welcher
+Sich der Mensch und der Engel begegnen und tauschen, und welche
+Alle Sphaeren verbindet und alle Wesen vereinigt!
+Welches irdische Glueck ist diesem hoechsten vergleichbar,
+Das uns ueber uns selbst erhebt, indem wir's geniessen,
+Und wem wird es versagt, wem wird es gekraenkt und geschmaelert?
+Wie der Kelch der Gemeinde auf gleiche Weise an alle
+Kommt und alle erquickt, so kommt auch dieses an alle:
+Fuersten empfinden's nicht tiefer, und Bettler empfinden's nicht schwaecher,
+Weil die einen den Saeugling in Purpur wickeln, die andern
+In die Krippe ihn legen, das gibt kein Mehr und kein Minder,
+Und so ist die Natur gerecht im ganzen und grossen
+Und verteilt nur den Tand, die Flitter, nach Lust und nach Laune!--
+
+Habt ihr euch je ein Nest mit Kinder-Augen betrachtet?
+So vergroessert es euch und setzt zwei glueckliche Menschen
+Statt der Voegel hinein und einen lieblichen Knaben
+Statt des piepsenden Jungen, das Atzen und Glustern und Blustern
+Bleibt dasselbe.  Wie wird zuerst darueber gestritten,
+Wem er gleicht!  Ein jeder entdeckt die Zuege des andern,
+Weil er sie lieber sieht, als seine eignen, doch taeglich
+Ist das kleine Gesicht veraendert und voellig unmoeglich
+Scheint es, Frieden zu schliessen.  Es sind am Ende die Eltern,
+Seine, oder die ihren, die auferstehen im Enkel,
+Weil sie, Christian sagt's, vergassen, sich malen zu lassen.
+Welch ein Ereignis ist das erste wirkliche Laecheln,
+Das die Mutter auf sich bezieht und jubelnd berichtet,
+Dass er sie nun schon kenne, und, wenn sie gehe, vermisse!
+Dann die zappelnden Arme, die ihren Nacken umklammern,
+Wenn sie sich niederbueckt, so wie die beseelteren Blicke
+Und der erwiderte Kuss!  Zuletzt die stampfenden Beine,
+Welche die Erde suchen und dennoch scheuen, das Lallen
+Mit gebundener Zunge und ungeduldigen Lippen,
+Und der vernehmliche Laut!  Wie oft muss Christian kommen,
+Um ihn schlummern zu sehn!  Wie gern verlaesst er die Tenne,
+Wo er drischt, und verdoppelt nachher die gewichtigen Schlaege
+Des geschwungenen Flegels, um das Versaeumte bis Abend
+Wieder einzubringen!  Und ist nicht der Knabe in Wahrheit
+Groesser und klueger, als andre?  Das Tannenbaeumchen, zu Weihnacht
+Angezuendet, ist zwar noch ueberfluessig gewesen,
+Aber erfreut er sich nicht des lustigen Hahnes zu Lichtmess,
+Welcher zuweilen die Stube besucht, des geschuettelten Kammes
+Und des ploetzlichen Kraehens?  Der Hahn macht eben Visite,
+Und das Knaeblein kreischt und klatscht vergnuegt in die Haende,
+Als der roemische Brief, der seine Entwoehnung gebietet,
+Eintrifft.  Christian liest und spricht: Jetzt gibt ihm zu trinken,
+Dass er ruhe und schlafe, wir haben zusammen zu sprechen.
+Doch sie erbleicht und ruft: Die Ostern sind vor der Tuere,
+Und ich weiss, was es ist!  Es faehrt mir nur so in die Glieder,
+Dass ich ihm nicht die Brust zu reichen wagte, und wenn er
+Hungriger waere, wie je.  Er muss sich heute behelfen!
+Christian aber versetzt: So seid ihr auf immer geschieden,
+Denn die Stunde ist da.  Zu morgen bring' ich dir Wermut,
+Dass er von selbst verzichtet, er geht ja bald auf die Reise,
+Und da muss er die Kuh vorher als Amme gewohnt sein.
+Magdalena schweigt, doch wohl bemerkt es der Gatte,
+Dass sie weint in der Nacht und auf die leiseste Regung
+In der Fruehe das Kind noch einmal stillt.  Es erbarmt ihn,
+Dass sie es heimlich tut, als waere es schon ein Verbrechen,
+Und ihn selber mit Angst betrachtet, ob er auch schlafe,
+Und er huetet sich wohl, durch irgend eine Bewegung
+Sie zu stoeren, er laesst sogar von ihr sich erwecken,
+Um die letzte Besorgnis in ihr zu ersticken, obgleich er
+Zittert, wenn er sich fragt: wie wird's nur weiter ergehen?
+Aber es scheint, als haette sie ihre Muttergefuehle
+Jetzt fuer immer bezwungen, denn leichter, als er sich's dachte,
+Reicht sie am folgenden Tage dem straeubenden Knaben die fremde
+Nahrung, die er nur selbst beharrlich sich weigert zu nehmen,
+Und ist, wenn auch nicht froh, doch still und in sich beruhigt.
+So verstreicht die Woche, er will sich durchaus nicht gewoehnen,
+Doch er faellt nicht vom Fleisch, zu Christians hoechster Verwundrung,
+Der ihn nicht essen sieht und dennoch gedeihen und wachsen,
+Und sie selber enthaelt sich edel jeglicher Klage.
+Sonntags morgens laesst die Mutter ihn tanzen und springen,
+Waehrend der Vater pfeift, da loest sich zu beider Entzuecken
+Hell das erste Mama von seinen stammelnden Lippen.
+Christian will ihn kuessen, doch eh' er sich seiner bemaechtigt,
+Reisst sie selbst ihn empor und presst ihn gegen den Busen,
+Dass er erschrickt und weint, und ruft: Ich lasse dich nimmer!
+Weg mit AEckern und Wiesen!  Wir haben Arme und Beine,
+Und wir sind dir nicht Gueter, wir sind nur Liebe dir schuldig!
+Dass du es weisst, mein Freund!  Er hat noch immer getrunken,
+Und es wird ihm kein Tag an seinem Jahre entzogen,
+Hierin bin ich dir fest, in allem andern gefuegig!
+Hungern will ich und dursten, wie Vater und Mutter es taten,
+Frieren und nackend gehn und ganze Naechte nicht schlafen,
+Doch ich gebe ihn nicht und muesst' ich mich selber verkaufen!
+Christian aber erwidert: Du weisst doch, dass wir gelobten,
+Weisst doch, dass ich dir nicht geraten, noch dich getrieben,
+Weisst doch, dass ich nur zoegernd und nicht im Galopp dir gefolgt bin!
+Nun, so wisse noch eins: ich haben, so lange ich lebe,
+Nie mein Wort noch gebrochen und werde auch dieses nicht brechen,
+Drum entwoehne ihn morgen, ich bring' dir den Wermut noch einmal.
+Sie verstummt, denn sie hat noch nie so ernst ihn gesehen,
+Und er schreitet hinaus, er sagt, die Kraeuter zu pfluecken,
+Aber er tut es nur, um ihr den Kampf zu verhehlen,
+Welchen er selber kaempft, und welcher die Seele ihm spaltet.
+Sie hingegen umarmt und kuesst den Knaben aufs neue,
+Dass sie ihn fast erstickt und ruft, als ob er's verstaende:
+Nein, ich lasse dich nicht, es moege kommen, was wolle!
+Und bevor noch der Abend herab auf die Erde sich senkte,
+Ist ihr Entschluss gefasst: sie will ihn stehlen und fliehen.
+Still bereitet sie nun das kleine bescheidene Buendel,
+Das ihr selber gehoert, und wenn ihr die Traenen auch reichlich
+Stroemen bei dem Gedanken an die so bittere Trennung
+Von dem Herzlich-Geliebten, so fuehlt sie dennoch im Innern
+Durch dies schmerzliche Opfer zugleich sich gestaerkt und gehoben,
+Und so wie das Vertrauen auf Gottes Erbarmen und Hilfe
+Waechst durch dieses Gefuehl, so steigt auch die laechelnde Hoffnung
+Leise wieder empor vor ihren verduesterten Blicken,
+Und so sieht sie am Ende der langen Reihe von grauen
+Monden und Jahren ein goldnes und sternengekroentes sich winken.
+Morgen muss es geschehn, denn morgen soll sich die Quelle,
+Welche ihr selber entspringt, verstopfen: wie will sie ihn traenken,
+Wenn sie versiegte?  Ein Dach ist leichter zu finden, es wohnen
+Menschen in jeglicher Huette, und Engel bereiten die Staette,
+Wenn sich die Unschuld naht, von Reue und Busse geleitet.
+Schuechtern erkundet sie nun die naechsten Wege und Stege,
+Denn, vom Lokomotiv entfuehrt in brausender Eile,
+Kennt sie die Strasse nicht, auf der sie gekommen, und die sei
+Jetzt mit Tritten des Huhns zurueckzumessen beschlossen,
+Weil ihr Wilhelm und Anna vor Augen stehen, wie Sterne.
+Als der Tag nun erscheint, da kocht sie dem Gatten zum Abschied
+Noch sein liebstes Gericht, doch kann sie selber nicht essen,
+Denn ihr fiebert der Kopf, sie hat die Nacht nicht geschlafen,
+Und ihr huepfen die Pulse, als wollten die Adern zerspringen.
+Christian merkt es wohl, ihm sind die heimlichen Traenen
+Auch nicht entgangen, doch denkt er: sie will sich endlich bezwingen,
+Und es kostet sie viel!  Da klopft er ihr bloss auf die Wange,
+Als er sich wieder erhebt und spricht: wir machen ihn gluecklich!
+Um die Daemmerungszeit begibt er sich dann in die Schmiede,
+Wo man die Eisen des Pfluges ihm schaerft, nun richtet sie alles
+Fuer den Abend und schleicht sich fort, in doppelte Tuecher
+Ihren Knaben gehuellt und unter dem Arme das Buendel.
+AEngstlich spaeht sie umher und duckt sich hinter die Buesche,
+Wenn sie Kommende hoert, sie stehn war noch nicht im Laube,
+Aber sie decken sie schon, wenn nur der Knabe durch Schreien
+Das Versteck nicht verraet.  Doch geht auch mancher vorueber,
+Der mit fluechtigem Auge das Reisig streift und sich wundert:
+Keiner der Wenigen ist darunter, welche sie kennen,
+Still auch verhaelt sich das Kind, durch leises Schaukeln beschwichtigt,
+Und es senken die Schatten des Abends sich bald so gewaltig,
+Dass sie sich eilen muss, um nur die verlassene Huette
+Zu erreichen, in der sie die Nacht zu verbringen beschlossen.
+Einem Jaeger gehoert sie und liegt im Walde.  Sie kennt sie,
+Weil sie mit Christian einst, den fernsten Acker besuchend,
+Sich vor Regen und Schlossen in ihr geborgen.  Ein Lager,
+Das sie im Innern trifft, aus duerren Blaettern bereitet,
+Kommt ihr freilich zustatten, doch moechte sie's lieber entbehren,
+Denn sie fuerchtet, es koennten auch andere Gaeste erscheinen.
+Doch sie setzt sich und reicht dem Knaben die Brust, die er lange
+Tastend und greifend gefordert, und zieht zur eignen Erquickung
+Einen der AEpfel hervor, womit sie die Tasche gefuellt hat.
+Schmecken will er ihr nicht, sie legt ihn wieder beiseite,
+Als sie eben gekostet, indes der Knabe behaglich
+Trinkt, als waer' er daheim, und in den Pausen des Atmens
+Kichert und endlich versinkt in seinen gewoehnlichen Schlummer.
+Brausend erhebt sich der Wind und wirft die trockenen Zweige
+Auf das bretterne Dach und blaest, als wollt' er's entfuehren,
+Aber sie heisst ihn willkommen, obgleich sie bei heftigen Stoessen
+Immer zusammenfaehrt, er scheint ihr die Ruhe zu sichern,
+Und mit den Kleidern des Buendels den Knaben noch sorglich bedeckend,
+Wuehlt sie sich ein in die Streu und faellt, erschoepft von den Qualen
+Dieser Tage, in Schlaf, wie ein Tier, noch eh' sie gebetet.
+Christian kommt indes mit seinem Eisen zu Hause
+Und verwundert sich sehr, kein Licht zu sehen, er hat sich
+Laenger, wie sonst, verweilt, um aus dem Munde des Schmiedes
+Manchen Rat zu vernehmen, denn dieser ist alt und erfahren,
+Aber nicht immer freundlich, und noch viel seltner gespraechig.
+Dennoch verschliesst er gelassen den Stall, vergattert den Garten,
+Traegt die Eisen zu Boden, und stellt sie, alles im Finstern,
+Hinter dem Schornstein auf.  Dann lauscht er hinein in die Kueche,
+Wo, er hoert's vor der Tuer, die Suppe brodelt, und als er
+Magdalena beim Feuer nicht findet, wie er erwartet,
+OEffnet er leise die Stube und fragt im Scherz, ob sie schlafe.
+Alles stumm!  Was ist das?  Er tastet sich durch bis zur Wiege.
+Sie ist leer!  Er erschrickt und zuendet eilig die Kerze.
+Ein Gedeck auf dem Tisch!  Die Mutter entfloh mit dem Kinde!
+Doch wohin?  Noch nicht weit!  Es sind nur wenige Stunden!
+Rasch zum Jaeger!  Er borgt mir sicher den eifrigsten Spuerer,
+Und das freundliche Tier ist willig, zu folgen, es kennt mich.
+Wo ist ein Tuch von ihr?  Und wo ein Strumpf von dem Knaben?
+Beides ist schwer zu entdecken, doch endlich ist er so gluecklich,
+Und nun klopft er den Alten heraus und stottert zusammen,
+Was er selbst nicht versteht, von naechtlichem Gehn und Verirren.
+Dieser bewilligt den Hund, doch zweifelt er an dem Erfolge,
+Weil es zu maechtig stuermt, als dass er die Spur nicht verloere,
+Wenn sie ein einziges Mal nur gegen den Wind sich gewendet.
+Wirklich dreht das Tier auch lange vergeblich im Kreise,
+Als es die Stube, wohin es gefuehrt ward, wieder verlassen,
+Ja, es heult vor Verdruss.  Doch ploetzlich beginnt es, zu schnueffeln,
+Dann zu wedeln und froehlich zu bellen.  Nun schiesst es von hinnen,
+Dass ihm Christian kaum mit seiner hoernernen Leuchte
+Nachzukommen vermag.  Es geht zuweilen im Zickzack
+Um die Buesche herum, doch nie versagt ihm die Wittrung,
+Bis es die Huette erreicht und anschlaegt, um es zu melden.
+Welch ein Schreck fuer die Arme, die drinnen kauert.  Was ist das?
+Ist's ein Wolf vom Gebirg'2)?  Sie sollen bellen wie Hunde!
+Oder ist es ein Hund?  Dann kommt er nicht ohne Begleitung!
+Hilf uns, heiliger Gott!  Da wird die gebrechliche Tuere
+Aufgestossen und schnoppernd, doch nicht mit gluehenden Augen,
+Faehrt's im Sprunge herein.  Sie greift voll Angst nach dem Knaben,
+Welcher, geweckt aus dem Schlummer und seiner behaglichen Waerme
+Ohne Schonung entrissen, mit Haenden und Fuessen zu stampfen
+Und zu murren beginnt.  So seid Ihr's gewiss und wahrhaftig?
+Ruft mit keuchender Brust,--der Hund war grimmig gelaufen,
+Als er der Huette sich nahte, die ihm bekannt und vertraut war,--
+Und die Leuchte erhebend mit ihrem verloeschenden Lichte,
+Aus der Ferne der Gatte, das eifrige Bellen verstehend.
+Rasch nun stuerzt er heran und schliesst sie fest in die Arme,
+Streichelt das Tier, das leckend und dieses Dankes gewaertig
+Ihn umschmeichelt, und spricht: So kannst du mich wirklich verlassen?
+Ich vermoechte es nimmer und nimmer, von dir mich zu trennen.
+Doch sie erwidert ihm sanft: Ich kann und ich darf ja nicht bleiben,
+Und du darfst mich noch minder begleiten, das fuehle ich selber,
+Darum waer's viel besser, du haett'st uns nicht wieder gefunden!
+Aber, erschuettert, wie nie, versetzt er mit stroemenden Traenen:
+Kehre nur heute zurueck, so gehen wir morgen zusammen!
+Sieh, es legt sich der Wind, auch blinken schon einige Sterne,
+Und ich trage den Knaben und diene dir selber zur Stuetze!
+
+
+Siebenter Gesang.
+
+Als sie am folgenden Morgen beisammensitzen--die Sonne
+Steht schon hoch, doch sie wuerden noch schlafen, haette der Jaeger
+Nicht geklopft und gefragt, wie alles am Abend gegangen--
+Sagt der Gatte mit Ernst: Es werde wie du beschlossen,
+Denn ich darf dich nicht halten und kann noch weniger dulden,
+Dass du bettelst, so lange mir Arme und Beine geblieben,
+Aber wir muessen noch warten, denn als ein getreuer Verwalter
+Will ich zum mindesten gehn, und viel noch gibt es zu pfluegen.
+Dann auch musst du mir folgen, wohin ich dich fuehre, ich moechte
+Diesem guetigen Herrn nicht wieder begegnen und auch nicht
+Dieser freundlichen Frau, so wie dem redlichen Alten,
+Die uns gewiss nicht gezwungen, und die wir dennoch so taeuschen.
+UEber den Ozean muessen wir fluechten, der Schmied und der Tischler
+Sind schon lange hinueber, und wenn wir sie finden, so werden
+Sie uns die Wege bezeichnen und vor den Betruegern uns warnen.
+O, ich verblende mich nicht!  Du sagst mit Recht, dass das Wetter
+Drueben wechselt, wie hier, und dass noch keiner das Unglueck
+Mit dem Staube der Strasse sich von den Fuessen geschuettelt,
+Wenn er zu Schiffe stieg!  Es wimmelt von Schelmen und Dieben,
+Und wo kaemen sie her und wagten das Rad und den Galgen,
+Wenn es sich anders verhielte?  Doch darf man immer noch hoffen,
+Waehrend der Mensch in Europa fuer ewige Zeiten verdammt ist,
+Aus der Hand in den Mund zu leben, und endlich zu darben,
+Da die juengeren Kraefte die stumpfen des Alters verdraengen,
+Ehe die Grube sich oeffnet, wo muede Gebeine zerfallen.
+Schweres steht uns bevor, und dieses scheint mir das schlimmste,
+Dass nicht jedem die Luft bekommt, denn wenn wir erkrankten,
+Waeren wir auch verloren.  Doch alles kann ja gelingen.
+Sieh mich nicht fragend an, ich bin nicht minder entschlossen,
+Weil ich weiss, was es gilt, und weil die traurigen Bilder
+Meiner duerftigen Jugend sich unter die froehlichen mischen,
+Welche die neue Welt in leichten Gemuetern entzuendet:
+Meine Traeume sogar, du weisst es, sind immer beklommen,
+Doch ich trug sie noch nie ins Leben hinueber und werde,
+Wenn ich auch nicht erwarte, am eigenen Herde, wie heute,
+Wieder zu sitzen und wieder mit eigenen Ochsen zu pfluegen,
+Ziehn, als hofft' ich das beste, und nur den Knaben bedauern.
+Ja, du laechelnder Schelm, er fasst den Schlaefer ins Auge,
+Der sich gerade reckt, du wirst es teuer bezahlen,
+Dass du die Milch der Mutter noch trinkst.  In Samt und in Seide
+Koenntest du gehen und frueh, die Buecher im zierlichen Raenzel,
+Und das Pennal in der Hand, da Johanneum1) besuchen,
+Um Lateinisch und Griechisch und Spanisch und Englisch zu lernen,
+Waehrend und jetzt vielleicht, in Lumpen gekleidet, die Schweine
+Hueten musst, wie dein Vater, und hoechstens die Stimmen der Voegel
+Nachzuahmen verstehst, wenn du dem Metzger die Herde
+Zutreibst gegen den Winter!  Die Handelsschule beziehen
+Und nach einigen Jahren, verbracht auf nuetzlichen Reisen,
+An der Boerse sich zeigen, um endlich den stolzen Gesichtern
+Dich zu gesellen, auf die der Makler schaut, wie der Ackrer
+Auf die Sonne, damit er das Wetter des Tages erforsche!
+Das ist alles dahin!--Doch Magdalena erwidert
+Gluehend: Auch die Gefahr, im Pavillon2) an der Alster,
+Von den andern verfuehrt, durch Trinken und Spielen und Fluchen
+Sich hervorzutun, noch ehe der Bart ihm gewachsen,
+Und im zwanzigsten Jahre begraben zu werden, wie mancher,
+Welchem der Ruecken schon bricht, bevor er sein Kreuz noch gesehen!
+Denkst du des Sohns nicht mehr, der an der Mutter Geburtstag
+Und, ich schaudre noch heute, vor ihren eigenen Augen
+Sich erschoss, weil ihn nichts auf Erden noch lockte und reizte?
+Lass ihn schwitzen, wie wir, wo wird er gewiss nicht verderben,
+Und was Menschen gebrauchen, das koennen sie immer verdienen,
+Wenn sie die Muehe nicht scheun.  Du weisst, ich bin nicht so aengstlich,
+Wie du selber, obgleich ich zweifle, ob es den Meinen
+Besser erging, wie den Deinen, was du ja bestaendig behauptest,
+Um dir den froehlichen Mut, der mich beseelt, zu erklaeren.
+Nein, wir haben wohl auch, das glaube, gehoerig gehungert,
+Und im Sommer sogar, und ganze Tage die Hoffnung
+Bloss auf den Wind gesetzt, ob dieser die Baeume des Nachbars,
+Welche die Zweige zu uns herueberstreckten, nicht schuetteln
+Und uns einiges Obst bescheren werde.  Wir lagen,
+Ich und die Schwester, die lange dahin ist, unter dem Zaune,
+Hielten Gras in die Hoehe, die Luft zu pruefen, und wagten,
+Wenn kein Halm sich bewegte und immer staerker der Magen
+Knurrte, auch wohl den Wurf.  Es mangelt mir nicht an Erfahrung,
+Aber ich fuerchte mich nicht, ich will dich mit Freuden begleiten
+Und ertragen, was kommt, es wird mich troesten und staerken,
+Dass ich mein Kind nicht verkaufte.  Ich haett's ja auch nimmer versprochen
+Fuer die AEcker und Wiesen, ich tat's, um dich zu behalten,
+Und ich dacht' es mir nicht so schwer.  Doch seit ich es sehe,
+Ach, was sage ich da, schon seit ich es fuehle und spuere,
+Ist mir zumute, als sollt' ich mich selber zerreissen und teilen
+Und die Haelfte begraben!  Ich habe gesuendigt und will es
+Buessen, wie du's verhaengst, nur eines musst du gewaehren,
+Ehe wir ziehen, es liegt mir schon laengst auf dem Herzen, die Taufe,
+Dann hinueber mit Gott, und lieber heute als morgen!
+Christian laechelt und spricht: Die Taufe entscheidet auch alles,
+Doch es moege geschehn, so wie die Felder bestellt sind,
+Und du selber dein Haus so blank geputzt wie ein Kaestchen!
+Denn wir duerfen uns nicht den Wellen und Winden vertrauen,
+Eh' wir die heiligste Pflicht erfuellten gegen den Knaben,
+Und ich wag' es nicht frueher, als bis wir, zur Reise geruestet,
+Aus der Kirche sogleich fortschleichen koennen zum Schiffe.
+Beide ruehren sich nun, wie nie, und schaffen in Tagen,
+Was die andern in Wochen, doch ist die Eile auch noetig,
+Denn es nahen die Pfingsten und mit den Pfingsten der Kaufherr,
+Wenn er nicht frueher kommt, gelockt von dem seltenen Wetter.
+Endlich ist es getan, und mit den schwieligen Haenden
+Setzt sich Christian hin und stellt die Rechnung zusammen,
+Zaehlt den baren Erloes von Obst und Korn bis zum Heller
+Auf und nimmt fuer sich selbst den schmalsten Lohn, der dem letzten
+Aller Knechte gebuehrt, fuer Magdalena desgleichen,
+Was die niedrigste Magd im schlechtesten Dienste bekaeme:
+Gern erliessen sie's ganz, allein sie muessen ja leben!
+Nun bestellt er die Taufe, er bittet den Jaeger zum Paten,
+Sagt: wir muessen verreisen, ein frommes Werk zu verrichten,
+Und ersucht ihn zugleich, anstatt den gehenkelten Taler
+In die Wiege zu legen, indes sein Vieh zu besorgen
+Und aufs Haeuschen zu sehn.  Mit Schmunzeln erwidert der Alte:
+Darum also so eifrig und nicht aus Geiz, wie die Knechte
+Murrten welche sich schaemten, den Acker vor dir zu verlassen,
+Und doch fluchten und wuenschten, du moechtest die Beine dir brechen?
+Dazu helf' ich mit Freuden!  Denn pfleg' ich auch selber der Andacht
+Leider nur selten, nur dann, wenn mich bei Streifen im Walde
+Irgend ein Kreuz erinnert, fuer einen meiner Genossen,
+Welchen der Wildschuetz traf, mein Vaterunser zu beten:
+Gern doch hab' ich's an andern, und geh' ich auch kaum noch zu Ostern
+Selbst in die Kirche, so jag' ich doch immer die Knaben von dannen,
+Wenn ich vorueberkomme, die waehrend der Predigt sich balgen!
+Noch viel williger ist der Pfarrer, die heilige Handlung
+Vorzunehmen, er hat im Scherz schon lange getrieben
+Und im Ernst sich verwundert, dass sie nicht von selber sich melden.
+Nun ist alles vollbracht, und gleich der folgende Morgen
+Wird bestimmt fuer die Flucht.  Doch Magdalena, die abends
+Spaet noch zum Kraemer will, erblickt zu ihrem Entsetzen
+Einen Wagen im Tor des Gasthofs, welchem die Herrschaft
+Eben entsteigt, und ruft, zu Hause fliegend, mit Beben:
+Auf!  Sie sind da!  Nur hinaus, so wie wir gehen und stehen!
+Christian sieht auf die Uhr und spricht: Sie werden nicht kommen,
+Ehe der Morgen tagt, doch freilich muessen wir eilen,
+Denn mir mangelt der Mut, den beiden ins Auge zu schauen,
+Und das Kind ist getauft, denn waere das nicht geschehen,
+Weiss ich nicht, was ich noch taete, doch jetzt ist alles vorueber,
+Darum fort auf der Stelle, der Jaeger muss uns verstecken!
+Frueh erhebt sich am Morgen der Kaufherr samt der Gemahlin,
+Und, am wuerzigen Hauch der Luefte sich innig erquickend,
+Lassen sie rasch sich vom Diener des Wirts zum Haeuschen geleiten.
+Bald auch stehn sie davor.  Wie blank sind Fenster und Laeden,
+Und wie sauber und rein die Beete des Gartens gehalten,
+Welcher es zierlich umgibt!  Die Gattin bueckt sich im Gehen
+UEber den niedrigen Zaun und pflueckt sich eine Aurikel,
+Um sie als erste Gabe dem Kinde zu reichen, indessen
+Er mit eiliger Hand die Pforte oeffnet und laechelnd
+Winkt, ihm leise zu folgen, denn durch die hintere Tuere
+Denkt er das Paar zu beschleichen.  Sie kommen auch leicht in die Kueche,
+Und, ein wenig verwundert, das Feuer nicht brennen zu sehen,
+Auf den Zehen ins Zimmer.  Doch alles ist leer und verlassen,
+Und man sieht nicht die Spur des haeuslichen Waltens.  Der Nachbar,
+Von dem Brunnen, an dem er sich waescht, heruebergerufen,
+Ist erstaunt, wie sie selbst, doch loest er ihnen das Raetsel
+Durch ein einziges Wort: er spricht von der gestrigen Taufe,
+Und ein Brief auf dem Tisch, die wohlgeordnete Rechnung
+Und die Lade mit Geld daneben bestaetigen alles,
+Was sie ahnen und fuerchten, sowie sie's hoeren.  Die Gattin
+Ruft, im Tiefsten bewegt: So ist es also gekommen,
+Wie ich's immer besorgt, sie koennen's und wollen's nicht geben!
+Aber ich muss sie darum nur hoeher achten und lieben,
+Wenn ich auch jetzt erroete, indem ich der Fragen gedenke,
+Die mich in Hamburg erwarten, des Zischelns und Tuschelns und Laechelns,
+Und ich werde nicht ruhig, bevor wir sie wieder gefunden,
+Denn sie duerfen sich nicht in Not und Kummer verzehren,
+Und sie zittern vor uns und denken, wir koennte es rauben!
+Beide eilen zum Pfarrer, doch dieser weist sie zum Jaeger,
+Und das gefluechtete Paar, versteckt auf dem Boden und spaehend,
+Sieht sie kommen und glaubt sich verraten.  Doch leugnet der Alte
+Jegliche Kunde von ihnen, und ihre klopfenden Herzen
+Schlagen schon weniger rasch, da schreit, vom Dunkel geaengstigt
+Und vom Rauche gequaelt, der Knabe.  Man fragt nach dem Kinde
+Und man wuenscht es zu sehn.  Der Alte holt es herunter,
+Aber er sagt dabei, es sei sein Enkel, die Mutter
+Liege im Bette krank.  Sie herzen und kuessen den Knaben,
+Loben sein lockiges Haar und seine blitzenden Augen,
+Geben ihm die Aurikel, beschenken den Alten und gehen.
+Aber, freundliche Muse, die uns so treulich geleitet,
+Knuepfe die Menschen doch gleich in Liebe wieder zusammen,
+Welche so aengstlich sie suchen und wieder so toericht sie fliehen:
+Hat sie das Kind, das sie trennt und eint, doch schon fluechtig verbunden!
+Deutest du weiter?  Es sei!  Du fuehrst auf laengerem Wege
+Sicher zum schoeneren Ziel, und willig wollen wir folgen,
+Denn du laechelst und nickst und legst die Hand auf den Busen!
+
+Christian atmet wieder, und Magdalena erhebt sich,
+Denn sie hatte gekniet, so wie sich die beiden entfernen,
+Aber der Alte spricht: Ich folge ihnen ins Staedtchen,
+Um zu erfahren, was ferner geschieht, und werd' es euch melden.
+Als er zurueckkehrt, sagt er: Sie sind beim Richter gewesen,
+Und, ich merkte es wohl, was dieser nur irgend an Spaehern
+Aufzubieten vermag, das ist auch heimlich zu Gange,
+Doch ich lache darueber, es ward noch keiner ergriffen,
+Welchen der Jaeger beschuetzt, und scheint dies alles auch seltsam,
+Eure Gesichter sind gut, und also helf' ich euch weiter!
+Redlich haelt er auch Wort und schafft sie ueber die Grenze,
+Wo er, ohne zu fragen und ohne auch nur zu gestatten,
+Dass sich Christian ihm vertraute, wie es ihn draengte,
+Sie dem Himmel empfahl und mit dem Dukaten beschenkte,
+Welchen der Kaufherr ihm gegeben hatte.  So sind sie
+Mit sich selber allein.  Die Berge treten allmaehlich
+Mit den Waeldern zurueck, und offen breitet die Strasse
+Durch die Ebne sich aus, doch Christian meidet sie aengstlich,
+Weil ihn neben den Spuerern und Streifern zu Fuss und zu Pferde,
+Die im Dienst des Gesetzes den Frevel belauern und packen,
+Auch die Zungen der Erde, die Telegraphen, erschrecken,
+Welche Staedte mit Staedten und Laender mit Laendern verbinden
+Und den Tod, wie das Leben, von einem zum andern befoerdern.
+Selten erscheint ihm ein Weg so abgelegen und duester,
+Dass er ihn nicht betritt, um diesem in Eisen gegossnen
+Spinnennetz zu entschluepfen, an dem die Koenige weben,
+Und so ziehn sie einher, als waeren sie Schelme und Diebe,
+Tragen unendliche Last und Muehe bei Tage und muessen
+In den oedesten Schenken die traurigsten Naechte verbringen.
+Welch ein veraendertes Los fuer beide!  Wie hart und wie bitter!
+Doch je haerter der Druck, je bittrer so manche Entbehrung,
+Um so ruhiger wird's der fluechtigen Mutter im Busen,
+Christian aber fuehlt sich getroestet durch den Gedanken,
+Dass er doch alles teilt, und dass sie nicht ohne ihn irren.
+Sie ist noch immer so reich, ihr hungriges Kind zu erquicken,
+Er noch immer so stark, sein zitterndes Weib zu beschirmen,
+Und so oft es auch scheint, als waere man ihnen im Nacken:
+Immer sind sie so gluecklich bei Nebel und Nacht zu entkommen.
+Eins nur peinigt sie noch: Die Summe verringert sich taeglich,
+Die sie brauchen in Bremen, um ueberfahren zu koennen,
+Und sie pruefen schon oft die ueberfluessigen Kleider,
+Die sich verkaufen lassen, um dieses Luecke zu decken.
+
+Eines Abends geschieht es wieder, da flucht's vor der Tuere,
+Und mit vielem Gelaerm, er konnte die Klinke nicht finden,
+Tritt ein Gesell herein, in dem sie, den Augen nicht trauend,
+Endlich den Tischler erkennen.  So bist du im Lande geblieben?
+Ruft ihm Christian zu.  Zurueckgekehrt aus der Traufe
+In den Regen--versetzt er--und habe das Leben gerettet,
+Welches der Schmied verlor.  Es ist noch aerger da drueben,
+Und wir Deutsche besonders, wir muessen uns ducken und druecken,
+Wie die Hunde bei uns!  Denn waere der Schmied nur ein Franzmann,
+Oder ein Beefsteak-Fresser, so wuerden schon ganze Armeen
+UEber die See geschickt, doch auf der Leiche des Deutschen
+Legt der Moerder sich schlafen, und keiner stoert ihm die Ruhe,
+Wenn er nicht selber niest und sich weckt.  Wir wollten hinueber!
+Wirft ihm Christian ein.  So lass dich warnen! erwidert
+Lachend der andre und schleudert den Ranzen hinter den Ofen,
+Fordert sich Wein und rueckt heran.  Wir haben uns drueben,
+Wie in AEgypten die Juden, vermehrt und werden, wie diese,
+Weil sie uns fuerchten und hassen, gehetzt und vertilgt.  In Europa
+Musst du stehlen, bevor man dich haengt.  Dort wirst du gehangen,
+Eh' du gestohlen hast!  Und was dich immer auch jage:
+Bleibe daheim.  Es wird bei uns auch, ehe wir's denken,
+Anders werden und besser.  Du blickst erstaunt und verwundert?
+Bruder, das ist nicht geprahlt, ich kehre zwar nackter und aermer,
+Aber auch klueger zurueck.  Man hat mir vernuenft'ger gepredigt,
+Als in der Jugend geschah.  Du weisst doch, dass man dich einmal
+Schaendlich bestahl?  Wo hast du Gueter?  Wo stehen die Haeuser,
+Die du vermietest?  Wo wiehert dein Gaul?  Wo melkst du die Kuehe?
+Schurken haben dir alles entrissen, noch eh' du geboren
+Wurdest, und halten es fest.  Das hat der kluegste Franzose
+Ausgespuert: wer besitzt, ist ein Dieb, und so viele Dukaten,
+Ebensoviele Verbrechen!  Doch wird's nicht lange mehr dauern,
+Denn das juengste Gericht ist nah.  Du musst nicht erwarten,
+Dass in den Wolken die Engel mit ihren Posaunen erscheinen,
+Diesen hat man die Fluegel gestutzt, wir blasen uns selber,
+Statt des Zeichens zu harren, und schleifen inzwischen die AExte!
+Deinen Jungen beneid' ich!  Er waechst ins goldene Alter,
+Wie in den Fruehling hinein, und wird nur im Tanze noch schwitzen.
+Aber, wie kommst du mir vor?  Du machst ein Gesicht, wie ein Reicher!
+Bist du's etwa geworden?  Ich hoerte so manches in Hamburg.
+Hast du im Trueben gefischt, und eilst, dich sicher zu stellen?
+Freund, entdecke dich mir!  Vor einem Jahre noch haett' ich
+Dich beim Kragen gepackt und laut nach dem Buettel geschrien,
+Heute sage ich dir: noch ehe die dummen Gesetze
+Dich erreichen, wonach der Dieb den wahren Besitzer
+Straft, sind alle getilgt.  Das habe ich selber von Weitling3),
+Dem es Christus vertraute, denn der ist lange schon unten,
+Und sie sehen sich oft und sind die besten Bekannten.
+Christian schlaegt mit der Faust auf den Tisch, er kann sich nicht halten,
+Aber der andre trinkt und spricht: Ich sollte doch meinen,
+Dass ich dir Gutes verkuende, du selbst gehoertest ja frueher
+Zu den Schluckern, fuer welchen die weissen Haare des Scheitels
+Hunger und Kummer bedeuten, und dich am wenigsten haett' ich
+Auf der Seite der Schwelger vermutet, doch ganz nach Gefallen!
+Dass sie Soldaten haben, das wissen wir alle und machen
+Auf den Kampf uns gefasst, doch dass sich ihren Soldaten
+Toren mit knurrenden Magen gesellen, um die zu bestreiten,
+Welche das Essen bringen, das hat wohl keiner erwartet.
+Aber, du tust auch nur so, ich weiss ja von Wilhelm und Anna,
+Dass man dich sucht, und man trifft die Leute mit sauberm Gewissen
+Nicht auf heimlichen Strassen, wie arme Teufel vom Handwerk,
+Welche fechten und schnurren, und nicht in Schenken, wie diese.
+Deine besten Bekannten in Hamburg schuetteln die Koepfe,
+Und die Feinde und Neider erzaehlen sich schlechte Geschichten:
+Sag' doch nur, was es ist, man denkt sich schon lange das AErgste!
+Denn ein Millionaer verschmerzt die geringen Verlueste
+Bis zu Hundert mit Lachen und bis zu Tausend mit Fluechen,
+Doch sie haben sich so, besonders die Frau, wie ich hoere,
+Euch zu erwischen, als gaelte es Diamanten und Perlen!
+Christian aber erhebt sich und spricht die gelassenen Worte:
+Wenn es ist, wie du sagst, und wenn sie so wenig uns schonten,
+Dass uns die geifernden Zungen den ehrlichen Namen belecken,
+Nun, so geh' ich hinueber, und das noch morgen!  Denn nimmer
+Soll man die redlichsten Eltern in ihrem Sohne beschimpfen,
+Oder dem aermsten der Kinder sein einziges Erbe verkuerzen,
+Und es komme, wie's will, die Ehre werd' ich mir wahren!
+Was dich selber betrifft und deine verworfenen Lehren,
+So verlass dich darauf, ich wuerde, wenn Ihr Euch regtet,
+Selbst den Wuchrer beschuetzen, und waeren wenige Stunden
+Frueher mein Weib und mein Kind vor seiner Tuer verhungert,
+Und ich haett' nur noch Kraft zu einem einzigen Schlage.
+Denn ihr seid ja aerger, als Feuer und Wasser und alles,
+Und wer fragt, wenn es brennt, nach Freunden und Feinden beim Loeschen?
+Dieses waere gesagt--und nun fuer immer geschieden!
+Aber der Tischler versetzt: Das nenn' ich von oben gesprochen,
+Doch ich glaube dir nicht, und waer' ich, wie du mich schilderst,
+Wuerd' ich erwidern: mein Held, ich will dich nach Hamburg begleiten,
+Dass du dein Ziel nicht verfehlst, ich habe die Zeit, und ich werde,
+Wenn ich dich bringe, vielleicht noch eine Belohnung erhalten.
+Aber, ich wuensche dir Glueck auf allen Wegen und Stegen,
+Die du auch wandeln magst, und werde dir sicher nicht nachsehn,
+Wenn du dich morgen entfernst, wir haben zusammen getrunken.
+Christian schweigt, er fuehlt sich von diesen Worten getroffen,
+Doch Magdalena erglueht und ruft: Ich will es dir sagen,
+Was uns treibt, dass du's weisst!  Wir haben fuer Mittel zur Heirat
+Ihnen den Knaben versprochen, und fliehen nur darum so aengstlich,
+Um ihn nicht geben zu muessen, denn dieses wuerde mich toeten.
+Aber der Tischler lacht und spricht: Da sieht man aufs neue,
+Dass ihr die Welt nicht kennt!  Wie koennt ihr Toren nur glauben,
+Dass man euch zwingen kann?  Doch nun begreife ich alles!
+Hiess es ja doch, sie haetten den sehnlichst erwarteten Erben
+Endlich in fremden Landen bekommen und wieder verloren
+Und sie gingen in Trauer!  Mich duenkt, ich sehe den Toten!--
+Rasch nun geht es nach Hamburg, und schon in wenigen Tagen
+Sehn sie die Tuerme der Stadt.  Als Magdalena erzittert
+Und ihn bittet, sie selbst mit ihrem Knaben im Dorfe
+UEber der Grenze zu lassen, erwidert Christian ruhig:
+Nein, der Tischler hat recht, uns zwingt kein Gesetz, ihn zu geben,
+Wie ein verhoekertes Kalb.  Auch habe ich minder den Richter,
+Als sie selber gefuerchtet, sie schienen mir beide so edel,
+Dass ich mich meiner schaemte, so wie ich ihrer nur dachte:
+Aber, da sie uns wirklich, wie grobe Verbrecher, behandeln,
+Hat das alles ein Ende, und ruhig werde ich fragen,
+Wenn ich sie sehe, und kuehn dabei die Augen erheben:
+War die Rechnung nicht richtig?  Sie fuehlt sich selber ermutigt
+Durch das entschlossene Wesen des Gatten und, ohne zu zaudern
+Oder aengstlich zu tun und hin und wieder zu blicken,
+Folgt sie ihm in das Tor.  Wie jubeln Wilhelm und Anna,
+Als die beiden auf einmal die reinliche Stube betreten,
+Welche sie jetzt bewohnen.  Sie rufen: Nun haben wir hundert
+Taler mehr im Vermoegen, denn diese sind uns versprochen,
+Wenn wir verkuendigen koennen, wo ihr euch befindet!  Da seid ihr,
+Und nun brauchen wir bloss die Tuere zu schliessen, so haben
+Wir euch selber gefangen!  Doch seht, noch brodelt der Kessel,
+Und wir wollen uns erst durch einen tuechtigen Kaffee
+Fuer die Hochzeit bedanken, denn sicher seid ihr doch durstig.
+Christian grollt und spricht: So wurden auf unsere Koepfe
+Auch schon Preise gesetzt?  Das tut man bei Raeubern und Moerdern!
+Wenn es euch aber geluestet, das Geld zu verdienen, so haltet
+Nicht beim Feuer euch auf und taendelt mir nicht mit dem Knaben,
+Eilt, so sehr ihr nur koennt, ich kam, mich selber zu melden,
+Und ich hoffe sogar, am Galgen vorueber zu kommen.
+Manchen Spaeher bemerkt' ich und manche verdaechtige Schenke
+Hab' ich betreten, und doch entging ich den Fallen und Netzen;
+Wenn ihr mich heute erblickt, so kam ich aus eigner Bewegung,
+Statt mich nach Bremen zu wenden, denn nichts verschloss mir die Strasse.
+Wohl dir, dass du es nicht getan, entgegnet ihm Wilhelm,
+Nur mit Muehe zum Ernst sich zwingend und feierlich blickend,
+Denn man haett' dich in Bremen nicht fortgelassen, die Haefen
+Waren alle besetzt, und jeglicher wurde gemustert!
+Christian ballt die Faust, doch Anna verschliesst ihm die Lippen
+Mit den Fingern und spricht: Es waere doch besser gewesen,
+Wenn du in irgend ein Netz gegangen waerest, du haettest
+Weniger Sorgen gehabt, auch wuerde der Knabe nicht husten,
+Denn du flohst vor dem Glueck, und haben sie Spaeher gesendet
+Oder Preise gesetzt, so ist das alles geschehen,
+Um dir Kunde zu geben, das haben sie selbst mir beteuert,
+Dass sie die Schuld dir erlassen, ich weiss nicht, welche sie meinen,
+Aber das Gut dir schenken!  Nun brauch' nach Belieben die Zunge.
+Christian deckt sein Gesicht mit beiden Haenden, ein Zittern
+UEberkommt ihn, er ist nicht eines Wortes noch maechtig,
+Und ein jegliches Glied will reden; endlich beginnt er:
+Nun, so bin ich nicht wert, dass Sonne und Mond mich bescheinen,
+Und ich rufe die Flueche, die eben, was sollt' ich's verhehlen,
+In die Kehle mir stiegen, als du den Mund mir verschlossest,
+Auf mein eigenes Haupt herab und vollziehe sie selber!
+Magdalena jedoch, der laengst die Traenen entstroemten,
+Schliesst ihn rasch in die Arme und kuesst ihn und zeigt ihm den Knaben,
+Dem sie die Haendchen gefaltet und dessen verwundertes Laecheln
+UEber sich selbst und die Mutter sein Rasen baendigt, so dass er
+Sich nicht schlaegt und zerrauft, wie er wollte, im Wueten der Reue;
+Wilhelm ergriff indes den Hut und eilte von dannen.
+
+Aber der Kaufherr sitzt mit seiner Gattin beim Fruehstueck,
+Und sie fragt mit den Augen, doch nicht mit den Lippen, ob wieder
+Keine Kunde gekommen.  Er spricht: Es kann ja nicht fehlen,
+Dass wir's endlich erfahren, wie sehr sie sich immer verkriechen!
+Waer's fuer den Reichen schon schwer, sich ganz und gar zu verbergen,
+Wenn die Grille ihm kaeme, so kann es dem Armen noch minder
+Gluecken: er muss sich ernaehren und also heraus um die Arbeit,
+Und wir wissen's am besten, wie wenig der duerftige Pfenning,
+Den sie nahmen fuer sich, genuegt, sie Monde und Jahre
+Zu erhalten, so troeste dich jetzt, was du frueher beklagtest!
+Sie erwidert darauf: Und kann der Knabe nicht sterben?
+Oder koennen sie nicht in fremde Laender entkommen?
+Nein, ich aengstige mich zu Tode!  Je laenger es dauert,
+Um so weniger duerfen wir hoffen, sie wieder zu finden!
+Ich vernehme vielleicht, damit mich das Bitterste treffe,
+Wo sie erlagen, und kann die Graeber mit Blumen verzieren,
+Aber ich werde sie nicht fuer ihre erduldeten Leiden,
+Wie ich hoffte, belohnen, mich wird ein Engel verdraengen.
+O, wie werd' ich gestraft!  Ich wusste mein Glueck nicht zu schaetzen!
+Wie, wer nie noch die Luft auf Augenblicke entbehrte,
+Garnicht weiss, was sie ist, und aus dem eitelsten Grunde
+Hab' ich mit drueckende Schuld mir die Seele belastet!  Denn nimmer
+Waer' ich dem Doktor gefolgt, auch haett' er's gewiss nicht geraten,
+Wenn nicht die toerichte Scham vor anderen Muettern, verbunden
+Mit dem suendlichen Neid auf ihre bluehenden Kinder,
+Mich seit Jahren besessen und in der versuchenden Stunde
+Mir das Herz in der Brust verhaertet haette!  Mich quaelen
+Jetzt die schrecklichsten Bilder, ich sehe die blassen Gesichter
+Ausgewanderter Maedchen und Knaben, wie sie mich frueher
+Oft am Hafen entsetzten, und all die vermessenen Wuensche,
+Die ich so lange gehegt im ungeduldigen Busen,
+Loesen sich auf in dem einen: das Kind gerettet zu wissen,
+Das ich frevelnd ins Leben gerufen, doch wird's nicht geschehen!
+Da erschallt vor der Tuer die laute Stimme des Doktors,
+Jubelnd tritt er herein und ruft: Gefunden!  Gefunden!
+Und, er hat sie sogleich durch Wilhelm, der's ihm gemeldet,
+Holen lassen, verwirrt und bloede folgen die andern:
+Magdalena voran, im Arm den lieblichen Knaben,
+Christian hinterher, die Augen zu Boden geschlagen,
+Wilhelm und Anne zuletzt, und nur bis zur Schwelle sich trauend,
+Jene dem heiligen Paar vergleichbar, diese den Hirten.
+Aber die Gattin faltet die Haende und hebt sie zum Himmel,
+Presst dann Mutter und Kind ans Herz und schluchzt: Ich geniesse
+Jetzt die seligste Stunde des Lebens durch reichste Erfuellung
+Meines heiligsten Wunsches und opfre mit Freuden die andern.
+Ja, nun sag' ich mit dir, sie wendet sich innig zum Gatten,
+Unsere Kinder sind die Armen, doch bleibt mir von allen
+Dieser Knabe der naechste, denn ihm verdank' ich den Frieden,
+Den ich nie noch gekannt, und den die Erde nicht mindert,
+Wenn man ihn einmal errang, und selbst der Himmel nicht steigert.
+Doch, was ist das?  Ich konnte bisher vor Traenen nicht sehen!
+Diese lockigen Haare und diese blitzenden Augen
+Soll ich kennen!  Ja! ja!  Das ist der Enkel des Jaegers!
+Herr, ich kann dich verstehn!  Du wolltest im Feuer mich laeutern,
+Darum durft' ich nicht gleich ihn finden!  Doch schuetztest du selbst ihn
+Mit allmaechtiger Hand!  Fuer alles sei mir gepriesen!
+
+
+Ende dieses Project Gutenberg Etextes "Mutter und Kind", von
+Friedrich Hebbel
+

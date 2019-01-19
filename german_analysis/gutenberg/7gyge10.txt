@@ -1,0 +1,4181 @@
+The Project Gutenberg Etext of Gyges und sein Ring by Hebbel
+#2 in our series by Friedrich Hebbel
+
+This Etext is provided in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.aol.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission. The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Gyges und sein Ring
+
+Author: Friedrich Hebbel
+
+Release Date: May, 2003  [Etext #4080]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 11/12/01]
+
+Edition: 1.0
+
+Language: German
+
+The Project Gutenberg Etext of Gyges und sein Ring, by Friedrich Hebbel
+*******This file should be named 7gyge10.txt or 7gyge10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7gyge11.txt
+VERSIONS based on separate sources get new LETTER, 7gyge10a.txt
+
+This etext was produced by Michael Pullen, globaltraveler5565@yahoo.com
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included. Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month. A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work. The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc. This
+projected audience is one hundred million readers. If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of 10/17/01 contributions are only being solicited from people in:
+Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan, Missouri,
+Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York,
+North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island,
+South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,
+Washington, Wisconsin, and Wyoming
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states. Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states. If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS). Donations are tax-deductible to the maximum
+extent permitted by law. As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause: [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1] Only give exact copies of it. Among other things, this
+requires that you do not remove, alter or modify the
+etext or this "small print!" statement. You may however,
+if you wish, distribute this etext in machine readable
+binary, compressed, mark-up, or proprietary form,
+including any form resulting from conversion by word
+processing or hypertext software, but only so long as
+*EITHER*:
+
+[*] The etext, when displayed, is clearly readable, and
+does *not* contain characters other than those
+intended by the author of the work, although tilde
+(~), asterisk (*) and underline (_) characters may
+be used to convey punctuation intended by the
+author, and additional characters may be used to
+indicate hypertext links; OR
+
+[*] The etext may be readily converted by the reader at
+no expense into plain ASCII, EBCDIC or equivalent
+form by the program that displays the etext (as is
+the case, for instance, with most word processors);
+OR
+
+[*] You provide, or agree to also provide on request at
+no additional cost, fee or expense, a copy of the
+etext in its original plain ASCII form (or in EBCDIC
+or other equivalent proprietary form).
+
+[2] Honor the etext refund and replacement provisions of this
+"Small Print!" statement.
+
+[3] Pay a trademark license fee to the Foundation of 20% of the
+gross profits you derive calculated using the method you
+already use to calculate your applicable taxes. If you
+don't derive profits, no royalty is due. Royalties are
+payable to "Project Gutenberg Literary Archive Foundation"
+the 60 days following each date you prepare (or were
+legally required to prepare) your annual (or equivalent
+periodic) tax return. Please contact us beforehand to
+let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by Michael Pullen.
+
+
+
+
+
+
+Friedrich Hebbel
+Gyges und sein Ring
+Eine Tragoedie in fuenf Akten
+
+
+
+
+Einen Regenbogen, der, minder grell, als die Sonne,
+    Strahlt in gedaempftem Licht, spannte ich ueber das Bild;
+Aber er sollte nur funkeln und nimmer als Bruecke dem Schicksal
+    Dienen, denn dieses entsteigt einzig der menschlichen Brust.
+
+
+
+Personen:
+
+Kandaules, Koenig von Lydien
+
+Rhodope, seine Gemahlin
+
+Gyges, ein Grieche
+
+Lesbia und Hero, Sklavinnen
+
+Thoas und Karna, Sklaven
+
+Volk
+
+Die Handlung ist vorgeschichtlich und mythisch; sie ereignet sich
+innerhalb eines Zeitraums von zweimal vierundzwanzig Stunden.
+
+
+
+    Erster Akt
+    Zweiter Akt
+    Dritter Akt
+    Vierter Akt
+    Fuenfter Akt
+
+
+
+
+
+
+Erster Akt
+
+Halle.
+
+Kandaules und Gyges treten auf. Kandaules schnallt sich das
+Schwert um, Thoas folgt mit dem Diadem.
+
+Kandaules.
+Heut sollst du sehn, was Lydien vermag!--
+Ich weiss, ihr Griechen, wenn auch unterwuerfig,
+Weil ihr nicht anders koennt, tragt knirschend nur
+Das alte Joch und spottet eurer Herrn.
+Auch wird nicht leicht was auf der Welt erfunden,
+Das ihr nicht gleich verbessert: waer's auch nur
+Der Kranz, den ihr hinzufuegt, einerlei,
+Ihr drueckt ihn drauf und habt das Ding gemacht!
+
+Thoas (reicht ihm das Diadem).
+
+Kandaules.
+Das neue Diadem! Was soll mir dies?
+Hast du dich auch vielleicht im Schwert vergriffen?
+Ja, beim Herakles, dessen Fest wir feiern!
+Ei, Thoas, wirst du kindisch vor der Zeit?
+
+Thoas.
+Ich dachte--
+
+Kandaules.         Was?
+
+Thoas.
+Seit fuenf Jahrhunderten
+Erschien kein Koenig anders bei den Spielen,
+Die dein gewalt'ger Ahn gestiftet hat,
+Und als du es das letzte Mal versuchtest,
+Die alten Heiligtuemer zu verdraengen,
+Da stand das Volk entsetzt und staunend da
+Und murrte, wie noch nie!
+
+Kandaules.
+        Nun meinst du denn,
+Ich haett's mir merken und mich bessern sollen,
+Nicht wahr?
+
+Thoas.                 O Herr, nicht ohne
+einen Schauder
+Beruehre ich dies Diadem, und nie
+Hab ich dies Schwert am Griff noch angefasst,
+Das alle Herakliden einmal schwangen.
+Doch deinen neuen Schmuck betracht ich ganz,
+Wie jedes andre Ding, das glaenzt und schimmert,
+Und das man hat, wenn man's bezahlen kann.
+Nicht an Hephaestos brauche ich dabei
+Zu denken, der dem goettlichen Achill
+Die Waffen schmiedete, und in dem Feuer,
+Worin er Zeus die Donnerkeile staehlt,
+Auch nicht an Thetis, die durch ihre Toechter
+Ihm Perlen und Korallen fischen liess,
+Damit es an der Zierde nicht gebreche:
+Ich kenn den Mann ja, der das Schwert geliefert,
+Und jenen, der das Diadem gefuegt!
+
+Kandaules.
+Nun, Gyges?
+
+Thoas.                 Herr, die Treue spricht aus
+mir,
+Bin ich zu kuehn, so bin ich's deinetwegen!
+Und glaube mir: die vielen Tausende,
+Die hier zusammenstroemen, wenn sie auch
+In feinrer Wolle gehn und leckrer essen,
+Sind ganz so toericht oder fromm, wie ich.
+Dein Haupt und dieser Reif, das sind fuer sie,
+Trau deinem Knecht, zwei Haelften eines Ganzen,
+Und ebenso dein Arm und dieses Schwert.
+
+Kandaules.
+Das denken alle?
+
+Thoas.
+Ja, bei meinem Kopf!
+
+Kandaules
+So darf's nicht laenger bleiben! Nimm denn hin
+Und tu, was ich gebot.
+
+Thoas (mit dem alten Schmuck ab).
+
+Gyges.
+          Du tatst ihm weh.
+
+Kandaules.
+Ich weiss, doch sprich: wie haett' ich's aendern koennen?
+Wahr ist, was er gesagt! Hier gilt der Koenig
+Nur seiner Krone wegen und die Krone
+Des Rostes wegen. Weh dem, der sie scheuert,
+Je blanker, um so leichter an Gewicht.
+Allein, was hilft's, wenn man sich nun einmal
+So weit vergass, weil man's nicht mehr ertrug,
+Bloss durch den angestammten Schmuck zu glaenzen,
+Zu gelten, wie gepraegte Muenzen gelten,
+Die keiner waegt, und mit den Statuen,
+Die in geweihten Tempelnischen stehn,
+Die schnoede Unverletzlichkeit zu teilen:
+Man kann doch nicht zurueck?
+
+Thoas (koemmt mit dem neuen Schmuck).
+
+Kandaules.
+              So ist es recht!
+
+(Er setzt das Diadem auf.)
+
+Das sitzt! Und alles, was mein Koenigreich
+Im Schacht der Berge und im Grund des Meeres
+An Perlen und Kleinodien nur liefert,
+Nicht mehr, noch weniger, ist hier vereint:
+Der Edelstein, den man bei uns nicht findet,
+Und waer' er noch so schoen, ist streng verbannt,
+Doch freilich liess ich auch fuer den noch Platz,
+Den man in hundert Jahren erst entdeckt.--
+Begreifst du nun?
+
+(Zu Gyges.)
+
+
+    Das andre eignet sich
+Fuer einen Riesenkopf, wie eure Bildner
+Ihn meinem Ahnherrn wohl zu geben pflegen,
+Wenn er im Loewenfell mit plumper Keule
+Von eines Brunnens moos'gem Rand herab
+Die Kinder euch erschrecken helfen soll.
+
+(Er guertet sich das Schwert um.)
+
+Dies Schwert ist etwas leichter, wie das alte,
+Doch dafuer kann man's schwingen, wenn man muss,
+Und nicht bloss draussen, unterm freien Himmel,
+Wo die Giganten sich mit Felsen werfen,
+
+(Er zieht's und schwingt's.)
+
+Nein, auch in menschlich engem Raum, wie hier!
+Drum, Thoas, spar dir ja die dritte Rede,
+Die zweite hoert' ich heut!
+
+Thoas.
+              Vergib mir, Herr!
+Doch weisst du: nicht die jungen Glieder sind's,
+In denen sich ein Wittrungswechsel meldet,
+Die alten Knochen spueren ihn zuerst! (Ab.)
+
+Gyges.
+Er geht betruebt.
+
+Kandaules.                 Gewiss, er sieht's
+nicht gern,
+Dass jetzt der naechste Donnerkeil mich trifft,
+Und das steht fest fuer ihn, es waere denn,
+Dass mich die Erde frueher schon verschlaenge,
+Wenn nicht der Minotaurus gar erscheint!--
+So sind sie, denke darum aber nicht
+Gering von ihnen! Nun, noch heute wirst du
+Sie spielen sehn!
+
+Gyges.
+  Und wuensche, mitzuspielen.
+
+Kandaules.
+Wie, Gyges?
+
+Gyges.                   Herr, ich bitte dich
+darum
+
+Kandaules.
+Nein, nein, du sollst an meiner Seite sitzen,
+Damit ein jeder sieht, wie ich dich ehre,
+Und wie ich will, dass man dich ehren soll.
+
+Gyges.
+Wenn du mich ehrst, so schlaegst du mir's nicht ab.
+
+Kandaules.
+Du weisst nicht, was du tust! Kennst du die Lyder?
+Ihr Griechen seid ein kluges Volk, ihr lasst
+Die andern alle spinnen und ihr webt.
+Das gibt ein Netz, wovon kein einz'ger Faden
+Euch selbst gehoert, und das doch euer ist!
+Wie leicht waer's zugezogen und wie rasch
+Die ganze Welt gefangen, wenn der Arm
+Des Fischers nur ein wenig staerker waere,
+Der es regieren soll. Da aber fehlt's!
+Ihr koennt durch keine Kunst die Nervenstraenge
+Uns aus dem Leibe haspeln, darum stellen
+Wir uns viel blinder, als wir wirklich sind,
+Und gehn zu unsrem eignen Spass hinein:
+Ein kleiner Ruck macht uns ja wieder frei.
+
+Gyges.
+Wir feiern diese Spiele auch.
+
+Kandaules.
+              Ja, ja!
+So unter euch! Da ringt der Dorier
+Mit dem Ionier, und mischt am Ende
+Gar der Boeotier sich mit hinein,
+So glaubt ihr, Ares selber schaue zu
+Und merke sich mit Schaudern jeden Streich.
+Gyges, und wenn du alle Preise dort
+Errungen haettest, warnen muesst' ich dich,
+Hier auch nur um den letzten mitzukaempfen.
+Denn wild und blutig ging es immer her,
+Doch wuerbest du, der Grieche und mein Guenstling,
+Auch nur um einen Zweig der Silberpappel,
+Wie man sie heut zu Tausenden verstreut:
+Du kaemst mit deinem Leben nicht davon.
+
+Gyges.
+Nun habe ich dein ja, du kannst mir's jetzt
+Nicht laenger vorenthalten!
+
+Kandaules.
+          Nimmst du's so?
+Dann muss ich schweigen!
+
+Gyges.
+            Herr, ich kam nicht bloss,
+Zu bitten!
+
+(Er zieht einen Ring hervor.)
+
+                Nimm! Es ist ein Koenigsring!
+Du siehst ihn an, du findest nichts an ihm,
+Du staunst, dass ich ihn dir zu bieten wage,
+Du wirst ihn nehmen, wie vom Kind die Blume,
+Nur um die arme Einfalt nicht zu kraenken,
+Die dir sie brach, nicht, weil sie dir gefaellt.
+Unscheinbar ist er, das ist wahr, und schlicht,
+Und dennoch kannst du fuer dein Koenigreich
+Ihn dir nicht kaufen, noch ihn mit Gewalt
+Trotz aller deiner Macht, dem Traeger rauben,
+Wenn er ihn dir nicht willig reichen will.
+Traegst du ihn so,
+
+(mit Zeichen und Gebaerden)
+
+
+dass das Metall nach vorn
+Zu sitzen kommt, so ist er bloss ein Schmuck,
+Vielleicht auch keiner, aber drehst du ihn
+So weit herum, dass dieser kleine Stein,
+Der dunkelrote, um sich blitzen kann,
+So bist du ploetzlich unsichtbar und schreitest,
+Wie Goetter in der Wolke, durch die Welt.
+Darum verschmaeh ihn nicht, denn noch einmal:
+Es ist ein Koenigsring, und diesen Tag
+Ersah ich laengst, ihn dir zu uebergeben,
+Du bist der einz'ge, der ihn tragen darf!
+
+Kandaules.
+Von unerhoerten Dingen kam auch uns
+Die Kunde zu, man sprach von einem Weibe,
+Medea hiess sie, welche Kuenste trieb,
+Die selbst den Mond herab zur Erde zogen,
+Doch nie vernahm ich noch von diesem Ring.
+Woher denn hast du ihn?
+
+Gyges.
+          Aus einem Grabe,
+Aus einem Grabe in Thessalien!
+
+Kandaules.
+Du hast ein Grab erbrochen und entweiht?
+
+Gyges.
+Nein, Koenig, nein! Erbrochen fand ich's vor!
+Ich kroch nur bloss hinein, um mich vor Raeubern
+Zu bergen, die in grosser ueberzahl
+Mir auf der Faehrte waren und mich hetzten,
+Als ich in abenteuerlichem Triebe
+Das oede Waldgebirge juengst durchstrich.
+Die Aschenkruege waren umgestossen,
+Die Scherben lagen traurig durcheinander,
+Und in dem falben Strahl der Abendsonne,
+Der durch die Ritzen des Gemaeuers drang,
+Sah ich ein Woelkchen blassen Staubes schweben,
+Das vor mir aufstieg, als der letzte Rest
+Der Toten, und so seltsam mich bewegte,
+Dass ich, um meinesgleichen, meine Vaeter
+Vielleicht, nicht unwillkuerlich einzuatmen,
+Den Odem lange anhielt in der Brust.
+
+Kandaules.
+Nun? Und die Raeuber?
+
+Gyges.
+        Hatten meine Spur
+Verloren, wie's mir schien, denn fern und ferner
+Verhallten ihre Stimmen, und ich glaubte
+Mich schon gesichert, wenn ich auch noch nicht
+Mein daemmriges Asyl verliess. Als ich
+Nun so auf meinen Knieen kauerte,
+Erblickte ich auf einmal diesen Ring,
+Der aus dem wuesten Truemmerhaufen mir
+Mit seinem Stein, wie ein Lebendiges,
+Fast an ein scharfes Schlangen-Auge mahnend,
+Entgegenfunkelte. Ich hob ihn auf,
+Ich blies die Asche von ihm ab, ich sprach:
+"Wer trug dich einst am laengst zerstaeubten Finger?"
+Und, um zu sehen, ob's ein Mann gewesen,
+Steckt' ich ihn an. Doch das war kaum geschehn,
+So schrie man draussen: "Halt! dort muss er sein!
+Siehst du das Grab? Heran, heran, Gefaehrten,
+Wir haben ihn!" und rasch erschien der Trupp.
+Ich aber, um nicht wehrlos, wie ein Tier,
+Das man in eine Hoehle trieb, geschlachtet
+Zu werden, sprang hervor und stuerzte ihnen
+Entgegen, hoch in meiner Hand das Schwert.
+Die Sonne war dem Untergange nah
+Und strahlte, wie die Kerze, welche bald
+Erloeschen soll, noch einmal doppelt hell.
+Doch sie, als waer' fuer sie allein die Nacht
+Schon eingebrochen, stuermten, grimmig fluchend,
+An mir vorbei und reihten sich ums Grab.
+Das ward nun streng durchsucht, und als sie mich
+Nicht fanden, hoehnten sie: "Was tut's, er trug
+Wohl auch nichts bei sich, als das trotz'ge Auge,
+Das uns mit seinem kecken Blick so reizte,
+Und dieses blaest ihm schon ein andrer aus!"
+Nun abermals, doch langsam und verdriesslich,
+Ja, spaehend, und mir selbst ins Antlitz stierend,
+An mir vorbei und wieder nicht gesehn!
+
+Kandaules.
+Da dachtest du--
+
+Gyges.
+Nicht an den Ring! Noch nicht!
+Ich glaubte, dass ein Gott mich durch ein Wunder
+Gerettet, auf die Kniee warf's mich nieder,
+Und zu dem Unsichtbaren sprach ich so:
+Ich weiss nicht, wer du bist, und wenn du mir
+Dein Antlitz nicht enthuellst, so kann ich dir
+Das Tier nicht opfern, das dir heilig ist,
+Allein zum Zeichen, dass ich dankbar bin
+Und nicht des Muts ermangle, bring ich dir
+Den wildesten von diesen Raeubern dar,
+Dies schwoer ich hier, wie schwer es immer sei.
+Nun eilt' ich ihnen nach und mischte mich
+In ihren Haufen, und ein Grauen fasste
+Mich vor mir selbst, wie sie mich nicht allein
+Gar nicht bemerkten, sondern durch mich hin,
+Als waer' ich blosse Luft, zusammen sprachen,
+Ja selbst das Brot sich reichten und den Wein.
+Mein Blick umflorte sich und schweifend fiel
+Er auf den Stein des Ringes, der mir rot
+Und grell von meiner Hand entgegen spruehte
+Und rastlos quellend, wallend, Perlen treibend
+Und sie zerblasend, einem Auge glich,
+Das ewig bricht in Blut, was ewig raucht.
+Ich drehte ihn, aus Notwehr moecht' ich sagen,
+Aus Angst, denn alle diese Perlen blitzten,
+Als waeren's Sterne, und mir ward zumut,
+Als schaut' ich in den ew'gen Born des Lichts
+Unmittelbar hinein, und wuerde blind
+Vom uebermass, wie von der Harmonie
+Der Sphaeren, wie es heisst, ein jeder taub.
+Da aber fuehlt' ich kraeftig mich gepackt,
+Und: "Was ist das? Ei, wer hielt ihn versteckt?,
+Der Spass ist gut!" erklang's um mich herum.
+Zehn Faeuste griffen nun mir nach der Kehle,
+Zehn andre rissen am Gewande mir,
+Und, blieb die plumpste fuer den Ring nicht uebrig,
+So war ein schmaehlich Ende mir gewiss.
+Doch ploetzlich hiess es: "Ei, der ist nicht arm,
+Das ist ein guter Fang, seht, blankes Gold,
+Sogar ein Edelstein, nur her damit!"
+Allein fast in demselben Odemzug
+Erscholl's: "Ein Gott! Ein Gott ist unter uns!"
+Und alle lagen mir zu Fuessen da.
+
+Kandaules.
+Sie hatten, wie sie an dem Ring dir zerrten,
+Ihn wieder umgedreht und schauderten,
+Als du verschwandest, wie ein Wolkenbild.
+
+Gyges.
+So muss es sein. Ich aber drehte ihn,
+Jetzt endlich eingeweiht in sein Geheimnis,
+Stolz und verwegen noch einmal und rief:
+Ein Gott, jawohl, und jeder buesst mir nun!
+Dann drang ich auf sie ein, und sie, entsetzt,
+Als haette ich den Donner in den Haenden
+Und tausend neue Tode mir zur Seite,
+Behielten kaum zur Flucht noch Mut und Kraft.
+Doch ich verfolgte sie, als muesste ich
+Fuer die Erinnyen den Dienst versehen,
+Und nicht ein einziger kam mir davon!
+Dann wollt' ich mit dem Ring zurueck zum Grabe,
+Allein obgleich ich mir mit blut'gen Leichen
+Den Weg bezeichnet hatte: nicht am Abend
+Und nicht des Morgens liess es sich mehr finden,
+Und wider meinen Willen blieb er mein.
+
+Kandaules.
+Das ist ein Schatz, wie keiner!
+
+Gyges.
+                    Sagt' ich's nicht?
+Ein Koenigsring! Drum, Koenig, nimm ihn hin!
+
+Kandaules.
+Erst nach dem Kampfe!
+
+Gyges.
+          Herr, ich trug ihn nie
+Seit jenem Tag und trag ihn niemals wieder!
+Bist du mit Holz so geizig? Keines Waldes
+Bedarf es ja zu meinem Scheiterhaufen,
+Ein Baum genuegt, und traue diesem Arm,
+Er wird dir auch wohl noch den Baum ersparen!
+
+Kandaules.
+So gib! Ich pruef ihn!
+
+Gyges.
+    Und ich wappne mich!
+
+(Beide ab.)
+
+
+
+
+
+Erster Akt--2
+
+
+
+Gemach der Koenigin.
+
+Rhodope nebst ihren Dienerinnen, Lesbia und Hero darunter
+tritt auf.
+
+Rhodope.
+Nun freut euch, liebe Maedchen, heute ist
+Es euch vergoennt! So sehr ich's tadeln muss,
+Wenn ihr an andern Tagen auch nur lauscht,
+So hart ich meine munt're Hero gestern,
+Als sie den Baum erstieg, gescholten haette,
+Wenn nicht zu ihrer Strafe gleich ein Zweig,
+So leicht sie ist, mit ihr gebrochen waere,
+Weil er zu schwach fuer so viel Neugier war--
+
+Hero.
+O Koenigin, wenn du's gesehen hast,
+So weisst du auch, dass ich den dichtesten
+Von allen Baeumen unsers Gartens waehlte.
+
+Rhodope.
+Den dichtesten? Kann sein! Doch ganz gewiss
+Den, der am naechsten an der Mauer stand.
+
+Hero.
+Den allerdichtesten! Ich kletterte
+In eine wahre gruene Nacht hinein!
+Es war fast schauerlich, den goldnen Tag
+So hinter sich zu lassen und im Dunkeln
+Doch fortzukriechen.
+
+Rhodope.
+Warum tatst du's denn?
+
+Hero.
+Nicht, weil ich dem Olymp um ein paar Fuss
+Mich naehern wollte! Nein, das ueberliess ich
+Der Nachtigall, die mir zu Haeupten schlug.
+Ich wollte--Aber lache nicht! Ich kann
+Das Wiegen nicht vergessen, und ich wollte
+Mich oben etwas wiegen!
+
+Rhodope.
+          Weiter nichts?
+
+Hero.
+Und nebenbei, doch wirklich nebenbei,
+Ganz nebenbei, ein wenig spaehn, ich wuesste
+Es gar zu gern, ob diesen unsern Garten,
+Wie uns der finstre Karna immer sagt,
+Ein See umgibt.
+
+Lesbia.                       Ein See!
+
+Hero.
+              Du weisst es besser!
+
+Lesbia.
+Ei, hast du's hier noch jemals rauschen hoeren,
+Und ist ein See so ruhig, wie du selbst?
+
+Rhodope.
+Ich will nicht weiter fragen, denn ich weiss,
+Dass du's nicht wieder tust. Nie fiel ein Maedchen
+So sanft, wie du, und nie erschrak es so!
+
+Lesbia.
+Ja, alle Glieder waren hin!
+
+Hero.
+                  Ich waere
+Gar nicht gefallen, denn ein staerkrer Zweig
+War nah genug, der aber schaukelte
+Ein Nest mit jungen Voegeln, und ich wollte
+Ihn nicht betreten, um die zarte Brut,
+Die schon die federlosen Fluegel regte,
+Nicht aufzuscheuchen!
+
+Lesbia.
+        Dieses also war's?
+Sie flogen aber dennoch auf, du griffst
+Zuletzt gewiss noch zu, um dich zu halten!
+
+Rhodope.
+Neckt euch, solang ihr wollt, dies ist der Tag,
+An dem fuer euch das enge Haus sich oeffnet,
+Nun treibt es, wie ihr moegt, und seht euch satt.
+
+Hero.
+Und du?
+
+Rhodope.       Schaut nicht auf mich! Was euch erlaubt,
+Ist mir nur nicht verboten, heute kann
+Ich euch nicht Muster und nicht Vorbild sein.
+
+Hero.
+So willst du abermals das Fest nicht sehn?
+
+Rhodope.
+Um dich nicht in der Froehlichkeit zu stoeren!--
+Bei uns ist das nicht Sitte, und mir waer's,
+Als ob ich essen sollte ohne Hunger
+Und trinken ohne Durst. Auch scheint es mir,
+Dass unsre Weise besser ist, als eure,
+Denn niemals kommt ihr ohne Schauder heim
+Von diesen Festen, die euch erst so locken,
+Und das ist mir die Liebste, die den tiefsten
+Empfindet und zum zweitenmal nicht geht.
+Das soll fuer euch kein Tadel sein, o nein,
+Es freut mich nur, dass meine Lesbia,
+Die unter euch erwuchs, so fuehlt, wie ich!
+
+Lesbia.
+Wirst du mir heut vergeben--
+
+Rhodope.
+                Was denn nur?
+Was soll ich dir vergeben? Willst du mit?
+Oh, haett' ich dieses Lob zurueck! Sie schaemt
+Sich jetzt, die Tochter ihres Volks zu sein,
+Und hat's nicht Ursach'. Bin ich selbst was andres?
+Geh, geh und sag mir, wer der Sieger war!
+
+Hero.
+Gewiss wird auch der junge Gyges kaempfen,
+Der diese schoene Stimme hat.
+
+Rhodope.
+                Du kennst
+Schon seine Stimme?
+
+Hero.
+        Ja, doch weiter nichts!
+Heut werden wir ihn sehn, und glaube mir,
+Auch sie geht nur, weil er erscheint!
+
+Lesbia.
+
+  Ich kann
+Noch immer bleiben und dich Luegen strafen!
+
+Hero.
+Du tust es nicht!
+
+Kandaules (tritt rasch ein). Rhodope, sei gegruesst!--
+Doch--Weisst du, wer ich bin? Ein Hermenwaechter,
+Ein Grenzpfahlkoenig, der die Ellen freilich,
+Doch nie die Schwerter misst und schuld dran ist,
+Dass die zwoelf Taten des Herakles nicht
+Durch vierundzwanzig andre, groessere
+Laengst ueberboten sind. Wenn du's nicht glaubst,
+So frage nur den grimmigen Alkaeos,
+Du kennst ihn nicht? Ich auch seit heute erst!
+Und weisst du, wie ich Menschen gluecklich mache?
+Ich spreche: Juengling komm, da ist ein Kern,
+Den stecke in die Erde und begiesse
+Den Fleck mit Wasser, tu es Tag fuer Tag
+Und sei gewiss, dass du mit weissen Haaren
+Fuer deine Muehe Kirschen essen wirst,
+Ob suesse oder saure, siehst du dann!
+Als Waehrsmann stelle ich den Agron dir,
+Den wuerd'gen Freund des wuerdigen Alkaeos,
+Ihm voellig gleich, nur nicht so weiss im Bart.
+
+Rhodope.
+Du bist vergnuegt!
+
+Kandaules.
+Wie sollte ich's nicht sein?
+Wenn auch Alkaeos mir in offnem Aufstand
+Entgegentreten will, sobald ich's wage,
+Vor ihm so zu erscheinen, wie vor dir,
+Ich meine mit dem neuen Diadem
+Agron wird mich beschuetzen, und ich soll
+Zum Dank mich nur verpflichten, du wirst staunen,
+Wie mild er's mit mir vorhat, nie den Putz
+Mehr zu veraendern und ein Schwert zu tragen,
+Das meine ganze Kraft durch's Ziehn erschoepft.
+
+Rhodope.
+Woher denn weisst du das?
+
+Kandaules.
+          Durch keinen Spaeher,
+Noch weniger durch einen falschen Freund:
+Von ihnen selbst, durch ihren eignen Mund.
+
+Rhodope.
+Du spottest meiner Frage.
+
+Kandaules.
+        Nein doch, nein!
+Ich sprech im vollsten Ernst! Ich stand dabei,
+Wie sie, die Naegel in die Tische grabend,
+Und mit gewetztem Zahn die eigne Lippe,
+Als waer' es fremdes, wildes Fleisch, benagend,
+Sich's schwuren, und sie halten es gewiss.
+Es gilt hier eine Art von Gottesurteil,
+Der eine haut nach mir, der andre wehrt,
+Und Dike kann entscheiden, wenn sie mag.
+
+Rhodope.
+So haettest du gelauscht? Das glaub ich nicht.
+Wenn ich wo bin, wo man mich nicht erwartet,
+So mach ich ein Geraeusch, damit man's merkt
+Und ja nicht spricht, was ich nicht hoeren soll,
+Und du--nein, nein, das tut ein Koenig nicht!
+
+Kandaules.
+Gewiss nicht!--Doch, du kannst es nicht erraten!
+Siehst du den Ring? Wie teuer haeltst du ihn?
+
+Rhodope.
+Ich weiss ja nicht, von wem er kommt.
+
+Kandaules.
+                          Von Gyges!
+
+Rhodope.
+Da wird er dir unschaetzbar sein!
+
+Kandaules.
+                    Er ist's!
+Doch ahnst du nicht, warum. Vernimm's und staune,
+Unsichtbar macht er jeden, der ihn traegt.
+
+Rhodope.
+Unsichtbar?
+
+Kandaules.           Eben hab ich's selbst erprobt.
+Nicht wieder klettern, Hero! Nur die Voegel
+Verstecken sich im Laube!
+
+Rhodope.
+          Lesbia!
+
+Kandaules.
+Durch alle Tueren schreit ich hin, mich halten
+Nicht Schloss noch Riegel fern!
+
+Rhodope.
+                  Wie fuerchterlich.
+
+Kandaules.
+Fuer jeden Boesen, meinst du.
+
+Rhodope.
+            Nein doch, nein!
+Fuer jeden Guten noch viel mehr! (Zu Lesbia.) Kannst du
+Noch ruhig atmen, wirst du nicht in Scham
+Vergluehn, nun du dies weisst? Herr, wirf ihn fort,
+Hinunter in den tiefsten Fluss! Wem mehr
+Als Menschenkraft beschieden ist, der wird
+Als Halbgott gleich geboren! Gib ihn mir!
+Man sagt bei uns, dass Dinge, die die Welt
+Zertruemmern koennen, hie und da auf Erden
+Verborgen sind. Sie stammen aus der Zeit,
+Wo Gott und Mensch noch miteinander gingen
+Und Liebespfaender tauschten. Dieser Ring
+Gehoert dazu! Wer weiss, an welche Hand
+Ihn eine Goettin steckte, welchen Bund
+Er einst besiegeln musste! Graust dich nicht,
+Dir ihre dunkle Gabe anzueignen
+Und ihre Rache auf dein Haupt zu ziehn?
+Mich schaudert, wenn ich ihn nur seh! So gib!
+
+Kandaules.
+Um einen Preis! Wenn du als Koenigin
+Beim Feste heut erscheinen willst.
+
+Rhodope.
+                        Wie kann ich!
+Du holtest dir von weit entlegner Grenze
+Die stille Braut, und wusstest, wie sie war.
+Auch hat's dich einst beglueckt, dass vor dem deinen
+Nur noch das Vaterauge auf mir ruhte,
+Und dass nach dir mich keiner mehr erblickt.
+
+Kandaules.
+Vergib! Ich denke nur, der Edelstein,
+Den man nicht zeigt--
+
+Rhodope.
+  Lockt keine Raeuber an!
+
+Kandaules.
+Genug! Ich bin ja an dies Nein gewoehnt!
+Blaest auch der frische Wind an allen Orten
+Die Schleier weg: Du haeltst den Deinen fest.
+
+(Musik.)
+
+Der Zug! Da darf der Koenig ja nicht fehlen.
+
+Rhodope.
+Und die Empoerer? Heute tut's mir weh,
+Dass ich nicht mit dir gehen darf.
+
+Kandaules.
+                    Hab Dank!
+Doch aengstige dich nicht. Es ist gesorgt.
+
+Rhodope.
+
+    Gewiss?
+
+Kandaules.
+Gewiss! Zwar nicht, weil ich mich fuerchte,
+Nur, weil ich strafen muesste, und nicht mag.
+Das Leben ist zu kurz, als dass der Mensch
+Sich drin den Tod auch nur verdienen koennte,
+Darum verhinge ich ihn heut nicht gern! (Ab.)
+
+Rhodope.
+Nun geht auch ihr!
+
+Lesbia.
+Ich bleibe, Koenigin!
+
+Rhodope.
+Ei nein! Dir sang's die Amme nimmer vor,
+Dass Mannes Angesicht der Tod fuer dich!
+
+(Lesbia, Hero und die uebrigen ab.)
+
+Das Traeumen kennt hier keine! Auch der Besten
+Ist Opfer, was mir einz'ge Freude ist! (Ab.)
+
+
+Freier Platz.
+
+Viel Volk.
+Der Koenig auf einem Thron. Lesbia, Hero usw. an der Seite auf
+einem Balkon. Die Spiele sind eben beendigt. Allgemeine Bewegung
+und Sonderung in Gruppen. Ringer, Faustkaempfer, Wagenlenker usw.
+werden nach und nach sichtbar, alle mit Zweigen von der Silberpappel
+bekraenzt. Wein wird gereicht, Musik ertoent, das Fest beginnt.
+
+Volk.
+Heil, Gyges, Heil!
+
+Kandaules (in den Hintergrund schauend).
+
+      Im Diskuswerfen auch?
+Zum drittenmal? Das sollt' ich uebelnehmen!
+Da kommt ja gar nichts auf die Meinigen.
+
+(Heruntersteigend und dem aus dem Hintergrunde kommenden Gyges,
+dem das Volk noch immer zujubelt und Platz macht,
+entgegenschreitend.)
+
+Bescheiden bist du, das ist wahr! Du nimmst
+Nicht mehr, als da ist.
+
+Gyges.
+        Herr, ich kaempfte heut
+Als Grieche, nicht als Gyges.
+
+Kandaules.
+                Um so schlimmer
+Fuer uns, wenn du die neue Regel bist!
+Da tut's ja not, die alten Drachenhaeute
+Hervorzusuchen und sie auszustopfen,
+Die, vom Herakles her, noch irgendwo
+Im Winkel eines Tempels faulen sollen,
+Den Balg der Schlange mit den hundert Koepfen
+Und andres mehr, was euch erschrecken kann!
+Du hoerst mich nicht!
+
+Gyges.
+      Doch! doch!
+
+Kandaules.
+                        Ei nein, ich seh's,
+Du bist zerstreut, du schielst zu jenen Maedchen
+Hinueber, sie bemerken's auch, schau hin,
+Die Kleine neckt die Grosse! Du wirst rot?
+Pfui, schaeme dich!
+
+Gyges.
+    Mich duerstet, Herr!
+
+Kandaules.
+
+  Dich duerstet?
+Das ist was andres! Wer so kaempft, wie du,
+Der hat das Recht auf einen guten Trunk,
+Und, wenn auch ohne Recht, ich trinke mit!
+Nun kommt der Teil des Festes, den ich liebe!
+
+(Winkt einem Diener.)
+
+Heran!
+
+Ein Diener (bringt einen Pokal mit Wein).
+
+Kandaules (giesst einige Tropfen auf die Erde).
+              Die Wurzel erst! Und dann der Zweig!
+
+(Er trinkt und will Gyges den Pokal reichen. Dieser sieht wieder
+zu dem Balkon hinueber.)
+
+Komm!--Ha!--Schwarz oder braun, das ist die Frage,
+Nicht wahr?
+
+Gyges.                 O Herr!
+
+Kandaules.
+  Hat dir der Wein geschmeckt?
+
+Gyges.
+Ich trank noch nicht.
+
+Kandaules.
+  Das weisst du? Nun, so lass
+Dich mahnen, dass du durstig bist, und mach!
+Ich stehe dir dafuer, dass sie so lange
+Verweilt, bis du heraus hast, was dich quaelt!
+
+Gyges (trinkt).
+Das kuehlt!
+
+Kandaules.         O weh! hinunter geht dein Stern!
+
+(Die Maedchen entfernen sich, aber man sieht sie noch.)
+
+Nun, es war Zeit. Sieh dich nur um! Die drehen
+Sich schon, als waer's um einen Thyrsosstab,
+Der, ploetzlich aus der Erde aufgeschossen,
+Noch rascher, wie ein Pfeil, gen Himmel steigt
+Und Millionen Trauben fallen laesst.
+Der Wein ist fuer gefluegelte Geschoepfe,
+Nicht fuer die Welt, worin man hinkt und kriecht!
+Die stellt er auf den Kopf. Der Alte da
+Waer' gleich bereit, den Tiger zu besteigen
+Und sich die welken Schlaefe zu bekraenzen,
+Wie Dionys, als er zum Ganges zog!
+Doch das behagt mir eben!--War sie schoen?
+
+Gyges.
+Ich weiss nicht, ob das schoen, was mir gefaellt?
+
+Kandaules.
+Sprich ruhig: ja! Ein Auge, wie die Kohle,
+Die zwar nur glimmt, doch vor dem kleinsten Hauch
+Schon Funken gibt, dabei ein Farbenspiel,
+Dass man nicht weiss, ob's schwarz ist, oder braun,
+Und dann, als liefe dieses ew'ge Schillern
+Durch jeden Tropfen ihres Bluts hindurch,
+Ein Wechseln zwischen Scham und stiller Glut,
+Das ihr Erroeten reizend macht, wie keins.
+
+Gyges.
+Du tust das ganz fuer mich, was halb der Wind,
+Er lueftete den Schleier, du erhebst ihn!
+
+Kandaules.
+Ich tu's nicht, weil du vor ihr knieen sollst!
+Nein! Wenn ich vor ein andres Bild dich fuehrte,
+Du wuerdest dies, so lieblich es auch ist,
+Wie einen Fleck dir aus dem Auge wischen,
+Der dir den Spiegel truebte!
+
+Gyges.
+                Meinst du, Herr?
+
+Kandaules.
+Gewiss! Doch halt! Man soll den Schatz nicht preisen,
+Den man nicht zeigen kann! Man wird verhoehnt,
+Wer glaubt an Perlen in geschlossner Hand!
+
+Gyges.
+Ich!
+
+Kandaules. Gyges, schon der Schatten, den Rhodope
+Im Mondschein wirft--du laechelst! Trinken wir!
+
+Gyges.
+Ich laechle nicht!
+
+Kandaules.
+So solltest du! Wer kann
+Denn nicht so prahlen? Spraechst du so zu mir,
+Wie ich zu dir, ich sagte: zeig sie mir,
+Sonst schweige still!
+
+Gyges.
+        Ich traue Dir!
+
+Kandaules.
+                        Ei was!
+Dem Auge soll man trauen, nicht dem Ohr.
+Du traust mir! Ha! Vor diesem bloeden Kinde
+Ergluehtest du und jetzt--Genug, genug,
+Ich will mich nicht mehr schwatzend vor dir bruesten,
+Wie ich's so lange Zeit nun schon getan,
+Du sollst sie sehn!
+
+Gyges.
+  Sie sehn!
+
+Kandaules.
+              Noch diese Nacht!
+Ich brauche einen Zeugen, dass ich nicht
+Ein eitler Tor bin, der sich selbst beluegt,
+Wenn er sich ruehmt, das schoenste Weib zu kuessen,
+Und dazu waehl ich dich.
+
+Gyges.
+            Oh, nimmermehr!
+Erwaegst du--Fuer den Mann wir's eine Schmach,
+Doch fuer ein Weib, und fuer ein Weib, wie sie,
+Das selbst bei Tag--
+
+Kandaules.
+Sie kann's ja nie erfahren!
+Hast du den Ring vergessen? Und ich bin
+Erst gluecklich, wenn dein Mund mir sagt, ich sei's.
+Ei, frag dich selbst, ob du die Krone moechtest,
+Wenn du sie nur im Dunkeln tragen solltest!
+Nun, so ergeht es mir mit ihr! Sie ist
+Der Frauen Koenigin, doch ich besitze
+Sie, wie das Meer die Perlen, keiner ahnt,
+Wie reich ich bin, und ist einst alles aus,
+So kann's kein Freund mir auf den Grabstein setzen,
+Und Bettler unter Bettlern lieg ich da.
+Drum widerstrebe nicht und nimm den Ring!
+
+(Er reicht ihn Gyges, dieser nimmt ihn nicht.)
+
+Die Nacht bricht ein, ich zeig dir das Gemach,
+Und wenn du siehst, dass ich's mit ihr betrete,
+So folgst du uns!
+
+(Er lasst Gyges bei der Hand und zieht ihn mit sich fort.)
+
+
+Ich fordre es von dir!
+Und bist du's deiner Lesbia nicht schuldig?
+Vielleicht ist sie die Siegerin!
+
+(Beide ab.)
+
+
+
+
+
+Zweiter Akt
+
+
+
+Halle.
+
+Frueher Morgen. Thoas tritt auf.
+
+Thoas.
+Ich will und muss noch einmal mit ihm reden,
+Was hab ich hoeren muessen diese Nacht!
+Ich ging gewiss nicht um zu horchen aus,
+Doch komm ich so beladen heim, als waer' ich
+Ein wandelnd Ohr des blutigsten Tyrannen
+Und traute mich nur kaum zum Herrn zurueck.
+Empoerung! Naher ueberfall von Feinden,
+Ja, eine neue Koenigswahl! Ist's moeglich!
+Ich ahnte viel, doch so viel ahnt' ich nicht!
+Still, still! Sind das nicht Schritte? Ja! Wer steht
+Denn mit den Greisen schon vor Morgen auf?
+Der junge Gyges! Ei, wenn du das wuesstest,
+Was ich jetzt weiss, du gingest nicht gebueckt.
+
+(Er zieht sich zurueck.)
+
+Gyges (tritt auf).
+Schon wieder bin ich hier! Was will ich hier?
+Es duldet mich im Freien nicht, ein Duft
+Liegt in der Luft, so schwer und so betaeubend,
+Als haetten alle Blumen sich zugleich
+Geoeffnet, um die Menschen zu ersticken,
+Als atmete die Erde selbst sich aus.
+
+Thoas (tritt hervor).
+Schon munter, Karna? Herr, vergib, ich hielt dich
+Fuer einen andern! Du noch nicht zu Bett?
+Der Ehrgeiz laesst dich wohl nicht schlafen, wie?
+
+Gyges.
+Der Ehrgeiz!
+
+Thoas.                   Nun, du hast so viele
+Kraenze
+Davongetragen--
+
+Gyges.                       Dass
+der Lorbeer sich
+Vor mir nicht mehr zu fuerchten braucht! Ich wollte
+Nur zeigen, dass man Knochen haben kann,
+Und Mark in diesen Knochen, wenn man auch
+Die Saiten einer Zither nicht zerreisst,
+Sobald man sie beruehrt. Dies weiss nun jeder,
+Der es bisher vielleicht bezweifelt hat,
+Und so ist's gut.
+
+Thoas.                       Doch,
+warum schlaefst du nicht?
+
+Gyges.
+Ei, warum trinkst du nicht?
+
+Thoas.
+                Du standest wohl
+Schon wieder auf?
+Gyges.                   Wenn ich schon lag:
+gewiss!
+
+Thoas.
+Das wuesst' ich eben gern! Denn, wenn er hoerte,
+Was ich gehoert--Nun, nun, er wird wohl nicht!
+
+(Langsam ab.)
+
+Gyges.
+Sie schlummert noch! Oh, wer sie wecken duerfte!
+Das darf die Nachtigall, die eben jetzt
+Noch halb im Traum ihr suesses Lied beginnt,
+Das darf--Er kommt! Was denkt er wohl von mir?
+
+Kandaules (tritt auf).
+Sie wacht und stellt sich doch, als ob sie schliefe!--
+Du, Gyges? Schon?--Wie, oder sag ich. Noch?
+Doch nein, ich hab dein Wort!
+
+Gyges.
+                    Hier ist der Ring!
+
+Kandaules.
+So frueh? So schnell?
+
+Gyges.
+    Er ist dein Eigentum.
+
+Kandaules.
+Du traust dich nicht, ihn laenger zu behalten?
+
+Gyges.
+Warum nicht? Doch wozu? So nimm ihn hin!
+
+Kandaules.
+Dies sagt mir mehr noch, als dein Seufzer mir
+Schon in der Nacht gesagt.
+
+Gyges.
+                Vergib ihn, Herr!
+
+Kandaules.
+Wie sprichst du nur? Er war ja mein Triumph.
+
+Gyges.
+Hast du ihn denn allein gehoert?
+
+Kandaules.
+                  O nein!
+Sie fuhr empor, sie schrie--Ist alles das
+Dir ganz entgangen? Nun, da brauch ich dich
+Nicht erst zu fragen, ob ich Sieger bin!
+
+Gyges.
+Es ist mir nicht entgangen!
+
+Kandaules.
+            Leugne noch,
+Dass du verwirrt gewesen bist! Ich habe
+Noch einen besseren Beweis, du hast
+Sogar den Ring gedreht und weisst es nicht.
+
+Gyges.
+Und weiss es nicht!
+
+Kandaules.
+Sie zitterte, als sie
+Den Laut vernahm, sie rief: steh auf, steh auf,
+Im Winkel ist ein Mensch versteckt, er will
+Dich morden oder mich! Wo ist dein Schwert?
+Ich stellte mich erschreckt, wie sie, und tat's,
+Und ploetzlich standest du, vom hellsten Strahl
+Der Ampel grell beleuchtet, vor mir da,
+Ist das genug? Verstummst du nun vor mir?
+
+Gyges.
+Ich wollte sichtbar sein!
+
+Kandaules.
+        Das sagst du jetzt,
+Um meinen Sieg zu schmaelern! Waere ich
+Nicht zwischen dich und ihren Blick getreten,
+Bevor er dich noch traf, so haette ich
+Dich toeten muessen!
+
+Gyges.
+  Herr, dies wusst' ich wohl,
+Und nur, weil ich dich dazu zwingen wollte,
+Dreht' ich den Ring in hast'gem Ruck herum.
+
+Kandaules.
+Wie, Gyges?
+
+Gyges.                 Ja!--Denn frevelhaft
+erschien
+Das Wagnis mir!
+
+Kandaules.                   Ich hatt' es dir
+erlaubt.
+Gyges.
+Wohl! Doch mir war in jener schwuelen Stunde,
+Als haettst du nicht das Recht dazu gehabt,
+Und strafen wollt' ich dich, wie mich, denn gern
+Haettst du mich nicht getoetet!
+
+Kandaules.
+            Boesewicht!
+
+Gyges.
+Und jetzt noch schauert's durch die Seele mir,
+Als haett' ich eine Missetat begangen,
+Fuer die der Lippe zwar ein Name fehlt,
+Doch dem Gewissen die Empfindung nicht.
+Ja, wenn ich dir den schnoeden Totenring,
+Den du mir wieder aufgesteckt, im Zorn
+Nicht vor die Fuesse warf, anstatt mich seiner
+Zur raschen Flucht noch einmal zu bedienen,
+So unterliess ich's bloss aus Scheu vor ihr.
+Ihr wollt' ich das Entsetzen sparen, ihr
+Die ewige Umschattung ihres Seins,
+Dir nicht--Verzeih's, mich fieberte--die Tat!
+
+Kandaules.
+Du bist ein Tor!
+
+Gyges.                       Ein Tor!
+Es trieb mich fort,
+Als muesste sich, wenn ich noch laenger weilte,
+Ein neuer reinrer Sinn in ihr erschliessen,
+Wie vor Aktaeons Spaehn in Artemis,
+Und ihr, wie der, verraten, was geschehn.
+So werd ich nicht nach einem Morde fliehn.
+
+Kandaules.
+Doch war's kein Mord!
+
+Gyges.
+          Wer weiss! Die Goetter wenden
+Sich vom Befleckten ab! Wie, wenn sich jetzt
+Die goldne Aphrodite, schwer beleidigt,
+Von ihrer liebsten Tochter wenden muesste,
+Weil sie ein Blick aus fremdem Aug' entweiht!
+Sie tut's nicht gern, sie saeumt noch, weil sie hofft,
+Dass eine rasche Suehne folgen wird,
+Oh, Goettin, laechle fort! Ich bringe sie!
+
+Kandaules.
+Das sprach der Grieche.
+
+Gyges.
+            Herr, gewaehre mir
+Die letzte Bitte!
+
+Kandaules.                 Tausend, wenn du
+willst,
+Nur nicht die letzte! Diese kommt zu frueh!
+
+Gyges.
+Nimm mich als Opfer an! Ich schenke dir
+Mein junges Leben! Weis es nicht zurueck!
+Es sind noch viele schoene Jahre mein,
+Und jedes wird dir zugelegt, wenn du
+Sie am Altar des Zeus empfangen willst!
+So folge mir, dass ich mit einer Hand
+Dich fasse und mich mit der anderen
+Durchstosse, wie der heil'ge Brauch es fordert:
+Frohlockend, ja mit Laecheln, soll's geschehn.
+
+Kandaules.
+Fast reut mich, was ich tat! Hier Raserei
+Und drinnen Argwohn--Ei!
+
+Gyges.
+                Was zoegerst du!
+Wie oft ward solch ein Juenglingsopfer willig
+Nicht einem Kriegesfuersten dargebracht,
+Wenn ihn des Todes Schatten auch nur streifte,
+Wie oft nicht einem blossen Wueterich!
+Warum nicht einmal einem Seligen,
+Warum nicht dir, damit du lange noch
+Begluecken und dich gluecklich fuehlen kannst!
+Mir raubst du nichts! Was hab ich, und was kann ich
+Erlangen, sprich? Doch dir gewinnst du viel,
+Denn neidisch sind die Goetter, und vielleicht
+Zerschneidet dir die eifersuecht'ge Parze
+Nur allzu schnell den goldnen Lebensfaden,
+Indes sie meinen tueckisch weiterspinnt.
+Komm ihr zuvor und gib der Lust die Dauer,
+Die sie der Qual bestimmte! Tu's sogleich!
+
+Kandaules.
+Nichts mehr davon! Du weisst, was du mir bist!
+Und wuerd' ich auf der Stelle auch ein Greis
+Mit trocknen Lippen und mit welken Adern,
+Ich borgte mir nicht neue Glut von dir!
+
+Gyges.
+Doch wuerdest du dabei auch jetzt nichts wagen,
+Denn koennte ich mein Blut mit deinem mischen:
+Wie heiss es sei, es bliebe, wie es ist!
+
+Kandaules.
+Du bist in dieser Stunde noch verwirrt,
+Und weisst nicht, was du sprichst und was du tust.
+
+Gyges.
+Vergib's mir, Herr!
+
+Kandaules.                     Ich schelte
+dich ja nicht!
+Das ist ein Rausch, wie der vom Duft der Reben,
+Ein kuehler Hauch des Morgens blaest ihn fort.
+
+(Indem er geht.)
+
+Ich hoff's zum mindesten und werd es sehn! (Ab.)
+
+Gyges.
+Warum gab ich den Ring zurueck! Ich haette
+Verschwinden, nie mehr sichtbar werden sollen,
+Dann koennt' ich ewig um sie sein, dann wuerd' ich
+Sie sehen, wie sie nur die Goetter sehn!
+Denn irgend etwas sparen die sich auf:
+Ein Reiz der Schoenheit, den sie selbst nicht kennt,
+Ein Blitzen in der tiefsten Einsamkeit,
+Ein letzter, ganz geheimnisvoller Zauber,
+Das ist fuer sie und waer' jetzt auch fuer mich!
+Zwar wuerd' ich ihrer Rache nicht entgehn,
+Wenn ich verstohlen aus dem Kelche nippte,
+Der einzig fuer sie selber quillt und schaeumt.
+Es wuerde ploetzlich in den Lueften klingen,
+Und Helios, durch einen Flammenwink
+Der zorn'gen Aphrodite angefeuert,
+Den sichersten von all den sichren Pfeilen
+Versenden, welche er im Koecher traegt.
+Dann stuerzt' ich hin, allein das taete nichts,
+Denn im Verroecheln wuerde ich den Ring
+Noch einmal drehen und zu ihren Fuessen,
+Mein Auge zu dem ihrigen erhebend
+Und ihre Seele, wie die meine wiche,
+Aus ihren Blicken durstig in mich saugend,
+Verhaucht' ich meines Odems letzten Rest!
+
+(Thoas kommt mit der verschleierten Lesbia.)
+
+Thoas.
+Der Koenig schenkt dem Gyges, seinem Guenstling,
+Die schoene Sklavin, die ihm wohlgefaellt!
+
+Gyges.
+Der Koenig will mich hoehnen, und das habe
+Ich nicht um ihn verdient, auch duld ich's nicht!
+
+Thoas.
+Die Gabe ist zwar reich und auserlesen,
+Doch zweifle nicht, es ist des Koenigs Ernst.
+
+Gyges.
+Schweig, Unverstaendigster der Unverstaend'gen,
+Der Ernst des Koenigs ist der aergste Spott!
+
+Thoas.
+Tu du den Mund auf, Maegdlein, sag's ihm selber,
+Wenn er's dem meinigen nicht glauben kann!
+
+Gyges.
+Kein Wort!
+
+Thoas.               Verschmaehst du das Geschenk des
+Koenigs?
+
+Gyges.
+Ja!
+
+Thoas.   Gyges! Doch, du weisst ja, was du tust!
+
+Gyges.
+Der Koenig schlug mich tot und drueckt der Leiche
+Jetzt ein Juwel fuer's Leben in die Hand.
+
+Thoas.
+Ich kann dich nicht verstehn und werde melden,
+Was ich gehoert!--So komm mit mir zurueck!
+
+Lesbia.
+Du siehst mich nicht zum zweiten Mal! Vergib,
+Dass ich gesprochen, klingt es doch gewiss
+In deinen Ohren rauh!
+
+Gyges.
+      Nein, holdes Kind!
+Stell dich nur hinter den Platanenbaum,
+Und sprich, wie jetzt. Dann ruft ein heisser Juengling:
+Die erste Nachtigall, die nicht bloss singt!
+
+Lesbia.
+Du bist kein Juengling!
+
+Gyges.
+        Ich bin weniger!
+Das siehst du ja! Zwar kam es mir schon vor,
+Als sei ich nicht der Letzte in den Waffen,
+Als haett' ich dies und das getan, als zupfe
+Mich keiner ungestraft mehr bei den Ohren,
+Als rufe man mich gar, wenn just kein bessrer
+Zu Haus sei, in der Stunde der Gefahr;
+Doch das sind Knabentraeume! Peitscht den Buben,
+Er trank wohl Wein zur Nacht!
+
+Lesbia.
+                    Erst bringe mir
+Ein Reis vom Lorbeerbaum, dann peitsch ich dich
+Und winde dir nachher den Kranz!
+
+Gyges.
+                            So
+hast
+Du's mit getraeumt? So waer's vielleicht gar wahr?,
+Und doch den Hohn?
+
+Lesbia.
+      Den Hohn? Wo ist denn Hohn?
+
+Gyges.
+Stehst du nicht da?
+
+Lesbia.
+Das schmerzt!
+
+Gyges.
+                        Nicht so! Nicht
+so!
+Gewiss, nicht so!
+
+Lesbia.                       Du
+toetetest schon manchen,
+Hast du je einen wieder aufgeweckt?
+
+Gyges.
+Du bist sehr schoen! Ei freilich! Ein Gemisch
+Von Lilien und Rosen, die im Beet
+Bunt durcheinander stehn, und die der Wind
+In gauklerischem Spiel so neckisch schaukelt,
+Dass man sie nicht mehr unterscheiden kann!
+Jetzt bist du rot, jetzt blass! Und nicht einmal!
+Du bist's zugleich!
+
+Lesbia.
+Was weisst denn du von mir?
+Das traeumtest du! Ich seh ganz anders aus!
+Erschrick! (Sie will sich entschleiern.)
+
+Gyges.               Nein, nein! (Haelt sie ab.)
+
+Lesbia.
+        Zur Koenigin zurueck!
+Sie gab mich nicht mit Freuden her, sie nimmt
+Mich willig wieder auf!
+
+Gyges.
+          Dann sage ihr,
+Der Gyges haett' dich gar nicht angesehn!
+
+Lesbia.
+O Schmach!
+
+Gyges.                 Nicht doch! Du weisst,
+wie oft ich gestern,
+Und frueher hab ich dich ja nie erblickt,
+Nach dir gespaeht!
+
+Lesbia.
+Ich habe dann wohl immer
+Was Albernes getan! Wie schaem ich mich,
+Dass ich das jetzt erst merke! Doch die andern
+Sind schuld daran mit ihrer Neckerei!
+
+Gyges.
+Ich sah nur, was mich reizte!
+
+Lesbia.
+                O gewiss,
+Denn, was uns reizt, das lieben wir verhuellt!
+Komm, Alter!
+
+Gyges.                   Warum eilst du so?
+Ich bin dein Herr! Doch zittre nicht vor mir,
+Ich will von dir nur einen einz'gen Dienst,
+Dann magst du wieder ziehn!
+
+Lesbia (zu Thoas).
+      So geh allein!
+
+Gyges.
+Bleib, bleib!--Doch nein!--Dem Koenig meinen Dank!
+Ich nehme sein Geschenk, und wie ich's ehre,
+Werd ich ihm zeigen!
+
+Thoas.
+        Wohl! (Ab.)
+
+Lesbia.
+                  Und nun der Dienst?
+
+Gyges.
+Du sollst so lange weilen, bis das Laecheln
+Dir wiederkehrt!
+
+Lesbia.                       Das wird
+nicht schnell geschehn!
+
+Gyges.
+Und in der Zwischenzeit ein wenig plaudern!
+Du bist ja um die Koenigin, ihr schmeckt
+Der Pfirsich sicher nur, wenn du ihn brachst:
+Sprich mir von ihr!
+
+Lesbia.
+  Von ihr!
+
+Gyges.
+                  Ich meine nur!--
+Von etwas andrem, wenn du willst! Vom Garten,
+In dem sie wandelt, oder von den Blumen,
+Die sie am liebsten pflueckt! Auch von dir selbst!
+Ich hoer es gern! Worin seid ihr euch gleich?
+Sag's rasch, damit du rasch mir teuer wirst!
+An Wuchs? Nicht ganz! Noch minder an Gestalt!
+Doch dafuer ist das Haar dir schwarz, wie ihr,
+Nur nicht so voll--ihr kriecht es ums Gesicht
+Herum, wie um den Abendstern die Nacht!--
+Was hast du sonst von ihr?
+
+Lesbia (macht eine unwillkuerliche Bewegung).
+
+Gyges.
+              Nein, bleibe stehn!
+Im Gange ist sie einzig! Wenn du schreitest,
+So sieht man, du willst dahin oder dorthin,
+Dich reizt die Dattel, oder auch der Quell,
+Doch wenn sie sich bewegt, so blicken wir
+Empor zum Himmel, ob nicht Helios
+Den goldnen Sonnenwagen eilig senke,
+Um sie hineinzuheben und mit ihr
+Dahinzuziehn in alle Ewigkeit!
+
+Lesbia.
+Ja, sie ist schoen!
+
+Gyges.                       Du
+schlaegst die Augen nieder?
+Ei, Maegdlein, die erhebe, denn mir deucht,
+Die spruehen, wie die ihrigen!
+
+Lesbia (lacht krampfhaft).             Vielleicht
+In dieser Stunde!
+
+Gyges.
+Tat mein Wort dir weh?
+
+Lesbia.
+Ich glaub, ich lachte, und nun darf ich gehn!
+
+Gyges.
+Nicht ohne ein Geschenk! Ja, holdes Kind,
+Du sollst an Gyges noch mit Liebe denken!
+Er ist zwar rauh und schlaegt oft eine Wunde,
+Eh' er es ahnt, besonders mit der Zunge,
+Doch liess er nie noch eine ungeheilt.
+
+Kandaules (tritt auf).
+Nun?
+
+Gyges.       Herr, du kommst im rechten Augenblick!
+
+Kandaules.
+Dann muesste ich zwei Glueckliche hier finden!
+
+Gyges.
+Noch nicht, doch gleich! (Zu Lesbia.) Gib deine Hand einmal!
+Wie zart ist sie! Wie hart die meinige,
+Wie schwielenreich von Schwert und Spiess! Das passte
+Doch gar zu schlecht! Die muss ein Rosenblatt,
+Das sich zusammenrollt, schon schmerzlich spueren,
+An meiner stumpft der schaerfste Dorn sich ab!
+Sie zuckt, als ob sie eingeschmiedet waere,
+Kind, fuerchte nichts! Ich fasse dich nicht an,
+Weil ich dich halten will! Der Koenig weiss
+Dass ich nicht bloss sein klares Wort verstehe,
+Dass ich auch seinen Wink mir deuten kann.
+Er sah mit Schmerz, dass die Natur fuer dich
+So viel getan und nichts das arge Glueck,
+Er will, dass ich das Glueck bei dir vertrete:
+Ich tu es (laesst sie los) und erklaere dich fuer frei!
+
+Lesbia.
+Die Freiheit, sagt man, ist ein hohes Gut,
+Ich kenn sie nicht, ich ward als Kind geraubt,
+Allein fuer hohe Gueter muss man danken,
+So danke ich fuer meine Freiheit dir!
+
+Gyges.
+Bist du zufrieden, Herr?
+
+Kandaules.
+        Ich bin erstaunt!
+
+Gyges.
+Und da du denn nicht weisst, wo dir die Mutter
+Nachweint, und wo das Haus des Vaters steht,
+So geh, bis du es findest, in das meine,
+Ich schenke dir's und hol nur noch mein Schwert!
+
+Lesbia (Ab).
+
+Kandaules.
+Was machst du, Gyges?
+
+Gyges.
+        Herr, ich danke dir,
+Dass du dies Werk durch mich vollbringen wolltest:
+Es bleibt das Deinige!
+
+Kandaules.
+    Du willst, wie's scheint,
+Den Enkel des Herakles einmal sehn,
+Nimm dich in acht, er schlaeft nicht gar zu fest!
+
+Gyges.
+Konnt' ich dich heute kraenken?
+
+Kandaules.
+                Nein! Vergib!
+Doch geh sogleich und nimm dir aus dem Schatz
+Das Doppelte von dem, was du verschenktest,
+Dein Tun verdross mich, und es schmerzt mich noch!
+
+Gyges.
+Verzeih mir, wenn ich nicht gehorchen kann!
+Das alles ward auf einmal mir zur Last,
+Und da sich jetzt zu Gold und Edelstein
+Die schoene Sklavin noch hinzugesellte,
+So nutzt' ich ihren schlanken weissen Nacken
+Und hing die Kostbarkeiten daran auf.
+Ich kann nichts weiter brauchen, als mein Schwert,
+Doch, wenn du dich mir gnaedig zeigen willst,
+So schenke mir die Koepfe deiner Feinde,
+Ich sammle sie bis auf den letzten ein.
+
+Kandaules.
+Du bist ein andrer, Gyges, als du warst.
+
+Gyges.
+Ich bin es, Herr.
+
+Kandaules.                 Du liebst!
+
+Gyges.
+              Ich haett' das Maegdlein
+Zusammenhauen koennen: liebe ich?
+
+Kandaules.
+Du liebst Rhodopen!
+
+Gyges.
+      Herr, ich kann dir bloss
+Nicht laenger dienen.
+
+Kandaules.
+Scheide, wenn du musst!
+Es tut mir weh, doch darf ich's dir nicht wehren!
+Und da du nichts von mir empfangen willst,
+So kann ich auch von dir nichts mehr behalten:
+Hier ist dein Ring!
+
+Gyges.
+  Gib mir dein Schwert dafuer!
+
+Kandaules.
+Ich danke dir, dass du so edel bist!
+
+(Will ab.)
+
+Gyges.
+Noch etwas! (Er zieht von seiner Brust einen Stein hervor.)
+                    Nimm!
+
+Kandaules.                       Das
+ist?
+
+Gyges.
+                  Du kennst ihn wohl!
+
+Kandaules.
+Rhodopens Diamant!
+
+Gyges.
+      Ich nahm ihn mit,
+Weil er an ihrem Hals--Erlass' es mir,
+Es ist gebuesst!
+
+Kandaules.             Erinnyen, seid ihr's?
+Oh, es ist wahr, ihr habt den leichtsten Schlaf!
+
+Gyges.
+Du grollst mir?
+
+Kandaules.                 Nein! Nicht dir! Leb
+wohl, leb wohl!
+Doch niemals duerfen wir uns wiedersehn! (Ab.)
+
+Gyges.
+Niemals! Ich geh sogleich! Wohin denn nur?
+Was wollt' ich doch, eh ich mit diesem Lyder
+Zusammentraf? Vergass ich's schon? Ei nein!
+Mich trieb's hinunter an den alten Nil,
+Wo gelbe Menschen mit geschlitzten Augen
+Fuer tote Koen'ge ew'ge Haeuser baun.
+Nun, meine Strasse setz ich fort und loese
+Dort unten einen ab, der muede ist! (Ab.)
+
+
+
+
+
+Dritter Akt
+
+
+
+Rhodopens Gemach.
+
+Hero und andere Dienerinnen sind mit Ordnen beschaeftigt.
+
+Rhodope (tritt herein).
+Warum sind diese Spiegel nicht verhuellt?
+
+Hero.
+Die Spiegel, Koenigin?
+
+Rhodope.
+    Und diese Tueren,
+Wer stiess sie so weit auf?
+
+Hero.
+                Du hast es gern,
+Hinauszuschauen in den hellen Morgen
+Und einzuatmen seinen frischen Hauch!
+
+Rhodope.
+Wer sagt dir das? Genug! Verschliesse sie
+Und wende alle Spiegel um!
+
+Hero (schliesst die Tueren und wendet die Spiegel um).
+
+Rhodope.
+            Es ist!
+Ich suche mich umsonst zu ueberreden,
+Dass ich mich taeuschte! Kehre wieder, Nacht,
+Und birg mich in den dichtesten der Schleier,
+Ich bin befleckt, wie niemals noch ein Weib!
+
+Hero.
+Doch diese Rose wirst du nicht verschmaehn,
+Die ich dir schon vor Sonnenaufgang pflueckte!
+
+Rhodope.
+Hinweg mit ihr! Sie welkt bei mir zu schnell!
+
+Hero (indem sie sich mit ihren Begleiterinnen entfernt).
+Ich heisse Hero und nicht Lesbia!
+
+Rhodope.
+Ihr ew'gen Goetter, konnte das geschehn?
+Ich hab Euch schon mit reiner Kinderhand
+So manches fromme Opfer dargebracht!
+Euch fiel die erste Locke meines Hauptes,
+Eh' ich noch ahnte, dass Ihr allen Segen
+In Haenden haltet, der dem Menschen frommt!
+Nie hat die Jungfrau Euren Dienst versaeumt,
+Und selten stieg mit ihrer Opferflamme
+Zugleich ein Wunsch zu Eurem Sitz empor:
+Sie suchte jeden, der sich regen wollte,
+Mit Scham und Angst bis unter das Bewusstsein
+Hinabzudruecken, denn sie warb allein
+Um Eure Gunst und nicht um Eure Gaben,
+Sie wollte danken, aber nichts erflehn!
+Auch hat das Weib sich durch kein Traumgesicht,
+Wie es die Tyndariden-Tochter schreckte,
+Erst mahnen lassen an die heil'ge Pflicht,
+Sie kam von selbst und schmueckte den Altar.
+Und dennoch--Warum weiht Euch denn der Mensch
+Den besten Teil von allen seinen Guetern,
+Wenn Ihr nicht gnaedig ihn beschirmen wollt,
+Wo er sich selbst nicht mehr beschirmen kann!
+Den Loewen haelt das Schwert dem Manne fern,
+Wenn er, von Hunger oder Wut getrieben,
+Hervorstuerzt um die heisse Mittagszeit:
+Kein Tapfrer ruft zu Zeus um seinen Blitz!
+Doch, dass ihn nicht die Schlange feig beschleiche,
+Wenn er, vom Kampf ermattet, ruhig schlummert,
+Ist Euer Werk, denn Euch gehoert die Nacht!
+Und ich--und ich! Ruht denn ein Fluch auf mir,
+Ein Fluch von Anbeginn, der Eure Kraft
+Im Styx gebunden haelt, dass Ihr den Frevel,
+Den keiner gegen meine letzte Sklavin
+Nur zu versuchen wagte, an mir selbst
+Gelingen liesst, als waer's die froemmste Tat?
+
+Hero (tritt ein).
+Der Koenig!
+
+Rhodope.           Schon?--So kommt der Tod mit ihm!
+Nun, der verhuellt mich in die Nacht der Naechte,
+Wovon die ird'sche bloss ein Schatten ist,
+Was beb ich denn? Die wuenschte ich mir ja!
+
+Kandaules.
+Vergibst du?
+
+Rhodope.             Herr, ich weiss, du kannst nicht
+anders,
+Da gilt die Stunde gleich. Was fragst du viel?
+
+Kandaules.
+Ich kann dich nicht verstehn.
+
+Rhodope.
+            Sei offen, Koenig!
+Du findest mich bereit!
+
+Kandaules.
+    Bereit! Wozu?
+
+Rhodope. Ich kenne deine Pflicht und danke dir,
+Dass du sie rasch erfuellen willst. Sie wuerde
+Ja nur die meine, wenn du zoegertest.
+Du hast geforscht, entdeckt und gleich gerichtet,
+Ich seh's dir an, nun trifft die Reihe mich!
+
+Kandaules.
+Wohin verirrst du dich!
+
+Rhodope.
+      Erscheinst du nicht
+Als Raecher hier?
+
+Kandaules.                 Bei allen Goettern,
+nein!
+
+Rhodope.
+So lebt noch jeder, welcher gestern lebte?
+
+Kandaules.
+Warum nicht?
+
+Rhodope.               Mancher frevelte vielleicht!
+
+Kandaules.
+Ich weiss von keinem!
+
+Rhodope.
+    Und was fuehrt dich her?
+
+Kandaules.
+Haett' ich nach dieser Nacht kein Recht, zu kommen?
+Warst du, wie sonst? Hast du mir nicht sogar,
+Als saessest du, die Lilie in der Hand,
+Noch unter dem Platanenbaum' wie einst,
+Den einz'gen Kuss versagt, um den ich bat?
+
+Rhodope.
+Das wirst du mir noch danken!
+
+Kandaules.
+                Aber fuerchte
+Dich nicht! Zwar trieb's mich zu dir, wie am Morgen
+Nach unsrer Hochzeit, doch du brauchst mir nur
+Zu winken, und ich gehe, wie ich kam!
+Ja, schneller werde ich von hinnen eilen,
+Als haett' ich, um zu trinken, einer Quelle
+Mich still genaht, und saehe, dass ihr eben
+Die schuechterne Najade scheu entsteigt.
+
+Rhodope.
+Bleib!
+
+Kandaules. Nein! Nicht eines Odemzuges Dauer,
+Wenn es dich aengstigt! Und es aengstigt dich,
+Ich fuehl es wohl. Dies ist gewiss die Stunde,
+In welcher du, wie du's so lieblich nennst,
+Dich innerlich besiehst!, Die will ich nicht
+Entheiligen. Und haett' auch Aphrodite,
+Holdselig laechelnd diesem fruehen Gang,
+Den gold'nen Guertel, den sie nie verschenkt
+Und kaum verleiht, mir fuer dich zugeworfen:
+Ich kaem' ein ander Mal und reicht' ihn dir!
+
+Rhodope.
+Halt ein! Das klingt zu suess und macht mir bang,
+Denn meine Amme sagte: wenn der Mann
+Sich allzu zaertlich seinem Weibe naehert,
+So hat er im Geheimen sie gekraenkt!
+
+Kandaules.
+Das trifft mich auch! Ich habe dich gekraenkt!
+Ich weiss ja, wie du bist, ich weiss ja auch,
+Dass du nicht anders kannst; dein Vater thront,
+Wo indische und griech'sche Art sich mischen,
+Dein Schleier ist ein Teil von deinem Selbst.
+Und dennoch zerr und zupf ich stets an ihm
+Und haett' ihn gestern gern dir abgerissen!
+Nun, das bereu ich, und ich schwoere dir--
+Dies trieb mich her!--es soll nicht mehr geschehn!
+
+Rhodope (lacht).
+
+Kandaules.
+Denn nie noch sehnte ich mich so, wie heut,
+Nicht bloss das Leid, das tief ins Mark sich graebt
+Und Narben hinterlaesst, dir fernzuhalten,
+Nein, auch den kleinsten Schatten, welcher dir
+Die Seele trueben koennte, zu verscheuchen,
+Und wuerf' ich einen solchen Schatten selbst!
+Dich hueten will ich, wie die treue Wimper
+Dein Auge huetet: nicht dem Sandkorn bloss
+Verschliesst sie sich, auch einem Sonnenstrahl,
+Wenn er zu heiss ist und zu ploetzlich kommt.
+
+Rhodope.
+Zu spaet! Zu spaet!
+
+Kandaules.                 Was waer' zu
+spaet, mein Weib?
+
+Rhodope.
+Ich--Nein, ich sag's ihm nicht, ich kann's nicht sagen,
+Er mag's erraten, und wenn er's erraet,
+So knie ich stumm und lautlos vor ihm nieder
+Und deute auf sein Schwert und meine Brust!
+
+Kandaules.
+Hat dich ein Traum erschreckt?
+
+Rhodope.
+                  Ein Traum? O nein,
+Fuer mich war keiner uebrig, einer Warnung
+War ich nicht wert! Der Stein, der schmetternd faellt,
+Hat seinen Schatten, dass der Mensch ihn merke,
+Das rasche Schwert den Blitz, doch was mich traf--
+Kandaules, sprich, ich sehe, du willst fragen,
+So frage endlich!
+
+Kandaules.                 Ich? Nun ja doch, ja!
+Am liebsten deine Hand!
+
+Rhodope.
+        Ruehr sie nicht an.
+Den Fleck nimmt dir kein Wasser wieder weg.
+
+Kandaules.
+O Gyges!--Nun, wenn du die Hand mir weigerst,
+Auch deine Wange sagt mir schon genug:
+Du gluehst im Fieber! Doch der beste Arzt
+Steht vor der Tuer. Warum ist sie verschlossen,
+Indes ein Morgen, welchen alle Horen
+Beschenkten, draussen, wie ein Bettler, klopft.
+Rasch auf mit ihr, und gleich bist du geheilt!
+
+(Er will oeffnen.)
+
+Rhodope.
+Halt! oeffne lieber eine Totengruft!
+Nicht finstrer wird der reine Sonnengott
+Sich von zerbrochnen Aschenkruegen wenden,
+Als von dem Weibe, das du dein genannt!
+
+Kandaules.
+Unselige!
+
+Rhodope.         Sprich! War im Schlafgemach--
+Antworte doch!
+
+Kandaules.                 Ein Moerder? Nein
+doch, nein!
+Ei, frag dich selbst, haett' ich ihn nicht getoetet?
+
+Rhodope.
+Wenn du ihn sahst!
+
+Kandaules.                     Und
+musst' ich ihn nicht sehn?
+Die Ampel war nur eben angezuendet
+Und brannte hell.
+
+Rhodope.                     So scheint's!--
+Und doch vernahm
+Ich mancherlei Geraeusch, das nicht von dir
+Und auch von mir nicht kam.
+
+Kandaules.
+              Die Nacht ist reich
+An Schaellen und an seltsam fremden Klaengen,
+Und wer nicht schlaeft, hoert viel.
+
+Rhodope.
+                    Es rasselte.
+
+Kandaules.
+Ein Mauerwurm!
+
+Rhodope.                     Es klang, als
+ob ein Schwert
+An etwas streifte.
+
+Kandaules.                 Mag's! Wo waer' der
+Ton,
+Den die Natur in wunderlicher Laune
+Nicht irgendeinem possenhaften Tier
+Als Stimme einverleibte? Reiss einmal
+Dein Kleid entzwei und merke dir den Laut,
+Ich schaff dir ein Insekt, das ganz so schnarrt.
+
+Rhodope.
+Auch seufzen hoerte ich.
+
+Kandaules.
+  Und seufzen Moerder?
+
+Rhodope.
+Nein, nein! Das ist's!
+
+Kandaules.
+Der kuehle Nachtwind war's,
+Er wollte dir um Mund und Wangen spielen
+Und seufzte, als er nur auf Mauern stiess.
+Ei, gibt's doch Baeume, die, wie jener Stein
+Das Licht des Tages trinkt, um es im Dunkeln
+Zurueckzugeben, Klang und Schall verschlucken,
+Die singen, plappern, aechzen dann bei Nacht!
+
+Rhodope.
+So nimmst du es? Noch mehr! Mir fehlt ein Schmuck
+
+Kandaules.
+Ein Edelstein vielleicht? Ein Diamant?
+Der da?
+
+Rhodope. Du hast ihn? Du?
+
+
+                Wer sonst? Du siehst!
+
+Rhodope.
+Dank, ew'gen Dank, Ihr Goetter, und vergebt
+Den Zweifel eines Herzens, das sich schuldlos
+Zertreten waehnte! Oh, Ihr seid uns nah,
+Wie Licht und Luft!
+
+Kandaules.                     Erinnyen,
+hinab!--
+Da!
+
+Rhodope. In den Tempelschatz mit ihm! Ich bin
+Den Gnaedigen ein reiches Opfer schuldig,
+Vor allem ihr, der Allverknuepferin!
+Aus gold'nen Koerben sollen ihre Tauben
+Von heute an die weichsten Koerner picken,
+Aus Marmorbecken loeschen ihren Durst!
+Und du, Kandaules, du--
+
+Kandaules.
+    Der Juengling kuesst,
+Wenn er des Maedchens denkt, die eigne Hand,
+Die sie ihm drueckte, als sie von ihm schied,
+Der Mann braucht etwas mehr.
+
+Rhodope.
+                O Tag des Gluecks!
+Ist dir dein Weib so teuer? Nun, da bitt ich
+Dir stilles Unrecht ab. Ich sorgte immer,
+Es sei mehr Stolz auf den Besitz, als Liebe,
+In der Empfindung, die dich an mich fesselt,
+Und deine Neigung brauche schon den Neid
+Der andern, um nicht voellig zu erloeschen!
+Nun fuercht ich das nicht mehr.
+
+Kandaules.
+              Und niemals sollst
+Du's wieder fuerchten! Weiss ich doch, was dir
+Das Herz vergiftet hat. Du glaubtest dich
+Verkuerzt durch Gyges! Und es ist gewiss,
+Dass ich gar manchen Tag mit ihm verbrachte,
+Und fast ein Jaeger ward, weil er es ist.
+Zwar griff das nicht in deine Rechte ein,
+Denn, was den Mann mit einem Mann verbindet,
+Ist fuer das Weib nicht da, er braucht's bei ihr
+Sowenig, wie den Schlachtmut, wenn er kuesst.
+Doch, muss ich deine Furcht auch toericht nennen:
+Ich spar kein Mittel, um dich rasch zu heilen,
+So hoere denn: mein Guenstling Gyges geht!
+
+Rhodope.
+Wie?
+
+Kandaules. Heute noch!
+
+Rhodope.
+Unmoeglich
+
+Kandaules.
+                  Waer' dir das
+Jetzt nicht mehr recht? Du schienst es sonst zu wuenschen!
+
+Rhodope.
+Oh, dass ich dies in meinem Freudenrausch
+Vergessen konnte!
+
+Kandaules.                   Was denn?
+
+Rhodope.
+              Deine Hand!--
+Der war's, der stand auf einmal mir vor Augen,
+Als waer' sein feur'ger Umriss in der Luft
+Zurueckgeblieben! Oh, wie fuerchterlich
+Bestaetigt sich's.--Gib her!--Er hat den Ring!
+
+Kandaules,
+Der ist mein Eigentum!
+
+Rhodope.
+    Sprich, hast du ihn
+Nicht wieder abgelegt, seit du ihn traegst?
+Auch nicht verloren, oder sonst vermisst?
+
+Kandaules.
+Unglueckliche, was quaelst du dich mit Schatten!
+
+Rhodope.
+Er weicht mir aus!--Du schickst den Gyges fort?
+Auf einmal fort, wie einen Missetaeter?
+Warum?
+
+Kandaules.   Das sagt' ich nicht. Er geht von selbst.
+
+Rhodope.
+Er geht von selbst? Was treibt ihn denn von hinnen?
+
+Kandaules.
+Ich weiss es nicht und hab ihn nicht gefragt.
+
+Rhodope.
+Du weisst es nicht? So will ich dir es sagen:
+Er hat an dir gefrevelt, wie noch keiner,
+Und du musst strafen, wie du nie gestraft!
+
+Kandaules.
+Rhodope, welch ein Wort! Er ist gewiss
+Der Edelste der Edlen.
+
+Rhodope.
+      Ist er das,
+Wie kannst du ihn so ruhig ziehen lassen?
+
+Kandaules.
+Weil auch der Beste wider seinen Willen
+Statt Segens stillen Fluch verbreiten kann.
+
+Rhodope.
+Ist das sein Fall? Und hat er's selbst gefuehlt?
+
+Kandaules.
+Und wenn auch nicht--Sein Sinn ist stolz, er strebt
+Nach grossen Dingen, und er darf es wagen.
+
+Rhodope.
+Meinst Du?
+
+Kandaules.         Kein Koenigsthron steht ihm zu hoch.
+Und wenn er geht und mir den Grund verbirgt:
+Gib acht, mit einer Krone kehrt er wieder
+Und spricht dann laechelnd: diese trieb mich fort!
+
+Rhodope.
+Ja?
+
+Kandaules. Teures Weib, dich hat die Nacht verstoert,
+Der Schreck--
+
+Rhodope.                 Kann sein!
+
+Kandaules.
+          Du hoertest allerlei--
+
+Rhodope.
+Was nicht zu hoeren war! Fast glaub ich's selbst,
+Denn--nun besinn ich mich--ich sah auch falsch!
+Du hast den Ring nicht wieder abgelegt,
+Du hast ihn nicht verloren, noch vermisst,
+Und mir kam's dennoch vor--ich spaehte scharf,
+Und Morgen war's, und alles andre sah ich--
+Als fehlte er an deiner Hand. So zeugt
+Denn Sinn hier gegen Sinn, das blinde Auge
+Verbuergt das taube Ohr. Vergib mir nur,
+Dass ich dich quaelte, und vergoenne mir
+Ein wenig Einsamkeit, um mich zu fassen.
+
+Kandaules (will reden).
+
+Rhodope.
+Jawohl! Jawohl! Vergib nur, Herr, und geh!
+
+Kandaules (ab).
+
+Rhodope.
+Kein andrer ist's, als Gyges--das ist klar!
+Er hat den Ring gehabt--das ist noch klarer!
+Kandaules ahnt's, er muss--das ist am klarsten!
+Und statt das Ungeheure ungeheuer
+An ihm zu ahnden, laesst er ihn entfliehn.
+So wird ein Raetsel durch ein andres Raetsel
+Geloest ' das mich von Sinnen bringen kann,
+Wenn es mir dunkel bleibt! Ein Gatte sieht
+Sein Weib entehrt--entehrt? Sprich gleich: getoetet--
+Getoetet?--Mehr, verdammt, sich selbst zu toeten,
+Wenn nicht des Frevlers Blut zur Suehne fliesst!
+Der Gatte ist ein Koenig, traegt das Schwert
+Der Dike, braucht von der Erinnys nicht
+Den Dolch zu borgen, hat die heil'ge Pflicht,
+Den Greul zu strafen, wenn die Liebe ihn
+Nicht antreibt, ihn zu raechen, muss den Goettern
+Das Opfer bringen, wenn er's mir versagt!
+Und dieser Gatte, dieser Koenig zueckt
+Nicht Schwert, noch Dolch, er laesst den Frevler fliehn!
+Doch das soll nicht gelingen! Mir auch fehlt's
+Nicht an erprobten Dienern. Nicht als Sklavin,
+Als Koenigstochter trat ich in dies Haus,
+Und mein Geleite war ein koenigliches.
+Die alten Vielgetreuen ruf ich auf,
+Dass sie dem Fliehenden den Weg vertreten,
+Dann sprech ich zu Kandaules: hier bin ich,
+Dort ist der Guenstling, waehle, dieser Dolch
+Ist fuer mich selbst, wenn nicht dein Schwert fuer ihn!
+
+Lesbia (tritt herein).
+Vergibst du, Koenigin?
+
+Rhodope.
+  Was denn, mein Kind?
+Dass du zu mir zurueckkehrst? Oh, vergib
+Nur du, dass ich dich von mir lassen konnte,
+Mir war--ich wusste selbst nicht, was ich tat.
+Doch mein ich, dass der Koenig zu mir sagte,
+Du gingest gern, und ach, ich hatte ihm
+In jener Nacht so viel schon weigern muessen,
+Dass mir der Mut zum neuen Nein gebrach.
+
+Lesbia.
+So bin ich nicht mehr frei? So darf ich mich
+Zu deinen Dienerinnen wieder zaehlen?
+
+Rhodope.
+O nein! Als Schwester komm an meine Brust.
+
+Lesbia.
+Was ist geschehn? Du bist bewegt, wie nie.
+
+Rhodope.
+Entsetzliches, das keinen Namen hat!
+Denn, eh' ich's nennen kann, hat sich's veraendert
+Und ist noch grauenvoller, als es war.
+Ja, Nachtgeburt, die mir entgegengrinst,
+Mir deucht, dein erstes Antlitz koennt' ich kuessen,
+Nun daemmernd mir das zweite sich enthuellt.
+
+Lesbia.
+Kann ich was fuer dich tun?--Die Frage ist
+Wohl toericht, nicht?
+
+Rhodope.
+Du kannst nicht toeten, Maedchen,
+Und wer nicht toeten kann, der kann fuer mich
+Auch nichts mehr tun.
+
+Lesbia.
+      Gebieterin!
+
+Rhodope.
+                      So ist's!
+Du starrst mich an, du kannst es gar nicht fassen,
+Dass solch ein Wort aus meinem Munde kommt.
+Ja, Lesbia, ich bin's! Rhodope ist's,
+Die euch so oft gewarnt und abgehalten,
+Dem Tode in sein traurig Amt zu greifen,
+Und wenn es auch nur eine Spinne galt!
+Ich hab es nicht vergessen, doch das war,
+Als ich im frischen Morgentau mich wusch
+Und in dem Strahl der Sonne trocknete:
+Jetzt rufe ich nach Blut, jetzt ist von mir
+Nur so viel uebrig, als die Goetter brauchen,
+Um das zu raechen, was ich einmal war!
+
+Lesbia.
+Weiss dein Gemahl denn nichts? Am Raecher kann's
+Der Koenigin von Lydien nicht fehlen.
+
+Rhodope.
+So scheint's! Und doch--Nun, wissen will ich's bald!
+Geh, Lesbia, und ruf mir Karna her!
+
+Lesbia.
+Du meinst, ich soll ihm etwas von dir sagen.
+
+Rhodope.
+Das ist vorbei!--
+
+Lesbia.                       Doch
+deinen Schleier willst du!
+
+Rhodope.
+Nein! Nein!
+
+Lesbia.                 Mich graust! Es ist das erste
+Mal! (Ab.)
+
+Rhodope.
+Er kann den Freund nicht opfern, darum wird
+Sein Weib verschont. Denn sonst ertrueg' er's nicht!
+
+Lesbia (tritt mit Karna ein).
+
+Rhodope.
+Karna, du weisst, was du geschworen hast,
+Als dir dein Herr, mein koeniglicher Vater,
+Am goldnen Tor die Tochter uebergab.
+Sass ich auch hoch auf meinem Elefanten,
+War ich auch tief verhuellt in meinen Schleier,
+Doch hab ich wohl beachtet, was geschah,
+Und nicht ein Wort vergessen, das du sprachst.
+
+Karna.
+Auch ich nicht, und ich hoff's dir darzutun!
+
+Rhodope.
+So such den Griechen Gyges auf und kuend ihm,
+Dass ich ihn sehen will.
+
+Karna.
+          Du?
+
+Rhodope.
+            Eile dich,
+Damit er nicht entkommt, verfolge ihn,
+Wenn er entfloh, und bringe ihn zurueck,
+Noch eh' es Nacht wird, muss er vor mir stehn.
+
+Karna.
+Ich liefre ihn, lebendig oder tot. (Ab.)
+
+Lesbia.
+Was hoer ich? Gyges waer' es?
+
+Rhodope.
+              Gyges ist's!
+
+Lesbia.
+Er haette dich gekraenkt?
+
+Rhodope.
+      Er hat gefrevelt
+Am Heiligsten, er hat den schwersten Fluch
+Auf mich herabgezogen, jenen Fluch,
+Den alle Goetter wider Willen schleudern,
+Weil er nur Menschen ohne Suende trifft,
+Er ist es, der mich toeten lehrt!
+
+Lesbia.
+                  Er nicht
+Ich schwoere dir's!
+
+Rhodope.                       Wie
+kannst du?
+
+Lesbia.
+
+Koenigin,
+Auch ich erlebte etwas, und ich weiss,
+Dass er die Seele eher lassen wuerde,
+Als dich verletzen.
+
+Rhodope.                       So.
+
+Lesbia.
+        Ich habe dir
+Ein Wort von ihm zu sagen! Oh, wie bitter
+Hat mich dies Wort geschmerzt, als ich's vernahm,
+Jetzt freut's mich fast. Ich soll dir von ihm melden
+Er haett' mich gar nicht angesehn!--Er liebt dich!
+Nun frag dich, ob es moeglich ist!
+
+Rhodope.
+                    Er liebt mich!
+So ist's gewiss!
+
+Lesbia.                     Wie?
+
+Rhodope.
+  Toerin, sage mir,
+Kann man das lieben, was man niemals sah?
+Und wenn mich Gyges sah: wann sah er mich?
+
+Lesbia (legt sich die Hand vor die Augen).
+
+Rhodope.
+Nun sprich als Maedchen, ob er sterben muss!
+
+
+
+
+
+Vierter Akt
+
+
+
+Gemach der Koenigin.
+
+Rhodope.
+Oh, einen Augenblick Vergessenheit!
+Wozu das Raetsel ewig wiederholen?
+Es wird ja bald geloest.--Ich sollt' es machen,
+Wie meine Maedchen, die zum Zeitvertreib
+Auf alle Toene horchen und sich streiten,
+Von welchem Vogel jeder kommt, und ob
+Der rot ist oder gruen.--Welch ein Geraeusch!
+Ist Karna da mit ihm? Still, alles still.
+Es war wohl nichts.--Wie hab ich mich veraendert!
+Wann fragt' ich sonst den Schall nach dem Woher,
+Mich schreckte nichts, mich schreckte nicht einmal
+Des Feuers Glut, und wenn sie noch so rot
+Am Himmel aufstieg und sich noch so drohend
+Verbreitete: ich wusste, dass ein Kreis
+Von treuen Waechtern, unsichtbar um mich
+Herum gereiht, des Koenigs Lieblingstochter
+Mit Blut und Leben schirmte. Jetzt--ein Schritt!
+Sie sind's! Ja, Karna ist so klug, als tapfer;
+Das hoert' ich stets, und heute soll ich's sehn.
+Noch nicht! Vielleicht auch gar nicht! Nein, Ihr Goetter,
+So grausam werdet Ihr nicht sein. Ich will
+Ja nicht, dass Ihr die Hand mir reichen sollt,
+Um mich am Rand des Abgrunds festzuhalten,
+Ich will nur sehn, wer mich hinunterstoesst.
+Je mehr ich sinne, um so weniger
+Begreif ich meinen Gatten. Hoert' ich's doch
+In fruehster Jugend schon, dass die Befleckte
+Nicht leben darf, und wenn mich das als Kind
+Durchschauert hat, jetzt habe ich den Grund
+Fuer dies Gesetz in meiner Brust gefunden:
+Sie kann nicht leben, und sie will's auch nicht!
+Gilt das fuer ihn allein nicht? Oder will er
+Den Frevler heimlich opfern, weil er hofft,
+Mir seine Missetat noch zu verbergen?
+Habt Dank, Ihr Ewigen, auch das kann sein!
+Und findet Karna den Entflohnen tot,
+Den kalten Dolch in seiner heissen Brust,
+So weiss ich, wessen Hand ihn niederstreckte,
+Und frage niemals mehr, wo Gyges blieb!
+
+Lesbia (tritt ein).
+Oh, Koenigin, er kommt!
+
+Rhodope.
+      Ich harre schon!
+
+Lesbia.
+Und hinter ihm schiebt, wie ein Eisen-Riegel,
+Sich eine Schar Bewaffneter zusammen.
+
+Rhodope.
+Ich glaub's, dass Karna sein Geschaeft versteht.
+
+Lesbia.
+Muss es denn sein?
+
+Rhodope.                       Er oder
+ich! Vielleicht
+Wir alle beide!
+
+Lesbia.                     Oh, du machst
+mich stumm!
+
+Rhodope.
+Sag Karna, dass er jetzt zum Koenig sende,
+Ich lass ihn bitten auf ein einzig Wort.
+
+Lesbia (ab).
+
+Rhodope.
+Nun, Ihr dort unten, die Ihr keinen Frevel
+Verhindert, aber einen jeden raecht,
+Herauf, herauf, und huetet diese Schwelle,
+Ein blutig Opfer ist Euch hier gewiss.
+
+Gyges (der waehrenddem eingetreten ist).
+Du hast mich rufen lassen, Koenigin!
+
+Rhodope.
+Du weisst warum!--Du weisst es, denn du zitterst,
+Kannst du es leugnen? Deine Farbe wechselt,
+Und hoerbar klopft das Herz in deiner Brust.
+
+Gyges.
+Hat nicht dein Gatte auch vor dir gezittert,
+Hat er die Farbe nicht, wie ich, gewechselt,
+Und hat sein Herz nicht ganz, wie meins, geklopft?
+Erinnre dich der Stunde, wo er dir
+Zum ersten Mal ins Antlitz schauen durfte,
+Und frag dich, ob er mir nicht voellig glich.
+
+Rhodope.
+Dir?!
+
+Gyges.     Koenigin, gewiss. Ihm schwindelte,
+Er stand geblendet da, und als ihm die
+Besinnung wiederkehrte, riss er stumm
+Die Krone sich vom Haupt, wie einen Kranz,
+Der ploetzlich welk geworden ist im Haar,
+Und warf sie mit Verachtung hinter sich.
+
+Rhodope.
+Er! ha!
+
+Gyges.         Du laecheltest ihn freundlich an,
+Als du es sahst, da kam ihm so viel Mut,
+Sich dir um einen halben Schritt zu naehern.
+Doch seine Kniee wankten unter ihm,
+Sie wollten einen edlern Dienst verrichten,
+Und eh' du's ahntest, lag er so vor dir!
+
+(Er kniet waehrenddem nieder.),
+
+Rhodope.
+Du wagst?
+
+Gyges.               Was denn? Es war ja so. Du
+strecktest
+Ihm unwillkuerlich, halb um ihm zu wehren,
+Halb auch vielleicht, um ihn emporzuziehn,
+Die Hand entgegen, die er scheu und schuechtern
+Ergriff, und die sich doch zur Fingerspitze
+Verkuerzte, ehe er sie noch beruehrt.
+Tatst du das nicht? Oh, sprich!
+
+Rhodope.
+                Auf! Auf mit dir!
+
+Gyges (sich wieder erhebend).
+Ihn aber traf es, wie ein Wetterschlag.
+Ihm war zumut, als haett' er sich bisher,
+Wie ein ereb'scher Schatten, kalt und nuechtern,
+Nur unter die Lebendigen verirrt
+Und jetzt erst Blut bekommen, wie sie selbst;
+Als haette er ihr Lachen und ihr Weinen,
+Ihr Jubeln, Seufzen, ja ihr Atemholen,
+Nur nachgeaefft und nie geahnt, warum
+Die Menschenbrust sich ewig hebt und senkt.
+Da brannt' er vor, Verlangen, auch zu leben,
+Und sog dein suesses Bild mit Augen ein,
+Die, sonst gleichgueltig alle Dinge spiegelnd
+Und wieder wechselnd, wie ein stilles Wasser,
+Der Wimper jetzt ihr Zucken kaum verziehn.
+So glomm er, deine Schoenheit in sich trinkend,
+Allmaehlich vor dir auf in duestrem Feuer,
+Wie deine weisse Hand, wenn du sie abends
+Vor eine Flamme haeltst, du aber fuhrst
+Vor deinem roten Widerschein zurueck.
+
+Rhodope.
+Nicht weiter!
+
+Gyges.                   Oh, nicht weiter!
+Weiss ich mehr?
+Was er empfand, das kann ich nachempfinden
+Und ganz so voll und gluehend, wie er selbst.
+Doch, wie er warb, und wie er dich gewann,
+Ist sein Geheimnis; einer nur kann's haben,
+Und dieser Einzige ist er, nicht ich.
+Nun weisst du denn, warum ich zitterte:
+Ein Wonneschauer war's, der mich ergriff,
+Ein heil'ges Grausen, das mich schuettelte,
+Als ich so ploetzlich vor dir stand und sah,
+Dass Aphrodite eine Schwester hat;
+So sag mir jetzt, wozu beriefst du mich!
+
+Rhodope.
+Zum Tode!--
+
+Gyges.                   Wie?
+
+Rhodope.
+Hast du ihn nicht verdient?
+
+Gyges.
+Wenn du ihn mir verhaengst, so muss es sein!
+
+Rhodope.
+In dieser Stunde noch!
+
+Gyges.
+        Ich bin bereit!
+
+Rhodope.
+Dich packt kein Schauder, wie er jeden Menschen,
+Wie er den Juengling doppelt packen muss?
+Glaubst du vielleicht, es sei nicht bittrer Ernst,
+Weil dir ein Weib den blut'gen Spruch verkuendigt,
+Und du das Weib nur noch als Mutter kennst?
+O hoffe nicht, dass auch die Mildeste
+Ihn aendern wird. Sie kann den Mord vergeben,
+Sie kann sogar fuer ihren Moerder bitten,
+Wenn er ihr so viel Odem uebrigliess.
+Doch eine Schande, die sie vor sich selbst
+Vom Wirbel bis zum Zeh mit Abscheu fuellte,
+Solch eine Schande waescht das Blut nur ab:
+Je mehr sonst ganz nur Weib, nur scheues Weib,
+Je mehr vom Manne wird sie da verletzt!
+
+Gyges.
+Entsetzlich!
+
+Rhodope.             Kommt der Schauder? Hoer mich aus!
+Wenn du nicht jetzt gerichtet vor mir staendest,
+Von blanken Schwertern vor der Tuer bewacht,
+Und, willig oder nicht, das sichre Opfer
+Der Unterird'schen, die ich schon beschwor:
+Ich oeffnete, wenn auch mit zager Hand,
+Noch eh' die Sonne sinkt, mir selbst die Adern
+Und wuesche mich in meinem eignen Blut!
+Denn alle Goetter stehn schon abgewandt,
+Wenn auch voll Mitleid da, die goldnen Faeden
+Zerreissen, die mich an die Sterne knuepfen
+Und aufrecht halten, maechtig zieht der Staub,
+Und zoegre ich, so huepft die neue Schwester,
+Die Kroete, mir vertraulich ins Gemach!
+
+Gyges.
+O Koenigin, ich koennte manches sagen,
+Und vielen Sand mir aus den Locken schuetteln,
+Der mir nur angeflogen ist im Sturm!
+Ich will es nicht. Nur eines glaube mir:
+Erst jetzt erkenn' ich, was ich tat, und doch
+War's kaum geschehn, so hat's mich schon gedraengt,
+Es abzubuessen. Wenn dein Gatte mir
+Den Weg zum Orkus nicht vertreten haette,
+Ich waere laengst ein Schatten unter Schatten,
+Und du gesuehnt, wenn auch noch nicht versoehnt.
+
+Rhodope.
+Mein Gatte wehrte dir's und wusste doch--
+
+Gyges.
+Gleichviel! Die seltne Regung, die ihn fasste,
+Hat mich um das Verdienst des freien Todes,
+Dich aber um dein Opfer nicht gebracht.
+Leb wohl!--Und deine Schwerter bleiben rein!
+
+Rhodope.
+Halt! Nicht durch eigne Hand und nicht durch Mord,
+Durch deinen hoechsten Richter sollst du fallen,
+Gleich kommt der Koenig und bestimmt dein Los.
+
+Gyges.
+Der Sterbende, er sei auch, wer er sei,
+Hat eine letzte Bitte frei. Du wirst
+Mir nicht mein armes Totenrecht verkuerzen,
+Ich weiss, du kannst es nicht! So lass mich gehn!
+
+Rhodope (macht eine abwehrende Bewegung).
+
+Gyges.
+Ich tat, was ich vermochte. Komme nun,
+Was kommen soll, ich trage keine Schuld.
+
+Kandaules (tritt ein).
+
+Rhodope (ihm entgegen).
+Ich irrte nicht! Es war im Schlafgemach
+Ein Mensch versteckt!
+
+Gyges.
+        Ja, Koenig, was ich dich
+Nur ahnen liess, weil mir der Mut gebrach,
+Es zu bekennen: es ist aufgedeckt,
+Und todeswuerdig steh ich vor dir da!
+
+Kandaules.
+Gyges!
+
+Gyges.         Mit diesen meinen beiden Augen
+Veruebt' ich einen Frevel, den die Haende
+Nicht ueberbieten, nicht erreichen wuerden,
+Und zueckt' ich auch auf dich und sie den Dolch.
+
+Rhodope.
+So ist's!
+
+Gyges.           Zwar wusst' ich's nicht, das kann ich
+schwoeren,
+Mir sind die Frauen fremd, doch wie der Knabe
+Nach einem wunderbaren Vogel hascht
+Und ihn erdrueckt, weil er sein zartes Wesen
+Nicht kennt, indes er ihn nur streicheln will,
+So hab ich auch das Kleinod dieser Welt
+Zerstoert und ahnte nicht, dass ich es tat.
+
+Rhodope.
+Sein Wort ist edel. Wehe ihm und mir,
+Dass es nicht frommt!
+
+Gyges.
+    Wenn den kastal'schen Quell
+Aus dem die Lieblinge der Goetter trinken,
+Und der in einem Farbenspiel erglaenzt,
+Als waer' er mit zerpflueckten Regenbogen
+Von Iris' eignen Haenden ueberstreut;
+Wenn diesen Quell, der dem Parnass entspringt,
+Ein Steinwurf truebt, so faengt er an, zu tosen
+Und steigt in wilden Wirbeln himmelan.
+Dann singt auf Erden keine Nachtigall
+Und keine Lerche mehr, und in der Hoehe
+Verstummt sogar der Musen heil'ger Chor,
+Und eher kehrt die Harmonie nicht wieder,
+Bis ein ergrimmter Strom den frechen Schleudrer
+Hinunter knirscht in seinen dunklen Schoss:
+So ist's mit einer Frauenseele auch!
+
+Kandaules.
+Gyges, ich bin kein Schurke.
+
+Gyges.
+                Herr, du bist
+Rhodopens Gatte, bist ihr Schutz und Schirm
+Und musst ihr Raecher sein.
+
+Kandaules.
+          Ich bin vor allem
+Ein Mann, der fuer den Frevel, den er selbst
+Beging, nicht einen andern sterben laesst.
+
+Gyges.
+Koenig, was rettest du?
+
+Kandaules.
+  Mich selbst!
+
+Gyges.
+                          Er
+rast,
+Hoer nicht auf ihn!
+
+Rhodope.
+Mein Herr und mein Gemahl,
+Was sprachst du da? Ich kann's dir selbst nicht glauben
+Wenn du's nicht wiederholst!
+
+Kandaules.
+              Sprich du fuer mich!
+Du sollst mich nicht entschuldigen, du sollst
+Nur sagen, wie es kam.
+
+Rhodope.
+      So ist's? Ihr Goetter,
+Lacht ueber mich!--Ich habe schon geklagt!
+
+Kandaules.
+Sprich, Gyges! (Ab.)
+
+Gyges.                     Koenigin, oh,
+wenn du wuesstest,
+Wie er dich immer pries, und wie ich stumpf
+Auf alle seine Flammenworte hoerte,
+Weil jeder Vogel, der dem Busch entrauschte
+Und meinem Pfeil entging, indem er sprach,
+Mein Auge auf sich zog--wenn du dir sagtest,
+Wie sehr dies unaufmerksam-kind'sche Wesen,
+Das er fuer einen Ausdruck stillen Misstrauns
+Und halben Zweifels nahm, obgleich es nur
+Aus' fluecht'gem Sinn entsprang, ihn reizen musste--
+Wenn du uns beide nur ein einzig Mal
+Auf einer unsrer Streiferein im Walde
+Gesehen haettest, ihn in seiner Glut
+Und mich in meiner Bloedheit, unverstaendig
+Nach bunten Steinen an der Erde spaehend,
+Indes er mir den Sonnen-Aufgang zeigte:
+Ich bin gewiss, du blicktest wieder mild!
+Er glich dem Priester, der dieselbe Flamme,
+Die ihn durchlodert, zu des Gottes Ehre
+Auch in der fremden Brust entzuenden moechte;
+Wenn dieser, leidenschaftlich-unvorsichtig,
+Die heiligen Mysterien enthuellt,
+Um dumpfe Sinne rascher zu erwecken
+Und falsche Goetzen sichrer zu entthronen:
+Fehlt er so schwer, dass man ihm nicht verzeiht?
+
+Rhodope (macht mit der Hand eine abwehrende Bewegung).
+Er hat sein Gattenrecht dir abgetreten?
+
+Gyges.
+Nenn es nicht so.
+
+Rhodope.                   Du brauchtest nicht
+beim Wein
+Nach seiner Hand zu greifen und dabei
+Den Ring ihm abzuziehn, wie ich's mir dachte,
+Er gab ihn dir von selbst zurueck, du kamst
+Vielleicht sogar mit ihm zugleich?
+
+Gyges.
+                          Wie
+kannst
+Du's glauben, Koenigin?
+
+Rhodope.
+      Du bist ein Juengling--
+Du denkst so edel--
+
+Gyges.
+War ich denn sein Knecht?
+Und hat er je verlangt, dass ich es sei?
+Nein, Koenigin, entschuldige mich nicht,
+Es bleibt bei deinem Spruch! Und halt ihn nicht
+Fuer grausam, er ist mild. Ich ging den Weg,
+Den ich wohl nimmer haette gehen sollen,
+Doch nahm ich gleich auch meinen Fluch dahin.
+Ich wurde reif zum Tode, denn ich sah,
+Dass alles, was das Leben bieten kann,
+Vergeben war, und wenn ich in der Nacht
+Ihn nicht schon fand und die entweihte Schwelle
+Mit meinem rasch vergossnen Blut dir wusch,
+So ist die Schuld nicht mein: ich warb um ihn.
+Oh, haett' ich ihn ertrotzt, wie ich's versuchte,
+Dann zitterte in deiner Seele jetzt
+Nur noch ein Schauder vor dem Moerder nach,
+Der dir das Atmen um so suesser machte,
+Dein Gatte aber wuerde, als dein Retter,
+Noch feuriger, wie je, von dir gekuesst.
+
+Rhodope.
+Und Dinge kaemen, die's uns fuerchterlich
+Enthuellen wuerden, dass die Goetter nicht
+Des Menschenarms beduerfen, sich zu raechen,
+Wenn eine Schuld, die keine Suehne findet,
+Weil sie im Dunkeln blieb, die Welt befleckt.
+Doch, sie sind gnaedig, dieser Frevel hat
+Umsonst in Finsternis sich eingewickelt,
+Er leuchtet doch hindurch. Das Wasser wird
+Sich nicht in Feuer wandeln, wenn der Mund
+Des Durst'gen es beruehrt, das Feuer nicht
+Erloeschen, wenn der Hauch des Hungrigen
+Es auf dem Herde anblaest, nein, o nein,
+Die Elemente brauchen's nicht zu kuenden,
+Dass die Natur vor Zorn im Tiefsten fiebert,
+Weil sie verletzt in einem Weibe ist:
+Wir wissen, was geschah!
+
+Gyges.
+              Wir wissen auch,
+Was noch geschehen muss! Vergib mir nur!
+
+(Er will gehen.)
+
+Rhodope.
+Halt! Das nicht mehr!
+
+Gyges.
+      Was kann ich andres tun?
+
+Rhodope.
+Du musst ihn toeten!
+
+Gyges.
+  Ha!
+
+Rhodope.
+    Du musst! Und ich--
+Ich muss mich dir vermaehlen.
+
+Gyges.
+                Koenigin!
+
+Rhodope.
+So geh.
+
+Gyges.         Ihn toeten!
+
+Rhodope.                     Wenn
+du zu mir sagst:
+Jetzt bist du Witwe! so erwidre ich:
+Jetzt bist du mein Gemahl!
+
+Gyges.
+              Du hast gesehn,
+Wie er von hinnen ging. Er sprach fuer sich
+Kein einzig Wort, er ueberliess es mir,
+Und ich, ich sollte--Nein!
+
+Rhodope.
+            Du musst es tun,
+Wie ich es fordern muss. Wir duerfen beide
+Nicht fragen, ob's uns schwer wird oder leicht.
+
+Gyges.
+Wenn er kein Gatte war: er ist ein Freund,
+Wie's keinen zweiten gibt! Kann ich ihn toeten,
+Weil er zu sehr mein Freund gewesen ist?
+
+Rhodope.
+Du wehrst dich, doch es ist umsonst.
+
+Gyges.
+
+  Was soll
+Mich zwingen, wenn dein Reiz mich nicht bezwang?
+Ich liebe dich, mir ist, als waere ich
+Mit einem Starrkrampf auf die Welt gekommen,
+Und dieser loeste sich vor deinem Blick!
+Die Sinne, welche, wie verschlafne Waechter,
+Bisher nicht sahn, noch hoerten, wecken sich
+In sel'gem Staunen gegenseitig auf
+Und klammern sich an dich, rund um dich her
+Zerschmelzen alle Formen, sonst so scharf
+Und trotzig, dass sie fast das Auge ritzten,
+Wie Wolkenbilder vor dem Sonnenstrahl;
+Und wie ein Schwindelnder, der in den Abgrund
+Zu stuerzen fuerchtet, koennt' ich nach der Hand
+Dir greifen, ja, an deinen Hals mich haengen,
+Eh' mich das bodenlose Nichts verschlingt!
+Doch nicht mit einem Tropfen seines Blutes
+Moecht' ich mir diesen hoechsten Platz erkaufen,
+Denn selbst im Rausch vergaesse ich ihn nicht!
+
+Rhodope.
+Du kannst es mir versagen, das ist wahr!
+Verlass mich denn!
+
+Gyges.
+  Was sinnst du, Koenigin?
+
+Rhodope.
+Ein Werk, das still beschlossen und noch stiller
+Vollbracht wird.--Geh!
+
+Gyges.
+          Versteh ich dich?
+
+Rhodope.
+
+      Vielleicht.
+
+Gyges.
+Du koenntest?
+
+Rhodope.               Zweifle nicht! Ich kann und will.
+
+Gyges.
+Nun, bei den Goettern, welche droben thronen,
+Und den Erinnyen, die drunten horchen,
+Das darf nicht sein, und nimmer wird's geschehn!
+
+Rhodope.
+So sagst du ja?
+
+Gyges.                     Du weckst mich
+aus dem Schlummer,
+Nicht wahr, wenn er in Traeumen mir erscheint,
+Und trotz der Todeswunde immer laechelt,
+Bis mir das Haar sich straeubt.
+
+Rhodope.
+                Nicht mehr! Nicht mehr!
+
+Gyges.
+Auch drueckst du einen Kuss mir auf die Lippen,
+Damit ich in der Angst mich gleich besinne,
+Warum ich es getan--Du wendest dich,
+Als ob's dich schauderte bei dem Gedanken?
+Das schwoer' mir erst!
+
+Rhodope.
+    Ich werde dein Gemahl.
+
+Gyges.
+Was frag ich auch! Ich siegte ja noch nicht.
+
+Rhodope.
+Gilt's hier denn einen Kampf?
+
+Gyges.
+                    Ja, Koenigin,
+Du denkst doch nicht von mir, dass ich ihn morde?
+Ich fordre ihn auf Leben oder Tod.
+
+Rhodope.
+Und wenn du faellst?
+
+Gyges.
+    So fluche mir nicht nach,
+Ich kann nicht anders.
+
+Rhodope.
+  Fall ich nicht mit dir?
+
+Gyges.
+Doch wenn ich wiederkehre?
+
+Rhodope.
+              Am Altar
+Wirst du mich finden, ebenso bereit,
+In deine Hand die meinige zu legen,
+Als nach dem Dolch zu greifen und das Band
+Zu loesen, das mich an den Sieger knuepft,
+Wenn er es ist!
+
+Gyges.                     Noch eh' die
+Sonne sinkt,
+Entscheidet sich's! So leb denn wohl.
+
+Rhodope.
+                          Leb wohl!
+-
+Und wenn's dich freuen kann, vernimm noch eins:
+Du haettest mich der Heimat nicht entfuehrt,
+Um so an mir zu tun!
+
+Gyges.
+    Meinst du, Rhodope?
+Das heisst: ich waere eifersuechtiger
+Und neidischer gewesen, haette mehr
+Gefuerchtet, weil ich wen'ger bin, als er,
+Und doch beglueckt es mich, dass du dies meinst,
+Und ist genug fuer mich, mehr als genug! (Ab.)
+
+Rhodope.
+Nun Brautgewand und Totenhemd herbei!
+
+Lesbia (stuerzt herein und wirft sich Rhodopen zu Fuessen).
+Du Gnaedige!--Vergib!--Ich danke dir!
+
+Rhodope (sie aufhebend).
+Du wirst mir wohl nicht danken, armes Kind!
+Und doch! Zuletzt! Ja, Lesbia, zuletzt!
+
+
+
+
+
+Fuenfter Akt
+
+
+
+Freier Platz.
+
+Der Koenig tritt auf. Ihm folgt Thoas.
+
+Kandaules.
+Du schleichst mir nach auf Schritt und Tritt. Was willst du?
+Fehlt dir der Mut, mich anzureden, Alter,
+Weil ich ein wenig barsch war gegen dich?
+Sprich! Setze deine Rede fort! Ich will
+Geduldig sein und hoeren, brauchtest du
+Auch so viel Zeit, dass eine gruene Traube
+Sich purpurn faerbt, bis du zu Ende bist.
+
+Thoas.
+Herr, hab ich jemals einen Mann verklagt?
+
+Kandaules.
+Nein, Thoas.
+
+Thoas.                 Oder einen Mann
+verdaechtigt?
+
+Kandaules.
+Gewiss nicht.
+
+Thoas.                 Las ich heisse Worte
+auf,
+Wie sie im Zorn wohl auf die Erde fallen,
+Und warf sie dir ins Ohr und blies sie an?
+
+Kandaules.
+Nie!
+
+Thoas.     Nun, so werd ich doch mit siebzig Jahren
+Nicht tun, was ich mit zwanzig nicht getan,
+Denn ueber funfzig dien ich deinem Hause.
+
+Kandaules.
+Ich weiss es, treuer Knecht.
+
+Thoas.
+                Die Erde zeugt
+Ja immer fort, ob man die Koenige
+Ermordet oder kroent, sie laesst die Baeume
+Nicht ausgehn und die Beeren nicht vertrocknen,
+Auch haelt sie ihre Quellen nicht zurueck,
+Wenn man ihr einmal Blut zu trinken gibt.
+
+Kandaules.
+Das glaub ich auch!
+
+Thoas.
+    Nicht wahr? Es bliebe alles,
+Wie jetzt, ich meine, was mich selbst betrifft,
+Denn das ist unser Sklaven-Glueck, dass uns
+Ein roter Mond am Himmel wenig kuemmert,
+Und dass wir ruhiger, wie gier'ge Hunde,
+Die einen Bissen zu erschnappen hoffen,
+Dem Opfer zusehn und nicht aengstlich fragen,
+Ob's Gutes oder Boeses prophezeit.
+
+Kandaules.
+Was willst du sagen, Greis?
+
+Thoas.
+                  Dein Vater hatte
+Mich immer um sich, einerlei, ob er
+Zum Schmausen ging, ob er zu Felde zog,
+Ich durfte ihm nicht fehlen, heute reicht' ich
+Den Becher ihm und morgen Schild und Speer.
+Auch ordnete ich ihm den Scheiterhaufen
+Und sammelte mit meinen steifen Fingern
+Die weisse Asche in den braunen Krug.
+Er hatt' es so bestellt. Warum denn wohl?
+
+Kandaules.
+Die Traube wird schon rot.
+
+Thoas.
+                Du bist ihm aehnlich,
+Vielleicht--ich sah dich nie das Schwert noch ziehn,
+Er zog es oft und gern, zuweilen auch
+Ganz ohne Grund, ich geb es zu, jawohl,
+Und doch war's gut,--vielleicht gar voellig gleich.
+Drum wuenscht' ich dir sein Los.
+
+Kandaules.
+                  Ist das nicht mein?
+
+Thoas.
+Wer weiss! Das Ende rechn' ich mit dazu.
+Vergib mir, Herr! Ich bin kein hurt'ger Kopf,
+Begreife schwer, hab niemals was erdacht,
+Und wer mich dumm nennt, schimpft mich darum nicht.
+Doch wackre Maenner kamen schon zu mir
+Und fragten mich um Rat, und als ich stutzte,
+Da sagten sie: der schlichtste alte Mann,
+Der siebzig Jahre zaehlt und seine Sinne
+Behielt, versteht von manchen Dingen mehr,
+Als selbst der Kluegste, der noch Juengling ist.
+Nun, meine Sinne, denk ich, hab ich noch:
+So hoer auf mich.
+
+Kandaules.                 Ich tu es ja.
+
+Thoas.
+                  Und quaele
+Mich nicht um Gruende, glaube nicht, dass ich
+Gleich Unrecht habe, wenn ich auch verstumme,
+Weil ein Warum von soundso viel Drachmen
+Mir fehlt, wenn du mein Wort zu waegen denkst.
+Du kannst ja auch die Voegel, die nicht fliegen,
+Wie dir's gefaellt, wenn sie dein Seher fragt,
+Durch einen einz'gen Schuss von deinem Bogen
+Zerstreun, und mancher hat's im Zorn getan.
+Doch kommt das Unglueck darum weniger,
+Das sie verkuendeten? So sprich denn nicht:
+Was willst du? Er ist tapfer, brav und treu!
+Ich weiss es selbst und will's sogar beschwoeren,
+Allein ich warne dich nur um so mehr:
+Nimm dich in acht vor Gyges!
+
+Kandaules (lacht).
+
+Thoas.
+                    Dacht' ich's doch!
+Ich sag's dir noch einmal: nimm dich in acht!
+Versteh mich aber recht. Ich sage auch:
+Er wird dir nimmer nach der Krone greifen,
+Er wird dich mit dem letzten Tropfen Bluts
+Verteidigen, und dennoch ist er dir
+Gefaehrlicher, als alle, die sich gestern
+Mit Blicken oder Worten gegen dich
+Verschworen haben! Ei, die tun dir nichts,
+Wenn er nur nicht mehr da ist! Darum schaffe
+Ihn fort, sobald du kannst. Denn, wenn er bleibt
+Und mit den Kraenzen, die er sich errang,
+Noch laenger so herumgeht unter ihnen,
+Kann viel geschehn.
+
+Kandaules.                       Du
+meinst?
+
+Thoas.
+                        Ich seh es
+ja!
+Das fluestert und vergleicht! Das zuckt die Achseln,
+Das ballt die Faust und nickt sich heimlich zu!
+Du hast sie gar zu schwer gekraenkt. Und wird
+Der Grieche, wenn er morgens beim Erwachen
+Auf einmal ueber deine Krone stolpert,
+Weil man sie ihm des Nachts zu Fuessen legte,
+Sie noch verschmaehn? Da waer' er ja ein Tor.
+Es ist genug, dass er dich nicht beraubt,
+Beerben darf er dich, und wird er dich.
+Ei, seine Zeichen stehn, du glaubst nicht, wie!
+Sonst schimpften sie ihn einen Zitherspieler
+Und meinten, wie denn ich es selber meine,
+Dass nur die Voegel suesse Kehlen haetten,
+Die arg verkuerzt um ihre Klauen sind.
+Jetzt ist er ihnen, weil er singen kann,
+Wenn noch nicht Phoebus selbst, so doch sein Sohn!
+
+Kandaules.
+Das wundert dich? Er hat sie ja besiegt!
+Wie koennte denn ein Mensch ihr Sieger sein.
+
+Thoas.
+Gleichviel! Doch er ist wirklich brav und treu,
+Drum folge mir. Dann geht's vielleicht noch gut,
+Wenn nicht die Goetter eine Strafe senden,
+Und ueber's Jahr versoehnst du die und uns!
+
+Gyges (tritt auf).
+
+Thoas.
+Er kommt. Sprach ich umsonst? Herr, laechle nicht!
+Selbst an der Mauer schiesst Salpeter an,
+Warum denn nicht das Salz der Zeit an mir?
+(Er zieht sich in den Hintergrund zurueck.)
+
+Kandaules.
+Du hast mich mehr getroffen, als du denkst!--
+Nun, Gyges?
+
+Gyges.                 Herr, ich habe dich gesucht.
+
+Kandaules.
+Ich dich nicht weniger. So sag mir an:
+Was bringst du mir?--Du kehrst dich schweigend ab?
+Was es auch sei: ich bin auf viel gefasst!
+
+Gyges.
+Oh, haettest du mein Opfer angenommen!
+
+Kandaules.
+Ich werde nie bereun, dass ich's nicht tat.
+Doch, waer' es auch geschehn, was haett's gefrommt?
+Ihr Argwohn hatte unausloeschlich schon
+Des Nachts an deinem Seufzer sich entzuendet,
+Doch hadre darum nicht mit dir, wer waere
+Ein Mensch und haette nicht geseufzt, wie du!
+
+Gyges.
+Es war kein guter Tag, an dem der Koenig
+Von Lydien den Griechen Gyges traf.
+
+Kandaules.
+Ich fluch ihm nicht.
+
+Gyges.
+  Du haettest dich des Tigers
+Wohl selbst erwehrt, der auf dich lauerte,
+Und ich, mit meinem ueberfluess'gen Pfeil,
+Beraubte, statt vom Tode dich zu retten,
+Dich nur des Meisterschusses.
+
+Kandaules.
+                Das ist wahr,
+Ich hatt' ihn wohl bemerkt und war bereit.
+Doch, als ich sah, wie dir die Augen blitzten,
+Die Wangen gluehten, und die Brust sich hob,
+Da unterdrueckte ich ein stilles Laecheln
+Und dankte dir.
+
+Gyges.                     So edel war er
+stets!
+Auch da, wo ich's nicht ahnte! Kann ich denn?
+
+Kandaules.
+Ich sah es auf den ersten Blick ja auch,
+Dass du in einer groesseren Gefahr
+Die Tat noch kuehner wiederholen wuerdest;
+Wenn die nicht kam, so war's nicht deine Schuld!
+
+Gyges.
+Herr, sprich nicht mehr. Es ist so, wie du sagst,
+Ich haette an ein Haar von deinem Haupte
+Mein Blut gesetzt, und dennoch muss ich jetzt,
+So will's der Fluch, dein Leben fordern--
+
+Kandaules.
+Mein Leben!
+
+Gyges.                 Ja, wenn sie nicht sterben
+soll!
+Die Sonne neigt sich schon zum Untergang,
+Und sieht dein Auge noch den Abendstern,
+So sieht das ihrige ihn nimmermehr.
+
+Kandaules.
+Sie will sich toeten, wenn du mich nicht toetest?
+
+Gyges.
+Sie will es! Staend' ich sonst wohl so vor dir?
+
+Kandaules.
+Kein andres Opfer kann ihr mehr genuegen?
+
+Gyges.
+Ich bot das hoechste, doch es war umsonst.
+
+Kandaules.
+Da wird sie mir den Abschied auch versagen!
+
+Gyges.
+Ich fuerchte, sie entflieht vor dir ins Grab!
+
+Kandaules.
+Dann nimm mein Leben hin!--Du faehrst zurueck?
+
+Gyges.
+So willig gibst du's her?
+
+Kandaules.
+      Wer frevelte,
+Muss Busse tun, und wer nicht laechelnd opfert,
+Der opfert nicht!--Kennst du mich denn so schlecht
+Und haeltst mich so gering, dass du darob
+Erstaunen, ja erschrecken kannst? Ich werde
+Doch sie nicht zwingen, mit den Rosenfingern,
+Die noch zu zart fuers Blumenpfluecken sind,
+Nach einem Dolch zu greifen und zu pruefen,
+Ob sie das Herz zu finden weiss?
+
+Gyges.
+                      Du schlaegst
+Sogar das schirmende Gewand zurueck
+Und beutst mir selbst die Brust?
+
+Kandaules.
+                  Ich zeige dir
+Den naechsten Weg zum Ziel und ebne ihn,
+
+Damit du, wenn du wieder vor sie trittst,
+Doch irgend etwas an mir loben kannst.
+Hier rauscht der Quell des Lebens, den du suchst:
+Den Schluessel hast du selbst. So sperre auf!
+
+Gyges.
+Nicht um die Welt!
+
+Kandaules.                     Um sie, mein
+Freund, um sie!
+
+Gyges (macht eine abwehrende Bewegung).
+
+Kandaules.
+Doch, ich besinne mich, du wolltest heut
+Mit eigner Hand dein junges Blut vergiessen!
+Den Mut erschwing ich auch wohl noch, drum geh
+Und bringe ihr mein letztes Lebewohl,
+Es ist so gut, als laege ich schon da.
+
+Gyges.
+Nein! Nein! Ich kam, zu kaempfen!
+
+Kandaules.
+                    Ei wie stolz!
+Du kannst im Kampf mit mir nicht unterliegen,
+Nicht wahr?
+
+Gyges.                 Du kennst mich besser!
+
+Kandaules.
+                        Nun, auch
+das!
+Selbst, wenn ich siegen sollte, bleibt mir noch
+Das andre uebrig!--Ist das nicht der Duft
+Der Aloe? Jawohl, schon fuehrt der Wind
+Ihn uns vom Garten zu. Die oeffnet sich,
+Nur wenn die Nacht sich naht. Da wird es Zeit.
+
+Gyges.
+Oh, dieser Ring!
+
+Kandaules.                 Du meinst, er waere
+besser
+In seiner Gruft geblieben! Das ist wahr!
+Rhodopens Ahnung hat sie nicht betrogen,
+Und dich dein Schauder nicht umsonst gewarnt.
+Denn nicht zum Spiel und nicht zu eitlen Possen
+Ist er geschmiedet worden, und es haengt
+Vielleicht an ihm das ganze Weltgeschick.
+Mir ist, als duerft' ich in die tiefste Ferne
+Der Zeit hinunter schaun, ich seh den Kampf
+Der jungen Goetter mit den greisen alten:
+Zeus, oft zurueckgeworfen, klimmt empor
+Zum goldnen Stuhl des Vaters, in der Hand
+Die grause Sichel, und von hinten schleicht
+Sich ein Titan heran mit schweren Ketten.
+Warum erblickt ihn Kronos nicht? Er wird
+Gefesselt, wird verstuemmelt, wird gestuerzt.
+Traegt der den Ring?--Gyges, er trug den Ring,
+Und Gaea selbst hat ihm den Ring gereicht!
+
+Gyges.
+So sei der Mensch verflucht, der dir ihn brachte.
+
+Kandaules.
+Warum? Du tatest recht, und waere ich
+Dir gleich, so haette er mich nicht verlockt,
+Ich haett' ihn still der Nacht zurueckgegeben,
+Und alles wuerde stehen, wie zuvor.
+Drum dinge mir des Werkzeugs wegen nichts
+Vom Frevel ab, die ganze Schuld ist mein!
+
+Gyges.
+Doch, welche Schuld!
+
+Kandaules.
+  Das Waegen ist an ihr!--
+Auch fuehl ich's wohl, ich habe schwer gefehlt,
+Und was mich trifft, das trifft mich nur mit Recht.
+Das schlichte Wort des alt-ehrwuerd'gen Dieners
+Hat mich belehrt. Man soll nicht immer fragen:
+Was ist ein Ding? Zuweilen auch: was gilt's?
+Ich weiss gewiss, die Zeit wird einmal kommen,
+Wo alles denkt, wie ich; was steckt denn auch
+In Schleiern, Kronen oder rost'gen Schwertern,
+Das ewig waere? Doch die muede Welt
+Ist ueber diesen Dingen eingeschlafen,
+Die sie in ihrem letzten Kampf errang,
+Und haelt sie fest. Wer sie ihr nehmen will,
+Der weckt sie auf. Drum pruef er sich vorher,
+Ob er auch stark genug ist, sie zu binden,
+Wenn sie, halb wachgeruettelt, um sich schlaegt,
+Und reich genug, ihr Hoeheres zu bieten,
+Wenn sie den Tand unwillig fahren laesst.
+Herakles war der Mann, ich bin es nicht;
+Zu stolz, um ihn in Demut zu beerben,
+Und viel zu schwach, um ihm es gleich zu tun,
+Hab ich den Grund gelockert, der mich trug,
+Und dieser knirscht nun raechend mich hinab.
+
+Gyges.
+Nein! Nein!
+
+Kandaules.         So ist's. Auch darf's nicht anders sein!
+Die Welt braucht ihren Schlaf, wie du und ich
+Den unsrigen, sie waechst, wie wir, und staerkt sich,
+Wenn sie dem Tod verfallen scheint und Toren
+Zum Spotte reizt. Ei, wenn der Mensch da liegt,
+Die sonst so fleiss'gen Arme schlaff und lass,
+Das Auge fest versiegelt und den Mund
+Verschlossen, mit den zugekrampften Lippen
+Vielleicht ein welkes Rosenblatt noch haltend,
+Als waer's der groesste Schatz: das ist wohl auch
+Ein wunderliches Bild fuer den, der wacht
+Und zusieht. Doch, wenn er nun kommen wollte,
+Weil er, auf einem fremden Stern geboren,
+Nichts von dem menschlichen Beduerfnis wuesste,
+Und riefe: hier sind Fruechte, hier ist Wein,
+Steh auf und iss und trink! Was taetst du wohl?
+Nicht wahr, wenn du nicht unbewusst ihn wuergtest,
+Weil du ihn packtest und zusammendruecktest,
+So spraechst du: dies ist mehr, als Speis und Trank!
+Und schliefest ruhig fort bis an den Morgen,
+Der nicht den einen oder auch den andern,
+Nein, der sie alle neu ins Dasein ruft!
+Solch ein vorwitz'ger Stoerer war ich selbst,
+Nun bin ich denn in des Briareus Haenden,
+Und er zerreibt das stechende Insekt.
+Drum, Gyges, wie dich auch die Lebenswoge
+Noch heben mag, sie tut es ganz gewiss
+Und hoeher, als du denkst: vertraue ihr
+Und schaudre selbst vor Kronen nicht zurueck,
+Nur ruehre nimmer an den Schlaf der Welt!
+Und nun--
+
+Gyges.             Die Sonne sinkt! Es muss so sein.
+
+Kandaules.
+Thoas! (Er nimmt sich die Krone ab.)
+
+Thoas.         Was sinnst du, Herr?
+
+Kandaules.
+              Du wolltest mich
+Ja fechten sehn, die Freude mach ich dir,
+Doch dafuer hebst du diese Krone auf
+Und reichst sie dem, der uebrigbleibt von uns!
+
+(Zu Gyges.)
+
+Wenn du das bist, so goenn ich's dir, und gern
+Wird man auf deinem Haupt sie sehn!--Ei was,
+Du wolltest sie nicht nehmen? Schaeme dich!
+Da kaem' sie nur an einen schlechtern Mann!
+
+Gyges.
+Herr, schwoer mir, dass du redlich kaempfen willst.
+
+Kandaules.
+Ich muss ihr zeigen, dass ich so viel Schoenheit
+Nicht leicht verliere. Darum schwoer ich's dir.
+Und du?
+
+Gyges.           Sie lebt und stirbt mit mir! Ich muss!
+Und wenn ich auch bei jedem Streiche denke:
+Viel lieber einen Kuss! so werde ich
+Darum doch keinen maessigen.
+
+Kandaules.
+              So gib
+Mir noch einmal die Hand!--Nun sei fuer mich
+Ein Tiger, ich fuer dich ein Leu und dies
+Der wilde Wald, in dem wir oft gejagt.
+
+(Sie ziehen.)
+
+Gyges.
+Noch eins! Aus Scham hielt ich's zurueck. Sie will
+Sich mir vermaehlen, wenn du unterliegst.
+
+Kandaules.
+Ha! Nun versteh ich sie!
+
+Gyges.
+          So wehre dich!
+
+(Gefecht, waehrend dessen sie sich links verlieren.)
+
+Thoas.
+Er faellt!--Der letzte Heraklide fiel!
+
+(Ab, ihnen nach.)
+
+
+
+
+
+Fuenfter Akt--2
+
+
+
+Der Tempel der Hestia.
+
+Man erblickt in der Mitte die Bildsaeule der Goettin. Rhodope kommt
+rechts in feierlichem Zug, mit ihr Lesbia, Hero und Karna. Es ist
+Abend. Fackeln.
+
+Rhodope.
+Karna, der Scheiterhaufen wird errichtet?
+
+Karna.
+Er ist es schon!
+
+Rhodope (schreitet in den Tempel und kniet vor der Bildsaeule der
+Goettin nieder).
+
+Hero.
+                Sie spricht
+vom Scheiterhaufen,
+Anstatt vom Brautgemach?
+
+Lesbia.
+              Das wundert dich?
+Es muss hier erst doch einen Toten geben,
+Bevor es eine Braut hier geben kann.
+
+Hero.
+Ich zittre, Lesbia. Sie fragte mich,
+Als ich sie schmueckte, ob in unserm Garten
+Wohl gift'ge Beeren wuechsen--
+
+Lesbia.
+                             Wie?
+
+Hero.
+
+                                 Und ob
+Ich ihr davon nicht ein'ge bringen koennte;
+Fuer jede schenke sie mir eine Perle,
+Und wenn es hundert waeren, aber schnell
+Muesst' es geschehn!
+
+Lesbia.
+                  Und du?
+
+Hero.
+                         Ich sagte nein!
+Da laechelte sie zwar und sprach: das konnt' ich
+Mir denken, morgen zeige ich sie dir,
+Doch kam's mir seltsam vor.
+
+Lesbia.
+                           Das ist es auch!
+
+Hero.
+Nun schickte sie mich fort, ich aber lauschte
+Und sah, dass sie mit einem spitzen Dolch,
+Wie zum Versuch, ich kann's nicht anders nennen,
+Den Arm sich ritzte.
+
+Lesbia.
+                    Hero!
+
+Hero.
+                         Ja, es kam
+Auch rotes Blut.
+
+Lesbia.
+Entsetzlich!
+
+Hero.
+                    Freilich ehrt
+Sie neben unsern Goettern auch noch fremde,
+Die wir nicht kennen, und so ist's vielleicht
+Ein dunkler Brauch!
+
+Lesbia.
+    Nein, nein! Wo toent die Floete
+Und wo das Rohr? Wer singt den Hymenaeus?
+Wo sind die Taenzerchoere? Ich war blind!
+Sie zog hinaus, um nicht mehr heimzukehren!
+Oh, Koenigin, ich bitt dir ab!--Wird denn
+Ein Mahl geruestet?
+
+Hero.
+                  Nein! Dass ich nicht weiss!
+
+Lesbia.
+So sei der Trotz verflucht, der mich bewog,
+Mich eben heut so fern von ihr zu halten,
+Nun--Goettin, sie ist dein zu dieser Stunde,
+So wende du ihr Herz! Ich kann's nicht mehr.
+
+Hero.
+Ja, reine, keusche, heilige, das tu!--
+Und ist es nicht auch seltsam, dass sie sich,
+Anstatt der ewig heitern Aphrodite,
+Die strenge Hestia, vor deren Blicken
+Der gruenste Kranz verdorrt, zur Zeugin waehlt?
+
+Lesbia.
+Ach, alles deutet aufs Entsetzlichste.
+
+Gyges (tritt auf).
+
+Hero.
+Gyges!
+
+Lesbia.         Oh, nimm ihn hin! Nur tu es nicht,
+
+Gyges.
+Mir ist, als haett' ich selbst das Blut verloren,
+Das ihm entstroemte!--Ich bin totenkalt.
+
+Hero.
+Wie bleich er aussieht!
+
+Gyges.
+                       Da ist der Altar--
+An einem andern hab ich sie gesucht--
+Da stehen ihre Maedchen--da ist sie--
+Was nun?
+
+Thoas (tritt auf).
+        Ich bringe dir die Krone dar!
+
+Gyges.
+Den Lydiern gehoert sie und nicht mir.
+
+Thoas.
+Den Lydiern hab ich sie erst gebracht,
+Und als ihr Bote steh ich jetzt vor dir!
+
+Volk (von draussen)
+Heil, Gyges, Heil!
+
+Rhodope (erhebt sich und wendet sich).
+
+Volk (hereindringend).
+                  Dem Koenig Gyges Heil!
+
+Thoas.
+Doch sei nicht stolz auf diesen Ruf, die Nachbarn
+Sind in das Land gefallen, nun sollst du
+Sie fuehren!
+
+Gyges.
+               Wie?
+
+Thoas.
+Es kam, wie ich gedacht,
+Er war zu mild, es fuerchtete ihn keiner,
+Jetzt sind sie da!
+
+Gyges (setzt die Krone auf). Ich zahle seine Schuld.
+
+Rhodope (die sich dem Gyges langsam genaehert hat).
+Erst deine eigne, Gyges!
+
+Gyges.
+                        Koenigin,
+Sei du der Preis, der mir entgegenwinkt,
+Wenn ich die Feinde rings zerschmettert habe--
+
+Rhodope.
+Nein, nein! Von mir erlangst du keine Frist!--
+Wir koennen nicht vor meinen Vater treten,
+So tritt mit mir vor Hestias Altar
+Und reiche mir vor ihrem Angesichte
+Die Hand zum ew'gen Bunde, wie ich dir!
+
+Gyges.
+Wenn du gesehen haettest, wie er schied,
+So wuerdest du den Schauder heilig halten,
+Der mir verbeut, auch nur dein Kleid zu streifen,
+Bevor ich das fuer ihn getan! Wem bot
+Die reiche Welt so viel, wie ihm, und doch
+Ging er hinaus, wie andere hinein!
+
+Rhodope.
+Wenn er so edel in das duestre Reich
+Hinunterstieg, wo keiner sich aufs neue
+Mit Schuld befleckt, so werde ich ihm gern,
+Und waer's auch auf der Schwelle schon, begegnen,
+Ja, ihm mit eigner Hand vom Lethe schoepfen
+Und selbst verzichten auf den sel'gen Trunk.
+Dich aber mahn ich: ende jetzt!
+
+Gyges.
+                               Es sei!--
+Doch dies gelob ich dir, du teurer Schatten,
+Ich zieh hinaus, so wie's geschehen ist!
+
+Rhodope.
+Auch ich gelobte etwas!
+
+Gyges.
+          Koenigin,
+Wer einen solchen Kelch voll Seligkeit
+Beiseite stellt, wie ich, und waer's auch nur
+Fuer eine Stunde, der verdient sich ihn.
+
+Rhodope.
+Still, still, du bist an einem heil'gen Ort.
+
+(Sie schreiten zum Altar.)
+
+Rhodope.
+O Hestia, du Hueterin der Flamme,
+Die das verzehrt, was sie nicht laeutern kann:
+Ich dank es diesem Juengling, dass ich wieder
+Vor deinem Angesicht erscheinen darf,
+Und, wie das Volk zum Koenig, so erhebe
+Ich ihn, sei du mir Zeugin, zum Gemahl.
+
+(Sie reicht Gyges die Hand.)
+
+Als Morgengabe sieh die Krone an,
+Die schon gebietend dir vom Haupte funkelt,
+Mir aber gib den Totenring zum Pfand.
+
+Gyges.
+Den traegt der Koenig noch an seinem Finger.
+
+Rhodope.
+Dann hat er schon den Platz, der ihm gebuehrt.
+
+(Sie laesst Gyges' Hand los.)
+
+Nun tritt zurueck, und halte dein Geluebde,
+Wie ich das meinige! Ich bin entsuehnt,
+Denn keiner sah mich mehr, als dem es ziemte,
+Jetzt aber scheide ich mich (Sie durchsticht sich.) so von dir!
+
+
+
+Ende dieses Project Gutenberg Etextes "Gyges und sein Ring" von Hebbel.
+
