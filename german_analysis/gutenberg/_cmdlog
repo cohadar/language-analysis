@@ -1,2 +1,3 @@
 grep -le 'Character set encoding: ISO-8859-1' *.txt | xargs -I {} mv {} iso8859-1/
 grep -re 'Character set encoding:' *.txt
+tail -n +500 | ghead -n -1000
