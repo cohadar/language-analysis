@@ -1,3 +1,4 @@
+import sys
 from bs4 import BeautifulSoup
 
 
@@ -8,10 +9,9 @@ def extract(soup):
 
 
 def main():
-    with open('list.html', 'r') as f:
-        html_doc = f.read()
-        soup = BeautifulSoup(html_doc, 'html.parser')
-        extract(soup)
+    html_doc = sys.stdin.read()
+    soup = BeautifulSoup(html_doc, 'html.parser')
+    extract(soup)
 
 
 if __name__ == '__main__':
