@@ -20,11 +20,12 @@ cat "$tempfile" |
 # do a pareto here
 head -$(cut -f1 04-words.tsv | python 04-pareto-index.py) 04-words.tsv > 04-words.pareto.tsv
 
-# calculate line ease
+# extract line triples
 ls tmp/03 |
 while read -r PAGE; do
-	echo "ease $PAGE"
+	echo "triples $PAGE"
 	cat tmp/03/"$PAGE" |
-		python 04-line-ease.py \
+		python 04-triples.py |
+		jq -c \
 		> tmp/04/"$PAGE"
 done
