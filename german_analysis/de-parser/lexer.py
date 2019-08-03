@@ -5,18 +5,18 @@ Od teksta vraća tokene za reči i interpunkciju.
 
 >>> print_all(tokenize('trla baba  lan'))
 DEWORD  trla
-SPACE   b' '
+SPACE
 DEWORD  baba
-SPACE   b'  '
+SPACE
 DEWORD  lan
 
 >>> print_all(tokenize('trla, baba, lan'))
 DEWORD  trla
 DEPUNKT ,
-SPACE   b' '
+SPACE
 DEWORD  baba
 DEPUNKT ,
-SPACE   b' '
+SPACE
 DEWORD  lan
 """
 import sys
@@ -30,11 +30,15 @@ class Token:
         this.kind = kind
         this.data = data
     def __str__(this):
+        if this.kind == 'SPACE':
+            return this.kind
         if this.kind in ['DEWORD', 'DEPUNKT']:
             return "{:8}{}".format(this.kind, this.data)
         else:
             return "{:8}{}".format(this.kind, this.data.encode('utf-8'))
     def __repr__(this):
+        if this.kind == 'SPACE':
+            return this.kind
         if this.kind in ['DEWORD', 'DEPUNKT']:
             return "{}\t{}".format(this.kind, this.data)
         else:
@@ -76,7 +80,7 @@ def main():
     for line in sys.stdin:
         tokens = tokenize(line)
         for token in tokens:
-            print(token)
+            print(repr(token))
             if token.kind == 'UNKNOWN':
                 has_unknown = True
     if has_unknown:
