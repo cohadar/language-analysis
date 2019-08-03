@@ -7,43 +7,52 @@ Od teksta vraća tokene za reči i interpunkciju.
 Token(kind='WORD', lo=3, hi=5)
 """
 import sys
+import re
+
+de_char = re.compile(r'[a-z]|[A-Z]|[ßäÄöÖüÜ]')
 
 class Token:
-    def __init__(this, line, kind, lo, hi):
-        this.line = line
+    def __init__(this, kind, data):
         this.kind = kind
-        this.lo = lo
-        this.hi = hi
-        assert lo <= hi
+        this.data = data
     def __repr__(this):
-        return "{}\t{}".format(this.kind, this.line[this.lo:this.hi].encode('utf-8'))
+        return "{}\t{}".format(this.kind, this.data.encode('utf-8'))
+
+def get_kind(c):
+    if c == ' ':
+        return 'SPACE'
+    elif c == '\n':
+        return 'NL'
+    elif de_char.match(c):
+        return 'DEWORD'
+    else:
+        return 'UNKNOWN'
 
 def tokenize(line):
     lo = 0
     kind = None
     for i, c in enumerate(line):
-        if c == ' ':
+        ckind = get_kind(c)
+        if ckind != kind:
             if kind is None:
-                kind = 'SPACE'
-            elif kind == 'WORD':
-                yield Token(line, kind, lo, i)
-                kind = 'SPACE'
-                lo = i
-        else:
-            if kind is None:
-                kind = 'WORD'
-            elif kind == 'SPACE':
-                yield Token(line, kind, lo, i)
-                kind = 'WORD'
+                kind = ckind
+            else:
+                yield Token(kind, line[lo:i])
+                kind = ckind
                 lo = i
     if kind:
-        yield Token(line, kind, lo, len(line))
+        yield Token(kind, line[lo:])
 
 def main():
+    has_unknown = False
     for line in sys.stdin:
         tokens = tokenize(line)
         for token in tokens:
             print(token)
+            if token.kind == 'UNKNOWN':
+                has_unknown = True
+    if has_unknown:
+        sys.exit(1)
 
 if __name__ == '__main__':
     main()
