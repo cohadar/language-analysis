@@ -1,4 +1,4 @@
-r"""
+"""
 Ovo je lexer za nemačke tekstove.
 
 Od teksta vraća tokene za reči i interpunkciju.
@@ -10,14 +10,22 @@ DEWORD  baba
 SPACE
 DEWORD  lan
 
->>> print_all(tokenize('trla, baba, lan'))
+>>> print_all(tokenize('trla, baba'))
 DEWORD  trla
 DEPUNKT ,
 SPACE
 DEWORD  baba
+
+>>> print_all(tokenize('trla,,baba'))
+DEWORD  trla
 DEPUNKT ,
-SPACE
-DEWORD  lan
+DEPUNKT ,
+DEWORD  baba
+
+>>> print_all(tokenize('trla{baba'))
+DEWORD  trla
+UNKNOWN b'{'
+DEWORD  baba
 """
 import sys
 import re
