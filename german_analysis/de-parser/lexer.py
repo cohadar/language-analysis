@@ -5,15 +5,15 @@ Od teksta vraća tokene za reči i interpunkciju.
 
 >>> print_all(tokenize('trla baba  lan'))
 DEWORD  trla
-SPACE
+SPACE   b' '
 DEWORD  baba
-SPACE
+SPACE   b'  '
 DEWORD  lan
 
 >>> print_all(tokenize('trla, baba'))
 DEWORD  trla
 DEPUNKT ,
-SPACE
+SPACE   b' '
 DEWORD  baba
 
 >>> print_all(tokenize('trla,,baba'))
@@ -38,15 +38,11 @@ class Token:
         this.kind = kind
         this.data = data
     def __str__(this):
-        if this.kind == 'SPACE':
-            return this.kind
         if this.kind in ['DEWORD', 'DEPUNKT']:
             return "{:8}{}".format(this.kind, this.data)
         else:
             return "{:8}{}".format(this.kind, this.data.encode('utf-8'))
     def __repr__(this):
-        if this.kind == 'SPACE':
-            return this.kind
         if this.kind in ['DEWORD', 'DEPUNKT']:
             return "{}\t{}".format(this.kind, this.data)
         else:
