@@ -4,59 +4,56 @@ Ovo je lexer za nemačke tekstove.
 Od teksta vraća tokene za reči i interpunkciju.
 
 >>> print_all(tokenize('trla baba  lan'))
-DEWORD  trla
+WORD    trla
 SPACE   b' '
-DEWORD  baba
+WORD    baba
 SPACE   b'  '
-DEWORD  lan
+WORD    lan
 
 >>> print_all(tokenize('trla, baba'))
-DEWORD  trla
-DEPUNKT ,
+WORD    trla
+PUNKT   ,
 SPACE   b' '
-DEWORD  baba
+WORD    baba
 
 >>> print_all(tokenize('trla,,baba'))
-DEWORD  trla
-DEPUNKT ,
-DEPUNKT ,
-DEWORD  baba
+WORD    trla
+PUNKT   ,
+PUNKT   ,
+WORD    baba
 
 >>> print_all(tokenize('trla{baba'))
-DEWORD  trla
+WORD    trla
 UNKNOWN b'{'
-DEWORD  baba
+WORD    baba
 """
 import sys
 import re
 
-de_char = re.compile(r'[a-z]|[A-Z]|[ßäÄöÖüÜ]')
-de_punkt = re.compile(r'[.,:;\'"!?]')
+re_word = re.compile(r'\w')
+re_punkt = re.compile(r'[.,:;!?"\']')
 
 class Token:
     def __init__(this, kind, data):
         this.kind = kind
         this.data = data
-    def __str__(this):
-        if this.kind in ['DEWORD', 'DEPUNKT']:
+    def __repr__(this):
+        if this.kind in ['WORD', 'PUNKT']:
             return "{:8}{}".format(this.kind, this.data)
         else:
             return "{:8}{}".format(this.kind, this.data.encode('utf-8'))
-    def __repr__(this):
-        if this.kind in ['DEWORD', 'DEPUNKT']:
-            return "{}\t{}".format(this.kind, this.data)
-        else:
-            return "{}\t{}".format(this.kind, this.data.encode('utf-8'))
 
 def get_kind(c):
     if c == ' ':
         return 'SPACE'
+    elif c == '\t':
+        return 'TAB'
     elif c == '\n':
         return 'NL'
-    elif de_char.match(c):
-        return 'DEWORD'
-    elif de_punkt.match(c):
-        return 'DEPUNKT'
+    elif re_word.match(c):
+        return 'WORD'
+    elif re_punkt.match(c):
+        return 'PUNKT'
     else:
         return 'UNKNOWN'
 
@@ -65,7 +62,7 @@ def tokenize(line):
     kind = None
     for hi, c in enumerate(line):
         ckind = get_kind(c)
-        if ckind != kind or ckind in ['DEPUNKT', 'UNKNOWN']:
+        if ckind != kind or ckind in ['PUNKT', 'UNKNOWN']:
             if kind:
                 yield Token(kind, line[lo:hi])
                 kind = ckind
@@ -77,7 +74,7 @@ def tokenize(line):
 
 def print_all(tokens):
     for token in tokens:
-        print(str(token))
+        print(token)
 
 def main():
     has_unknown = False
