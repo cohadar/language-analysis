@@ -31,7 +31,8 @@ import sys
 import re
 
 re_word = re.compile(r'\w')
-re_punkt = re.compile(r'[.,:;!?"\']')
+
+punkt = '-=.,:;!?^()[]/' + '"' + "'" + '›‹' + '–' + '`'
 
 class Token:
     def __init__(this, kind, data):
@@ -52,7 +53,7 @@ def get_kind(c):
         return 'NL'
     elif re_word.match(c):
         return 'WORD'
-    elif re_punkt.match(c):
+    elif c in punkt:
         return 'PUNKT'
     else:
         return 'UNKNOWN'
