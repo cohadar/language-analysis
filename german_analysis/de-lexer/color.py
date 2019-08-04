@@ -11,6 +11,7 @@ from lexer import tokenize
 RED = '\033[91m'
 GREEN = '\033[92m'
 BLUE = '\033[94m'
+GRAY = '\033[37m'
 ENDC = '\033[0m'
 
 def load_words(wcfile, nlearned, nlearning):
@@ -33,7 +34,7 @@ def colorize(learned, learning):
                     print(token.data, end='')
                     print(ENDC, end='')
                 else:
-                    print(BLUE, end='')
+                    print(GRAY, end='')
                     print(token.data, end='')
                     print(ENDC, end='')
             elif token.kind == 'UNKNOWN':
