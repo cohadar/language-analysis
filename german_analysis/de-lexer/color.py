@@ -5,6 +5,7 @@ Naučeno. Učim. Neučim.
 
 """
 import sys
+import argparse
 from lexer import tokenize
 
 RED = '\033[91m'
@@ -36,4 +37,10 @@ def main():
             else:
                 print(token.data, end='')
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Boji tekst.')
+    parser.add_argument('--wcfile', help='fajl sa brojem reči.', required=True)
+    parser.add_argument('--learned', type=int, help='koliko sam naučio', required=True)
+    parser.add_argument('--learning', type=int, help='koliko učim', required=True)
+    args = parser.parse_args()
+    print(args)
     main()
