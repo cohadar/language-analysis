@@ -32,7 +32,13 @@ import re
 
 re_word = re.compile(r'\w')
 
-punkt = '-.,:;!?()[]' + '"' + "'"
+punkt = ',;.:!?()' + '"' + "'"
+
+def is_pre_breaking(punkt):
+    return punkt in '"'
+
+def is_post_breaking(punkt):
+    return punkt in '.!?:;"'
 
 class Token:
     def __init__(this, kind, data):
