@@ -1,7 +1,7 @@
 """
-Broji reči u tekstu.
+Suma broja reči
 
-Računa frekvencije reči naravno. Vraća sortirano.
+na ulazu su tabom razdvojeni brojevi i reči
 """
 
 import sys
@@ -12,10 +12,8 @@ from lexer import tokenize
 def main():
     c = Counter()
     for line in sys.stdin:
-        tokens = tokenize(line)
-        for token in tokens:
-            if token.kind == 'WORD':
-                c[token.data] += 1
+        count, data = line[:-1].split('\t')
+        c[data] += int(count)
     l = list(c.items())
     l.sort(key=lambda x: x[1], reverse=True)
     for k, v in l:
