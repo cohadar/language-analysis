@@ -4,17 +4,13 @@ from bs4 import BeautifulSoup
 
 
 def extract(soup):
-    ret = {}
-    pt = soup.find(id='plainText')
-    ret["title"] = pt.h1.get_text()
-    ret["text"] = pt.find_all('div', class_='text')[0].get_text()
-    json.dump(ret, sys.stdout)
+    return soup.find_all('div', class_='entry-content')[0].get_text()
 
 
 def main():
     html_doc = sys.stdin.read()
     soup = BeautifulSoup(html_doc, 'html.parser')
-    extract(soup)
+    print(extract(soup), end='')
 
 
 if __name__ == '__main__':
