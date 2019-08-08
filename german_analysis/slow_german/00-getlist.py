@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 def extract(soup):
-    for link in soup.body.find_all('ul')[1].find_all('a'):
+    for link in soup.find("ul", {"id": "lcp_instance_0"}).find_all('a'):
         print(link.get('href'))
     pass
 
