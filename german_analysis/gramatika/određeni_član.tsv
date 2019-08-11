@@ -1,4 +1,19 @@
-Der Hund ist weiß.	The dog is white.
-Die Katze ist weiß.	The cat is white.
-Das Pferd ist weiß.	The horse is white.
-Die Tiere sind weiß.	The animals are white.
+<b>Der</b> Hund ist weiß.	The dog is white.	der_bestimmte_Artikel
+<b>Die</b> Katze ist weiß.	The cat is white.	der_bestimmte_Artikel
+<b>Das</b> Pferd ist weiß.	The horse is white.	der_bestimmte_Artikel
+<b>Die</b> Tiere sind weiß.	The animals are white.	der_bestimmte_Artikel
+---	---	---
+Er lacht wegen <b>des</b> Hund<b>es</b>.	He laughs because of the dog.	der_bestimmte_Artikel
+Sie lacht wegen <b>der</b> Katze.	She laughs because of the cat.	der_bestimmte_Artikel
+Es lacht wegen <b>des</b> Pferd<b>es</b>.	It laughs because of the horse.	der_bestimmte_Artikel
+Sie lachen wegen <b>der</b> Tiere.	They laugh because of the animals.	der_bestimmte_Artikel
+---	---	---
+Er spielt mit <b>dem</b> Hund.	He plays with the dog.	der_bestimmte_Artikel
+Sie spielt mit <b>der</b> Katze.	She plays with the cat.	der_bestimmte_Artikel
+Es spielt mit <b>dem</b> Pferd.	It plays with the horse.	der_bestimmte_Artikel
+Sie spielen mit <b>den</b> Tiere<b>n</b>.	They play with the animals.	der_bestimmte_Artikel
+---	---	---
+Er spielt ohne <b>den</b> Hund.	He plays without the dog.	der_bestimmte_Artikel
+Sie spielt ohne <b>die</b> Katze.	She plays without the cat.	der_bestimmte_Artikel
+Es spielt ohne <b>das</b> Pferd.	It plays without the horse.	der_bestimmte_Artikel
+Sie spielen ohne <b>die</b> Tiere.	They play without the animals.	der_bestimmte_Artikel
