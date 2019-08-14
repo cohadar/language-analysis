@@ -18,10 +18,10 @@ Sie küsst die Katze.	She kisses the cat.	der_bestimmte_Artikel
 Es küsst das Pferd.	It kisses the horse.	der_bestimmte_Artikel
 Sie küssen die Tiere.	They kiss the animals.	der_bestimmte_Artikel
 ---	---	---
-Der Hund ist weiß.	The dog is white.	der_bestimmte_Artikel
-Die Katze ist weiß.	The cat is white.	der_bestimmte_Artikel
-Das Pferd ist weiß.	The horse is white.	der_bestimmte_Artikel
-Die Tiere sind weiß.	The animals are white.	der_bestimmte_Artikel
+Der weiße Hund.	The white dog.	der_unbestimmte_Artikel
+Die weiße Katze.	The white cat.	der_unbestimmte_Artikel
+Das weiße Pferd.	The white horse.	der_unbestimmte_Artikel
+Die weißen Tiere.	The White animals.	der_unbestimmte_Artikel
 ---	---	---
 Er lacht wegen des weißen Hundes.	He laughs because of the white dog.	der_bestimmte_Artikel
 Sie lacht wegen der weißen Katze.	She laughs because of the white cat.	der_bestimmte_Artikel
