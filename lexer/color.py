@@ -1,40 +1,63 @@
 """
 Boji tekst u zavisnosti od frekvencija reči.
 
-Naučeno. Učim. Neučim.
+Naučeno. Nauči. Prevedi. Ignoriši.
 
 """
 import sys
 import argparse
 from lexer import tokenize
 
+WHITE = '\033[89m'
 RED = '\033[91m'
 GREEN = '\033[92m'
 BLUE = '\033[94m'
+YELLOW = '\033[93m'
+PINK = '\033[95m'
 GRAY = '\033[37m'
+DARKGRAY = '\033[90m'
 ENDC = '\033[0m'
 
-def load_words(wcfile, nlearned, nlearning):
+COLORS = [
+    WHITE,
+    GREEN,
+    BLUE,
+]
+
+GRADES = [
+        0,
+        1000,
+        2000,
+]
+
+
+def load_words(wcfile, nlearned):
     words = []
     with open(wcfile, "r") as f:
         for i, line in enumerate(f):
             count, word = line[:-1].split('\t')
             words.append(word)
-    return words[:nlearned], words[nlearned:nlearned+nlearning]
+    g = [nlearned + x for x in GRADES]
+    return (words[:g[0]], words[g[0]:g[1]], words[g[1]:g[2]])
 
-def colorize(learned, learning):
+
+def colorize(wt):
     for line in sys.stdin:
         tokens = tokenize(line)
         for token in tokens:
             if token.kind == 'WORD':
-                if token.data in learned:
+                if token.data in wt[0]:
                     print(token.data, end='')
-                elif token.data in learning:
-                    print(GREEN, end='')
+                elif token.data in wt[1]:
+                    print(COLORS[1], end='')
+                    print(token.data, end='')
+                    print(ENDC, end='')
+                elif token.data in wt[2]:
+                    print(COLORS[2], end='')
                     print(token.data, end='')
                     print(ENDC, end='')
                 else:
-                    print(GRAY, end='')
+                    print(DARKGRAY, end='')
                     print(token.data, end='')
                     print(ENDC, end='')
             elif token.kind == 'UNKNOWN':
@@ -44,14 +67,16 @@ def colorize(learned, learning):
             else:
                 print(token.data, end='')
 
+
 def main():
     parser = argparse.ArgumentParser(description='Boji tekst.')
     parser.add_argument('--wcfile', help='fajl sa brojem reči.', required=True)
-    parser.add_argument('--nlearned', type=int, help='koliko sam naučio', required=True)
-    parser.add_argument('--nlearning', type=int, help='koliko učim', required=True)
+    parser.add_argument('--nlearned', type=int, help='koliko sam već naučio', required=True)
     args = parser.parse_args()
-    learned, learning = load_words(args.wcfile, args.nlearned, args.nlearning)
-    colorize(learned, learning)
+    colorize(load_words(args.wcfile, args.nlearned))
+
 
 if __name__ == '__main__':
     main()
+    # for x in range(1, 257):
+    #     print('\033[{}m hello colors: {}'.format(x, x))
