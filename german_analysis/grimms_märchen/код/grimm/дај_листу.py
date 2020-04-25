@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
-from grimm.сесија import Сесија
+from grimm.__main__ import Контејнер
 
 
 СПИСАК = "https://www.grimmstories.com/de/grimm_maerchen/list"
 
 
 def главна():
-    сесија = Сесија()
+    к = Контејнер()
+    сесија = к.сесија()
     одг = сесија.дај(СПИСАК)
     одг.добар()
     супа = BeautifulSoup(одг.текст, 'html.parser')
@@ -16,3 +17,4 @@ def главна():
 
 if __name__ == '__main__':
     главна()
+
