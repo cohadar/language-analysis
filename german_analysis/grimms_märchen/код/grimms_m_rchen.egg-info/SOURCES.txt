@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+код/grimms_m_rchen.egg-info/PKG-INFO
+код/grimms_m_rchen.egg-info/SOURCES.txt
+код/grimms_m_rchen.egg-info/dependency_links.txt
+код/grimms_m_rchen.egg-info/requires.txt
+код/grimms_m_rchen.egg-info/top_level.txt
