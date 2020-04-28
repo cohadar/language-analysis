@@ -56,6 +56,18 @@ def test_ломљење_зареза():
     assert линије[3] == 'Hvala'
 
 
+def test_ломљење_двотачке():
+    текст = 'Dobar dan: Kako ste'
+    линије = тл(текст)
+    assert линије == ['Dobar dan:', 'Kako ste']
+
+
+def test_директан_говор_ломљење_двотачке():
+    текст = '"Dobar dan: Kako ste"'
+    линије = тл(текст)
+    assert линије == ['"Dobar dan:"', '"Kako ste"']
+
+
 def test_директан_говор():
     текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
     линије = тл(текст)
