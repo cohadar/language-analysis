@@ -4,6 +4,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from grimm.контејнер import Контејнер
 from grimm.трансформатор import Трансформатор
+ТМПДИР = Path("/tmp/www.grimmstories.com/")
 ТМПДИР0 = Path("/tmp/www.grimmstories.com/0/")
 ТМПДИР1 = Path("/tmp/www.grimmstories.com/1/")
 ТМПДИР2 = Path("/tmp/www.grimmstories.com/2/")
@@ -23,7 +24,7 @@ def извуци_текст(html_doc):
     pt = супа.find(id='plainText')
     рез["title"] = pt.h1.get_text()
     рез["text"] = pt.find_all('div', class_='text')[0].get_text()
-    return json.dumps(рез)
+    return json.dumps(рез["text"])
 
 
 def wrap(text):
@@ -47,8 +48,9 @@ def сави_текст(текст):
 
 def главна():
     к = Контејнер()
-    сесија = к.сесија(тмпдир=ТМПДИР0)
+    сесија = к.сесија(тмпдир=ТМПДИР)
     списак = скини_списак(сесија, СПИСАК)
+    сесија = к.сесија(тмпдир=ТМПДИР0)
     for линк in списак:
         одговор = сесија.дај(линк)
         if одговор.кеширан:
@@ -56,7 +58,7 @@ def главна():
         else:
             print('СКИНУТ', сесија.кеш_путања(линк))
     Трансформатор(ТМПДИР0, ТМПДИР1, извуци_текст)()
-    Трансформатор(ТМПДИР1, ТМПДИР2, сави_текст)()
+    # Трансформатор(ТМПДИР1, ТМПДИР2, сави_текст)()
 
 
 if __name__ == '__main__':

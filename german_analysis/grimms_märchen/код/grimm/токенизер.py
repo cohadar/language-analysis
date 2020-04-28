@@ -1,7 +1,8 @@
 import re
+import json
 from collections import namedtuple
 КРАЈ = '<<крај>>'
-ТокенЗаКрај = namedtuple('ТокенЗаКрај', [])
+ТокенЗаКрај = namedtuple('ТокенЗаКрај', ['текст'])
 ТокенРеч = namedtuple('ТокенРеч', ['текст'])
 ТокенСпејс = namedtuple('ТокенСпејс', ['текст'])
 СЛОВА = re.compile('[a-zA-Z]')
@@ -18,7 +19,7 @@ class Токенизер():
 
     def израз(бре, к):
         if к == КРАЈ:
-            бре.токени.append(ТокенЗаКрај())
+            бре.токени.append(ТокенЗаКрај(''))
         elif СЛОВА.fullmatch(к):
             бре.реч(к)
         elif к == ' ':
@@ -44,3 +45,13 @@ class Токенизер():
         бре.токени.append(ТокенСпејс(текст))
         бре.израз(к)
 
+
+def главна():
+    with open('/tmp/www.grimmstories.com/1/ff4eb3599fcbe363a89a9553dfef5385840ec239afbd4d9c604db23c5b3b837c', 'r') as ф:
+        текст = json.loads(ф.read())['text']
+        ток = Токенизер(текст)
+        ток()
+
+
+if __name__ == '__main__':
+    главна()

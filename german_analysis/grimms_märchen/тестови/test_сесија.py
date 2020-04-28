@@ -5,12 +5,12 @@ from тест.контејнер import Контејнер
 
 def се():
     к = Контејнер()
-    return к.сесија(тмпдир=Path('www.google.com'))
+    return к.сесија(тмпдир=Path('/tmp/www.google.com'))
 
 
 def test_кеширање():
     с = се()
-    урл = f'www.google.com/{random.random()}'
+    урл = f'/tmp/www.google.com/{random.random()}'
     одговор = с.дај(урл)
     assert одговор.ок()
     assert not одговор.кеширан
