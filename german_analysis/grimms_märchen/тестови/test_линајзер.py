@@ -22,6 +22,6 @@ def test_хммм():
     with птњ.open('r') as ф:
         текст = ф.read()
         линије = тл(текст)
-        assert len(линије) == 3
+        assert len(линије) == 58
         assert текст == '\n'.join(линије)
 
