@@ -7,7 +7,8 @@ from collections import namedtuple
 ТокенСпејс = namedtuple('ТокенСпејс', ['текст'])
 ТокенСам = namedtuple('ТокенСам', ['текст'])
 СЛОВА = re.compile('[a-zA-ZßäöüÄÖÜ]')
-СЕПАРАТОРИ = re.compile(r'[.,:;"\'\(\)\[\]!?-]')
+СЕПАРАТОРИ = re.compile(r'[=.,:;"\'\(\)\[\]!?\-]')
+НЕАСКИ_СЕПАРАТОРИ = re.compile(r'[–‹›]')
 
 
 class Токенизер():
@@ -26,7 +27,7 @@ class Токенизер():
             бре.реч(к)
         elif к == ' ':
             бре.спејс(к)
-        elif к == '\n' or СЕПАРАТОРИ.fullmatch(к):
+        elif к == '\n' or СЕПАРАТОРИ.fullmatch(к) or НЕАСКИ_СЕПАРАТОРИ.fullmatch(к):
             бре.сам(к)
         else:
             raise Exception(f'Непознато слово: "{к}"')
