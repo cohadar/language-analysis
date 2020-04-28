@@ -1,12 +1,18 @@
-from requests import Session
-from grimm.сесија import Сесија
-import dependency_injector.containers as containers
-import dependency_injector.providers as providers
+from контејнер import Контејнер
+from bs4 import BeautifulSoup
+СПИСАК = "https://www.grimmstories.com/de/grimm_maerchen/list"
 
 
-class Контејнер(containers.DynamicContainer):
-    def __init__(к):
-        super().__init__()
-        к.сирова_сесија = providers.Factory(Session)
-        к.сесија = providers.Factory(Сесија, сирова_сесија=к.сирова_сесија)
+def главна():
+    к = Контејнер()
+    сесија = к.сесија()
+    одг = сесија.дај(СПИСАК)
+    одг.добар()
+    супа = BeautifulSoup(одг.текст, 'html.parser')
+    for линк in супа.body.find_all('ul')[1].find_all('a'):
+        print(линк.get('href'))
+
+
+if __name__ == '__main__':
+    главна()
 
