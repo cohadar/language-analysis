@@ -101,3 +101,24 @@ def test_директан_говор_ломи_линију_са_тачком():
     assert линије[0] == "der sprach: 'Bruder Hund, warum bist du so traurig.'"
     assert линије[1] == "Antwortete der Hund: 'Ich bin hungrig.'"
 
+
+def test_директан_говор_се_не_прима_на_сваку_тачку():
+    текст = '"dobar dan. kako ste? ja super!" a vi?'
+    линије = тл(текст)
+    assert len(линије) == 2
+    assert линије[0] == '"dobar dan. kako ste? ja super!"'
+    assert линије[1] == 'a vi?'
+
+
+def test_директан_говор_детектуј_наводнике():
+    der = "d'r"
+    текст = f'der sprach: "Bruder Hund, warum so traurig." Antwortete {der} Hund: "Ich bin hungrig."'
+    ток = Токенизер(текст)
+    токени = ток()
+    лин = Линајзер(токени)
+    assert лин.наводник == '"'
+    линије = лин()
+    assert len(линије) == 2
+    assert линије[0] == 'der sprach: "Bruder Hund, warum so traurig."'
+    assert линије[1] == f'Antwortete {der} Hund: "Ich bin hungrig."'
+
