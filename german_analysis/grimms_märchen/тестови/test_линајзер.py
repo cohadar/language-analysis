@@ -89,37 +89,47 @@ def test_директан_говор_ломи_линију_са_узвиком()
 def test_директан_говор_ломи_линију_са_питањем():
     текст = '"Bruder Hund, warum bist du so traurig?" Antwortete der Hund: "Ich bin hungrig."'
     линије = тл(текст)
-    assert len(линије) == 4
+    assert len(линије) == 5
     assert линије[0] == '"Bruder Hund,"'
     assert линије[1] == '"warum bist du so traurig?"'
     assert линије[2] == 'Antwortete der Hund:'
     assert линије[3] == '"Ich bin hungrig."'
+    assert линије[4] == ''
 
 
 def test_директан_говор_ломи_линију_са_тачком():
     текст = '"Bruder Hund, warum bist du so traurig." Antwortete der Hund: "Ich bin hungrig."'
     линије = тл(текст)
-    assert len(линије) == 4
+    assert len(линије) == 6
     assert линије[0] == '"Bruder Hund,"'
     assert линије[1] == '"warum bist du so traurig."'
-    assert линије[2] == 'Antwortete der Hund:'
-    assert линије[3] == '"Ich bin hungrig."'
+    assert линије[2] == ''
+    assert линије[3] == 'Antwortete der Hund:'
+    assert линије[4] == '"Ich bin hungrig."'
+    assert линије[5] == ''
 
 
 def test_директан_говор_детектуј_наводнике():
     der = "d'r"
-    текст = f'der sprach: "Bruder Hund, warum so traurig." Antwortete {der} Hund: "Ich bin hungrig."'
+    текст = f'der sprach: "Bruder Hund, warum so traurig?" Antwortete {der} Hund: "Ich bin hungrig."'
     ток = Токенизер(текст)
     токени = ток()
     лин = Линајзер(токени)
     assert лин.наводник == '"'
     линије = лин()
-    assert len(линије) == 5
+    assert len(линије) == 6
     assert линије[0] == 'der sprach:'
     assert линије[1] == '"Bruder Hund,"'
-    assert линије[2] == '"warum so traurig."'
+    assert линије[2] == '"warum so traurig?"'
     assert линије[3] == f'Antwortete {der} Hund:'
-    assert линије[4] == f'"Ich bin hungrig."'
+    assert линије[4] == '"Ich bin hungrig."'
+    assert линије[5] == ''
+
+
+def test_директан_говор_тачка_ломи_јаче():
+    текст = '"trla baba lan." da joj prodje dan'
+    линије = тл(текст)
+    assert линије == ['"trla baba lan."', '', 'da joj prodje dan']
 
 
 def test_дуплирање_наводника():
@@ -132,4 +142,5 @@ def test_дуплирање_наводника_неможе():
     текст = "'dobar dan. kako ste? ja sup\"r!' a vi?"
     линије = тл(текст)
     assert линије == ["'dobar dan.'", "'kako ste?'", "'ja sup\"r!'", 'a vi?', '']
+
 
