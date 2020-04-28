@@ -15,7 +15,7 @@ from collections import namedtuple
 СЕПАРАТОРИ = re.compile(r'[=.,:;"\'\(\)\[\]!?\-]')
 НЕАСКИ_СЕПАРАТОРИ = re.compile(r'[–‹›]')
 ЦИФРЕ = re.compile(r'[0-9]')
-СУМЊИВИ = re.compile(r'[\^]')
+СУМЊИВИ = re.compile(r'[\^\/`]')  # највероватније за игнорисати
 
 
 class Токенизер():
