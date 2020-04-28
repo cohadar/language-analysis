@@ -1,5 +1,4 @@
 import hashlib
-from pathlib import Path
 from collections import namedtuple
 
 
@@ -36,18 +35,20 @@ def sha256(урл):
 
 
 class Сесија():
-    def __init__(бре, сирова_сесија, кеширај=True):
+    def __init__(бре, сирова_сесија, тмпдир=None, кеширај=True):
         бре.кеширај = кеширај
         бре.сирова = сирова_сесија
+        бре.тмпдир = тмпдир
+        if not бре.тмпдир.exists():
+            бре.тмпдир.mkdir()
+
+    def кеш_путања(бре, урл):
+        кеш = sha256(урл)
+        return бре.тмпдир.joinpath(кеш)
 
     def дај(бре, урл):
         if бре.кеширај:
-            урл_основа = урл.split('://')[-1].split('/')[0]
-            тмпдир = Path(f'/tmp/{урл_основа}/')
-            if not тмпдир.exists():
-                тмпдир.mkdir()
-            кеш = sha256(урл)
-            путања = тмпдир.joinpath(кеш)
+            путања = бре.кеш_путања(урл)
             if путања.exists():
                 with путања.open('r') as ф:
                     текст = ф.read()
