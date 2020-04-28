@@ -1,11 +1,13 @@
 import re
-import json
+import sys
 from collections import namedtuple
 КРАЈ = '<<крај>>'
 ТокенЗаКрај = namedtuple('ТокенЗаКрај', ['текст'])
 ТокенРеч = namedtuple('ТокенРеч', ['текст'])
 ТокенСпејс = namedtuple('ТокенСпејс', ['текст'])
-СЛОВА = re.compile('[a-zA-Z]')
+ТокенСам = namedtuple('ТокенСам', ['текст'])
+СЛОВА = re.compile('[a-zA-Zßäöü]')
+СЕПАРАТОРИ = re.compile(r'[.,:;"\'!?-]')
 
 
 class Токенизер():
@@ -24,6 +26,8 @@ class Токенизер():
             бре.реч(к)
         elif к == ' ':
             бре.спејс(к)
+        elif к == '\n' or СЕПАРАТОРИ.fullmatch(к):
+            бре.сам(к)
         else:
             raise Exception(f'Непознато слово: "{к}"')
 
@@ -45,14 +49,18 @@ class Токенизер():
         бре.токени.append(ТокенСпејс(текст))
         бре.израз(к)
 
+    def сам(бре, к):
+        бре.токени.append(ТокенСам(к))
+        бре.израз(next(бре.и, КРАЈ))
+
 
 def главна():
     with open('/tmp/www.grimmstories.com/1/ff4eb3599fcbe363a89a9553dfef5385840ec239afbd4d9c604db23c5b3b837c', 'r') as ф:
-        текст = json.loads(ф.read())
-        ток = Токенизер(текст)
+        ток = Токенизер(ф.read())
         ток()
 
 
 if __name__ == '__main__':
+    sys.setrecursionlimit(10000)
     главна()
 
