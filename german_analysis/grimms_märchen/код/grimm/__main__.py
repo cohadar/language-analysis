@@ -1,8 +1,9 @@
-import textwrap
+import sys
 from pathlib import Path
 from bs4 import BeautifulSoup
 from grimm.контејнер import Контејнер
 from grimm.трансформатор import Трансформатор
+from grimm.токенизер import Токенизер
 ТМПДИР = Path("/tmp/www.grimmstories.com/")
 ТМПДИР0 = Path("/tmp/www.grimmstories.com/0/")
 ТМПДИР1 = Path("/tmp/www.grimmstories.com/1/")
@@ -26,12 +27,10 @@ def извуци_текст(html_doc):
     return рез["text"]
 
 
-def wrap(text):
-    lines = text.splitlines()
-    wrapped = []
-    for line in lines:
-        wrapped.extend(textwrap.wrap(line, 70))
-    return wrapped
+def токенизуј(текст):
+    ток = Токенизер(текст)
+    ток()
+    return ''
 
 
 def главна():
@@ -46,8 +45,10 @@ def главна():
         else:
             print('СКИНУТ', сесија.кеш_путања(линк))
     Трансформатор(ТМПДИР0, ТМПДИР1, извуци_текст)()
+    Трансформатор(ТМПДИР1, ТМПДИР2, токенизуј)()
 
 
 if __name__ == '__main__':
+    sys.setrecursionlimit(100000)
     главна()
 

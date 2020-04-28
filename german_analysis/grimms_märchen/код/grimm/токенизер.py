@@ -6,8 +6,8 @@ from collections import namedtuple
 ТокенРеч = namedtuple('ТокенРеч', ['текст'])
 ТокенСпејс = namedtuple('ТокенСпејс', ['текст'])
 ТокенСам = namedtuple('ТокенСам', ['текст'])
-СЛОВА = re.compile('[a-zA-Zßäöü]')
-СЕПАРАТОРИ = re.compile(r'[.,:;"\'!?-]')
+СЛОВА = re.compile('[a-zA-ZßäöüÄÖÜ]')
+СЕПАРАТОРИ = re.compile(r'[.,:;"\'\(\)\[\]!?-]')
 
 
 class Токенизер():
