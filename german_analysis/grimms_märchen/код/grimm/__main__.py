@@ -7,7 +7,7 @@ from grimm.токенизер import Токенизер
 from grimm.линајзер import Линајзер
 ТМПДИР = Path("/tmp/www.grimmstories.com/")
 ТМПДИР0 = Path("/tmp/www.grimmstories.com/0/")
-ТМПДИР1 = Path("/tmp/www.grimmstories.com/1/")
+ТМПДИР1 = Path("текстови")
 ТМПДИР2 = Path("/tmp/www.grimmstories.com/2/")
 СПИСАК = "https://www.grimmstories.com/de/grimm_maerchen/list"
 
