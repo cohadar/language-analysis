@@ -1,10 +1,11 @@
 import random
+from pathlib import Path
 from тест.контејнер import Контејнер
 
 
 def се():
     к = Контејнер()
-    return к.сесија()
+    return к.сесија(тмпдир=Path('www.google.com'))
 
 
 def test_кеширање():

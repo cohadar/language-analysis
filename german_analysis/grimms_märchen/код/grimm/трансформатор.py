@@ -5,6 +5,10 @@ class Трансформатор():
         бре.трансформација = трансформација
 
     def __call__(бре, кеширај=True):
+        if not бре.дир1.exists():
+            бре.дир1.mkdir()
+        if not бре.дир2.exists():
+            бре.дир2.mkdir()
         for фајл1 in бре.дир1.iterdir():
             фајл2 = бре.дир2.joinpath(фајл1.name)
             if кеширај and фајл2.exists():

@@ -1,9 +1,9 @@
 import json
 import textwrap
 from pathlib import Path
-from контејнер import Контејнер
-from трансформатор import Трансформатор
 from bs4 import BeautifulSoup
+from grimm.контејнер import Контејнер
+from grimm.трансформатор import Трансформатор
 ТМПДИР0 = Path("/tmp/www.grimmstories.com/0/")
 ТМПДИР1 = Path("/tmp/www.grimmstories.com/1/")
 ТМПДИР2 = Path("/tmp/www.grimmstories.com/2/")
@@ -55,12 +55,6 @@ def главна():
             print('КЕШ', сесија.кеш_путања(линк))
         else:
             print('СКИНУТ', сесија.кеш_путања(линк))
-    if not ТМПДИР0.exists():
-        ТМПДИР0.mkdir()
-    if not ТМПДИР1.exists():
-        ТМПДИР1.mkdir()
-    if not ТМПДИР2.exists():
-        ТМПДИР2.mkdir()
     Трансформатор(ТМПДИР0, ТМПДИР1, извуци_текст)()
     Трансформатор(ТМПДИР1, ТМПДИР2, сави_текст)()
 
