@@ -50,3 +50,10 @@ def test_директан_говор_ломи_линију():
     assert линије[0] == 'der sprach: "Bruder Hund, warum bist du so traurig?"'
     assert линије[1] == 'Antwortete der Hund: "Ich bin hungrig."'
 
+
+def test_директан_говор_не_ломи_линију():
+    текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
+    линије = тл(текст)
+    assert len(линије) == 1
+    assert линије[0] == текст
+
