@@ -1,8 +1,12 @@
 import hashlib
-from collections import namedtuple
+from attr import attrs, attrib
 
 
-Response = namedtuple('Response', ['url', 'status_code', 'text'])
+@attrs
+class Response():
+    url = attrib()
+    status_code = attrib()
+    text = attrib()
 
 
 class Одговор():
@@ -55,9 +59,12 @@ class Сесија():
                     return Одговор(Response(урл, 200, текст), кеширан=True)
             else:
                 resp = бре.сирова.get(урл)
+                resp.encoding = 'utf-8'  # <---<<
                 if resp.status_code == 200:
                     with путања.open('w') as ф:
                         ф.write(resp.text)
                 return Одговор(resp)
+        resp = бре.сирова.get(урл)
+        resp.encoding = 'utf-8'  # <---<<
         return Одговор(бре.сирова.get(урл))
 

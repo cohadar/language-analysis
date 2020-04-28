@@ -48,10 +48,11 @@ class Токенизер():
 
 def главна():
     with open('/tmp/www.grimmstories.com/1/ff4eb3599fcbe363a89a9553dfef5385840ec239afbd4d9c604db23c5b3b837c', 'r') as ф:
-        текст = json.loads(ф.read())['text']
+        текст = json.loads(ф.read())
         ток = Токенизер(текст)
         ток()
 
 
 if __name__ == '__main__':
     главна()
+

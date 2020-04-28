@@ -1,4 +1,3 @@
-import json
 import textwrap
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -24,7 +23,7 @@ def извуци_текст(html_doc):
     pt = супа.find(id='plainText')
     рез["title"] = pt.h1.get_text()
     рез["text"] = pt.find_all('div', class_='text')[0].get_text()
-    return json.dumps(рез["text"])
+    return рез["text"]
 
 
 def wrap(text):
@@ -33,17 +32,6 @@ def wrap(text):
     for line in lines:
         wrapped.extend(textwrap.wrap(line, 70))
     return wrapped
-
-
-def сави_текст(текст):
-    линије = []
-    for line in текст.splitlines(keepends=False):
-        a = json.loads(line)
-        b = []
-        b.append(wrap(a["title"]))
-        b.append(wrap(a["text"]))
-        линије.append(json.dumps(b))
-    return '\n'.join(линије)
 
 
 def главна():
@@ -58,7 +46,6 @@ def главна():
         else:
             print('СКИНУТ', сесија.кеш_путања(линк))
     Трансформатор(ТМПДИР0, ТМПДИР1, извуци_текст)()
-    # Трансформатор(ТМПДИР1, ТМПДИР2, сави_текст)()
 
 
 if __name__ == '__main__':

@@ -4,6 +4,7 @@ setup(
     packages=find_packages("код"),
     package_dir={"": "код"},
     install_requires=[
+        "attrs",
         "requests",
         "beautifulsoup4",
         "dependency-injector",
