@@ -17,13 +17,23 @@ def test_нове_линије():
 
 
 def test_крајеви_реченица():
+    текст = 'Dobar dan.Kako ste?Ja super!Hvala'
+    линије = тл(текст)
+    assert len(линије) == 4
+    assert линије[0] == 'Dobar dan.'
+    assert линије[1] == 'Kako ste?'
+    assert линије[2] == 'Ja super!'
+    assert линије[3] == 'Hvala'
+
+
+def test_уклањање_почетног_спејса():
     текст = 'Dobar dan. Kako ste? Ja super! Hvala'
     линије = тл(текст)
     assert len(линије) == 4
     assert линије[0] == 'Dobar dan.'
-    assert линије[1] == ' Kako ste?'
-    assert линије[2] == ' Ja super!'
-    assert линије[3] == ' Hvala'
+    assert линије[1] == 'Kako ste?'
+    assert линије[2] == 'Ja super!'
+    assert линије[3] == 'Hvala'
 
 
 def test_директан_говор():
