@@ -43,7 +43,22 @@ def test_директан_говор():
     assert линије[0] == текст
 
 
-def test_директан_говор_ломи_линију():
+def test_директан_говор_не_ломи_линију():
+    текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
+    линије = тл(текст)
+    assert len(линије) == 1
+    assert линије[0] == текст
+
+
+def test_директан_говор_ломи_линију_са_узвиком():
+    текст = '"Ach, ich armer Mann!" rief er.'
+    линије = тл(текст)
+    assert len(линије) == 2
+    assert линије[0] == '"Ach, ich armer Mann!"'
+    assert линије[1] == 'rief er.'
+
+
+def test_директан_говор_ломи_линију_са_питањем():
     текст = 'der sprach: "Bruder Hund, warum bist du so traurig?" Antwortete der Hund: "Ich bin hungrig."'
     линије = тл(текст)
     assert len(линије) == 2
@@ -51,9 +66,10 @@ def test_директан_говор_ломи_линију():
     assert линије[1] == 'Antwortete der Hund: "Ich bin hungrig."'
 
 
-def test_директан_говор_не_ломи_линију():
-    текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
+def test_директан_говор_ломи_линију_са_тачком():
+    текст = 'der sprach: "Bruder Hund, warum bist du so traurig." Antwortete der Hund: "Ich bin hungrig."'
     линије = тл(текст)
-    assert len(линије) == 1
-    assert линије[0] == текст
+    assert len(линије) == 2
+    assert линије[0] == 'der sprach: "Bruder Hund, warum bist du so traurig."'
+    assert линије[1] == 'Antwortete der Hund: "Ich bin hungrig."'
 
