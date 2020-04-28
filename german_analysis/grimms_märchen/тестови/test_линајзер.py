@@ -1,4 +1,3 @@
-from pathlib import Path
 from grimm.токенизер import Токенизер
 from grimm.линајзер import Линајзер
 
@@ -10,18 +9,26 @@ def тл(текст):
     return лин()
 
 
-def test_просте_речи():
+def test_нове_линије():
     текст = 'trläÄ\nböÖba lanßüÜ\nmeh'
     линије = тл(текст)
     assert len(линије) == 3
     assert текст == '\n'.join(линије)
 
 
-def test_хммм():
-    птњ = Path('/private/tmp/www.grimmstories.com/1/947e06105e02d6df25785c76f77d6ffe5b48a450359f664698964d3622fb8f23')
-    with птњ.open('r') as ф:
-        текст = ф.read()
-        линије = тл(текст)
-        assert len(линије) == 58
-        assert текст == '\n'.join(линије)
+def test_крајеви_реченица():
+    текст = 'Dobar dan. Kako ste? Ja super! Hvala'
+    линије = тл(текст)
+    assert len(линије) == 4
+    assert линије[0] == 'Dobar dan.'
+    assert линије[1] == ' Kako ste?'
+    assert линије[2] == ' Ja super!'
+    assert линије[3] == ' Hvala'
+
+
+def test_директан_говор():
+    текст = 'der sprach: "Bruder Hund. warum bist! du so traurig?"'
+    линије = тл(текст)
+    assert len(линије) == 1
+    assert линије[0] == текст
 
