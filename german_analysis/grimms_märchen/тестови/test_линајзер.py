@@ -42,3 +42,11 @@ def test_директан_говор():
     assert len(линије) == 1
     assert линије[0] == текст
 
+
+def test_директан_говор_ломи_линију():
+    текст = 'der sprach: "Bruder Hund, warum bist du so traurig?" Antwortete der Hund: "Ich bin hungrig."'
+    линије = тл(текст)
+    assert len(линије) == 2
+    assert линије[0] == 'der sprach: "Bruder Hund, warum bist du so traurig?"'
+    assert линије[1] == 'Antwortete der Hund: "Ich bin hungrig."'
+
