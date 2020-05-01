@@ -71,3 +71,9 @@ def test_цитат12():
     текст = '"tät\' ihr zerspringen!\'"'
     assert ц(текст) == '„tät\' ihr zerspringen!\'“'
 
+
+def test_цитат13():
+    текст = 'Kopf ."Was ist"'
+    assert ц(текст) == 'Kopf .„Was ist“'
+
+
