@@ -52,3 +52,12 @@ def test_преко_краја():
     with pytest.raises(StopIteration):
         next(с)
 
+
+def test_преко_краја_default():
+    с = Словизер('trla')
+    next(с)
+    next(с)
+    next(с)
+    next(с)
+    assert -2 == next(с, -2)
+

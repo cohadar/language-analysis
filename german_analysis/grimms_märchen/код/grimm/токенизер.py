@@ -1,6 +1,7 @@
 import re
 import sys
 from collections import namedtuple
+from grimm.словизер import Словизер
 
 ТокенЗаКрај = namedtuple('ТокенЗаКрај', ['текст'])
 ТокенРеч = namedtuple('ТокенРеч', ['текст'])
@@ -24,7 +25,7 @@ class Токенизер():
         бре.токени = []
 
     def __call__(бре):
-        бре.и = iter(бре.текст)
+        бре.и = Словизер(бре.текст)
         бре.израз(next(бре.и, КРАЈ))
         return бре.токени
 
