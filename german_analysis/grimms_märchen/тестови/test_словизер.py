@@ -61,3 +61,13 @@ def test_преко_краја_default():
     next(с)
     assert -2 == next(с, -2)
 
+
+def test_линија():
+    с = Словизер('tr\nla')
+    assert с.линија == 1
+    next(с)
+    next(с)
+    assert с.линија == 1
+    next(с)
+    assert с.линија == 2
+
