@@ -66,3 +66,8 @@ def test_цитат11():
     текст = '"sagst: ›Knüppel, in den Sack!‹" Der'
     assert ц(текст) == '„sagst: ›Knüppel, in den Sack!‹“ Der'
 
+
+def test_цитат12():
+    текст = '"tät\' ihr zerspringen!\'"'
+    assert ц(текст) == '„tät\' ihr zerspringen!\'“'
+
