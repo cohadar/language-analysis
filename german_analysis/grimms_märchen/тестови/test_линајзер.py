@@ -28,17 +28,9 @@ def test_крајеви_реченица():
     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
 
 
-# def test_уклањање_почетног_спејса():
-#     текст = 'Dobar dan. Kako ste? Ja super! Hvala'
-#     линије = тл(текст)
-#     assert len(линије) == 7
-#     assert линије[0] == 'Dobar dan.'
-#     assert линије[1] == ''
-#     assert линије[2] == 'Kako ste?'
-#     assert линије[3] == ''
-#     assert линије[4] == 'Ja super!'
-#     assert линије[5] == ''
-#     assert линије[6] == 'Hvala'
+def test_уклањање_почетног_спејса():
+    текст = 'Dobar dan. Kako ste? Ja super! Hvala'
+    assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
 
 
 # def test_ломљење_зареза():
