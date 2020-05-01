@@ -4,7 +4,9 @@ from bs4 import BeautifulSoup
 from grimm.контејнер import Контејнер
 from grimm.трансформатор import Трансформатор
 from grimm.токенизер import Токенизер
+from grimm.цитатор import Цитатор
 from grimm.линајзер import Линајзер
+
 ТМПДИР = Path("/tmp/www.grimmstories.com/")
 ТМПДИР0 = Path("/tmp/www.grimmstories.com/0/")
 ТМПДИР1 = Path("текстови")
@@ -33,6 +35,8 @@ def разби_на_линије(текст):
     токени = ток()
     if ток._наводник == "'":
         return 'СКИПОВАНО због \''
+    цит = Цитатор(токени)
+    токени = цит()
     лин = Линајзер(токени)
     линије = лин()
     return '\n'.join(линије)
