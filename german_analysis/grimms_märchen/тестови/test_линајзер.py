@@ -48,9 +48,14 @@ def test_ломљење_двотачке():
     assert л(текст) == 'Dobar dan:\nKako ste'
 
 
-def test_директан_говор_ломљење_двотачке():
-    текст = '"Dobar dan: Kako ste?"'
-    assert л(текст) == '„Dobar dan:“\n„Kako ste?“'
+def test_почетни_цитат_не_ломи():
+    текст = '"Dobar dan!"'
+    assert л(текст) == '„Dobar dan!“'
+
+
+# def test_директан_говор_ломљење_двотачке():
+#     текст = '"Dobar dan: Kako ste?"'
+#     assert л(текст) == '„Dobar dan:“\n„Kako ste?“'
 
 
 # def test_директан_говор():
