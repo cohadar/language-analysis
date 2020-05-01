@@ -3,34 +3,34 @@ from grimm.линајзер import Линајзер
 from grimm.цитатор import Цитатор
 
 
-def л(текст):
+def ли(текст):
     ток = Токенизер(текст)
     токени = ток()
     цит = Цитатор(токени)
     токени = цит()
     лин = Линајзер(токени)
     лин()
-    return str(лин)
+    return лин.линије
 
 
-# def test_реч():
-#     текст = 'trläÄ'
-#     assert л(текст) == текст
+def test_реч():
+    текст = 'trläÄ'
+    assert ли(текст) == [текст]
 
 
-# def test_једна_линија():
-#     текст = 'trläÄ böÖba lanßüÜ meh'
-#     assert л(текст) == текст
+def test_једна_линија():
+    текст = 'trläÄ böÖba lanßüÜ meh'
+    assert ли(текст) == [текст]
 
 
-# def test_исте_линије():
-#     текст = 'trläÄ\nböÖba lanßüÜ\nmeh'
-#     assert л(текст) == текст
+def test_исте_линије():
+    текст = 'trläÄ\nböÖba lanßüÜ\nmeh'
+    assert ли(текст) == ['trläÄ\n', 'böÖba lanßüÜ\n', 'meh']
 
 
-# def test_линија_крај():
-#     текст = 'trläÄ\n'
-#     assert л(текст) == текст
+def test_линија_крај():
+    текст = 'trläÄ\n'
+    assert ли(текст) == [текст]
 
 
 # def test_линија_почетак():
@@ -70,7 +70,8 @@ def л(текст):
 
 # def test_директан_говор():
 #     текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
-#     assert л(текст) == 'der sprach:\n„Bruder Hund.“\n„warum bist du!“\n„so traurig?“'
+#     # assert л(текст) == 'der sprach:\n„Bruder Hund.“\n„warum bist du!“\n„so traurig?“'
+#     assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
 
 
 # def test_директан_говор_ломи_линију_након():
