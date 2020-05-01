@@ -33,39 +33,39 @@ def test_линија_крај():
     assert ли(текст) == [текст]
 
 
-# def test_линија_почетак():
-#     текст = '\ntrläÄ'
-#     assert л(текст) == текст
+def test_линија_почетак():
+    текст = '\ntrläÄ'
+    assert ли(текст) == ['\n', 'trläÄ']
 
 
-# def test_крајеви_реченица():
-#     текст = 'Dobar dan.Kako ste?Ja super!Hvala'
-#     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
+def test_крајеви_реченица():
+    текст = 'Dobar dan.Kako ste?Ja super!Hvala'
+    assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
 
 
-# def test_уклањање_почетног_спејса():
-#     текст = 'Dobar dan. Kako ste? Ja super! Hvala'
-#     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
+def test_уклањање_почетног_спејса():
+    текст = 'Dobar dan. Kako ste? Ja super! Hvala'
+    assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
 
 
-# def test_ломљење_зареза():
-#     текст = 'Dobar dan; Kako ste, Ja super, Hvala'
-#     assert л(текст) == 'Dobar dan;\nKako ste,\nJa super,\nHvala'
+def test_ломљење_зареза():
+    текст = 'Dobar dan; Kako ste, Ja super, Hvala'
+    assert ли(текст) == ['Dobar dan;\n', 'Kako ste,\n', 'Ja super,\n', 'Hvala']
 
 
-# def test_ломљење_двотачке():
-#     текст = 'Dobar dan: Kako ste'
-#     assert л(текст) == 'Dobar dan:\nKako ste'
+def test_ломљење_двотачке():
+    текст = 'Dobar dan: Kako ste'
+    assert ли(текст) == ['Dobar dan:\n', 'Kako ste']
 
 
-# def test_почетни_цитат_не_ломи():
-#     текст = '"Dobar dan!"'
-#     assert л(текст) == '„Dobar dan!“'
+def test_почетни_цитат_не_ломи():
+    текст = '"Dobar dan!"'
+    assert ли(текст) == ['„Dobar dan!“']
 
 
-# def test_директан_говор_ломљење_двотачке():
-#     текст = '"Dobar dan: Kako ste?"'
-#     assert л(текст) == '„Dobar dan:“\n„Kako ste?“'
+def test_директан_говор_ломљење_двотачке():
+    текст = '"Dobar dan: Kako ste?"'
+    assert ли(текст) == ['„Dobar dan:“\n', '„Kako ste?“']
 
 
 # def test_директан_говор():
