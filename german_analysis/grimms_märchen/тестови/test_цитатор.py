@@ -42,7 +42,12 @@ def test_цитат6():
     assert ц(текст) == '„hier Rebhühner“; wußte der'
 
 
-# def test_цитат7():
-#     текст = '"nicht gewettet, " sprach der Junge'
-#     assert ц(текст) == '„nicht gewettet, “ sprach der Junge'
+def test_цитат7():
+    текст = '"das, " das'
+    assert ц(текст) == '„das, “ das'
+
+
+def test_цитат8():
+    текст = '"sprach: " Nun'
+    assert ц(текст) == '„sprach: “ Nun'
 
