@@ -6,14 +6,25 @@ from grimm.словизер import Словизер
 def test_почетно():
     с = Словизер('trla')
     assert с.претходно == -1
+    assert с.тренутно == -1
+    assert с.следеће == 't'
+    assert с.индекс == -1
+
+
+def test_напред():
+    с = Словизер('trla')
+    к = next(с)
+    assert к == с.тренутно
+    assert с.претходно == -1
     assert с.тренутно == 't'
     assert с.следеће == 'r'
     assert с.индекс == 0
 
 
-def test_напред():
+def test_напред2():
     с = Словизер('trla')
-    с.напред()
+    next(с)
+    next(с)
     assert с.претходно == 't'
     assert с.тренутно == 'r'
     assert с.следеће == 'l'
@@ -22,9 +33,10 @@ def test_напред():
 
 def test_до_краја():
     с = Словизер('trla')
-    с.напред()
-    с.напред()
-    с.напред()
+    next(с)
+    next(с)
+    next(с)
+    next(с)
     assert с.претходно == 'l'
     assert с.тренутно == 'a'
     assert с.следеће == -1
@@ -33,9 +45,10 @@ def test_до_краја():
 
 def test_преко_краја():
     с = Словизер('trla')
-    с.напред()
-    с.напред()
-    с.напред()
+    next(с)
+    next(с)
+    next(с)
+    next(с)
     with pytest.raises(StopIteration):
-        с.напред()
+        next(с)
 
