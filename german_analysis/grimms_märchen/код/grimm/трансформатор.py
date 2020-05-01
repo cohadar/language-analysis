@@ -15,12 +15,15 @@ class Трансформатор():
                 print('КЕШ', фајл2)
                 continue
             with фајл1.open('r') as ф1:
+                грешка = None
                 try:
                     with фајл2.open('w') as ф2:
-                        print('ПРЕ-ТРАНС', фајл2)
-                        ф2.write(бре.трансформација(ф1.read()))
-                        print('ПОСТ-ТРАНС', фајл2)
+                        print('ТРАНС', фајл2)
+                        рез, грешка = бре.трансформација(ф1.read())
+                        ф2.write(рез)
                 except Exception as е:
                     фајл2.unlink()
                     raise Exception(фајл1) from е
+                if грешка:
+                    raise грешка
 

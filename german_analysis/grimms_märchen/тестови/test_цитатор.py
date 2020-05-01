@@ -82,3 +82,17 @@ def test_цитат14():
     assert ц(текст) == 'sagte:„ Ich“'
 
 
+def test_цитат15():
+    текст = '"Welt."Er'
+    assert ц(текст) == '„Welt.“Er'
+
+
+def test_цитат16():
+    текст = '"Welt. "Er'
+    assert ц(текст) == '„Welt. “Er'
+
+
+def test_цитат17():
+    текст = '"Welt." Er'
+    assert ц(текст) == '„Welt.“ Er'
+
