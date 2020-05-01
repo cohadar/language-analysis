@@ -63,9 +63,9 @@ def test_ломљење_двотачке():
 
 
 def test_директан_говор_ломљење_двотачке():
-    текст = '"Dobar dan: Kako ste"'
+    текст = '"Dobar dan: Kako ste?"'
     линије = тл(текст)
-    assert линије == ['"Dobar dan:"', '"Kako ste"']
+    assert линије == ['"Dobar dan:"', '"Kako ste?"']
 
 
 def test_директан_говор():
@@ -117,23 +117,6 @@ def test_директан_говор_ломи_линију_са_тачком():
     assert линије[1] == '"warum bist du so traurig."'
     assert линије[2] == ''
     assert линије[3] == 'Antwortete der Hund:'
-    assert линије[4] == '"Ich bin hungrig."'
-    assert линије[5] == ''
-
-
-def test_директан_говор_детектуј_наводнике():
-    der = "d'r"
-    текст = f'der sprach: "Bruder Hund, warum so traurig?" Antwortete {der} Hund: "Ich bin hungrig."'
-    ток = Токенизер(текст)
-    токени = ток()
-    лин = Линајзер(токени)
-    assert лин.наводник == '"'
-    линије = лин()
-    assert len(линије) == 6
-    assert линије[0] == 'der sprach:'
-    assert линије[1] == '"Bruder Hund,"'
-    assert линије[2] == '"warum so traurig?"'
-    assert линије[3] == f'Antwortete {der} Hund:'
     assert линије[4] == '"Ich bin hungrig."'
     assert линије[5] == ''
 
