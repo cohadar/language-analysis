@@ -77,3 +77,8 @@ def test_цитат13():
     assert ц(текст) == 'Kopf .„Was ist“'
 
 
+def test_цитат14():
+    текст = 'sagte:" Ich"'
+    assert ц(текст) == 'sagte:„ Ich“'
+
+
