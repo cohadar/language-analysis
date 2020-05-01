@@ -43,9 +43,9 @@ def test_крајеви_реченица():
     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
 
 
-# def test_уклањање_почетног_спејса():
-#     текст = 'Dobar dan. Kako ste? Ja super! Hvala'
-#     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
+def test_уклањање_почетног_спејса():
+    текст = 'Dobar dan. Kako ste? Ja super! Hvala'
+    assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
 
 
 # def test_ломљење_зареза():
