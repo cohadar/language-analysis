@@ -51,3 +51,12 @@ def test_цитат8():
     текст = '"sprach: " Nun'
     assert ц(текст) == '„sprach: “ Nun'
 
+
+def test_цитат9():
+    текст = '"Welt. " Er'
+    assert ц(текст) == '„Welt. “ Er'
+
+
+def test_temp():
+    текст = '"heraus!" -"Nein,"'
+    assert ц(текст) == '„heraus!“ -„Nein,“'
