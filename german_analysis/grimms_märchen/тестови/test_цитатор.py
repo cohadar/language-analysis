@@ -57,6 +57,12 @@ def test_цитат9():
     assert ц(текст) == '„Welt. “ Er'
 
 
-def test_temp():
+def test_цитат10():
     текст = '"heraus!" -"Nein,"'
     assert ц(текст) == '„heraus!“ -„Nein,“'
+
+
+def test_цитат11():
+    текст = '"sagst: ›Knüppel, in den Sack!‹" Der'
+    assert ц(текст) == '„sagst: ›Knüppel, in den Sack!‹“ Der'
+
