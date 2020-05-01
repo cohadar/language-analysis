@@ -143,16 +143,3 @@ def test_директан_говор_тачка_ломи_јаче():
     линије = тл(текст)
     assert линије == ['"trla baba lan."', '', 'da joj prodje dan']
 
-
-def test_дуплирање_наводника():
-    текст = "'dobar dan, kako ste? ja super!' a vi?"
-    линије = тл(текст)
-    assert линије == ['"dobar dan,"', '"kako ste?"', '"ja super!"', 'a vi?', '']
-
-
-def test_дуплирање_наводника_неможе():
-    текст = "'dobar dan. kako ste? ja sup\"r!' a vi?"
-    линије = тл(текст)
-    assert линије == ["'dobar dan.'", "'kako ste?'", "'ja sup\"r!'", 'a vi?', '']
-
-
