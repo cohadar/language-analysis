@@ -13,24 +13,34 @@ def л(текст):
     return str(лин)
 
 
-# def test_реч():
-#     текст = 'trläÄ'
-#     assert л(текст) == 'trläÄ'
+def test_реч():
+    текст = 'trläÄ'
+    assert л(текст) == текст
 
 
-# def test_једна_линија():
-#     текст = 'trläÄ böÖba lanßüÜ meh'
-#     assert л(текст) == 'trläÄ böÖba lanßüÜ meh'
+def test_једна_линија():
+    текст = 'trläÄ böÖba lanßüÜ meh'
+    assert л(текст) == текст
 
 
-# def test_исте_линије():
-#     текст = 'trläÄ\nböÖba lanßüÜ\nmeh'
-#     assert л(текст) == 'trläÄ\nböÖba lanßüÜ\nmeh'
+def test_исте_линије():
+    текст = 'trläÄ\nböÖba lanßüÜ\nmeh'
+    assert л(текст) == текст
 
 
-# def test_крајеви_реченица():
-#     текст = 'Dobar dan.Kako ste?Ja super!Hvala'
-#     assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
+def test_линија_крај():
+    текст = 'trläÄ\n'
+    assert л(текст) == текст
+
+
+def test_линија_почетак():
+    текст = '\ntrläÄ'
+    assert л(текст) == текст
+
+
+def test_крајеви_реченица():
+    текст = 'Dobar dan.Kako ste?Ja super!Hvala'
+    assert л(текст) == 'Dobar dan.\nKako ste?\nJa super!\nHvala'
 
 
 # def test_уклањање_почетног_спејса():
