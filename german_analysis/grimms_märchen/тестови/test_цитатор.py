@@ -1,5 +1,6 @@
+import pytest
 from grimm.токенизер import Токенизер
-from grimm.цитатор import Цитатор
+from grimm.цитатор import Цитатор, ЦитатГрешка
 
 
 def ц(текст):
@@ -44,17 +45,20 @@ def test_цитат6():
 
 def test_цитат7():
     текст = '"das, " das'
-    assert ц(текст) == '„das, “ das'
+    with pytest.raises(ЦитатГрешка):
+        ц(текст)
 
 
 def test_цитат8():
     текст = '"sprach: " Nun'
-    assert ц(текст) == '„sprach: “ Nun'
+    with pytest.raises(ЦитатГрешка):
+        ц(текст)
 
 
 def test_цитат9():
     текст = '"Welt. " Er'
-    assert ц(текст) == '„Welt. “ Er'
+    with pytest.raises(ЦитатГрешка):
+        ц(текст)
 
 
 def test_цитат10():
@@ -74,7 +78,8 @@ def test_цитат12():
 
 def test_цитат13():
     текст = 'Kopf ."Was ist"'
-    assert ц(текст) == 'Kopf .„Was ist“'
+    with pytest.raises(ЦитатГрешка):
+        ц(текст)
 
 
 def test_цитат14():
@@ -84,15 +89,11 @@ def test_цитат14():
 
 def test_цитат15():
     текст = '"Welt."Er'
-    assert ц(текст) == '„Welt.“Er'
+    with pytest.raises(ЦитатГрешка):
+        ц(текст)
 
 
 def test_цитат16():
-    текст = '"Welt. "Er'
-    assert ц(текст) == '„Welt. “Er'
-
-
-def test_цитат17():
     текст = '"Welt." Er'
     assert ц(текст) == '„Welt.“ Er'
 
