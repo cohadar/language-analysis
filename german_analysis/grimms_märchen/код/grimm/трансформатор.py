@@ -17,8 +17,9 @@ class Трансформатор():
             with фајл1.open('r') as ф1:
                 try:
                     with фајл2.open('w') as ф2:
+                        print('ПРЕ-ТРАНС', фајл2)
                         ф2.write(бре.трансформација(ф1.read()))
-                        print('ТРАНС', фајл2)
+                        print('ПОСТ-ТРАНС', фајл2)
                 except Exception as е:
                     фајл2.unlink()
                     raise Exception(фајл1) from е

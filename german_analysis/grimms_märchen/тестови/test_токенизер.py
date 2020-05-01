@@ -92,3 +92,35 @@ def test_цитат2():
     токени = ток()
     assert '„Dobar dan: Kako ste?“' == ''.join([т.текст for т in токени])
 
+
+def test_цитат3():
+    текст = '"Das sollst du alles haben" sprach das Männchen'
+    ток = Токенизер(текст)
+    токени = ток()
+    такст = '„Das sollst du alles haben“ sprach das Männchen'
+    assert такст == ''.join([т.текст for т in токени])
+
+
+def test_цитат4():
+    текст = '"daß es eine Art hat;" nahm'
+    ток = Токенизер(текст)
+    токени = ток()
+    такст = '„daß es eine Art hat;“ nahm'
+    assert такст == ''.join([т.текст for т in токени])
+
+
+def test_цитат5():
+    текст = 'und sagte:"Wenn ich auch wollte."'
+    ток = Токенизер(текст)
+    токени = ток()
+    такст = 'und sagte:„Wenn ich auch wollte.“'
+    assert такст == ''.join([т.текст for т in токени])
+
+
+def test_цитат6():
+    текст = '"hier Rebhühner"; wußte der'
+    ток = Токенизер(текст)
+    токени = ток()
+    такст = '„hier Rebhühner“; wußte der'
+    assert такст == ''.join([т.текст for т in токени])
+
