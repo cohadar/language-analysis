@@ -83,9 +83,14 @@ def test_након_зареза():
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
 
 
-def test_након_црте():
+def test_након_црте1():
     текст = 'Mann - "Ach," antwortete sie'
     assert ц(текст) == 'Mann - „Ach,“ antwortete sie'
+
+
+def test_након_црте2():
+    текст = '"Augenblick bei mir." - "Ach du"'
+    assert ц(текст) == '„Augenblick bei mir.“ - „Ach du“'
 
 
 def test_након_тачке():
