@@ -13,6 +13,11 @@ def ц(текст):
     return str(цит)
 
 
+def test_већ_цитирано():
+    текст = 'sagte: „Damit“ ist'
+    assert ц(текст) == текст
+
+
 def test_на_крају_текста1():
     текст = '"Deine Mutter"'
     assert ц(текст) == '„Deine Mutter“'
@@ -53,6 +58,11 @@ def test_затворен_цитат5():
     assert ц(текст) == '„Das soll dir schlecht bekommen.“ - Meh'
 
 
+def test_затворен_цитат6():
+    текст = '"Laß dein Haar herunter."\nso ließ sie die Haare hinab.'
+    assert ц(текст) == '„Laß dein Haar herunter.“\nso ließ sie die Haare hinab.'
+
+
 def test_на_почетку_текста():
     текст = '"Hallo Leute"'
     assert ц(текст) == '„Hallo Leute“'
@@ -91,10 +101,5 @@ def test_нова_линија1():
 def test_нова_линија2():
     текст = '"erste lied."\n"zwiter lied."'
     assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
-
-
-def test_већ_цитирано():
-    текст = 'sagte: „Damit“ ist'
-    assert ц(текст) == текст
 
 
