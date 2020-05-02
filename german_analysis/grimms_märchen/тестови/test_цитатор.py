@@ -48,3 +48,8 @@ def test_цитат7():
     assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
 
 
+def test_цитат8():
+    текст = 'sagte der Hirt, "Hello Mark"'
+    assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
+
+
