@@ -123,6 +123,11 @@ def test_након_тачке2():
     assert ц(текст) == 'Blicken ansah. „Aha,“ rief sie'
 
 
+def test_након_речи():
+    текст = 'und sprach "meine Stiefmutter"'
+    assert ц(текст) == 'und sprach „meine Stiefmutter“'
+
+
 def test_нова_линија1():
     текст = 'sagte:\n"Hallo, Mark"'
     assert ц(текст) == 'sagte:\n„Hallo, Mark“'
