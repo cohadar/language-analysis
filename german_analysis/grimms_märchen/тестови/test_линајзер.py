@@ -28,19 +28,19 @@ def test_исте_линије():
     assert ли(текст) == ['trläÄ\n', 'böÖba lanßüÜ\n', 'meh']
 
 
-# def test_линија_крај():
-#     текст = 'trläÄ\n'
-#     assert ли(текст) == [текст]
+def test_линија_крај():
+    текст = 'trläÄ\n'
+    assert ли(текст) == [текст]
 
 
-# def test_линија_почетак():
-#     текст = '\ntrläÄ'
-#     assert ли(текст) == ['\n', 'trläÄ']
+def test_линија_почетак():
+    текст = '\ntrläÄ'
+    assert ли(текст) == ['\n', 'trläÄ']
 
 
-# def test_крајеви_реченица():
-#     текст = 'Dobar dan.Kako ste?Ja super!Hvala'
-#     assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
+def test_крајеви_реченица():
+    текст = 'Dobar dan.Kako ste?Ja super!Hvala'
+    assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
 
 
 # def test_уклањање_почетног_спејса():
