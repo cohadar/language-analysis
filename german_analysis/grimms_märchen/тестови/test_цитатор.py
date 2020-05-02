@@ -14,28 +14,53 @@ def ц(текст):
 
 
 def test_цитат0():
-    текст = 'sagte: „Damit“'
+    текст = 'sagte: „Damit“ ist'
     assert ц(текст) == текст
 
 
-def test_цитат1():
+def test_на_крају_текста1():
     текст = 'sagte: "Damit"'
     assert ц(текст) == 'sagte: „Damit“'
 
 
-def test_цитат2():
-    текст = ': "der Hund"'
-    assert ц(текст) == ': „der Hund“'
+def test_на_крају_текста2():
+    текст = '"der Hund"'
+    assert ц(текст) == '„der Hund“'
 
 
-def test_цитат3():
+def test_на_крају_текста3():
+    текст = '"zwiter lied."'
+    assert ц(текст) == '„zwiter lied.“'
+
+
+def test_затворен_цитат1():
     текст = '"spazieren gehen." Da'
     assert ц(текст) == '„spazieren gehen.“ Da'
 
 
-def test_цитат4():
+def test_затворен_цитат2():
     текст = '"spazieren gehen," Da'
     assert ц(текст) == '„spazieren gehen,“ Da'
+
+
+def test_затворен_цитат3():
+    текст = '"erste lied."\n"zwiter lied."'
+    assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
+
+
+def test_затворен_цитат4():
+    текст = '"Wer war das?" - ich.'
+    assert ц(текст) == '„Wer war das?“ - ich.'
+
+
+def test_затворен_цитат5():
+    текст = '"Das soll dir schlecht bekommen." - Meh'
+    assert ц(текст) == '„Das soll dir schlecht bekommen.“ - Meh'
+
+
+def test_на_почетку_текста():
+    текст = '"Hallo Leute"'
+    assert ц(текст) == '„Hallo Leute“'
 
 
 def test_цитат5():
@@ -43,9 +68,6 @@ def test_цитат5():
     assert ц(текст) == 'sagte:\n„Hallo, Mark“'
 
 
-def test_цитат7():
-    текст = '"erste lied."\n"zwiter lied."'
-    assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
 
 
 def test_цитат8():
@@ -53,9 +75,6 @@ def test_цитат8():
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
 
 
-def test_цитат9():
-    текст = '"Wer war das?" - ich.'
-    assert ц(текст) == '„Wer war das?“ - ich.'
 
 
 def test_цитат10():
@@ -67,8 +86,4 @@ def test_цитат11():
     текст = 'sich stehen. "Wie kannst"'
     assert ц(текст) == 'sich stehen. „Wie kannst“'
 
-
-def test_цитат12():
-    текст = '"Das soll dir schlecht bekommen." - Meh'
-    assert ц(текст) == '„Das soll dir schlecht bekommen.“ - Meh'
 
