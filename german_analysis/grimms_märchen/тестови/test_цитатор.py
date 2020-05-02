@@ -73,6 +73,11 @@ def test_затворен_цитат8():
     assert ц(текст) == '„Wie lauten die drei Fragen?“ Der König sagte'
 
 
+def test_затворен_цитат9():
+    текст = '"Ewigkeit vorbei."\n\n'
+    assert ц(текст) == '„Ewigkeit vorbei.“\n\n'
+
+
 def test_на_почетку_текста():
     текст = '"Hallo Leute"'
     assert ц(текст) == '„Hallo Leute“'
