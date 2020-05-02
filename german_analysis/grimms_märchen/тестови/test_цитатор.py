@@ -98,9 +98,14 @@ def test_након_црте2():
     assert ц(текст) == '„Augenblick bei mir.“ - „Ach du“'
 
 
-def test_након_тачке():
+def test_након_тачке1():
     текст = 'sich stehen. "Wie kannst"'
     assert ц(текст) == 'sich stehen. „Wie kannst“'
+
+
+def test_након_тачке2():
+    текст = 'Blicken ansah. "Aha," rief sie'
+    assert ц(текст) == 'Blicken ansah. „Aha,“ rief sie'
 
 
 def test_нова_линија1():
