@@ -70,13 +70,12 @@ def test_директан_говор_ломљење_двотачке():
 
 def test_директан_говор():
     текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
-    # assert ли(текст) == ['der sprach:\n', '\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
     assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
 
 
-# def test_директан_говор_ломи_линију_након():
-#     текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
-#     assert л(текст) == 'zum Hunde:\n„Da bleib stehen,“\n„ich will dir unterpicken,“\nsetzte sich auf den Laden'
+def test_директан_говор_ломи_линију_након():
+    текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
+    assert ли(текст) == ['zum Hunde:\n', '„Da bleib stehen,“\n', '„ich will dir unterpicken,“\n', 'setzte sich auf den Laden']
 
 
 # def test_директан_говор_ломи_линију_са_узвиком():
