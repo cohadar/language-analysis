@@ -108,6 +108,11 @@ def test_након_двотачке4():
     assert ц(текст) == 'haben und sprach: „ Nun, weißt du“'
 
 
+def test_спојена_двотачка1():
+    текст = 'nochmals und sagte:"Wenn ich"'
+    assert ц(текст) == 'nochmals und sagte:„Wenn ich“'
+
+
 def test_након_зареза1():
     текст = 'sagte der Hirt, "Hello Mark"'
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
