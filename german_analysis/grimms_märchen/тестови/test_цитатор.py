@@ -98,6 +98,11 @@ def test_након_двотачке3():
     assert ц(текст) == 'sprach zum Schneiderlein: „Mein, beiß“'
 
 
+def test_након_двотачке4():
+    текст = 'haben und sprach: " Nun, weißt du"'
+    assert ц(текст) == 'haben und sprach: „ Nun, weißt du“'
+
+
 def test_након_зареза():
     текст = 'sagte der Hirt, "Hello Mark"'
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
