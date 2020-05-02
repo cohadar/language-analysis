@@ -68,4 +68,7 @@ def test_цитат11():
     assert ц(текст) == 'sich stehen. „Wie kannst“'
 
 
+def test_цитат12():
+    текст = '"Das soll dir schlecht bekommen." - Meh'
+    assert ц(текст) == '„Das soll dir schlecht bekommen.“ - Meh'
 
