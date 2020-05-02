@@ -23,3 +23,7 @@ def test_цитат1():
     assert ц(текст) == 'sagte: „Damit“'
 
 
+def test_цитат2():
+    текст = ': "der Hund"'
+    assert ц(текст) == ': „der Hund“'
+
