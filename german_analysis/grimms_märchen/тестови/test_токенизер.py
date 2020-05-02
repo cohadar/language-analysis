@@ -49,6 +49,7 @@ def test_наводници1():
 
 
 def test_додато_ес():
-    текст = "Wenn's Ist's"
-    assert тт(текст) == ["Wenn's", ' ', "Ist's", '']
+    текст = "Wenn's Ist's\nEr's"
+    assert тт(текст) == ["Wenn's", ' ', "Ist's", '\n', "Er's", '']
+
 
