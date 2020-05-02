@@ -78,6 +78,11 @@ def test_затворен_цитат9():
     assert ц(текст) == '„Ewigkeit vorbei.“\n\n'
 
 
+def test_затворен_цитат10():
+    текст = '"Das sollst du alles haben" sprach das Männchen'
+    assert ц(текст) == '„Das sollst du alles haben“ sprach das Männchen'
+
+
 def test_на_почетку_текста():
     текст = '"Hallo Leute"'
     assert ц(текст) == '„Hallo Leute“'
@@ -103,9 +108,14 @@ def test_након_двотачке4():
     assert ц(текст) == 'haben und sprach: „ Nun, weißt du“'
 
 
-def test_након_зареза():
+def test_након_зареза1():
     текст = 'sagte der Hirt, "Hello Mark"'
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
+
+
+def test_након_зареза2():
+    текст = 'der Junge, " die Bank ist mein."'
+    assert ц(текст) == 'der Junge, „ die Bank ist mein.“'
 
 
 def test_након_црте1():
