@@ -63,6 +63,11 @@ def test_затворен_цитат6():
     assert ц(текст) == '„Laß dein Haar herunter.“\nso ließ sie die Haare hinab.'
 
 
+def test_затворен_цитат7():
+    текст = '"doch betrogen!" In ihrem'
+    assert ц(текст) == '„doch betrogen!“ In ihrem'
+
+
 def test_на_почетку_текста():
     текст = '"Hallo Leute"'
     assert ц(текст) == '„Hallo Leute“'
