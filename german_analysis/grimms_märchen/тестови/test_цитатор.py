@@ -133,3 +133,8 @@ def test_нова_линија2():
     assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
 
 
+def test_нова_линија3():
+    текст = 'und sprach:\n"Mut heruet na myne Maegt"'
+    assert ц(текст) == 'und sprach:\n„Mut heruet na myne Maegt“'
+
+
