@@ -9,6 +9,7 @@ def test_почетно():
     assert с.претходно == -2
     assert с.тренутно == -2
     assert с.следеће == 't'
+    assert с.за_два == 'r'
     assert с.индекс == -1
 
 
@@ -20,6 +21,7 @@ def test_напред():
     assert с.претходно == -2
     assert с.тренутно == 't'
     assert с.следеће == 'r'
+    assert с.за_два == 'l'
     assert с.индекс == 0
 
 
@@ -31,6 +33,7 @@ def test_напред2():
     assert с.претходно == 't'
     assert с.тренутно == 'r'
     assert с.следеће == 'l'
+    assert с.за_два == 'a'
     assert с.индекс == 1
 
 
@@ -44,6 +47,7 @@ def test_до_краја():
     assert с.претходно == 'l'
     assert с.тренутно == 'a'
     assert с.следеће == -1
+    assert с.за_два == -1
     assert с.индекс == 3
 
 

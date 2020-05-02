@@ -13,6 +13,11 @@ def ц(текст):
     return str(цит)
 
 
+def test_цитат0():
+    текст = 'sagte: „Damit“'
+    assert ц(текст) == текст
+
+
 def test_цитат1():
     текст = 'sagte: "Damit"'
     assert ц(текст) == 'sagte: „Damit“'
