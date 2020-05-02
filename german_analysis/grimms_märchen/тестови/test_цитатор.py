@@ -58,3 +58,8 @@ def test_цитат9():
     assert ц(текст) == '„Wer war das?“ - ich.'
 
 
+def test_цитат10():
+    текст = 'Mann - "Ach," antwortete sie'
+    assert ц(текст) == 'Mann - „Ach,“ antwortete sie'
+
+
