@@ -37,3 +37,8 @@ def test_цитат4():
     текст = '"spazieren gehen," Da'
     assert ц(текст) == '„spazieren gehen,“ Da'
 
+
+def test_цитат5():
+    текст = 'sagte:\n"Hallo, Mark"'
+    assert ц(текст) == 'sagte:\n„Hallo, Mark“'
+
