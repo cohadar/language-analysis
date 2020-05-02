@@ -68,10 +68,10 @@ def test_директан_говор_ломљење_двотачке():
     assert ли(текст) == ['„Dobar dan:“\n', '„Kako ste?“']
 
 
-# def test_директан_говор():
-#     текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
-#     # assert л(текст) == 'der sprach:\n„Bruder Hund.“\n„warum bist du!“\n„so traurig?“'
-#     assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
+def test_директан_говор():
+    текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
+    # assert ли(текст) == ['der sprach:\n', '\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
+    assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
 
 
 # def test_директан_говор_ломи_линију_након():
