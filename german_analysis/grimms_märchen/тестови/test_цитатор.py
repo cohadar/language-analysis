@@ -128,6 +128,11 @@ def test_након_тачке2():
     assert ц(текст) == 'Blicken ansah. „Aha,“ rief sie'
 
 
+def test_након_тачке3():
+    текст = 'und fiel vor ihn hin. "Heda!"'
+    assert ц(текст) == 'und fiel vor ihn hin. „Heda!“'
+
+
 def test_након_речи():
     текст = 'und sprach "meine Stiefmutter"'
     assert ц(текст) == 'und sprach „meine Stiefmutter“'
