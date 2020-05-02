@@ -68,6 +68,11 @@ def test_затворен_цитат7():
     assert ц(текст) == '„doch betrogen!“ In ihrem'
 
 
+def test_затворен_цитат8():
+    текст = '"Wie lauten die drei Fragen?" Der König sagte'
+    assert ц(текст) == '„Wie lauten die drei Fragen?“ Der König sagte'
+
+
 def test_на_почетку_текста():
     текст = '"Hallo Leute"'
     assert ц(текст) == '„Hallo Leute“'
