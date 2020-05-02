@@ -13,14 +13,9 @@ def ц(текст):
     return str(цит)
 
 
-def test_цитат0():
-    текст = 'sagte: „Damit“ ist'
-    assert ц(текст) == текст
-
-
 def test_на_крају_текста1():
-    текст = 'sagte: "Damit"'
-    assert ц(текст) == 'sagte: „Damit“'
+    текст = '"Deine Mutter"'
+    assert ц(текст) == '„Deine Mutter“'
 
 
 def test_на_крају_текста2():
@@ -63,27 +58,43 @@ def test_на_почетку_текста():
     assert ц(текст) == '„Hallo Leute“'
 
 
-def test_цитат5():
-    текст = 'sagte:\n"Hallo, Mark"'
-    assert ц(текст) == 'sagte:\n„Hallo, Mark“'
+def test_након_двотачке1():
+    текст = 'sagte: "Damit"'
+    assert ц(текст) == 'sagte: „Damit“'
 
 
+def test_након_двотачке2():
+    текст = 'sagte: "Damit ich"'
+    assert ц(текст) == 'sagte: „Damit ich“'
 
 
-def test_цитат8():
+def test_након_зареза():
     текст = 'sagte der Hirt, "Hello Mark"'
     assert ц(текст) == 'sagte der Hirt, „Hello Mark“'
 
 
-
-
-def test_цитат10():
+def test_након_црте():
     текст = 'Mann - "Ach," antwortete sie'
     assert ц(текст) == 'Mann - „Ach,“ antwortete sie'
 
 
-def test_цитат11():
+def test_након_тачке():
     текст = 'sich stehen. "Wie kannst"'
     assert ц(текст) == 'sich stehen. „Wie kannst“'
+
+
+def test_нова_линија1():
+    текст = 'sagte:\n"Hallo, Mark"'
+    assert ц(текст) == 'sagte:\n„Hallo, Mark“'
+
+
+def test_нова_линија2():
+    текст = '"erste lied."\n"zwiter lied."'
+    assert ц(текст) == '„erste lied.“\n„zwiter lied.“'
+
+
+def test_већ_цитирано():
+    текст = 'sagte: „Damit“ ist'
+    assert ц(текст) == текст
 
 
