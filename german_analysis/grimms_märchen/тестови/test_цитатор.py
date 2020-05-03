@@ -13,6 +13,11 @@ def ц(текст):
     return str(цит)
 
 
+def test_даш_трансформација():
+    текст = ' - '
+    assert ц(текст) == ' – '
+
+
 def test_већ_цитирано():
     текст = 'sagte: „Damit“ ist'
     assert ц(текст) == текст
@@ -50,12 +55,12 @@ def test_затворен_цитат3():
 
 def test_затворен_цитат4():
     текст = '"Wer war das?" - ich.'
-    assert ц(текст) == '„Wer war das?“ - ich.'
+    assert ц(текст) == '„Wer war das?“ – ich.'
 
 
 def test_затворен_цитат5():
     текст = '"Das soll dir schlecht bekommen." - Meh'
-    assert ц(текст) == '„Das soll dir schlecht bekommen.“ - Meh'
+    assert ц(текст) == '„Das soll dir schlecht bekommen.“ – Meh'
 
 
 def test_затворен_цитат6():
@@ -125,12 +130,12 @@ def test_након_зареза2():
 
 def test_након_црте1():
     текст = 'Mann - "Ach," antwortete sie'
-    assert ц(текст) == 'Mann - „Ach,“ antwortete sie'
+    assert ц(текст) == 'Mann – „Ach,“ antwortete sie'
 
 
 def test_након_црте2():
     текст = '"Augenblick bei mir." - "Ach du"'
-    assert ц(текст) == '„Augenblick bei mir.“ - „Ach du“'
+    assert ц(текст) == '„Augenblick bei mir.“ – „Ach du“'
 
 
 def test_након_тачке1():
