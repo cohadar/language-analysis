@@ -18,6 +18,21 @@ def test_даш_трансформација():
     assert ц(текст) == ' – '
 
 
+def test_црта_на_крају_речи1():
+    текст = 'vier- bis fünfhundertfältig'
+    assert ц(текст) == 'vier- bis fünfhundertfältig'
+
+
+def test_црта_на_крају_речи2():
+    текст = 'hin- und hergehen'
+    assert ц(текст) == 'hin- und hergehen'
+
+
+def test_црта_на_крају_речи3():
+    текст = 'fünfzig- oder sechzigfältig'
+    assert ц(текст) == 'fünfzig- oder sechzigfältig'
+
+
 def test_већ_цитирано():
     текст = 'sagte: „Damit“ ist'
     assert ц(текст) == текст

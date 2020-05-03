@@ -53,3 +53,7 @@ def test_додато_ес():
     assert тт(текст) == ["Wenn's", ' ', "Ist's", '\n', "Er's", '']
 
 
+def test_црта_на_крају_речи():
+    текст = 'vier- bis fünfhundertfältig'
+    assert тт(текст) == ['vier', '-', ' ', 'bis', ' ', 'fünfhundertfältig', '']
+
