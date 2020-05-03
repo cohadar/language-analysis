@@ -43,6 +43,29 @@ def test_најчешћи_наводници():
     assert ц(текст) == 'sagte: „Hallo Mann.“ Er'
 
 
+def test_најчешћи_затворено_зарез():
+    текст = 'sagte: "Hallo Mann," Er'
+    assert ц(текст) == 'sagte: „Hallo Mann,“ Er'
+
+
+def test_најчешћи_затворено_хип():
+    текст = 'sagte: "Hallo Mann," -'
+    assert ц(текст) == 'sagte: „Hallo Mann,“ -'
+
+
+def test_најчешћи_затворено_узвик():
+    текст = 'sagte: "Hallo Mann!" Er'
+    assert ц(текст) == 'sagte: „Hallo Mann!“ Er'
+
+
+def test_најчешћи_затворено_питање():
+    текст = 'sagte: "Hallo Mann?" Er'
+    assert ц(текст) == 'sagte: „Hallo Mann?“ Er'
+
+
+def test_најчешћи_затворено_питање_хип():
+    текст = 'sagte: "Hallo Mann?" -'
+    assert ц(текст) == 'sagte: „Hallo Mann?“ -'
 
 # def test_даш_трансформација2():
 #     текст = '"dir geben?" -"Sie braucht"'
