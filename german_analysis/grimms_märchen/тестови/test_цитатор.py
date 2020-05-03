@@ -78,7 +78,7 @@ def test_затворен_цитат9():
     assert ц(текст) == '„Ewigkeit vorbei.“\n\n'
 
 
-def test_затворен_цитат10():
+def test_затворен_сумњив1():
     текст = '"Das sollst du alles haben" sprach das Männchen'
     assert ц(текст) == '„Das sollst du alles haben“ sprach das Männchen'
 
