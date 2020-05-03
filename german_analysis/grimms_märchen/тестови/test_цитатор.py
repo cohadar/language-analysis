@@ -18,6 +18,11 @@ def test_даш_трансформација():
     assert ц(текст) == ' – '
 
 
+def test_даш_трансформација2():
+    текст = '"dir geben?" -"Sie braucht"'
+    assert ц(текст) == '„dir geben?“ –„Sie braucht“'
+
+
 def test_црта_на_крају_речи1():
     текст = 'vier- bis fünfhundertfältig'
     assert ц(текст) == 'vier- bis fünfhundertfältig'
