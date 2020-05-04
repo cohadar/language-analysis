@@ -145,6 +145,11 @@ def test_отварање_након_интерпункције7():
     assert ц(текст) == 'dann. „Hallo, Mann.“ Er'
 
 
+def test_отварање_након_интерпункције8():
+    текст = 'sagte: "Hallo! Mann." Er'
+    assert ц(текст) == 'sagte: „Hallo! Mann.“ Er'
+
+
 def test_отварање_након_нл1():
     текст = 'sagte: "Hallo Mann."\n"Er '
     assert ц(текст) == 'sagte: „Hallo Mann.“\n„Er '
