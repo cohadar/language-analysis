@@ -63,9 +63,27 @@ def test_најчешћи_затворено_питање():
     assert ц(текст) == 'sagte: „Hallo Mann?“ Er'
 
 
-def test_најчешћи_затворено_питање_хип():
+def test_најчешћи_затворено_питање_минус():
     текст = 'sagte: "Hallo Mann?" -'
     assert ц(текст) == 'sagte: „Hallo Mann?“ -'
+
+
+def test_најчешћи_затворено_питање_хип():
+    текст = 'sagte: "Hallo Mann?" –'
+    assert ц(текст) == 'sagte: „Hallo Mann?“ –'
+
+
+def test_сумњиво_ал_ради_затварање():
+    текст = 'sagte: "Hallo Mann " Er'
+    assert ц(текст) == 'sagte: „Hallo Mann “ Er'
+
+
+def test_личи_на_затварање_а_није():
+    текст = 'Und Gretel sagte:" Er'
+    with pytest.raises(ЦитатГрешка) as грешка:
+        ц(текст)
+    assert грешка.value.args[0] == 'џ:" џ'
+
 
 # def test_даш_трансформација2():
 #     текст = '"dir geben?" -"Sie braucht"'
