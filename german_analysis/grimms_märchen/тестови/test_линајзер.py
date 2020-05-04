@@ -97,3 +97,8 @@ def test_директан_говор_тачка_ломи_јаче():
     текст = '"trla baba lan." da joj prodje dan'
     assert ли(текст) == ['„trla baba lan.“\n', 'da joj prodje dan']
 
+
+def test_не_раздвајај_залепљену_интерпункцију():
+    текст = 'trla baba lan.!? da joj prodje dan'
+    assert ли(текст) == ['trla baba lan.!?\n', 'da joj prodje dan']
+

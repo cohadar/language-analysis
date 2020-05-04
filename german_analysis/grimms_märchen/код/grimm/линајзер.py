@@ -70,25 +70,15 @@ class Линајзер():
             бре.директан_говор = True
             return
         if к1 in ПРЕЛОМИ:
-            if к2 in '“\n':
-                бре.л1.append(т)
-            else:
-                бре.л1.append(т)
+            бре.л1.append(т)
+            if к2 not in ПРЕЛОМИ + '“\n':
                 бре.додај_линију(True)
             return
         if к1 == '“':
-            if к2 == '\n':
-                бре.додај_линију(False)
-            else:
-                бре.додај_линију(True)
+            бре.додај_линију(к2 != '\n')
             бре.директан_говор = False
             return
         бре.л1.append(т)
-        # if к1 in 'џ ':
-        #     бре.л1.append(т)
-        #     return
-        # к3 = (к1 + к2).replace('\n', '\\n')
-        # raise Exception(f"'{к3}'")
 
     def додај_линију(бре, нова_линија=True):
         assert бре.л1 is not None
