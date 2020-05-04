@@ -100,6 +100,51 @@ def test_личи_на_затварање_а_није():
     assert грешка.value.args[0] == 'џ:" џ'
 
 
+def test_отварање_након_интерпункције1():
+    текст = 'sagte: "Hallo Mann." Er'
+    assert ц(текст) == 'sagte: „Hallo Mann.“ Er'
+
+
+def test_отварање_након_интерпункције2():
+    текст = 'dann, "Hallo Mann." Er'
+    assert ц(текст) == 'dann, „Hallo Mann.“ Er'
+
+
+def test_отварање_након_интерпункције3():
+    текст = 'dann - "Hallo Mann." Er'
+    assert ц(текст) == 'dann – „Hallo Mann.“ Er'
+
+
+def test_отварање_након_интерпункције4():
+    текст = 'dann. "Hallo Mann." Er'
+    assert ц(текст) == 'dann. „Hallo Mann.“ Er'
+
+
+def test_отварање_без_интерпункције1():
+    текст = 'dann "Hallo Mann." Er'
+    assert ц(текст) == 'dann „Hallo Mann.“ Er'
+
+
+def test_отварање_без_интерпункције2():
+    текст = 'dann "Hallo, Mann." Er'
+    assert ц(текст) == 'dann „Hallo, Mann.“ Er'
+
+
+def test_отварање_након_интерпункције5():
+    текст = 'sagte: "Hallo, Mann." Er'
+    assert ц(текст) == 'sagte: „Hallo, Mann.“ Er'
+
+
+def test_отварање_након_интерпункције6():
+    текст = 'dann - "Hallo, Mann." Er'
+    assert ц(текст) == 'dann – „Hallo, Mann.“ Er'
+
+
+def test_отварање_након_интерпункције7():
+    текст = 'dann. "Hallo, Mann." Er'
+    assert ц(текст) == 'dann. „Hallo, Mann.“ Er'
+
+
 def test_отварање_након_нл1():
     текст = 'sagte: "Hallo Mann."\n"Er '
     assert ц(текст) == 'sagte: „Hallo Mann.“\n„Er '
@@ -118,5 +163,7 @@ def test_отварање_након_нл3():
 def test_отварање_након_нл4():
     текст = '\n\n"Er, ist." Sie'
     assert ц(текст) == '\n\n„Er, ist.“ Sie'
+
+
 
 
