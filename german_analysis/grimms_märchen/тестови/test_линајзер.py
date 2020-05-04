@@ -83,17 +83,17 @@ def test_директан_говор_ломи_линију_са_узвиком()
     assert ли(текст) == ['„Ach,“\n', '„ich armer Mann!“\n', 'rief er.']
 
 
-# def test_директан_говор_ломи_линију_са_питањем():
-#     текст = '"Bruder Hund, warum bist du so traurig?" Antwortete der Hund: "Ich bin hungrig."'
-#     assert л(текст) == '„Bruder Hund,“\n„warum bist du so traurig?“\nAntwortete der Hund:\n„Ich bin hungrig.“'
+def test_директан_говор_ломи_линију_са_питањем():
+    текст = '"Bruder Hund, warum bist du so traurig?" Antwortete der Hund: "Ich bin hungrig."'
+    assert ли(текст) == ['„Bruder Hund,“\n', '„warum bist du so traurig?“\n', 'Antwortete der Hund:\n', '„Ich bin hungrig.“']
 
 
-# def test_директан_говор_ломи_линију_са_тачком():
-#     текст = '"Bruder Hund, warum bist du so traurig." Antwortete der Hund: "Ich bin hungrig."'
-#     assert л(текст) == '„Bruder Hund,“\n„warum bist du so traurig.“\nAntwortete der Hund:\n„Ich bin hungrig.“'
+def test_директан_говор_ломи_линију_са_тачком():
+    текст = '"Bruder Hund, warum bist du so traurig." Antwortete der Hund: "Ich bin hungrig."'
+    assert ли(текст) == ['„Bruder Hund,“\n', '„warum bist du so traurig.“\n', 'Antwortete der Hund:\n', '„Ich bin hungrig.“']
 
 
-# def test_директан_говор_тачка_ломи_јаче():
-#     текст = '"trla baba lan." da joj prodje dan'
-#     assert л(текст) == '„trla baba lan.“\nda joj prodje dan'
+def test_директан_говор_тачка_ломи_јаче():
+    текст = '"trla baba lan." da joj prodje dan'
+    assert ли(текст) == ['„trla baba lan.“\n', 'da joj prodje dan']
 
