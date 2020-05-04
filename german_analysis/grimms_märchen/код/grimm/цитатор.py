@@ -52,6 +52,14 @@ class Цитатор:
         отворени_кодови.append(re.compile('[".:\n]\n"џ '))
         отворени_кодови.append(re.compile('[".:\n]\n"џ,'))
         отворени_кодови.append(re.compile('["]\n"џ!'))
+        отворени_кодови.append(re.compile('[:,] " џ'))
+        отворени_кодови.append(re.compile(' [-]"џ,'))
+        отворени_кодови.append(re.compile(' [-]"џ '))
+        отворени_кодови.append(re.compile('џ:"џ '))
+        отворени_кодови.append(re.compile('џ:" џ'))
+        отворени_кодови.append(re.compile(' ."џ '))
+        ЂУБРЕ = '.[ \n]"[џ].'
+        отворени_кодови.append(re.compile(ЂУБРЕ))
         for ок in отворени_кодови:
             if ок.fullmatch(код):
                 return ТОКЕН_ОТВОРЕНИ_НАВОДНИК
@@ -66,7 +74,13 @@ class Цитатор:
         затворени_кодови.append(re.compile('џ[.!?,]"\nџ'))
         затворени_кодови.append(re.compile('џ[.!?]"\n\n'))
         затворени_кодови.append(re.compile('џ[.!?]"\n"'))
-        затворени_кодови.append(re.compile(' џ" џ'))
+        затворени_кодови.append(re.compile('[!?]," џ'))
+        затворени_кодови.append(re.compile('[ "]џ"; '))
+        затворени_кодови.append(re.compile('[ "]џ" џ'))
+        затворени_кодови.append(re.compile('[.!] " џ'))
+        затворени_кодови.append(re.compile(' џ" -'))
+        ЂУБРЕ = '.[.,!‹\']"[ \n].'
+        затворени_кодови.append(re.compile(ЂУБРЕ))
         for зк in затворени_кодови:
             if зк.fullmatch(код):
                 return ТОКЕН_ЗАТВОРЕНИ_НАВОДНИК
