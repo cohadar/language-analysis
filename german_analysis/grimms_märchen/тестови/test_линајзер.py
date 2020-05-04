@@ -63,24 +63,24 @@ def test_почетни_цитат_не_ломи():
     assert ли(текст) == ['„Dobar dan!“']
 
 
-# def test_директан_говор_ломљење_двотачке():
-#     текст = '"Dobar dan: Kako ste?"'
-#     assert ли(текст) == ['„Dobar dan:“\n', '„Kako ste?“']
+def test_директан_говор_ломљење_двотачке():
+    текст = '"Dobar dan: Kako ste?"'
+    assert ли(текст) == ['„Dobar dan:“\n', '„Kako ste?“']
 
 
-# def test_директан_говор():
-#     текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
-#     assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
+def test_директан_говор():
+    текст = 'der sprach: "Bruder Hund. warum bist du! so traurig?"'
+    assert ли(текст) == ['der sprach:\n', '„Bruder Hund.“\n', '„warum bist du!“\n', '„so traurig?“']
 
 
-# def test_директан_говор_ломи_линију_након():
-#     текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
-#     assert ли(текст) == ['zum Hunde:\n', '„Da bleib stehen,“\n', '„ich will dir unterpicken,“\n', 'setzte sich auf den Laden']
+def test_директан_говор_ломи_линију_након():
+    текст = 'zum Hunde: "Da bleib stehen, ich will dir unterpicken," setzte sich auf den Laden'
+    assert ли(текст) == ['zum Hunde:\n', '„Da bleib stehen,“\n', '„ich will dir unterpicken,“\n', 'setzte sich auf den Laden']
 
 
-# def test_директан_говор_ломи_линију_са_узвиком():
-#     текст = '"Ach, ich armer Mann!" rief er.'
-#     assert л(текст) == '„Ach,“\n„ich armer Mann!“\nrief er.'
+def test_директан_говор_ломи_линију_са_узвиком():
+    текст = '"Ach, ich armer Mann!" rief er.'
+    assert ли(текст) == ['„Ach,“\n', '„ich armer Mann!“\n', 'rief er.']
 
 
 # def test_директан_говор_ломи_линију_са_питањем():
