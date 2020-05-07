@@ -80,7 +80,7 @@ def test_директан_говор_ломи_линију_након():
 
 def test_директан_говор_ломи_линију_са_узвиком():
     текст = '"Ach, ich armer Mann!" rief er.'
-    assert ли(текст) == ['„Ach,“\n', '„ich armer Mann!“\n', 'rief er.']
+    assert ли(текст) == ['„Ach, ich armer Mann!“\n', 'rief er.']
 
 
 def test_директан_говор_ломи_линију_са_питањем():
@@ -127,10 +127,18 @@ def test_црта_између_наводника():
     текст = 'Da rief der Fuhrmann: „Ach, ich armer Mann!“ - „Noch nicht arm genug,“ antwortete der Sperling.'
     assert ли(текст) == [
         'Da rief der Fuhrmann:\n',
-        '„Ach,“\n',
-        '„ich armer Mann!“\n',
+        '„Ach, ich armer Mann!“\n',
         '–\n',
         '„Noch nicht arm genug,“\n',
         'antwortete der Sperling.'
     ]
+
+
+def test_не_ломи_зарез_у_цитату_после_једне_речи_на_почетку():
+    текст = '"Fuhrmann, tu\'s nicht, oder ich mache dich arm!"'
+    assert ли(текст) == [
+        '„Fuhrmann, tu\'s nicht,“\n',
+        '„oder ich mache dich arm!“'
+    ]
+
 
