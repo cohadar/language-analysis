@@ -40,12 +40,12 @@ def test_линија_почетак():
 
 def test_крајеви_реченица():
     текст = 'Dobar dan.Kako ste?Ja super!Hvala'
-    assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
+    assert ли(текст) == ['Dobar dan.\n\n', 'Kako ste?\n\n', 'Ja super!\n\n', 'Hvala']
 
 
 def test_уклањање_почетног_спејса():
     текст = 'Dobar dan. Kako ste? Ja super! Hvala'
-    assert ли(текст) == ['Dobar dan.\n', 'Kako ste?\n', 'Ja super!\n', 'Hvala']
+    assert ли(текст) == ['Dobar dan.\n\n', 'Kako ste?\n\n', 'Ja super!\n\n', 'Hvala']
 
 
 def test_ломљење_зареза():
@@ -100,5 +100,26 @@ def test_директан_говор_тачка_ломи_јаче():
 
 def test_не_раздвајај_залепљену_интерпункцију():
     текст = 'trla baba lan.!? da joj prodje dan'
-    assert ли(текст) == ['trla baba lan.!?\n', 'da joj prodje dan']
+    assert ли(текст) == ['trla baba lan.!?\n\n', 'da joj prodje dan']
+
+
+def test_крај_реченице_дупла_нова1():
+    текст = 'trla baba lan. da joj prodje dan'
+    assert ли(текст) == ['trla baba lan.\n\n', 'da joj prodje dan']
+
+
+def test_крај_реченице_дупла_нова2():
+    текст = 'trla baba lan! da joj prodje dan'
+    assert ли(текст) == ['trla baba lan!\n\n', 'da joj prodje dan']
+
+
+def test_крај_реченице_дупла_нова3():
+    текст = 'trla baba lan? da joj prodje dan'
+    assert ли(текст) == ['trla baba lan?\n\n', 'da joj prodje dan']
+
+
+def test_крај_реченице_није_дупла_у_наводницима():
+    текст = 'Er: "trla baba lan. da joj prodje dan."'
+    assert ли(текст) == ['Er:\n', '„trla baba lan.“\n', '„da joj prodje dan.“']
+
 
