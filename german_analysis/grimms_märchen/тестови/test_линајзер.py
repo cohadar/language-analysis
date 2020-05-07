@@ -123,3 +123,14 @@ def test_крај_реченице_није_дупла_у_наводницима
     assert ли(текст) == ['Er:\n', '„trla baba lan.“\n', '„da joj prodje dan.“']
 
 
+def test_црта_између_наводника():
+    текст = 'Da rief der Fuhrmann: „Ach, ich armer Mann!“ - „Noch nicht arm genug,“ antwortete der Sperling.'
+    assert ли(текст) == [
+        'Da rief der Fuhrmann:\n',
+        '„Ach,“\n',
+        '„ich armer Mann!“\n',
+        '–\n',
+        '„Noch nicht arm genug,“\n',
+        'antwortete der Sperling.'
+    ]
+
